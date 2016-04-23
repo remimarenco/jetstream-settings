@@ -14,11 +14,18 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" timestamp="1461375926862">
-        <mark key="'" line="50" column="0" />
-      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/run_unit_tests.html" timestamp="1461364825236">
         <mark key="'" line="75" column="0" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/todotica/api_habitica.py" timestamp="1461425579379" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/manage_db.sh" timestamp="1461364761470">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="7" column="9" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" timestamp="1461375926862">
+        <mark key="'" line="50" column="0" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/.gitignore" timestamp="1461375392991">
         <mark key="'" line="66" column="21" />
@@ -28,19 +35,14 @@
         <mark key="." line="130" column="19" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/todotica/Task.py" timestamp="1461425835072" />
-      <file name="$USER_HOME$/Google_Drive/Dev/todotica/api_habitica.py" timestamp="1461425579379" />
-      <file name="$USER_HOME$/Google_Drive/Dev/todotica/requirements.txt" timestamp="1461426249849">
-        <mark key="[" line="0" column="17" />
-        <mark key="]" line="0" column="13" />
-        <mark key="^" line="0" column="13" />
-        <mark key="." line="0" column="13" />
+      <file name="$USER_HOME$/Google_Drive/Dev/todotica/requirements.txt" timestamp="1461427229646">
+        <mark key="a" line="1" column="0" />
+        <mark key="[" line="0" column="22" />
+        <mark key="]" line="1" column="10" />
+        <mark key="^" line="1" column="10" />
+        <mark key="." line="1" column="10" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/manage_db.sh" timestamp="1461364761470">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="7" column="9" />
-      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/todotica/file_tasks_template.mako" timestamp="1461427206660" />
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tool_list.py" timestamp="1461363587975">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
