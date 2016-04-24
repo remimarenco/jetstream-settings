@@ -6,17 +6,6 @@
       <file name="/start_script.py" timestamp="1461363640213">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1461369485396">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/todotica/config.py.sample" timestamp="1461430909924">
-        <mark key="[" line="0" column="36" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/todotica/main.py" timestamp="1461432423875">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-      </file>
       <file name="/Python Console" timestamp="1461487242684">
         <mark key="[" line="0" column="0" />
       </file>
@@ -28,8 +17,29 @@
         <mark key="." line="23" column="16" />
         <mark key="^" line="23" column="16" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/run_unit_tests.html" timestamp="1461364825236">
-        <mark key="'" line="75" column="0" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/manage_db.sh" timestamp="1461364761470">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="7" column="9" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy161/CODE_OF_CONDUCT.md" timestamp="1461497506755" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy161/paster.log" timestamp="1461492087056">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/todotica/file_tasks_template.mako" timestamp="1461427206660" />
+      <file name="/Dummy.txt" timestamp="1461369485396">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/todotica/config.py.sample" timestamp="1461430909924">
+        <mark key="[" line="0" column="36" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/todotica/main.py" timestamp="1461432423875">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/todotica/api_habitica.py" timestamp="1461433393380">
         <mark key="[" line="26" column="0" />
@@ -44,20 +54,20 @@
         <mark key="." line="92" column="0" />
         <mark key="^" line="92" column="0" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/Bed.py" timestamp="1461516592707">
+        <mark key="[" line="0" column="17" />
+        <mark key="]" line="0" column="6" />
+        <mark key="^" line="0" column="2" />
+        <mark key="." line="0" column="2" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/todotica/README.md" timestamp="1461431619365">
         <mark key="[" line="11" column="3" />
         <mark key="]" line="11" column="2" />
         <mark key="^" line="11" column="2" />
         <mark key="." line="11" column="2" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy161/CODE_OF_CONDUCT.md" timestamp="1461497506755" />
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" timestamp="1461375926862">
         <mark key="'" line="50" column="0" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy161/paster.log" timestamp="1461492087056">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/.gitignore" timestamp="1461375392991">
         <mark key="'" line="66" column="21" />
@@ -79,12 +89,21 @@
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/todotica/file_tasks_template.mako" timestamp="1461427206660" />
       <file name="$USER_HOME$/Google_Drive/Dev/todotica/config.py" timestamp="1461433314952">
         <mark key="[" line="1" column="22" />
         <mark key="]" line="1" column="57" />
         <mark key="." line="1" column="57" />
         <mark key="^" line="1" column="57" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tool_list.py" timestamp="1461363587975">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/hubArchiveCreator.py" timestamp="1461516501485">
+        <mark key="'" line="87" column="4" />
+        <mark key="[" line="53" column="28" />
       </file>
     </filemarks>
     <jumps>
@@ -111,13 +130,16 @@
       <jump line="43" column="12" filename="$USER_HOME$/Google_Drive/Dev/galaxy161/tool_list.py" />
       <jump line="5" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy161/tool_list.py" />
       <jump line="23" column="8" filename="$USER_HOME$/Google_Drive/Dev/galaxy161/tool_list.py" />
+      <jump line="47" column="4" filename="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/hubArchiveCreator.py" />
+      <jump line="86" column="4" filename="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/hubArchiveCreator.py" />
+      <jump line="87" column="4" filename="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/hubArchiveCreator.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>toto</text>
+        <text>/usr</text>
       </register>
       <register name="-" type="4">
-        <text>toto</text>
+        <text>/usr</text>
       </register>
       <register name="/" type="4">
         <text>tool_list</text>
@@ -126,31 +148,31 @@
         <text>tool_lis</text>
       </register>
       <register name="1" type="4">
+        <text>/usr</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">cGFyc2VyLgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy1iJywgJy0tYmVkJykK</text>
+      </register>
+      <register name="4" type="4">
+        <text>c</text>
+      </register>
+      <register name="5" type="4">
+        <text>Generi</text>
+      </register>
+      <register name="6" type="4">
         <text>toto</text>
       </register>
-      <register name="2" type="4">
+      <register name="7" type="4">
         <text>limited to members</text>
       </register>
-      <register name="3" type="4">
+      <register name="8" type="4">
         <text>This</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">IyMjIFJlcG9ydGluZyBJc3N1ZXMKCklmIHlvdSBleHBlcmllbmNlIG9yIHdpdG5lc3MgdW5hY2NlcHRhYmxlIGJlaGF2aW9yLCBvciBoYXZlIGFueSBvdGhlciBjb25jZXJucywKcGxlYXNlIHJlcG9ydCBpdCBieSBjb250YWN0aW5nIERhdmUgQ2xlbWVudHMgKGNsZW1lbnRzZ2FsYXh5QGdtYWlsLmNvbSkuIFRvCnJlcG9ydCBhbiBpc3N1ZSBpbnZvbHZpbmcgRGF2ZSBDbGVtZW50cyBwbGVhc2UgZW1haWwgSmFtZXMgVGF5bG9yCihqYW1lc0B0YXlsb3JsYWIub3JnKS4gQWxsIHJlcG9ydHMgd2lsbCBiZSBoYW5kbGVkIHdpdGggZGlzY3JldGlvbi4gSW4geW91cgpyZXBvcnQgcGxlYXNlIGluY2x1ZGU6CgotIFlvdXIgY29udGFjdCBpbmZvcm1hdGlvbi4KCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">b2ZmZW5kZWQsIGl0IGlzIG91ciByZXNwb25zaWJpbGl0eSB0byBsaXN0ZW4gY2FyZWZ1bGx5IGFuZCByZXNwZWN0ZnVsbHksIGFuZCBkbwpvdXIgYmVzdCB0byByaWdodCB0aGUgd3JvbmcuCgpBbHRob3VnaCB0aGlzIGxpc3QgY2Fubm90IGJlIGV4aGF1c3RpdmUsIHdlIGV4cGxpY2l0bHkgaG9ub3IgZGl2ZXJzaXR5IGluIGFnZSwKZ2VuZGVyLCBnZW5kZXIgaWRlbnRpdHkgb3IgZXhwcmVzc2lvbiwgY3VsdHVyZSwgZXRobmljaXR5LCBsYW5ndWFnZSwgbmF0aW9uYWwKb3JpZ2luLCBwb2xpdGljYWwgYmVsaWVmcywgcHJvZmVzc2lvbiwgcmFjZSwgcmVsaWdpb24sIHNleHVhbCBvcmllbnRhdGlvbiwKc29jaW9lY29ub21pYyBzdGF0dXMsIGFuZCB0ZWNobmljYWwgYWJpbGl0eS4gV2Ugd2lsbCBub3QgdG9sZXJhdGUKZGlzY3JpbWluYXRpb24gYmFzZWQgb24gYW55IG9mIHRoZSBwcm90ZWN0ZWQgY2hhcmFjdGVyaXN0aWNzIGFib3ZlLCBpbmNsdWRpbmcKcGFydGljaXBhbnRzIHdpdGggZGlzYWJpbGl0aWVzLgoK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICB2aWV3cG9pbnQgZG9lc27igJl0IG1lYW4gdGhhdCB0aGV54oCZcmUgd3JvbmcuIERvbuKAmXQgZm9yZ2V0IHRoYXQgaXQgaXMgaHVtYW4gdG8KICBlcnIgYW5kIGJsYW1pbmcgZWFjaCBvdGhlciBkb2VzbuKAmXQgZ2V0IHVzIGFueXdoZXJlLiBJbnN0ZWFkLCBmb2N1cyBvbiBoZWxwaW5nCiAgdG8gcmVzb2x2ZSBpc3N1ZXMgYW5kIGxlYXJuaW5nIGZyb20gbWlzdGFrZXMuCgojIyMgRGl2ZXJzaXR5IFN0YXRlbWVudAoKV2UgZW5jb3VyYWdlIGV2ZXJ5b25lIHRvIHBhcnRpY2lwYXRlIGFuZCBhcmUgY29tbWl0dGVkIHRvIGJ1aWxkaW5nIGEgY29tbXVuaXR5CmZvciBhbGwuIEFsdGhvdWdoIHdlIHdpbGwgZmFpbCBhdCB0aW1lcywgd2Ugc2VlayB0byB0cmVhdCBldmVyeW9uZSBib3RoIGFzCmZhaXJseSBhbmQgZXF1YWxseSBhcyBwb3NzaWJsZS4gV2hlbmV2ZXIgYSBwYXJ0aWNpcGFudCBoYXMgbWFkZSBhIG1pc3Rha2UsIHdlCmV4cGVjdCB0aGVtIHRvIHRha2UgcmVzcG9uc2liaWxpdHkgZm9yIGl0LiBJZiBzb21lb25lIGhhcyBiZWVuIGhhcm1lZCBvcgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBVbndlbGNvbWUgc2V4dWFsIGF0dGVudGlvbiwgQWR2b2NhdGluZyBmb3IsIG9yIGVuY291cmFnaW5nLCBhbnkgb2YgdGhlIGFib3ZlCiAgYmVoYXZpb3IsIFJlcGVhdGVkIGhhcmFzc21lbnQgb2Ygb3RoZXJzLiBJbiBnZW5lcmFsLCBpZiBzb21lb25lIGFza3MgeW91IHRvCiAgc3RvcCwgdGhlbiBzdG9wLgoKKiAqKlRyeSB0byB1bmRlcnN0YW5kIHdoeSB3ZSBkaXNhZ3JlZSoqOiBEaXNhZ3JlZW1lbnRzLCBib3RoIHNvY2lhbCBhbmQKICB0ZWNobmljYWwsIGhhcHBlbiBhbGwgdGhlIHRpbWUuIEl0IGlzIGltcG9ydGFudCB0aGF0IHdlIHJlc29sdmUgZGlzYWdyZWVtZW50cwogIGFuZCBkaWZmZXJpbmcgdmlld3MgY29uc3RydWN0aXZlbHkuIFJlbWVtYmVyIHRoYXQgd2XigJlyZSBkaWZmZXJlbnQuIERpdmVyc2l0eQogIGNvbnRyaWJ1dGVzIHRvIHRoZSBzdHJlbmd0aCBvZiBvdXIgY29tbXVuaXR5LCB3aGljaCBpcyBjb21wb3NlZCBvZiBwZW9wbGUKICBmcm9tIGEgd2lkZSByYW5nZSBvZiBiYWNrZ3JvdW5kcy4gRGlmZmVyZW50IHBlb3BsZSBoYXZlIGRpZmZlcmVudAogIHBlcnNwZWN0aXZlcyBvbiBpc3N1ZXMuIEJlaW5nIHVuYWJsZSB0byB1bmRlcnN0YW5kIHdoeSBzb21lb25lIGhvbGRzIGEK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBmZWVsIHVuY29tZm9ydGFibGUgb3IgdGhyZWF0ZW5lZCBpcyBub3QgYSBwcm9kdWN0aXZlIG9uZS4KCiogKipCZSBjYXJlZnVsIGluIHRoZSB3b3JkcyB0aGF0IHdlIGNob29zZSoqOiBXZSBhcmUgYSBjb21tdW5pdHkgb2YKICBwcm9mZXNzaW9uYWxzLCBhbmQgd2UgY29uZHVjdCBvdXJzZWx2ZXMgcHJvZmVzc2lvbmFsbHkuIEJlIGtpbmQgdG8gb3RoZXJzLiBEbwogIG5vdCBpbnN1bHQgb3IgcHV0IGRvd24gb3RoZXIgcGFydGljaXBhbnRzLiBIYXJhc3NtZW50IGFuZCBvdGhlciBleGNsdXNpb25hcnkKICBiZWhhdmlvciBhcmVuJ3QgYWNjZXB0YWJsZS4gVGhpcyBpbmNsdWRlcywgYnV0IGlzIG5vdCBsaW1pdGVkIHRvOiBWaW9sZW50CiAgdGhyZWF0cyBvciBsYW5ndWFnZSBkaXJlY3RlZCBhZ2FpbnN0IGFub3RoZXIgcGVyc29uLCBEaXNjcmltaW5hdG9yeSBqb2tlcyBhbmQKICBsYW5ndWFnZSwgUG9zdGluZyBzZXh1YWxseSBleHBsaWNpdCBvciB2aW9sZW50IG1hdGVyaWFsLCBQb3N0aW5nIChvcgogIHRocmVhdGVuaW5nIHRvIHBvc3QpIG90aGVyIHBlb3BsZeKAmXMgcGVyc29uYWxseSBpZGVudGlmeWluZyBpbmZvcm1hdGlvbgogICjigJxkb3hpbmfigJ0pLCBQZXJzb25hbCBpbnN1bHRzLCBlc3BlY2lhbGx5IHRob3NlIHVzaW5nIHJhY2lzdCBvciBzZXhpc3QgdGVybXMsCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">KiAqKkJlIGNvbnNpZGVyYXRlKio6IFlvdXIgd29yayB3aWxsIGJlIHVzZWQgYnkgb3RoZXIgcGVvcGxlLCBhbmQgeW91IGluIHR1cm4KICB3aWxsIGRlcGVuZCBvbiB0aGUgd29yayBvZiBvdGhlcnMuIEFueSBkZWNpc2lvbiB5b3UgdGFrZSB3aWxsIGFmZmVjdCB1c2VycwogIGFuZCBjb2xsZWFndWVzLCBhbmQgeW91IHNob3VsZCB0YWtlIHRob3NlIGNvbnNlcXVlbmNlcyBpbnRvIGFjY291bnQgd2hlbgogIG1ha2luZyBkZWNpc2lvbnMuIFJlbWVtYmVyIHRoYXQgd2UncmUgYSB3b3JsZC13aWRlIGNvbW11bml0eSwgc28geW91IG1pZ2h0CiAgbm90IGJlIGNvbW11bmljYXRpbmcgaW4gc29tZW9uZSBlbHNlJ3MgcHJpbWFyeSBsYW5ndWFnZS4KCiogKipCZSByZXNwZWN0ZnVsKio6IE5vdCBhbGwgb2YgdXMgd2lsbCBhZ3JlZSBhbGwgdGhlIHRpbWUsIGJ1dCBkaXNhZ3JlZW1lbnQgaXMKICBubyBleGN1c2UgZm9yIHBvb3IgYmVoYXZpb3IgYW5kIHBvb3IgbWFubmVycy4gV2UgbWlnaHQgYWxsIGV4cGVyaWVuY2Ugc29tZQogIGZydXN0cmF0aW9uIG5vdyBhbmQgdGhlbiwgYnV0IHdlIGNhbm5vdCBhbGxvdyB0aGF0IGZydXN0cmF0aW9uIHRvIHR1cm4gaW50byBhCiAgcGVyc29uYWwgYXR0YWNrLiBJdOKAmXMgaW1wb3J0YW50IHRvIHJlbWVtYmVyIHRoYXQgYSBjb21tdW5pdHkgd2hlcmUgcGVvcGxlCg==</text>
+        <text encoding="base64">IyMjIFJlcG9ydGluZyBJc3N1ZXMKCklmIHlvdSBleHBlcmllbmNlIG9yIHdpdG5lc3MgdW5hY2NlcHRhYmxlIGJlaGF2aW9yLCBvciBoYXZlIGFueSBvdGhlciBjb25jZXJucywKcGxlYXNlIHJlcG9ydCBpdCBieSBjb250YWN0aW5nIERhdmUgQ2xlbWVudHMgKGNsZW1lbnRzZ2FsYXh5QGdtYWlsLmNvbSkuIFRvCnJlcG9ydCBhbiBpc3N1ZSBpbnZvbHZpbmcgRGF2ZSBDbGVtZW50cyBwbGVhc2UgZW1haWwgSmFtZXMgVGF5bG9yCihqYW1lc0B0YXlsb3JsYWIub3JnKS4gQWxsIHJlcG9ydHMgd2lsbCBiZSBoYW5kbGVkIHdpdGggZGlzY3JldGlvbi4gSW4geW91cgpyZXBvcnQgcGxlYXNlIGluY2x1ZGU6CgotIFlvdXIgY29udGFjdCBpbmZvcm1hdGlvbi4KCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
