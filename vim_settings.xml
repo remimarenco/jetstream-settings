@@ -20,6 +20,7 @@
       <file name="/Python Console" timestamp="1461487242684">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy161/lib/galaxy/datatypes/hubAssembly.py" timestamp="1461510618909" />
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy161/tool_list.py" timestamp="1461497852408">
         <mark key="'" line="23" column="8" />
         <mark key="[" line="23" column="15" />
@@ -36,12 +37,6 @@
         <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy161/README.rst" timestamp="1461492309933" />
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/manage_db.sh" timestamp="1461364761470">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="7" column="9" />
-      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy161/.gitignore" timestamp="1461497193628">
         <mark key="'" line="124" column="0" />
         <mark key="[" line="92" column="0" />
@@ -90,12 +85,6 @@
         <mark key="]" line="1" column="57" />
         <mark key="." line="1" column="57" />
         <mark key="^" line="1" column="57" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tool_list.py" timestamp="1461363587975">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="15" column="0" />
       </file>
     </filemarks>
     <jumps>
