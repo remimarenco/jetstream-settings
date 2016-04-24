@@ -41,7 +41,11 @@
         <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy161/README.rst" timestamp="1461492309933" />
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/AugustusProcess.py" timestamp="1461519093703" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/AugustusProcess.py" timestamp="1461519964979">
+        <mark key="'" line="58" column="8" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="63" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy161/.gitignore" timestamp="1461497193628">
         <mark key="'" line="124" column="0" />
         <mark key="[" line="92" column="0" />
@@ -49,10 +53,12 @@
         <mark key="." line="92" column="0" />
         <mark key="^" line="92" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/Bed.py" timestamp="1461519456742">
-        <mark key="[" line="24" column="21" />
-        <mark key="]" line="24" column="21" />
-        <mark key="." line="24" column="21" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/Bed.py" timestamp="1461520092567">
+        <mark key="'" line="67" column="17" />
+        <mark key="[" line="81" column="29" />
+        <mark key="]" line="81" column="28" />
+        <mark key="^" line="81" column="28" />
+        <mark key="." line="81" column="28" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/todotica/README.md" timestamp="1461431619365">
         <mark key="[" line="11" column="3" />
@@ -122,55 +128,75 @@
       <jump line="47" column="4" filename="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/hubArchiveCreator.py" />
       <jump line="86" column="4" filename="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/hubArchiveCreator.py" />
       <jump line="87" column="4" filename="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/hubArchiveCreator.py" />
+      <jump line="86" column="58" filename="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/AugustusProcess.py" />
+      <jump line="24" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/Bed.py" />
+      <jump line="55" column="8" filename="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/AugustusProcess.py" />
+      <jump line="2" column="8" filename="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/Bed.py" />
+      <jump line="46" column="8" filename="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/Bed.py" />
+      <jump line="28" column="16" filename="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/Bed.py" />
+      <jump line="3" column="16" filename="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/Bed.py" />
+      <jump line="17" column="7" filename="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/Bed.py" />
+      <jump line="4" column="14" filename="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/Bed.py" />
+      <jump line="34" column="8" filename="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/Bed.py" />
+      <jump line="60" column="1" filename="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/AugustusProcess.py" />
+      <jump line="57" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/AugustusProcess.py" />
+      <jump line="65" column="16" filename="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/AugustusProcess.py" />
+      <jump line="7" column="26" filename="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/AugustusProcess.py" />
+      <jump line="58" column="8" filename="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/AugustusProcess.py" />
+      <jump line="60" column="8" filename="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/Bed.py" />
+      <jump line="26" column="12" filename="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/Bed.py" />
+      <jump line="81" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/Bed.py" />
+      <jump line="73" column="7" filename="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/Bed.py" />
+      <jump line="67" column="17" filename="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/Bed.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>augustusDbia3</text>
+        <text encoding="base64">IDEy</text>
       </register>
       <register name="-" type="4">
-        <text>augustusDbia3</text>
+        <text encoding="base64">IDEy</text>
       </register>
       <register name="/" type="4">
-        <text>tool_list</text>
+        <text>twoBitFile</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBiZWRHZW5lcmljID0gQmVkKGlucHV0QmVkR2VuZXJpYywgaW5wdXRGYXN0YUZpbGUsIG91dHB1dEZpbGUsIHRvb2xEaXJlY3RvcnksIGV4dHJhX2ZpbGVzX3BhdGgsIHVjc2NfdG9vbHNfcGF0aCwgdHJhY2tIdWIpCg==</text>
+        <text encoding="base64">ICAgICAgICB0d29CaXRJbmZvRmlsZSA9IHRlbXBmaWxlLk5hbWVkVGVtcG9yYXJ5RmlsZShidWZzaXplPTApCg==</text>
       </register>
       <register name="1" type="4">
-        <text>augustusDbia3</text>
+        <text encoding="base64">IDEy</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIEJlZFRvQmlnQmVkCg==</text>
+      <register name="2" type="4">
+        <text>Augustus_dbia3</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="3" type="4">
+        <text>From AugustusProcess</text>
       </register>
-      <register name="4" type="4">
-        <text>)</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAjIFJldHVybiB0aGUgQmlnQmVkIHRyYWNrCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>/usr</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cGFyc2VyLgo=</text>
+        <text encoding="base64">ICAgICAgICBteVNwZWNpZUZvbGRlclBhdGggPSBvcy5wYXRoLmpvaW4oZXh0cmFfZmlsZXNfcGF0aCwgIm15SHViIiwgImRiaWEzIikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy1iJywgJy0tYmVkJykK</text>
+        <text encoding="base64">ZnJvbSBUd29CaXQK</text>
       </register>
       <register name="8" type="4">
         <text>c</text>
       </register>
       <register name="9" type="4">
-        <text>Generi</text>
+        <text>sortedBedFile</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>tool_list</last-search>
+      <last-search>twoBitFile</last-search>
       <last-offset />
-      <last-pattern>tool_list</last-pattern>
+      <last-pattern>twoBitFile</last-pattern>
       <last-replace>toto</last-replace>
       <last-substitute>tool_list</last-substitute>
       <last-dir>1</last-dir>
@@ -181,12 +207,14 @@
         <entry>banned</entry>
         <entry>the</entry>
         <entry>tool_list</entry>
+        <entry>mySpecie</entry>
+        <entry>twoBitFile</entry>
       </history-search>
       <history-cmd>
-        <entry>wq</entry>
         <entry>s/tool_list/toto</entry>
         <entry>s/tool_list/toto/gi</entry>
         <entry>s/tool_list/toto/gc</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
