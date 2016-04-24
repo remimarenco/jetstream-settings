@@ -17,6 +17,9 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
+      <file name="/Python Console" timestamp="1461487242684">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/run_unit_tests.html" timestamp="1461364825236">
         <mark key="'" line="75" column="0" />
       </file>
@@ -47,11 +50,11 @@
         <mark key="^" line="130" column="19" />
         <mark key="." line="130" column="19" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/todotica/Task.py" timestamp="1461486973125">
-        <mark key="[" line="14" column="35" />
-        <mark key="]" line="14" column="34" />
-        <mark key="." line="14" column="34" />
-        <mark key="^" line="14" column="34" />
+      <file name="$USER_HOME$/Google_Drive/Dev/todotica/Task.py" timestamp="1461487170384">
+        <mark key="[" line="12" column="20" />
+        <mark key="]" line="12" column="25" />
+        <mark key="." line="12" column="25" />
+        <mark key="^" line="12" column="25" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/todotica/requirements.txt" timestamp="1461430616984">
         <mark key="a" line="1" column="0" />
@@ -86,41 +89,41 @@
       <jump line="66" column="21" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/.gitignore" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
+      <register name="1" type="4">
+        <text>!=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
+      <register name="&quot;" type="4">
+        <text>!=</text>
       </register>
-      <register name="2" type="4">
-        <text>71a3bc2-e7b5-4ea8-865e-7fa59edd8ac</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBkdWVfZGF0ZSAhPSBOb25lOgogICAgICAgICAgICBwYXJzZWRfZHVlX2RhdGUgPSBwYXJzZXIucGFyc2UoZHVlX2RhdGUpCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>93374253-abfd-43ad-ba27-c420e66e259f'</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBkdWVfZGF0ZSAhPSBOb25lOgogICAgICAgICAgICBwYXJzZWRfZHVlX2RhdGUgPSBwYXJzZXIucGFyc2UoZHVlX2RhdGUpCg==</text>
       </register>
       <register name="4" type="4">
-        <text>pytho</text>
+        <text>!=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyAtIFRPRE86IENyZWF0ZSBhIGNsYXNzIFRhc2sgd2hpY2ggaGF2ZSBhbiBhZ25vc3RpYyBmb3JtYXQgKG5vdCBzcGVjaWZpYyB0byB0b2RvaXN0IG9yIGhhYml0aWNhKQo=</text>
+        <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="6" type="4">
-        <text />
+        <text>71a3bc2-e7b5-4ea8-865e-7fa59edd8ac</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">CiM=</text>
+        <text>93374253-abfd-43ad-ba27-c420e66e259f'</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50ZiAiQWN0aXZhdGluZyB2aXJ0dWFsZW52IGF0ICRHQUxBWFlfVklSVFVBTF9FTlZcbiIKICAgIC4gIiRHQUxBWFlfVklSVFVBTF9FTlYvYmluL2FjdGl2YXRlIgo=</text>
+      <register name="8" type="4">
+        <text>pytho</text>
       </register>
-      <register name="9" type="4">
-        <text>GALAXY_VIRTUAL_ENV:=.venv</text>
+      <register name="9" type="2">
+        <text encoding="base64">IyAtIFRPRE86IENyZWF0ZSBhIGNsYXNzIFRhc2sgd2hpY2ggaGF2ZSBhbiBhZ25vc3RpYyBmb3JtYXQgKG5vdCBzcGVjaWZpYyB0byB0b2RvaXN0IG9yIGhhYml0aWNhKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>71a3bc2-e7b5-4ea8-865e-7fa59edd8ac</text>
+        <text>!=</text>
       </register>
     </registers>
     <search>
