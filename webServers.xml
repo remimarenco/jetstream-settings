@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ce963c32-dc7c-42ec-aee4-9ac076515d94" name="Copy of project-level server 'ColonialOne.24'" url="http://161.253.199.24">
+        <fileTransfer host="161.253.199.24" port="22" privateKey="$USER_HOME$/.ssh/id_dsa" rootFolder="/home/svc_galaxy/remi/galaxy" accessType="SFTP" passphrase="dfc3dfd9dfc6dfcbdfc4dfcedfcfdfc3dfd9dfc7dfd3dfcedfc5dfcd" username="svc_galaxy" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
