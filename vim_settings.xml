@@ -44,7 +44,7 @@
         <mark key="." line="92" column="0" />
         <mark key="^" line="92" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/Bed.py" timestamp="1461533253933">
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/Bed.py" timestamp="1461542876969">
         <mark key="'" line="67" column="17" />
         <mark key="[" line="81" column="29" />
         <mark key="]" line="81" column="28" />
@@ -91,10 +91,12 @@
         <mark key="." line="1" column="57" />
         <mark key="^" line="1" column="57" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/hubArchiveCreator.py" timestamp="1461516966799">
-        <mark key="'" line="87" column="4" />
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="75" column="129" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/hubArchiveCreator.py" timestamp="1461543256650">
+        <mark key="'" line="38" column="23" />
+        <mark key="[" line="15" column="15" />
+        <mark key="]" line="61" column="23" />
+        <mark key="^" line="61" column="23" />
+        <mark key="." line="61" column="23" />
       </file>
     </filemarks>
     <jumps>
@@ -144,6 +146,8 @@
       <jump line="81" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/Bed.py" />
       <jump line="73" column="7" filename="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/Bed.py" />
       <jump line="67" column="17" filename="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/Bed.py" />
+      <jump line="75" column="18" filename="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/hubArchiveCreator.py" />
+      <jump line="38" column="23" filename="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/hubArchiveCreator.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
