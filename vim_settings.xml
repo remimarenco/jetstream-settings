@@ -20,6 +20,12 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1461543690549">
+        <mark key="[" line="31" column="65" />
+        <mark key="]" line="32" column="51" />
+        <mark key="." line="32" column="51" />
+        <mark key="^" line="32" column="51" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy161/tool_list.py" timestamp="1461497852408">
         <mark key="'" line="23" column="8" />
         <mark key="[" line="23" column="15" />
@@ -91,12 +97,12 @@
         <mark key="." line="1" column="57" />
         <mark key="^" line="1" column="57" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/hubArchiveCreator.py" timestamp="1461543256650">
-        <mark key="'" line="38" column="23" />
-        <mark key="[" line="15" column="15" />
-        <mark key="]" line="61" column="23" />
-        <mark key="^" line="61" column="23" />
-        <mark key="." line="61" column="23" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/hubArchiveCreator.py" timestamp="1461543714032">
+        <mark key="'" line="59" column="8" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="18" />
+        <mark key="^" line="15" column="18" />
+        <mark key="." line="15" column="18" />
       </file>
     </filemarks>
     <jumps>
@@ -148,10 +154,11 @@
       <jump line="67" column="17" filename="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/Bed.py" />
       <jump line="75" column="18" filename="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/hubArchiveCreator.py" />
       <jump line="38" column="23" filename="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/hubArchiveCreator.py" />
+      <jump line="59" column="8" filename="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/hubArchiveCreator.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IDEy</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8cmVxdWlyZW1lbnQgdHlwZT0icGFja2FnZSIgdmVyc2lvbj0iMC44LjcuMSI+Z2ZmdXRpbHM8L3JlcXVpcmVtZW50Pgo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IDEy</text>
@@ -162,32 +169,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0d29CaXRJbmZvRmlsZSA9IHRlbXBmaWxlLk5hbWVkVGVtcG9yYXJ5RmlsZShidWZzaXplPTApCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IDEy</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICA8cmVxdWlyZW1lbnQgdHlwZT0icGFja2FnZSIgdmVyc2lvbj0iMC44LjcuMSI+Z2ZmdXRpbHM8L3JlcXVpcmVtZW50Pgo=</text>
       </register>
       <register name="2" type="4">
-        <text>Augustus_dbia3</text>
+        <text encoding="base64">IDEy</text>
       </register>
       <register name="3" type="4">
+        <text>Augustus_dbia3</text>
+      </register>
+      <register name="4" type="4">
         <text>From AugustusProcess</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAjIFJldHVybiB0aGUgQmlnQmVkIHRyYWNrCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBteVNwZWNpZUZvbGRlclBhdGggPSBvcy5wYXRoLmpvaW4oZXh0cmFfZmlsZXNfcGF0aCwgIm15SHViIiwgImRiaWEzIikK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ZnJvbSBUd29CaXQK</text>
       </register>
-      <register name="8" type="4">
-        <text>c</text>
-      </register>
       <register name="9" type="4">
-        <text>sortedBedFile</text>
+        <text>c</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
