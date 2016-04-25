@@ -38,6 +38,13 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1461605729896">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="33" column="20" />
+        <mark key="]" line="33" column="20" />
+        <mark key="." line="33" column="20" />
+        <mark key="^" line="33" column="20" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/AugustusProcess.py" timestamp="1461519964979">
         <mark key="'" line="58" column="8" />
         <mark key="[" line="24" column="0" />
@@ -68,8 +75,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" timestamp="1461598494193">
-        <mark key="'" line="44" column="4" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" timestamp="1461605645576">
+        <mark key="'" line="40" column="115" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/.gitignore" timestamp="1461375392991">
         <mark key="'" line="66" column="21" />
@@ -156,10 +163,12 @@
       <jump line="38" column="23" filename="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/hubArchiveCreator.py" />
       <jump line="59" column="8" filename="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/hubArchiveCreator.py" />
       <jump line="44" column="4" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" />
+      <jump line="40" column="115" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" />
+      <jump line="12" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8cmVxdWlyZW1lbnQgdHlwZT0icGFja2FnZSIgdmVyc2lvbj0iMC44LjcuMSI+Z2ZmdXRpbHM8L3JlcXVpcmVtZW50Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IDEy</text>
@@ -171,31 +180,31 @@
         <text encoding="base64">ICAgICAgICB0d29CaXRJbmZvRmlsZSA9IHRlbXBmaWxlLk5hbWVkVGVtcG9yYXJ5RmlsZShidWZzaXplPTApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8cmVxdWlyZW1lbnQgdHlwZT0icGFja2FnZSIgdmVyc2lvbj0iMC44LjcuMSI+Z2ZmdXRpbHM8L3JlcXVpcmVtZW50Pgo=</text>
-      </register>
-      <register name="2" type="4">
-        <text encoding="base64">IDEy</text>
-      </register>
-      <register name="3" type="4">
-        <text>Augustus_dbia3</text>
-      </register>
-      <register name="4" type="4">
-        <text>From AugustusProcess</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIFJldHVybiB0aGUgQmlnQmVkIHRyYWNrCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICA8cmVxdWlyZW1lbnQgdHlwZT0icGFja2FnZSIgdmVyc2lvbj0iMC44LjcuMSI+Z2ZmdXRpbHM8L3JlcXVpcmVtZW50Pgo=</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">IDEy</text>
+      </register>
+      <register name="4" type="4">
+        <text>Augustus_dbia3</text>
+      </register>
+      <register name="5" type="4">
+        <text>From AugustusProcess</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAjIFJldHVybiB0aGUgQmlnQmVkIHRyYWNrCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBteVNwZWNpZUZvbGRlclBhdGggPSBvcy5wYXRoLmpvaW4oZXh0cmFfZmlsZXNfcGF0aCwgIm15SHViIiwgImRiaWEzIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBUd29CaXQK</text>
+        <text encoding="base64">ICAgICAgICBteVNwZWNpZUZvbGRlclBhdGggPSBvcy5wYXRoLmpvaW4oZXh0cmFfZmlsZXNfcGF0aCwgIm15SHViIiwgImRiaWEzIikK</text>
       </register>
-      <register name="9" type="4">
-        <text>c</text>
+      <register name="9" type="2">
+        <text encoding="base64">ZnJvbSBUd29CaXQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
