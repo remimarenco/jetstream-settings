@@ -36,10 +36,11 @@
         <mark key="^" line="23" column="98" />
         <mark key="." line="23" column="98" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/tool_dependencies.xml" timestamp="1461697635862">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/tool_dependencies.xml" timestamp="1461706546034">
+        <mark key="[" line="9" column="20" />
+        <mark key="]" line="10" column="6" />
+        <mark key="^" line="10" column="6" />
+        <mark key="." line="10" column="6" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy161/paster.log" timestamp="1461492087056">
         <mark key="[" line="0" column="0" />
@@ -71,6 +72,7 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/.shed.yml" timestamp="1461706045248" />
       <file name="$USER_HOME$/Google_Drive/Dev/todotica/api_habitica.py" timestamp="1461433393380">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
