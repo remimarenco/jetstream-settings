@@ -111,6 +111,13 @@
         <mark key="^" line="15" column="18" />
         <mark key="." line="15" column="18" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bed.py" timestamp="1461630085545">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="32" column="39" />
+        <mark key="]" line="32" column="43" />
+        <mark key="^" line="32" column="43" />
+        <mark key="." line="32" column="43" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="27" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/run_unit_tests.html" />
@@ -165,6 +172,7 @@
       <jump line="44" column="4" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" />
       <jump line="40" column="115" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" />
       <jump line="12" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" />
+      <jump line="33" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bed.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -207,7 +215,7 @@
         <text encoding="base64">ZnJvbSBUd29CaXQK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -233,6 +241,7 @@
         <entry>s/tool_list/toto/gc</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
