@@ -6,19 +6,8 @@
       <file name="/start_script.py" timestamp="1461363640213">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1461369485396">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/todotica/config.py.sample" timestamp="1461430909924">
-        <mark key="[" line="0" column="36" />
-      </file>
       <file name="/Python Console" timestamp="1461487242684">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/todotica/main.py" timestamp="1461432423875">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1461543690549">
         <mark key="[" line="31" column="65" />
@@ -33,17 +22,57 @@
         <mark key="." line="23" column="16" />
         <mark key="^" line="23" column="16" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/todotica/api_habitica.py" timestamp="1461433393380">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1461689546483">
         <mark key="'" line="12" column="0" />
         <mark key="[" line="33" column="20" />
         <mark key="]" line="33" column="20" />
         <mark key="." line="33" column="20" />
         <mark key="^" line="33" column="20" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/todo.md" timestamp="1461697811027">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="22" column="103" />
+        <mark key="]" line="23" column="98" />
+        <mark key="^" line="23" column="98" />
+        <mark key="." line="23" column="98" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/tool_dependencies.xml" timestamp="1461697635862">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy161/paster.log" timestamp="1461492087056">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/AugustusProcess.py" timestamp="1461697366601">
+        <mark key="'" line="51" column="12" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/twoBitCreator.py" timestamp="1461697393150">
+        <mark key="'" line="18" column="12" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1461369485396">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/todotica/config.py.sample" timestamp="1461430909924">
+        <mark key="[" line="0" column="36" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/README.md" timestamp="1461696746020">
+        <mark key="[" line="10" column="24" />
+        <mark key="]" line="10" column="23" />
+        <mark key="^" line="10" column="23" />
+        <mark key="." line="10" column="23" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/todotica/main.py" timestamp="1461432423875">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/todotica/api_habitica.py" timestamp="1461433393380">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/AugustusProcess.py" timestamp="1461519964979">
         <mark key="'" line="58" column="8" />
@@ -70,11 +99,6 @@
         <mark key="^" line="11" column="2" />
         <mark key="." line="11" column="2" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy161/paster.log" timestamp="1461492087056">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" timestamp="1461605645576">
         <mark key="'" line="40" column="115" />
       </file>
@@ -91,21 +115,12 @@
         <mark key="." line="12" column="25" />
         <mark key="^" line="12" column="25" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/todotica/requirements.txt" timestamp="1461430616984">
-        <mark key="a" line="1" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="21" />
-        <mark key="^" line="2" column="21" />
-        <mark key="." line="2" column="21" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/AugustusProcess.py" timestamp="1461688427302" />
       <file name="$USER_HOME$/Google_Drive/Dev/todotica/config.py" timestamp="1461433314952">
         <mark key="[" line="1" column="22" />
         <mark key="]" line="1" column="57" />
         <mark key="." line="1" column="57" />
         <mark key="^" line="1" column="57" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/twoBitCreator.py" timestamp="1461690949882" />
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/hubArchiveCreator.py" timestamp="1461545262815">
         <mark key="'" line="59" column="8" />
         <mark key="[" line="15" column="0" />
@@ -175,55 +190,66 @@
       <jump line="40" column="115" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" />
       <jump line="12" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" />
       <jump line="33" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bed.py" />
+      <jump line="58" column="32" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/AugustusProcess.py" />
+      <jump line="71" column="12" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/AugustusProcess.py" />
+      <jump line="83" column="12" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/AugustusProcess.py" />
+      <jump line="97" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/AugustusProcess.py" />
+      <jump line="3" column="7" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/AugustusProcess.py" />
+      <jump line="28" column="12" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/AugustusProcess.py" />
+      <jump line="37" column="12" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/AugustusProcess.py" />
+      <jump line="51" column="12" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/AugustusProcess.py" />
+      <jump line="8" column="6" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/twoBitCreator.py" />
+      <jump line="18" column="12" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/twoBitCreator.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/todo.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAtCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IDEy</text>
+        <text>, for now</text>
       </register>
       <register name="/" type="4">
-        <text>twoBitFile</text>
+        <text>subprocess</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0d29CaXRJbmZvRmlsZSA9IHRlbXBmaWxlLk5hbWVkVGVtcG9yYXJ5RmlsZShidWZzaXplPTApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAtCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8cmVxdWlyZW1lbnQgdHlwZT0icGFja2FnZSIgdmVyc2lvbj0iMC44LjcuMSI+Z2ZmdXRpbHM8L3JlcXVpcmVtZW50Pgo=</text>
+        <text encoding="base64">ICAgIDwhLS0gVE9ETzogUmVxdWlyZToKICAgICAgICAtIHVjc2NfdG9vbHNfMzEyCiAgICAgICAgLSBnZmYzVG9HZW5lUHJlZCA9PiBodHRwOi8vaGdkb3dubG9hZC5zb2UudWNzYy5lZHUvYWRtaW4vZXhlL2xpbnV4Lng4Nl82NC9nZmYzVG9HZW5lUHJlZAogICAgICAgIC0gZ2VuZVByZWRUb0JlZCA9PiBodHRwOi8vaGdkb3dubG9hZC5zb2UudWNzYy5lZHUvYWRtaW4vZXhlL2xpbnV4Lng4Nl82NC9nZW5lUHJlZFRvQmVkCiAgICAtLT4K</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IDEy</text>
+        <text>, for now</text>
       </register>
-      <register name="4" type="4">
-        <text>Augustus_dbia3</text>
-      </register>
-      <register name="5" type="4">
-        <text>From AugustusProcess</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIFJldHVybiB0aGUgQmlnQmVkIHRyYWNrCg==</text>
-      </register>
-      <register name="7" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBteVNwZWNpZUZvbGRlclBhdGggPSBvcy5wYXRoLmpvaW4oZXh0cmFfZmlsZXNfcGF0aCwgIm15SHViIiwgImRiaWEzIikK</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICA8cmVxdWlyZW1lbnQgdHlwZT0icGFja2FnZSIgdmVyc2lvbj0iMC44LjcuMSI+Z2ZmdXRpbHM8L3JlcXVpcmVtZW50Pgo=</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">IDEy</text>
+      </register>
+      <register name="7" type="4">
+        <text>Augustus_dbia3</text>
+      </register>
+      <register name="8" type="4">
+        <text>From AugustusProcess</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBUd29CaXQK</text>
+        <text encoding="base64">ICAgICAgICAjIFJldHVybiB0aGUgQmlnQmVkIHRyYWNrCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>twoBitFile</last-search>
+      <last-search>subprocess</last-search>
       <last-offset />
-      <last-pattern>twoBitFile</last-pattern>
+      <last-pattern>subprocess</last-pattern>
       <last-replace>toto</last-replace>
       <last-substitute>tool_list</last-substitute>
       <last-dir>1</last-dir>
@@ -236,12 +262,15 @@
         <entry>tool_list</entry>
         <entry>mySpecie</entry>
         <entry>twoBitFile</entry>
+        <entry>subProcess</entry>
+        <entry>subprocess</entry>
       </history-search>
       <history-cmd>
         <entry>s/tool_list/toto</entry>
         <entry>s/tool_list/toto/gi</entry>
         <entry>s/tool_list/toto/gc</entry>
         <entry>wq</entry>
+        <entry>vimgrep</entry>
         <entry>w</entry>
         <entry>q</entry>
       </history-cmd>
@@ -260,6 +289,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
