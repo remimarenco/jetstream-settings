@@ -46,8 +46,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/AugustusProcess.py" timestamp="1461697366601">
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/AugustusProcess.py" timestamp="1461698992951">
         <mark key="'" line="51" column="12" />
+        <mark key="[" line="18" column="8" />
+        <mark key="]" line="18" column="49" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/twoBitCreator.py" timestamp="1461697393150">
         <mark key="'" line="18" column="12" />
@@ -128,12 +130,13 @@
         <mark key="^" line="15" column="18" />
         <mark key="." line="15" column="18" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bed.py" timestamp="1461630085545">
-        <mark key="'" line="33" column="0" />
-        <mark key="[" line="32" column="39" />
-        <mark key="]" line="32" column="43" />
-        <mark key="^" line="32" column="43" />
-        <mark key="." line="32" column="43" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bed.py" timestamp="1461699072221">
+        <mark key="'" line="40" column="12" />
+        <mark key="[" line="16" column="0" />
+        <mark key="m" line="44" column="19" />
+        <mark key="]" line="17" column="49" />
+        <mark key="^" line="17" column="49" />
+        <mark key="." line="17" column="49" />
       </file>
     </filemarks>
     <jumps>
@@ -201,10 +204,12 @@
       <jump line="8" column="6" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/twoBitCreator.py" />
       <jump line="18" column="12" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/twoBitCreator.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/todo.md" />
+      <jump line="12" column="53" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bed.py" />
+      <jump line="37" column="12" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bed.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAtCg==</text>
+      <register name="&quot;" type="4">
+        <text>inputFastaFile = open(inputFastaFile, 'r')</text>
       </register>
       <register name="-" type="4">
         <text>, for now</text>
@@ -212,8 +217,8 @@
       <register name="/" type="4">
         <text>subprocess</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0d29CaXRJbmZvRmlsZSA9IHRlbXBmaWxlLk5hbWVkVGVtcG9yYXJ5RmlsZShidWZzaXplPTApCg==</text>
+      <register name="0" type="4">
+        <text>inputFastaFile = open(inputFastaFile, 'r')</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAtCg==</text>
@@ -243,7 +248,7 @@
         <text encoding="base64">ICAgICAgICAjIFJldHVybiB0aGUgQmlnQmVkIHRyYWNrCg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -271,8 +276,8 @@
         <entry>s/tool_list/toto/gc</entry>
         <entry>wq</entry>
         <entry>vimgrep</entry>
-        <entry>w</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
