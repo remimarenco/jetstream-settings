@@ -51,6 +51,7 @@
     <option name="SDK_TO_PYTEST">
       <map>
         <entry key="$USER_HOME$/Google_Drive/Dev/galaxy_env/bin/python" value="false" />
+        <entry key="$USER_HOME$/Google_Drive/Dev/planemo_remi_env/bin/python" value="false" />
         <entry key="$USER_HOME$/Google_Drive/Dev/todotica_env/bin/python" value="false" />
         <entry key="sftp://svc_galaxy@161.253.199.24:22/home/svc_galaxy/remi/galaxy_env/bin/python" value="false" />
       </map>
@@ -58,6 +59,7 @@
     <option name="SDK_TO_NOSETEST">
       <map>
         <entry key="$USER_HOME$/Google_Drive/Dev/galaxy_env/bin/python" value="true" />
+        <entry key="$USER_HOME$/Google_Drive/Dev/planemo_remi_env/bin/python" value="false" />
         <entry key="$USER_HOME$/Google_Drive/Dev/todotica_env/bin/python" value="false" />
         <entry key="sftp://svc_galaxy@161.253.199.24:22/home/svc_galaxy/remi/galaxy_env/bin/python" value="false" />
       </map>
@@ -65,6 +67,7 @@
     <option name="SDK_TO_ATTEST">
       <map>
         <entry key="$USER_HOME$/Google_Drive/Dev/galaxy_env/bin/python" value="false" />
+        <entry key="$USER_HOME$/Google_Drive/Dev/planemo_remi_env/bin/python" value="false" />
         <entry key="$USER_HOME$/Google_Drive/Dev/todotica_env/bin/python" value="false" />
         <entry key="sftp://svc_galaxy@161.253.199.24:22/home/svc_galaxy/remi/galaxy_env/bin/python" value="false" />
       </map>
