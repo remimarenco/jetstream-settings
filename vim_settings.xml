@@ -15,6 +15,9 @@
         <mark key="." line="32" column="51" />
         <mark key="^" line="32" column="51" />
       </file>
+      <file name="/a.dummy" timestamp="1461797759844">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy161/tool_list.py" timestamp="1461497852408">
         <mark key="'" line="23" column="8" />
         <mark key="[" line="23" column="15" />
@@ -22,6 +25,7 @@
         <mark key="." line="23" column="16" />
         <mark key="^" line="23" column="16" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/scripts/slideshow_template.html.py" timestamp="1461797734165" />
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1461704433153">
         <mark key="'" line="12" column="0" />
         <mark key="[" line="0" column="67" />
@@ -36,16 +40,17 @@
         <mark key="^" line="24" column="65" />
         <mark key="." line="24" column="65" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/scripts/slideshow_template.html" timestamp="1461797800889">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="21" column="7" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/tool_dependencies.xml" timestamp="1461711583254">
         <mark key="[" line="9" column="20" />
         <mark key="]" line="10" column="6" />
         <mark key="^" line="10" column="6" />
         <mark key="." line="10" column="6" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy161/paster.log" timestamp="1461492087056">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/AugustusProcess.py" timestamp="1461698992951">
         <mark key="'" line="51" column="12" />
@@ -67,16 +72,6 @@
         <mark key="^" line="10" column="23" />
         <mark key="." line="10" column="23" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/todotica/main.py" timestamp="1461432423875">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/todotica/api_habitica.py" timestamp="1461433393380">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/AugustusProcess.py" timestamp="1461519964979">
         <mark key="'" line="58" column="8" />
         <mark key="[" line="24" column="0" />
@@ -96,6 +91,11 @@
         <mark key="^" line="81" column="28" />
         <mark key="." line="81" column="28" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/scripts/build_slideshow.py" timestamp="1461797922190">
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/todotica/README.md" timestamp="1461431619365">
         <mark key="[" line="11" column="3" />
         <mark key="]" line="11" column="2" />
@@ -105,6 +105,7 @@
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" timestamp="1461605645576">
         <mark key="'" line="40" column="115" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/index.rst" timestamp="1461798732415" />
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/.gitignore" timestamp="1461375392991">
         <mark key="'" line="66" column="21" />
         <mark key="[" line="130" column="18" />
@@ -210,10 +211,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>inputFastaFile = open(inputFastaFile, 'r')</text>
+        <text encoding="base64">ICAgICAgICA=</text>
       </register>
       <register name="-" type="4">
-        <text>, for now</text>
+        <text encoding="base64">ICAgICAgICA=</text>
       </register>
       <register name="/" type="4">
         <text>subprocess</text>
@@ -221,32 +222,32 @@
       <register name="0" type="4">
         <text>inputFastaFile = open(inputFastaFile, 'r')</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAtCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICAgICA=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAtCg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgIDwhLS0gVE9ETzogUmVxdWlyZToKICAgICAgICAtIHVjc2NfdG9vbHNfMzEyCiAgICAgICAgLSBnZmYzVG9HZW5lUHJlZCA9PiBodHRwOi8vaGdkb3dubG9hZC5zb2UudWNzYy5lZHUvYWRtaW4vZXhlL2xpbnV4Lng4Nl82NC9nZmYzVG9HZW5lUHJlZAogICAgICAgIC0gZ2VuZVByZWRUb0JlZCA9PiBodHRwOi8vaGdkb3dubG9hZC5zb2UudWNzYy5lZHUvYWRtaW4vZXhlL2xpbnV4Lng4Nl82NC9nZW5lUHJlZFRvQmVkCiAgICAtLT4K</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>, for now</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICA8cmVxdWlyZW1lbnQgdHlwZT0icGFja2FnZSIgdmVyc2lvbj0iMC44LjcuMSI+Z2ZmdXRpbHM8L3JlcXVpcmVtZW50Pgo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">IDEy</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>Augustus_dbia3</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>From AugustusProcess</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIFJldHVybiB0aGUgQmlnQmVkIHRyYWNrCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
