@@ -28,12 +28,12 @@
         <mark key="^" line="23" column="16" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/scripts/slideshow_template.html.py" timestamp="1461797734165" />
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/slideshow/galaxy_architecture_2015.md" timestamp="1461879364199">
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/slideshow/galaxy_architecture_2015.md" timestamp="1461880849143">
         <mark key="'" line="122" column="0" />
-        <mark key="[" line="256" column="0" />
-        <mark key="]" line="256" column="0" />
-        <mark key="^" line="256" column="0" />
-        <mark key="." line="256" column="0" />
+        <mark key="[" line="420" column="0" />
+        <mark key="]" line="416" column="58" />
+        <mark key="^" line="416" column="58" />
+        <mark key="." line="416" column="58" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1461704433153">
         <mark key="'" line="12" column="0" />
