@@ -3,6 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/dependencies/pinned-requirements.txt" timestamp="1461800905155">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/scripts/slideshow/example.md" timestamp="1461801926862">
+        <mark key="[" line="35" column="3" />
+        <mark key="]" line="35" column="3" />
+        <mark key="." line="35" column="3" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1461543690549">
         <mark key="[" line="31" column="65" />
         <mark key="]" line="32" column="51" />
@@ -17,6 +28,13 @@
         <mark key="^" line="23" column="16" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/scripts/slideshow_template.html.py" timestamp="1461797734165" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/slideshow/galaxy_architecture_2015.md" timestamp="1461807668048">
+        <mark key="'" line="126" column="0" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="48" column="119" />
+        <mark key="^" line="48" column="119" />
+        <mark key="." line="48" column="119" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1461704433153">
         <mark key="'" line="12" column="0" />
         <mark key="[" line="0" column="67" />
@@ -37,6 +55,9 @@
         <mark key="^" line="21" column="7" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/slideshow/galaxy_architecture_2015.html" timestamp="1461802336778">
+        <mark key="'" line="30" column="0" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/tool_dependencies.xml" timestamp="1461711583254">
         <mark key="[" line="9" column="20" />
         <mark key="]" line="10" column="6" />
@@ -48,14 +69,17 @@
         <mark key="[" line="18" column="8" />
         <mark key="]" line="18" column="49" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/twoBitCreator.py" timestamp="1461697393150">
-        <mark key="'" line="18" column="12" />
-      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/README.md" timestamp="1461789433777">
         <mark key="[" line="10" column="24" />
         <mark key="]" line="10" column="23" />
         <mark key="^" line="10" column="23" />
         <mark key="." line="10" column="23" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/requirements.txt" timestamp="1461801376946">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="5" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/AugustusProcess.py" timestamp="1461519964979">
         <mark key="'" line="58" column="8" />
@@ -81,14 +105,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/planemo_remi/scripts/build_slideshow.py" timestamp="1461800430642" />
       <file name="$USER_HOME$/Google_Drive/Dev/todotica/README.md" timestamp="1461431619365">
         <mark key="[" line="11" column="3" />
         <mark key="]" line="11" column="2" />
         <mark key="^" line="11" column="2" />
         <mark key="." line="11" column="2" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" timestamp="1461605645576">
-        <mark key="'" line="40" column="115" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/index.rst" timestamp="1461798732415" />
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/.gitignore" timestamp="1461375392991">
@@ -104,11 +126,19 @@
         <mark key="." line="12" column="25" />
         <mark key="^" line="12" column="25" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/scripts/slideshow/build_slideshow.py" timestamp="1461802223052" />
       <file name="$USER_HOME$/Google_Drive/Dev/todotica/config.py" timestamp="1461433314952">
         <mark key="[" line="1" column="22" />
         <mark key="]" line="1" column="57" />
         <mark key="." line="1" column="57" />
         <mark key="^" line="1" column="57" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/conf.py" timestamp="1461801959447">
+        <mark key="'" line="21" column="27" />
+        <mark key="[" line="51" column="29" />
+        <mark key="]" line="51" column="16" />
+        <mark key="^" line="51" column="16" />
+        <mark key="." line="51" column="16" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/hubArchiveCreator.py" timestamp="1461545262815">
         <mark key="'" line="59" column="8" />
@@ -193,55 +223,70 @@
       <jump line="0" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/todo.md" />
       <jump line="12" column="53" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bed.py" />
       <jump line="37" column="12" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bed.py" />
+      <jump line="39" column="12" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/dependencies/pinned-requirements.txt" />
+      <jump line="0" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/dependencies/pinned-requirements.txt" />
+      <jump line="46" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/conf.py" />
+      <jump line="21" column="27" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/conf.py" />
+      <jump line="242" column="287" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/slideshow/galaxy_architecture_2015.md" />
+      <jump line="30" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/slideshow/galaxy_architecture_2015.html" />
+      <jump line="4" column="54" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/slideshow/galaxy_architecture_2015.md" />
+      <jump line="91" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/slideshow/galaxy_architecture_2015.md" />
+      <jump line="1" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/slideshow/galaxy_architecture_2015.md" />
+      <jump line="104" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/slideshow/galaxy_architecture_2015.md" />
+      <jump line="111" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/slideshow/galaxy_architecture_2015.md" />
+      <jump line="112" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/slideshow/galaxy_architecture_2015.md" />
+      <jump line="120" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/slideshow/galaxy_architecture_2015.md" />
+      <jump line="124" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/slideshow/galaxy_architecture_2015.md" />
+      <jump line="128" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/slideshow/galaxy_architecture_2015.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CgoKLS0tCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICA=</text>
+        <text>tools-{devteam,iuc}*</text>
       </register>
       <register name="/" type="4">
-        <text>subprocess</text>
+        <text>toto</text>
       </register>
-      <register name="0" type="4">
-        <text>inputFastaFile = open(inputFastaFile, 'r')</text>
+      <register name="0" type="2">
+        <text encoding="base64">CgoKLS0tCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgICAgICA=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAtCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIDwhLS0gVE9ETzogUmVxdWlyZToKICAgICAgICAtIHVjc2NfdG9vbHNfMzEyCiAgICAgICAgLSBnZmYzVG9HZW5lUHJlZCA9PiBodHRwOi8vaGdkb3dubG9hZC5zb2UudWNzYy5lZHUvYWRtaW4vZXhlL2xpbnV4Lng4Nl82NC9nZmYzVG9HZW5lUHJlZAogICAgICAgIC0gZ2VuZVByZWRUb0JlZCA9PiBodHRwOi8vaGdkb3dubG9hZC5zb2UudWNzYy5lZHUvYWRtaW4vZXhlL2xpbnV4Lng4Nl82NC9nZW5lUHJlZFRvQmVkCiAgICAtLT4K</text>
-      </register>
-      <register name="4" type="4">
-        <text>, for now</text>
-      </register>
-      <register name="5" type="2">
+      <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">IyMjIDE1LjA3CgpGdWxsIFtHYWxheHkgY2hhbmdlbG9nXShodHRwczovL2RvY3MuZ2FsYXh5cHJvamVjdC5vcmcvZW4vbWFzdGVyL3JlbGVhc2VzLzE1LjA3X2Fubm91bmNlLmh0bWwpLgoKLS0tCgojIyMjIFBhcmFtZXRlcml6ZWQgWE1MIE1hY3JvcyAoW1BSICMzNjJdKGh0dHBzOi8vZ2l0aHViLmNvbS9nYWxheHlwcm9qZWN0L2dhbGF4eS9wdWxsLzM2MikpCgpNYWNyb3Mgbm93IGFsbG93IGRlZmluaW5nIHRva2VucyB0byBiZSBjb25zdW1lZAphcyBYTUwgYXR0cmlidXRlcy4gRm9yIGluc3RhbmNlLCB0aGUgZm9sbG93aW5nIGRlZmluaXRpb24KCmBgYHhtbAo8dG9vbD4KICAgIDxleHBhbmQgbWFjcm89ImlucHV0cyIgZm9vPSJoZWxsbyIgLz4KICAgIDxleHBhbmQgbWFjcm89ImlucHV0cyIgZm9vPSJ3b3JsZCIgLz4KICAgIDxleHBhbmQgbWFjcm89ImlucHV0cyIgLz4KICAgIDxtYWNyb3M+CiAgICAgICAgPHhtbCBuYW1lPSJpbnB1dHMiIHRva2VuX2Zvbz0idGhlX2RlZmF1bHQiPgogICAgICAgICAgICA8aW5wdXRzPkBGT09APC9pbnB1dHM+CiAgICAgICAgPC94bWw+CiAgICA8L21hY3Jvcz4KPC90b29sPgpgYGAKCndvdWxkIGV4cGFuZCBvdXQgYXMKCmBgYHhtbAo8dG9vbD4KICAgIDxpbnB1dHM+aGVsbG88L2lucHV0cz4KICAgIDxpbnB1dHM+d29ybGQ8L2lucHV0cz4KICAgIDxpbnB1dHM+dGhlX2RlZmF1bHQ8L2lucHV0cz4KPC90b29sPgpgYGAKCi0tLQoKIyMjIyBUb29sIEZvcm0KClRoZSB3b3JrZmxvdyBlZGl0b3Igd2FzIHVwZGF0ZWQgdG8gdGhlIHVzZSBHYWxheHkncyBuZXdlcgpmcm9udGVuZCB0b29sIGZvcm0uCgohW05ldyBXb3JrZmxvdyBFZGl0b3JdKGltYWdlcy9neF9uZXdfd29ya2Zsb3dfZWRpdG9yLnBuZykKCi0tLQoKIyMjIyBFbnZpcm9ubWVudCBWYXJpYWJsZXMgKFtQUiAjMzk1XShodHRwczovL2dpdGh1Yi5jb20vZ2FsYXh5cHJvamVjdC9nYWxheHkvcHVsbC8zOTUpKQoKVG9vbHMgbWF5IG5vdyB1c2UgYGlucHV0c2AgdG8gZGVmaW5lIGVudmlyb25tZW50IHZhcmlhYmxlcyB0aGF0IHdpbGwgYmUKc2V0IGR1cmluZyB0b29sIGV4ZWN1dGlvbi4gVGhlIG5ldyBgZW52aXJvbm1lbnRfdmFyaWFibGVzYCBYTUwgYmxvY2sgaXMKdXNlZCB0byBkZWZpbmUgdGhpcy4KCmBgYHhtbAo8dG9vbD4KICAgIC4uLgogICAgPGNvbW1hbmQ+CiAgICAgICAgZWNobyAiXCRJTlRWQVIiICA+ICAkb3V0X2ZpbGUxOwogICAgICAgIGVjaG8gIlwkRk9SVEVTVCIgPj4gJG91dF9maWxlMTsKICAgIDwvY29tbWFuZD4KICAgIDxlbnZpcm9ubWVudF92YXJpYWJsZXM+CiAgICAgICAgPGVudmlyb25tZW50X3ZhcmlhYmxlIG5hbWU9IklOVFZBUiI+JGludHRlc3Q8L2Vudmlyb25tZW50X3ZhcmlhYmxlPgogICAgICAgIDxlbnZpcm9ubWVudF92YXJpYWJsZSBuYW1lPSJGT1JURVNUIj4jZm9yIGkgaW4gWydtJywgJ28nLCAnbyddIyRpI2VuZCBmb3IjPC9lbnZpcm9ubWVudF92YXJpYWJsZT4KICAgIDwvZW52aXJvbm1lbnRfdmFyaWFibGVzPgogICAgLi4uCmBgYAoKW1Rlc3QgdG9vbF0oaHR0cHM6Ly9naXRodWIuY29tL2dhbGF4eXByb2plY3QvZ2FsYXh5L2Jsb2IvZGV2L3Rlc3QvZnVuY3Rpb25hbC90b29scy9lbnZpcm9ubWVudF92YXJpYWJsZXMueG1sKSBkZW1vbnN0cmF0aW5nIHRoZSB1c2Ugb2YgdGhlIGBlbnZpcm9ubWVudF92YXJpYWJsZXNgIHRhZy4KCi0tLQoKIyMjIyBDb2xsZWN0aW9ucwoKIC0gRXhwbGljaXQgb3V0cHV0IGNvbGxlY3Rpb25zIGNhbiBub3cgYmUgdXNlZCBpbiB3b3JrZmxvd3MuIChbUFIgIzMxMV0oaHR0cHM6Ly9naXRodWIuY29tL2dhbGF4eXByb2plY3QvZ2FsYXh5L3B1bGwvMzExKSkKIC0gVGhlIGBmaWx0ZXJgIHRhZyBoYXMgYmVlbiBpbXBsZW1lbnRlZCBmb3Igb3V0cHV0IGRhdGFzZXQgY29sbGVjdGlvbnMgKFtQUiAjNDU1XShodHRwczovL2dpdGh1Yi5jb20vZ2FsYXh5cHJvamVjdC9nYWxheHkvcHVsbC80NTUpLiBTZWUgdGhlIGV4YW1wbGUgdG9vbCBbb3V0cHV0X2NvbGxlY3Rpb25fZmlsdGVyLnhtbF0oaHR0cHM6Ly9naXRodWIuY29tL2dhbGF4eXByb2plY3QvZ2FsYXh5L2Jsb2IvZGV2L3Rlc3QvZnVuY3Rpb25hbC90b29scy9vdXRwdXRfY29sbGVjdGlvbl9maWx0ZXIueG1sKS4K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">b3V0cHV0IGNhbiBiZSB0cnVzdGVkIHdoZW4gcmVuZGVyaW5nIEhUTUwuCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">R2FsYXh5IG5vdyBjb250YWlucyBhIHBsYWluIHRleHQgZmlsZSB0aGF0IGNvbnRhaW5zIGEgbGlzdCBvZiB0b29scyB3aG9zZQo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8cmVxdWlyZW1lbnQgdHlwZT0icGFja2FnZSIgdmVyc2lvbj0iMC44LjcuMSI+Z2ZmdXRpbHM8L3JlcXVpcmVtZW50Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IDEy</text>
+      <register name="7" type="2">
+        <text encoding="base64">IyMjIyBXaGl0ZWxpc3QgVG9vbHMgdGhhdCBHZW5lcmF0ZSBIVE1MIChbUFIgIzUxMF0oaHR0cHM6Ly9naXRodWIuY29tL2dhbGF4eXByb2plY3QvZ2FsYXh5L3B1bGwvNTEwKSkK</text>
       </register>
-      <register name="8" type="4">
-        <text>Augustus_dbia3</text>
+      <register name="8" type="2">
+        <text encoding="base64">IyMjIyBDb2xsZWN0aW9ucwoKLSBUb29scyBtYXkgbm93IHByb2R1Y2UgZXhwbGljaXQgbmVzdGVkIG91dHB1dHMgW1BSICM1MzhdKGh0dHBzOi8vZ2l0aHViLmNvbS9nYWxheHlwcm9qZWN0L2dhbGF4eS9wdWxsLzUzOCkuCiAgVGhpcyBlbmhhbmNlcyB0aGUgYGRpc2NvdmVyX2RhdGFzZXRgIFhNTCB0YWcgdG8gYWxsb3cgdGhpcy4KLSBBbGxvdyBjZXJ0YWluIGBvdXRwdXRgIGFjdGlvbnMgb24gY29sbGVjdGlvbnMuCiAgW1BSICM1NDRdKGh0dHBzOi8vZ2l0aHViLmNvbS9nYWxheHlwcm9qZWN0L2dhbGF4eS9wdWxsLzU0NCkuCi0gQWxsb3cgYGRpc2NvdmVyX2RhdGFzZXRgIHRhZ3MgdG8gdXNlIGBmb3JtYXRgIGluc3RlYWQgb2YgYGV4dGAKICB3aGVuIHJlZmVycmluZyB0byBkYXRhdHlwZSBleHRlbnNpb25zL2Zvcm1hdHMuCi0gQWxsb3cgYG1pbmAvYG1heGAgYXR0cmlidXRlcyBvbiBtdWx0aXBsZSBkYXRhIGlucHV0IHBhcmFtZXRlcnMgW1BSICM3NjVdKGh0dHBzOi8vZ2l0aHViLmNvbS9nYWxheHlwcm9qZWN0L2dhbGF4eS9wdWxsLzc2NSkuCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>From AugustusProcess</text>
+      <register name="9" type="2">
+        <text encoding="base64">IyMjIDE1LjEwCgpGdWxsIFtHYWxheHkgY2hhbmdlbG9nXShodHRwczovL2RvY3MuZ2FsYXh5cHJvamVjdC5vcmcvZW4vbWFzdGVyL3JlbGVhc2VzLzE1LjEwX2Fubm91bmNlLmh0bWwpLgoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>subprocess</last-search>
+      <last-search>toto</last-search>
       <last-offset />
-      <last-pattern>subprocess</last-pattern>
+      <last-pattern>toto</last-pattern>
       <last-replace>toto</last-replace>
       <last-substitute>tool_list</last-substitute>
       <last-dir>1</last-dir>
@@ -251,11 +296,15 @@
       <history-search>
         <entry>banned</entry>
         <entry>the</entry>
-        <entry>tool_list</entry>
         <entry>mySpecie</entry>
         <entry>twoBitFile</entry>
         <entry>subProcess</entry>
         <entry>subprocess</entry>
+        <entry>doc</entry>
+        <entry>sphinx</entry>
+        <entry>tool_list</entry>
+        <entry>source_suffix</entry>
+        <entry>toto</entry>
       </history-search>
       <history-cmd>
         <entry>s/tool_list/toto</entry>
@@ -264,6 +313,7 @@
         <entry>wq</entry>
         <entry>vimgrep</entry>
         <entry>q</entry>
+        <entry>s</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -284,6 +334,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
