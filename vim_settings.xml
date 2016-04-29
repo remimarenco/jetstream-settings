@@ -75,6 +75,7 @@
         <mark key="^" line="10" column="6" />
         <mark key="." line="10" column="6" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/client/package.json" timestamp="1461943283396" />
       <file name="/Dummy.txt" timestamp="1461369485396">
         <mark key="[" line="0" column="0" />
       </file>
@@ -120,6 +121,13 @@
         <mark key="." line="11" column="2" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/index.rst" timestamp="1461798732415" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/client/galaxy/style/less/base.less" timestamp="1461944610797">
+        <mark key="'" line="214" column="4" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="200" column="3" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/.gitignore" timestamp="1461375392991">
         <mark key="'" line="66" column="21" />
         <mark key="[" line="130" column="18" />
@@ -134,6 +142,13 @@
         <mark key="^" line="12" column="25" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/scripts/slideshow/build_slideshow.py" timestamp="1461802223052" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/client/galaxy/style/less/galaxy_variables.less" timestamp="1461944069663">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="35" column="13" />
+        <mark key="]" line="36" column="0" />
+        <mark key="^" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/todotica/config.py" timestamp="1461433314952">
         <mark key="[" line="1" column="22" />
         <mark key="]" line="1" column="57" />
@@ -237,10 +252,12 @@
       <jump line="120" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/slideshow/galaxy_architecture_2015.md" />
       <jump line="124" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/slideshow/galaxy_architecture_2015.md" />
       <jump line="128" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/slideshow/galaxy_architecture_2015.md" />
+      <jump line="217" column="4" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/client/galaxy/style/less/base.less" />
+      <jump line="0" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/client/galaxy/style/less/galaxy_variables.less" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">PCEtLSBJbWFnZSB0byBmZXRjaCBhbmQgYWRkIC0tPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>tools-{devteam,iuc}*</text>
@@ -255,28 +272,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PGJyIC8+Cg==</text>
+        <text encoding="base64">QHdoaXRlOiAjZmZmOwpAYmxhY2s6ICMwMDA7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PGJyIC8+Cg==</text>
+        <text encoding="base64">QHdoaXRlOiAjZmZmOwpAYmxhY2s6ICMwMDA7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PGJyIC8+Cg==</text>
+        <text encoding="base64">QHdoaXRlOiAjZmZmOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PGJyIC9kZD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PGJyIC8+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">PGJyIC8+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PGJyIC8+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PGJyIC9kZD4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
