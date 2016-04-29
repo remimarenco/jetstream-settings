@@ -27,13 +27,6 @@
         <mark key="^" line="32" column="51" />
       </file>
       <file name="/a.dummy" timestamp="1461947866641" />
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy161/tool_list.py" timestamp="1461497852408">
-        <mark key="'" line="23" column="8" />
-        <mark key="[" line="23" column="15" />
-        <mark key="]" line="23" column="16" />
-        <mark key="." line="23" column="16" />
-        <mark key="^" line="23" column="16" />
-      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/scripts/slideshow_template.html.py" timestamp="1461797734165" />
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/slideshow/galaxy_architecture_2015.md" timestamp="1461880849143">
         <mark key="'" line="122" column="0" />
@@ -41,20 +34,6 @@
         <mark key="]" line="416" column="58" />
         <mark key="^" line="416" column="58" />
         <mark key="." line="416" column="58" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1461704433153">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="0" column="67" />
-        <mark key="]" line="0" column="68" />
-        <mark key="." line="0" column="68" />
-        <mark key="^" line="33" column="20" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/todo.md" timestamp="1461711657373">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="23" column="99" />
-        <mark key="]" line="24" column="65" />
-        <mark key="^" line="24" column="65" />
-        <mark key="." line="24" column="65" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/scripts/slideshow_template.html" timestamp="1461797800889">
         <mark key="[" line="21" column="0" />
@@ -72,6 +51,9 @@
         <mark key="." line="10" column="6" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/client/package.json" timestamp="1461943283396" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/twoBitCreator.py" timestamp="1461697393150">
+        <mark key="'" line="18" column="12" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/README.md" timestamp="1461789433777">
         <mark key="[" line="10" column="24" />
         <mark key="]" line="10" column="23" />
@@ -83,20 +65,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="5" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy161/.gitignore" timestamp="1461497193628">
-        <mark key="'" line="124" column="0" />
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="0" />
-        <mark key="." line="92" column="0" />
-        <mark key="^" line="92" column="0" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/Bed.py" timestamp="1461542876969">
-        <mark key="'" line="67" column="17" />
-        <mark key="[" line="81" column="29" />
-        <mark key="]" line="81" column="28" />
-        <mark key="^" line="81" column="28" />
-        <mark key="." line="81" column="28" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/scripts/build_slideshow.py" timestamp="1461797922190">
         <mark key="]" line="0" column="0" />
@@ -110,27 +78,10 @@
         <mark key="^" line="11" column="2" />
         <mark key="." line="11" column="2" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/client/grunt-tasks/style.js" timestamp="1461948236227">
-        <mark key="[" line="78" column="91" />
-        <mark key="]" line="78" column="107" />
-        <mark key="^" line="78" column="107" />
-        <mark key="." line="78" column="107" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" timestamp="1461605645576">
+        <mark key="'" line="40" column="115" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/index.rst" timestamp="1461798732415" />
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/client/galaxy/style/less/base.less" timestamp="1461948101507">
-        <mark key="'" line="214" column="4" />
-        <mark key="[" line="815" column="0" />
-        <mark key="]" line="815" column="0" />
-        <mark key="^" line="200" column="3" />
-        <mark key="." line="815" column="0" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/.gitignore" timestamp="1461375392991">
-        <mark key="'" line="66" column="21" />
-        <mark key="[" line="130" column="18" />
-        <mark key="]" line="130" column="19" />
-        <mark key="^" line="130" column="19" />
-        <mark key="." line="130" column="19" />
-      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/todotica/Task.py" timestamp="1461487170384">
         <mark key="[" line="12" column="20" />
         <mark key="]" line="12" column="25" />
@@ -140,10 +91,6 @@
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/scripts/slideshow/build_slideshow.py" timestamp="1461802223052" />
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/client/galaxy/style/less/galaxy_variables.less" timestamp="1461947695310">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="35" column="11" />
-        <mark key="]" line="35" column="12" />
-        <mark key="." line="35" column="12" />
-        <mark key="^" line="35" column="11" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/todotica/config.py" timestamp="1461433314952">
         <mark key="[" line="1" column="22" />
@@ -157,13 +104,6 @@
         <mark key="]" line="51" column="16" />
         <mark key="^" line="51" column="16" />
         <mark key="." line="51" column="16" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/hubArchiveCreator.py" timestamp="1461545262815">
-        <mark key="'" line="59" column="8" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="18" />
-        <mark key="^" line="15" column="18" />
-        <mark key="." line="15" column="18" />
       </file>
     </filemarks>
     <jumps>
