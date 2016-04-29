@@ -51,14 +51,14 @@
         <mark key="." line="10" column="6" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/client/package.json" timestamp="1461943283396" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/client/README.md" timestamp="1461958244920">
+        <mark key="[" line="92" column="14" />
+        <mark key="]" line="93" column="13" />
+        <mark key="." line="93" column="13" />
+        <mark key="^" line="93" column="13" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/twoBitCreator.py" timestamp="1461697393150">
         <mark key="'" line="18" column="12" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/README.md" timestamp="1461789433777">
-        <mark key="[" line="10" column="24" />
-        <mark key="]" line="10" column="23" />
-        <mark key="^" line="10" column="23" />
-        <mark key="." line="10" column="23" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/requirements.txt" timestamp="1461801376946">
         <mark key="[" line="0" column="0" />
@@ -191,55 +191,57 @@
       <jump line="217" column="4" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/client/galaxy/style/less/base.less" />
       <jump line="0" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/client/galaxy/style/less/galaxy_variables.less" />
       <jump line="120" column="4" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/client/grunt-tasks/scripts.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/client/README.md" />
+      <jump line="93" column="35" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/client/README.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>opy,pack only those changed</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">PT09PT09PQpUaGlzIHN0YXJ0cyBhIG5ldyBncnVudCB3YXRjaCBwcm9jZXNzIHRoYXQgd2lsbCBtb25pdG9yIHRoZSBmaWxlcyB0aGUgY29ycmVzcG9uZGluZyBmb2xkZXIgZm9yIGNoYW5nZXMgYW5kIGNvcHkgYW5kCnJlYnVpbGQgdGhlbSB3aGVuIHRoZXkgY2hhbmdlLgoKWW91IGNhbiBzdG9wIHRoZSBgZ3J1bnQgd2F0Y2gqYCB0YXNrIGJ5IHByZXNzaW5nIGBDdHJsK0NgLiBOb3RlOiB5b3Ugc2hvdWxkIGFsc28gYmUgYWJsZSB0byBiYWNrZ3JvdW5kIHRoYXQgdGFzayBpZiB5b3UKcHJlZmVyLgo+Pj4+Pj4+IDQxZmU0NDNmMzE1N2FkMzk1ZDAxOWZkZDFkNzc2ODRlYzE3ZmQwMDMK</text>
       </register>
       <register name="-" type="4">
-        <text>opy,pack only those changed</text>
+        <text>in `client/galaxy/scripts`</text>
       </register>
       <register name="/" type="4">
-        <text>toto</text>
+        <text encoding="base64">XDxzY3JpcHRzXD4=</text>
       </register>
       <register name="0" type="4">
         <text />
       </register>
-      <register name="1" type="4">
-        <text>opy,pack only those changed</text>
+      <register name="1" type="2">
+        <text encoding="base64">PT09PT09PQpUaGlzIHN0YXJ0cyBhIG5ldyBncnVudCB3YXRjaCBwcm9jZXNzIHRoYXQgd2lsbCBtb25pdG9yIHRoZSBmaWxlcyB0aGUgY29ycmVzcG9uZGluZyBmb2xkZXIgZm9yIGNoYW5nZXMgYW5kIGNvcHkgYW5kCnJlYnVpbGQgdGhlbSB3aGVuIHRoZXkgY2hhbmdlLgoKWW91IGNhbiBzdG9wIHRoZSBgZ3J1bnQgd2F0Y2gqYCB0YXNrIGJ5IHByZXNzaW5nIGBDdHJsK0NgLiBOb3RlOiB5b3Ugc2hvdWxkIGFsc28gYmUgYWJsZSB0byBiYWNrZ3JvdW5kIHRoYXQgdGFzayBpZiB5b3UKcHJlZmVyLgo+Pj4+Pj4+IDQxZmU0NDNmMzE1N2FkMzk1ZDAxOWZkZDFkNzc2ODRlYzE3ZmQwMDMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vYmFja2dyb3VuZC1pbWFnZTogdXJsKGluZm9fc21hbGwucG5nKTsK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiA0MWZlNDQzZjMxNTdhZDM5NWQwMTlmZGQxZDc3Njg0ZWMxN2ZkMDAzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGdydW50LmV2ZW50Lm9uKCAnd2F0Y2gtc3R5bGUnLCBhZGRDaGFuZ2VkRmlsZSk7Cg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIG91dGVyIHNjb3BlIHZhcmlhYmxlIGZvciB0aGUgZXZlbnQgaGFuZGxlciBhbmQgb25DaGFuZ2UgZm4gLSBiZWdpbiB3aXRoIGVtcHR5IGhhc2gKICAgIHZhciBjaGFuZ2VkRmlsZXMgPSBPYmplY3QuY3JlYXRlKG51bGwpOwoKICAgIC8vIHdoZW4gZmlsZXMgYXJlIGNoYW5nZWQsIHNldCB0aGUgY29weSBzcmMgYW5kIHBhY2tTY3JpcHRzIHRhcmdldCB0byB0aGUgZmlsZW5hbWVzIG9mIHRoZSB1cGRhdGVkIGZpbGVzCiAgICB2YXIgb25DaGFuZ2UgPSBncnVudC51dGlsLl8uZGVib3VuY2UoZnVuY3Rpb24oKSB7CiAgICAgICAgZ3J1bnQubG9nLndyaXRlbG4oJ29uQ2hhbmdlLCBjaGFuZ2VkRmlsZXM6JywgT2JqZWN0LmtleXMoY2hhbmdlZEZpbGVzKSk7CiAgICAgICAgZ3J1bnQuY29uZmlnKCd1Z2xpZnkudGFyZ2V0LmZpbGVzJywgW3sKICAgICAgICAgICAgZXhwYW5kOiB0cnVlLAogICAgICAgICAgICBjd2Q6IHBhdGhzLnNyY1N5bWxpbmssCiAgICAgICAgICAgIHNyYzogT2JqZWN0LmtleXMoY2hhbmdlZEZpbGVzKSwKICAgICAgICAgICAgZGVzdDogcGF0aHMuZGlzdAogICAgICAgIH1dKTsKICAgICAgICBjaGFuZ2VkRmlsZXMgPSBPYmplY3QuY3JlYXRlKG51bGwpOwogICAgfSwgMjAwKTsKICAgIAogICAgdmFyIGFkZENoYW5nZWRGaWxlID0gZnVuY3Rpb24oIGFjdGlvbiwgZmlsZXBhdGggKSB7CiAgICAgICAgLy8gc3RvcmUgZWFjaCBmaWxlcGF0aCBpbiBhIEZpbGVzIG9iaiwgdGhlIGRlYm91bmNlZCBmbiBhYm92ZSB3aWxsIHVzZSBpdCBhcyBhbiBhZ2dyZWdhdGUgbGlzdCBmb3IgY29weWluZwogICAgICAgIC8vIHdlIG5lZWQgdG8gdGFrZSBnYWxheHkvc2NyaXB0cyBvdXQgb2YgdGhlIGZpbGVwYXRoIG9yIGl0IHdpbGwgYmUgY29waWVkIHRvIHRoZSB3cm9uZyBsb2MKICAgICAgICBncnVudC5sb2cud3JpdGVsbignb25DaGFuZ2UsIGNvdWNvdScpOwogICAgICAgIGZpbGVwYXRoID0gZmlsZXBhdGgucmVwbGFjZSggcGF0aHMuc3JjU3ltbGluayArICcvJywgJycgKTsKICAgICAgICAvLyBncnVudC5sb2cud3JpdGVsbiggJ29uLndhdGNoLCBmaWxlcGF0aDonLCBmaWxlcGF0aCApOwogICAgICAgIGNoYW5nZWRGaWxlc1sgZmlsZXBhdGggXSA9IGFjdGlvbjsKICAgICAgICBvbkNoYW5nZSgpOwogICAgfTsK</text>
+        <text encoding="base64">aWYgeW91IHByZWZlci4K</text>
       </register>
-      <register name="6" type="4">
-        <text>'</text>
+      <register name="6" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFEClRoaXMgc3RhcnRzIGEgbmV3IGdydW50IHdhdGNoIHByb2Nlc3MgdGhhdCB3aWxsIG1vbml0b3IgdGhlIGZpbGVzLCBpbiB0aGUgY29ycmVzcG9uZGluZyBmb2xkZXIsIGZvciBjaGFuZ2VzIGFuZCBjb3B5IGFuZApyZWJ1aWxkIHRoZW0gd2hlbiB0aGV5IGNoYW5nZS4KCllvdSBjYW4gc3RvcCB0aGUgd2F0Y2ggdGFzayBieSBwcmVzc2luZyBgQ3RybCtDYC4gTm90ZTogeW91IHNob3VsZCBhbHNvIGJlIGFibGUgdG8gYmFja2dyb3VuZCB0aGF0IHRhc2sK</text>
       </register>
       <register name="7" type="4">
-        <text>'</text>
+        <text>in `client/galaxy/scripts`</text>
       </register>
       <register name="8" type="4">
-        <text>client/style/less/**</text>
+        <text>opy,pack only those changed</text>
       </register>
-      <register name="9" type="4">
-        <text />
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIC8vYmFja2dyb3VuZC1pbWFnZTogdXJsKGluZm9fc21hbGwucG5nKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>toto</last-search>
+      <last-search encoding="base64">XDxzY3JpcHRzXD4=</last-search>
       <last-offset />
-      <last-pattern>toto</last-pattern>
+      <last-pattern encoding="base64">XDxzY3JpcHRzXD4=</last-pattern>
       <last-replace>toto</last-replace>
       <last-substitute>tool_list</last-substitute>
       <last-dir>1</last-dir>
@@ -258,6 +260,8 @@
         <entry>tool_list</entry>
         <entry>source_suffix</entry>
         <entry>toto</entry>
+        <entry>watch</entry>
+        <entry encoding="base64">XDxzY3JpcHRzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>s/tool_list/toto</entry>
