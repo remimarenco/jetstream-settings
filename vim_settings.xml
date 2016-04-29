@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/start_script.py" timestamp="1461363640213">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/dependencies/pinned-requirements.txt" timestamp="1461800905155">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -17,10 +14,11 @@
         <mark key="]" line="35" column="3" />
         <mark key="." line="35" column="3" />
       </file>
-      <file name="/Python Console" timestamp="1461487242684">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/client/grunt-tasks/scripts.js" timestamp="1461946938217">
+        <mark key="'" line="120" column="4" />
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="107" column="43" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/client/grunt-tasks/scripts.js" timestamp="1461941384305" />
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/client/GruntFile.js" timestamp="1461941607551" />
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1461543690549">
         <mark key="[" line="31" column="65" />
@@ -28,9 +26,7 @@
         <mark key="." line="32" column="51" />
         <mark key="^" line="32" column="51" />
       </file>
-      <file name="/a.dummy" timestamp="1461941614496">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="/a.dummy" timestamp="1461947866641" />
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy161/tool_list.py" timestamp="1461497852408">
         <mark key="'" line="23" column="8" />
         <mark key="[" line="23" column="15" />
@@ -76,12 +72,6 @@
         <mark key="." line="10" column="6" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/client/package.json" timestamp="1461943283396" />
-      <file name="/Dummy.txt" timestamp="1461369485396">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/todotica/config.py.sample" timestamp="1461430909924">
-        <mark key="[" line="0" column="36" />
-      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/README.md" timestamp="1461789433777">
         <mark key="[" line="10" column="24" />
         <mark key="]" line="10" column="23" />
@@ -120,13 +110,19 @@
         <mark key="^" line="11" column="2" />
         <mark key="." line="11" column="2" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/client/grunt-tasks/style.js" timestamp="1461948236227">
+        <mark key="[" line="78" column="91" />
+        <mark key="]" line="78" column="107" />
+        <mark key="^" line="78" column="107" />
+        <mark key="." line="78" column="107" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/index.rst" timestamp="1461798732415" />
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/client/galaxy/style/less/base.less" timestamp="1461944610797">
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/client/galaxy/style/less/base.less" timestamp="1461948101507">
         <mark key="'" line="214" column="4" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
+        <mark key="[" line="815" column="0" />
+        <mark key="]" line="815" column="0" />
         <mark key="^" line="200" column="3" />
-        <mark key="." line="9" column="0" />
+        <mark key="." line="815" column="0" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/.gitignore" timestamp="1461375392991">
         <mark key="'" line="66" column="21" />
@@ -142,12 +138,12 @@
         <mark key="^" line="12" column="25" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/scripts/slideshow/build_slideshow.py" timestamp="1461802223052" />
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/client/galaxy/style/less/galaxy_variables.less" timestamp="1461944069663">
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/client/galaxy/style/less/galaxy_variables.less" timestamp="1461947695310">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="35" column="13" />
-        <mark key="]" line="36" column="0" />
-        <mark key="^" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+        <mark key="[" line="35" column="11" />
+        <mark key="]" line="35" column="12" />
+        <mark key="." line="35" column="12" />
+        <mark key="^" line="35" column="11" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/todotica/config.py" timestamp="1461433314952">
         <mark key="[" line="1" column="22" />
@@ -254,46 +250,47 @@
       <jump line="128" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/slideshow/galaxy_architecture_2015.md" />
       <jump line="217" column="4" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/client/galaxy/style/less/base.less" />
       <jump line="0" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/client/galaxy/style/less/galaxy_variables.less" />
+      <jump line="120" column="4" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/client/grunt-tasks/scripts.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>opy,pack only those changed</text>
       </register>
       <register name="-" type="4">
-        <text>tools-{devteam,iuc}*</text>
+        <text>opy,pack only those changed</text>
       </register>
       <register name="/" type="4">
         <text>toto</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">PCEtLSBJbWFnZSB0byBmZXRjaCBhbmQgYWRkIC0tPgo=</text>
+      <register name="0" type="4">
+        <text />
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>opy,pack only those changed</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QHdoaXRlOiAjZmZmOwpAYmxhY2s6ICMwMDA7Cg==</text>
+        <text encoding="base64">ICAgIC8vYmFja2dyb3VuZC1pbWFnZTogdXJsKGluZm9fc21hbGwucG5nKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QHdoaXRlOiAjZmZmOwpAYmxhY2s6ICMwMDA7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">QHdoaXRlOiAjZmZmOwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">PGJyIC8+Cg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGdydW50LmV2ZW50Lm9uKCAnd2F0Y2gtc3R5bGUnLCBhZGRDaGFuZ2VkRmlsZSk7Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">PGJyIC8+Cg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIC8vIG91dGVyIHNjb3BlIHZhcmlhYmxlIGZvciB0aGUgZXZlbnQgaGFuZGxlciBhbmQgb25DaGFuZ2UgZm4gLSBiZWdpbiB3aXRoIGVtcHR5IGhhc2gKICAgIHZhciBjaGFuZ2VkRmlsZXMgPSBPYmplY3QuY3JlYXRlKG51bGwpOwoKICAgIC8vIHdoZW4gZmlsZXMgYXJlIGNoYW5nZWQsIHNldCB0aGUgY29weSBzcmMgYW5kIHBhY2tTY3JpcHRzIHRhcmdldCB0byB0aGUgZmlsZW5hbWVzIG9mIHRoZSB1cGRhdGVkIGZpbGVzCiAgICB2YXIgb25DaGFuZ2UgPSBncnVudC51dGlsLl8uZGVib3VuY2UoZnVuY3Rpb24oKSB7CiAgICAgICAgZ3J1bnQubG9nLndyaXRlbG4oJ29uQ2hhbmdlLCBjaGFuZ2VkRmlsZXM6JywgT2JqZWN0LmtleXMoY2hhbmdlZEZpbGVzKSk7CiAgICAgICAgZ3J1bnQuY29uZmlnKCd1Z2xpZnkudGFyZ2V0LmZpbGVzJywgW3sKICAgICAgICAgICAgZXhwYW5kOiB0cnVlLAogICAgICAgICAgICBjd2Q6IHBhdGhzLnNyY1N5bWxpbmssCiAgICAgICAgICAgIHNyYzogT2JqZWN0LmtleXMoY2hhbmdlZEZpbGVzKSwKICAgICAgICAgICAgZGVzdDogcGF0aHMuZGlzdAogICAgICAgIH1dKTsKICAgICAgICBjaGFuZ2VkRmlsZXMgPSBPYmplY3QuY3JlYXRlKG51bGwpOwogICAgfSwgMjAwKTsKICAgIAogICAgdmFyIGFkZENoYW5nZWRGaWxlID0gZnVuY3Rpb24oIGFjdGlvbiwgZmlsZXBhdGggKSB7CiAgICAgICAgLy8gc3RvcmUgZWFjaCBmaWxlcGF0aCBpbiBhIEZpbGVzIG9iaiwgdGhlIGRlYm91bmNlZCBmbiBhYm92ZSB3aWxsIHVzZSBpdCBhcyBhbiBhZ2dyZWdhdGUgbGlzdCBmb3IgY29weWluZwogICAgICAgIC8vIHdlIG5lZWQgdG8gdGFrZSBnYWxheHkvc2NyaXB0cyBvdXQgb2YgdGhlIGZpbGVwYXRoIG9yIGl0IHdpbGwgYmUgY29waWVkIHRvIHRoZSB3cm9uZyBsb2MKICAgICAgICBncnVudC5sb2cud3JpdGVsbignb25DaGFuZ2UsIGNvdWNvdScpOwogICAgICAgIGZpbGVwYXRoID0gZmlsZXBhdGgucmVwbGFjZSggcGF0aHMuc3JjU3ltbGluayArICcvJywgJycgKTsKICAgICAgICAvLyBncnVudC5sb2cud3JpdGVsbiggJ29uLndhdGNoLCBmaWxlcGF0aDonLCBmaWxlcGF0aCApOwogICAgICAgIGNoYW5nZWRGaWxlc1sgZmlsZXBhdGggXSA9IGFjdGlvbjsKICAgICAgICBvbkNoYW5nZSgpOwogICAgfTsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">PGJyIC8+Cg==</text>
+      <register name="6" type="4">
+        <text>'</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">PGJyIC9kZD4K</text>
+      <register name="7" type="4">
+        <text>'</text>
+      </register>
+      <register name="8" type="4">
+        <text>client/style/less/**</text>
+      </register>
+      <register name="9" type="4">
+        <text />
       </register>
       <register name=":" type="4">
         <text>w</text>
