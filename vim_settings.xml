@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/start_script.py" timestamp="1461363640213">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/dependencies/pinned-requirements.txt" timestamp="1461800905155">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -14,20 +17,20 @@
         <mark key="]" line="35" column="3" />
         <mark key="." line="35" column="3" />
       </file>
+      <file name="/Python Console" timestamp="1461976296553">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/client/grunt-tasks/scripts.js" timestamp="1461946938217">
         <mark key="'" line="120" column="4" />
         <mark key="[" line="98" column="0" />
         <mark key="]" line="107" column="43" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/client/GruntFile.js" timestamp="1461941607551" />
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1461543690549">
         <mark key="[" line="31" column="65" />
         <mark key="]" line="32" column="51" />
         <mark key="." line="32" column="51" />
         <mark key="^" line="32" column="51" />
       </file>
-      <file name="/a.dummy" timestamp="1461947866641" />
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/scripts/slideshow_template.html.py" timestamp="1461797734165" />
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/slideshow/galaxy_architecture_2015.md" timestamp="1461880849143">
         <mark key="'" line="122" column="0" />
         <mark key="[" line="420" column="0" />
@@ -50,7 +53,6 @@
         <mark key="^" line="10" column="6" />
         <mark key="." line="10" column="6" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/client/package.json" timestamp="1461943283396" />
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/client/README.md" timestamp="1461958244920">
         <mark key="[" line="92" column="14" />
         <mark key="]" line="93" column="13" />
@@ -59,6 +61,12 @@
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/twoBitCreator.py" timestamp="1461697393150">
         <mark key="'" line="18" column="12" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1461369485396">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/todotica/config.py.sample" timestamp="1461430909924">
+        <mark key="[" line="0" column="36" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/README.md" timestamp="1461789433777">
         <mark key="[" line="10" column="24" />
@@ -77,7 +85,6 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/planemo_remi/scripts/build_slideshow.py" timestamp="1461800430642" />
       <file name="$USER_HOME$/Google_Drive/Dev/todotica/README.md" timestamp="1461431619365">
         <mark key="[" line="11" column="3" />
         <mark key="]" line="11" column="2" />
@@ -87,14 +94,12 @@
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" timestamp="1461605645576">
         <mark key="'" line="40" column="115" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/index.rst" timestamp="1461798732415" />
       <file name="$USER_HOME$/Google_Drive/Dev/todotica/Task.py" timestamp="1461487170384">
         <mark key="[" line="12" column="20" />
         <mark key="]" line="12" column="25" />
         <mark key="." line="12" column="25" />
         <mark key="^" line="12" column="25" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/scripts/slideshow/build_slideshow.py" timestamp="1461802223052" />
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/client/galaxy/style/less/galaxy_variables.less" timestamp="1461947695310">
         <mark key="'" line="0" column="0" />
       </file>
@@ -104,7 +109,7 @@
         <mark key="." line="1" column="57" />
         <mark key="^" line="1" column="57" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/blastXmlToPsl/blastXmlToPsl.xml" timestamp="1461975045312">
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/blastXmlToPsl/blastXmlToPsl.xml" timestamp="1461976721788">
         <mark key="[" line="13" column="22" />
         <mark key="]" line="13" column="22" />
         <mark key="." line="13" column="22" />
