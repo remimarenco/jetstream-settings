@@ -65,6 +65,12 @@
         <mark key="^" line="10" column="6" />
         <mark key="." line="10" column="6" />
       </file>
+      <file name="$USER_HOME$/Downloads/tblastn_blastXmlToPsl_test/tblastn_Dbia3_ci.xml.psl" timestamp="1462055669578">
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="0" column="19" />
+        <mark key="^" line="0" column="19" />
+        <mark key="." line="0" column="19" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/blastXmlToPsl/README.md" timestamp="1461978698166">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="70" />
@@ -267,7 +273,7 @@
         <text>trfbig</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q!</text>
       </register>
     </registers>
     <search>
@@ -304,6 +310,7 @@
         <entry>s</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>q!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
