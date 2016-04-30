@@ -25,6 +25,12 @@
         <mark key="[" line="98" column="0" />
         <mark key="]" line="107" column="43" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/pslToBed/pslToBed.xml" timestamp="1461979679611">
+        <mark key="[" line="7" column="8" />
+        <mark key="]" line="7" column="27" />
+        <mark key="." line="7" column="27" />
+        <mark key="^" line="7" column="27" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1461543690549">
         <mark key="[" line="31" column="65" />
         <mark key="]" line="32" column="51" />
@@ -37,6 +43,12 @@
         <mark key="]" line="416" column="58" />
         <mark key="^" line="416" column="58" />
         <mark key="." line="416" column="58" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/pslToBed/.shed.yml" timestamp="1461979212496">
+        <mark key="[" line="2" column="5" />
+        <mark key="]" line="2" column="13" />
+        <mark key="." line="2" column="13" />
+        <mark key="^" line="2" column="13" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/scripts/slideshow_template.html" timestamp="1461797800889">
         <mark key="[" line="21" column="0" />
@@ -52,6 +64,12 @@
         <mark key="]" line="10" column="6" />
         <mark key="^" line="10" column="6" />
         <mark key="." line="10" column="6" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/blastXmlToPsl/README.md" timestamp="1461978698166">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="70" />
+        <mark key="^" line="3" column="70" />
+        <mark key="." line="3" column="70" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/client/README.md" timestamp="1461958244920">
         <mark key="[" line="92" column="14" />
@@ -80,11 +98,6 @@
         <mark key="^" line="0" column="5" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/scripts/build_slideshow.py" timestamp="1461797922190">
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/todotica/README.md" timestamp="1461431619365">
         <mark key="[" line="11" column="3" />
         <mark key="]" line="11" column="2" />
@@ -109,11 +122,12 @@
         <mark key="." line="1" column="57" />
         <mark key="^" line="1" column="57" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/blastXmlToPsl/blastXmlToPsl.xml" timestamp="1461976721788">
-        <mark key="[" line="13" column="22" />
-        <mark key="]" line="13" column="22" />
-        <mark key="." line="13" column="22" />
-        <mark key="^" line="13" column="25" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/blastXmlToPsl/blastXmlToPsl.xml" timestamp="1461978653284">
+        <mark key="'" line="18" column="38" />
+        <mark key="[" line="0" column="32" />
+        <mark key="]" line="0" column="64" />
+        <mark key="." line="0" column="32" />
+        <mark key="^" line="0" column="62" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/conf.py" timestamp="1461801959447">
         <mark key="'" line="21" column="27" />
@@ -210,46 +224,47 @@
       <jump line="120" column="4" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/client/grunt-tasks/scripts.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/client/README.md" />
       <jump line="93" column="35" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/client/README.md" />
+      <jump line="18" column="38" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/blastXmlToPsl/blastXmlToPsl.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>pdf</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBUT0RPOiBGaWxsIGluIGhlbHAuCg==</text>
       </register>
       <register name="-" type="4">
-        <text>pdf</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzY3JpcHRzXD4=</text>
       </register>
       <register name="0" type="4">
-        <text />
+        <text>convert blast XML output to PSLs</text>
       </register>
-      <register name="1" type="4">
-        <text>pdf</text>
-      </register>
-      <register name="2" type="4">
-        <text>param</text>
-      </register>
-      <register name="3" type="2">
+      <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBUT0RPOiBGaWxsIGluIGhlbHAuCg==</text>
       </register>
+      <register name="2" type="4">
+        <text>&quot;</text>
+      </register>
+      <register name="3" type="4">
+        <text>data</text>
+      </register>
       <register name="4" type="4">
-        <text encoding="base64">IHRibGFzdG5fRGJpYTNfY2kueG1sLnBzbA==</text>
+        <text>=&quot;</text>
       </register>
       <register name="5" type="4">
-        <text>tblastn_Dbia3_ci.xm</text>
+        <text>dwtype</text>
       </register>
       <register name="6" type="4">
-        <text>tblastn_Dbia3_ci.xml tblastn_Dbia3_ci.xml.psl</text>
+        <text>tblastn_Dbia3_ci.xml.ps</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPOiBGaWxsIGluIGNvbW1hbmQgdGVtcGxhdGUuCg==</text>
+      <register name="7" type="4">
+        <text>tblastn_Dbia3_ci.xml.be</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PT09PT09PQpUaGlzIHN0YXJ0cyBhIG5ldyBncnVudCB3YXRjaCBwcm9jZXNzIHRoYXQgd2lsbCBtb25pdG9yIHRoZSBmaWxlcyB0aGUgY29ycmVzcG9uZGluZyBmb2xkZXIgZm9yIGNoYW5nZXMgYW5kIGNvcHkgYW5kCnJlYnVpbGQgdGhlbSB3aGVuIHRoZXkgY2hhbmdlLgoKWW91IGNhbiBzdG9wIHRoZSBgZ3J1bnQgd2F0Y2gqYCB0YXNrIGJ5IHByZXNzaW5nIGBDdHJsK0NgLiBOb3RlOiB5b3Ugc2hvdWxkIGFsc28gYmUgYWJsZSB0byBiYWNrZ3JvdW5kIHRoYXQgdGFzayBpZiB5b3UKcHJlZmVyLgo+Pj4+Pj4+IDQxZmU0NDNmMzE1N2FkMzk1ZDAxOWZkZDFkNzc2ODRlYzE3ZmQwMDMK</text>
+        <text encoding="base64">ICAgICAgICBUT0RPOiBGaWxsIGluIGNvbW1hbmQgdGVtcGxhdGUuCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+      <register name="9" type="4">
+        <text>trfbig</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -284,10 +299,10 @@
         <entry>s/tool_list/toto</entry>
         <entry>s/tool_list/toto/gi</entry>
         <entry>s/tool_list/toto/gc</entry>
-        <entry>wq</entry>
         <entry>vimgrep</entry>
         <entry>q</entry>
         <entry>s</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
