@@ -25,11 +25,11 @@
         <mark key="[" line="98" column="0" />
         <mark key="]" line="107" column="43" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/pslToBed/pslToBed.xml" timestamp="1462060938133">
-        <mark key="[" line="0" column="26" />
-        <mark key="]" line="0" column="33" />
-        <mark key="." line="0" column="33" />
-        <mark key="^" line="0" column="33" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/pslToBed/pslToBed.xml" timestamp="1462063757507">
+        <mark key="[" line="16" column="14" />
+        <mark key="]" line="16" column="14" />
+        <mark key="." line="16" column="14" />
+        <mark key="^" line="16" column="14" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1461543690549">
         <mark key="[" line="31" column="65" />
@@ -120,6 +120,12 @@
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/client/galaxy/style/less/galaxy_variables.less" timestamp="1461947695310">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/pslToBed/README.md" timestamp="1462063929760">
+        <mark key="[" line="5" column="45" />
+        <mark key="]" line="5" column="98" />
+        <mark key="^" line="5" column="98" />
+        <mark key="." line="5" column="98" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/todotica/config.py" timestamp="1461433314952">
         <mark key="[" line="1" column="22" />
@@ -233,10 +239,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>tranform a psl format file to a bed format file</text>
+        <text>x86_64</text>
       </register>
       <register name="-" type="4">
-        <text>tranform a psl format file to a bed format file</text>
+        <text>x86_64</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzY3JpcHRzXD4=</text>
@@ -245,34 +251,34 @@
         <text>convert blast XML output to PSLs</text>
       </register>
       <register name="1" type="4">
-        <text>tranform a psl format file to a bed format file</text>
+        <text>x86_64</text>
       </register>
       <register name="2" type="4">
-        <text>convert blast XML output to PSLs</text>
+        <text>.</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">NC4gQWRkIHRoZSBkYXRhdHlwZSAncHNsJywgaWYgeW91IHdhbnQgdG8gdXNlIHRoZSB3b3JrZmxvdwo=</text>
+      <register name="3" type="4">
+        <text>linux</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPOiBGaWxsIGluIGhlbHAuCg==</text>
+        <text encoding="base64">LSBibGFzdFhtbFRvUHNsIC1jb252ZXJ0VG9OdWNDb29yZHMgJGlucHV0ICRvdXRwdXQK</text>
       </register>
-      <register name="5" type="4">
-        <text>&quot;</text>
+      <register name="5" type="2">
+        <text encoding="base64">VGhpcyB0b29sIGlzIGNvbmZpZ3VyZWQgb25seSB0byB1c2UgdGhpcyBjb21tYW5kLCBhdCB0aGUgbW9tZW50Ogo=</text>
       </register>
-      <register name="6" type="4">
-        <text>data</text>
+      <register name="6" type="2">
+        <text encoding="base64">UGxlYXNlIHVzZSBhbm90aGVyIHRvb2wgb3IgY29udGFjdCB0aGUgb3duZXIgYXQgcm1hcmVuY28gYXQgZ3d1IGRvdCBlZHUK</text>
       </register>
       <register name="7" type="4">
-        <text>=&quot;</text>
+        <text>tranform a psl format file to a bed format file</text>
       </register>
       <register name="8" type="4">
-        <text>dwtype</text>
+        <text>convert blast XML output to PSLs</text>
       </register>
-      <register name="9" type="4">
-        <text>tblastn_Dbia3_ci.xml.ps</text>
+      <register name="9" type="2">
+        <text encoding="base64">NC4gQWRkIHRoZSBkYXRhdHlwZSAncHNsJywgaWYgeW91IHdhbnQgdG8gdXNlIHRoZSB3b3JrZmxvdwo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -308,8 +314,8 @@
         <entry>q</entry>
         <entry>s</entry>
         <entry>q!</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
