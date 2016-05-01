@@ -25,11 +25,11 @@
         <mark key="[" line="98" column="0" />
         <mark key="]" line="107" column="43" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/pslToBed/pslToBed.xml" timestamp="1461979679611">
-        <mark key="[" line="7" column="8" />
-        <mark key="]" line="7" column="27" />
-        <mark key="." line="7" column="27" />
-        <mark key="^" line="7" column="27" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/pslToBed/pslToBed.xml" timestamp="1462060938133">
+        <mark key="[" line="0" column="26" />
+        <mark key="]" line="0" column="33" />
+        <mark key="." line="0" column="33" />
+        <mark key="^" line="0" column="33" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1461543690549">
         <mark key="[" line="31" column="65" />
@@ -127,12 +127,12 @@
         <mark key="." line="1" column="57" />
         <mark key="^" line="1" column="57" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/blastXmlToPsl/blastXmlToPsl.xml" timestamp="1461978653284">
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/blastXmlToPsl/blastXmlToPsl.xml" timestamp="1462060920700">
         <mark key="'" line="18" column="38" />
-        <mark key="[" line="0" column="32" />
-        <mark key="]" line="0" column="64" />
-        <mark key="." line="0" column="32" />
-        <mark key="^" line="0" column="62" />
+        <mark key="[" line="0" column="31" />
+        <mark key="]" line="0" column="43" />
+        <mark key="." line="0" column="43" />
+        <mark key="^" line="0" column="43" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/conf.py" timestamp="1461801959447">
         <mark key="'" line="21" column="27" />
@@ -232,11 +232,11 @@
       <jump line="18" column="38" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/blastXmlToPsl/blastXmlToPsl.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">NC4gQWRkIHRoZSBkYXRhdHlwZSAncHNsJywgaWYgeW91IHdhbnQgdG8gdXNlIHRoZSB3b3JrZmxvdwo=</text>
+      <register name="&quot;" type="4">
+        <text>tranform a psl format file to a bed format file</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>tranform a psl format file to a bed format file</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzY3JpcHRzXD4=</text>
@@ -244,35 +244,35 @@
       <register name="0" type="4">
         <text>convert blast XML output to PSLs</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>tranform a psl format file to a bed format file</text>
+      </register>
+      <register name="2" type="4">
+        <text>convert blast XML output to PSLs</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">NC4gQWRkIHRoZSBkYXRhdHlwZSAncHNsJywgaWYgeW91IHdhbnQgdG8gdXNlIHRoZSB3b3JrZmxvdwo=</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBUT0RPOiBGaWxsIGluIGhlbHAuCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>&quot;</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>data</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>=&quot;</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>dwtype</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>tblastn_Dbia3_ci.xml.ps</text>
       </register>
-      <register name="8" type="4">
-        <text>tblastn_Dbia3_ci.xml.be</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPOiBGaWxsIGluIGNvbW1hbmQgdGVtcGxhdGUuCg==</text>
-      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -307,9 +307,9 @@
         <entry>vimgrep</entry>
         <entry>q</entry>
         <entry>s</entry>
-        <entry>wq</entry>
         <entry>q!</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
