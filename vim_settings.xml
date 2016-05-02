@@ -118,6 +118,13 @@
         <mark key="." line="12" column="25" />
         <mark key="^" line="12" column="25" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/scripts/slideshow/build_slideshow.py" timestamp="1462210899733">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="26" column="10" />
+        <mark key="]" line="26" column="10" />
+        <mark key="^" line="26" column="10" />
+        <mark key="." line="26" column="10" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/client/galaxy/style/less/galaxy_variables.less" timestamp="1461947695310">
         <mark key="'" line="0" column="0" />
       </file>
@@ -236,6 +243,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/client/README.md" />
       <jump line="93" column="35" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/client/README.md" />
       <jump line="18" column="38" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/blastXmlToPsl/blastXmlToPsl.xml" />
+      <jump line="2" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/scripts/slideshow/build_slideshow.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
