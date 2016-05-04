@@ -172,12 +172,12 @@
         <mark key="^" line="263" column="0" />
         <mark key="." line="263" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bed.py" timestamp="1462399103118">
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bed.py" timestamp="1462401002836">
         <mark key="'" line="60" column="17" />
-        <mark key="[" line="60" column="13" />
-        <mark key="]" line="60" column="17" />
+        <mark key="[" line="53" column="26" />
+        <mark key="]" line="53" column="26" />
         <mark key="^" line="60" column="17" />
-        <mark key="." line="60" column="17" />
+        <mark key="." line="53" column="26" />
       </file>
     </filemarks>
     <jumps>
@@ -276,10 +276,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>twoBitFileCreator(self.inputFastaFile, ucsc_tools_path, mySpecieFolderPath)</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>twoBitFileCreator(self.inputFastaFile, ucsc_tools_path, mySpecieFolderPath)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzY3JpcHRzXD4=</text>
@@ -288,31 +288,31 @@
         <text encoding="base64">c2VsZi5zb3J0ZWRCZWRGaWxlIA==</text>
       </register>
       <register name="1" type="4">
-        <text>t</text>
+        <text>twoBitFileCreator(self.inputFastaFile, ucsc_tools_path, mySpecieFolderPath)</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICBzZWxmLmlucHV0QmVkR2VuZXJpYy5uYW1lLA==</text>
+        <text>twoBitFileCreator(self.inputFastaFile, ucsc_tools_path, mySpecieFolderPath)</text>
       </register>
       <register name="3" type="4">
-        <text>k</text>
+        <text>twoBitFileCreator(self.inputFastaFile, ucsc_tools_path, mySpecieFolderPath)</text>
       </register>
       <register name="4" type="4">
-        <text>sortedBedFil</text>
+        <text>t</text>
       </register>
       <register name="5" type="4">
-        <text>inputBedSimpleRepeatsFile</text>
+        <text>twoBitFileCreator(self.inputFastaFile, ucsc_tools_path, mySpecieFolderPath)</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>t</text>
       </register>
       <register name="7" type="4">
-        <text />
+        <text encoding="base64">ICAgICAgICAgICAgICAgICBzZWxmLmlucHV0QmVkR2VuZXJpYy5uYW1lLA==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>k</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>sortedBedFil</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
