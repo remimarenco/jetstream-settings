@@ -6,12 +6,6 @@
       <file name="/start_script.py" timestamp="1461363640213">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/dependencies/pinned-requirements.txt" timestamp="1461800905155">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/scripts/slideshow/example.md" timestamp="1461801926862">
         <mark key="[" line="35" column="3" />
         <mark key="]" line="35" column="3" />
@@ -36,6 +30,9 @@
         <mark key="]" line="32" column="51" />
         <mark key="." line="32" column="51" />
         <mark key="^" line="32" column="51" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/client/galaxy/scripts/viz/trackster/tracks.js" timestamp="1462373387205">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/slideshow/galaxy_architecture_2015.md" timestamp="1462309929294">
         <mark key="'" line="122" column="0" />
@@ -85,6 +82,9 @@
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/twoBitCreator.py" timestamp="1461697393150">
         <mark key="'" line="18" column="12" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/client/galaxy/scripts/viz/trackster/util.js" timestamp="1462373367438">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1461369485396">
         <mark key="[" line="0" column="0" />
@@ -244,6 +244,8 @@
       <jump line="93" column="35" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/client/README.md" />
       <jump line="18" column="38" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/blastXmlToPsl/blastXmlToPsl.xml" />
       <jump line="2" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/scripts/slideshow/build_slideshow.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/client/galaxy/scripts/viz/trackster/util.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/client/galaxy/scripts/viz/trackster/tracks.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
