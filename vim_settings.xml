@@ -34,6 +34,12 @@
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/client/galaxy/scripts/viz/trackster/tracks.js" timestamp="1462373387205">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/templates/js-app.mako" timestamp="1462375221321">
+        <mark key="[" line="21" column="25" />
+        <mark key="]" line="28" column="12" />
+        <mark key="^" line="28" column="12" />
+        <mark key="." line="28" column="12" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/slideshow/galaxy_architecture_2015.md" timestamp="1462309929294">
         <mark key="'" line="122" column="0" />
         <mark key="[" line="420" column="0" />
@@ -46,6 +52,11 @@
         <mark key="]" line="2" column="13" />
         <mark key="." line="2" column="13" />
         <mark key="^" line="2" column="13" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/templates/base.mako" timestamp="1462375051682">
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="95" column="0" />
+        <mark key="." line="95" column="0" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/scripts/slideshow_template.html" timestamp="1461797800889">
         <mark key="[" line="21" column="0" />
@@ -111,6 +122,11 @@
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" timestamp="1461605645576">
         <mark key="'" line="40" column="115" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/templates/webapps/galaxy/base_panels.mako" timestamp="1462375206528">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/todotica/Task.py" timestamp="1461487170384">
         <mark key="[" line="12" column="20" />
@@ -248,11 +264,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/client/galaxy/scripts/viz/trackster/tracks.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>x86_64</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>x86_64</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzY3JpcHRzXD4=</text>
@@ -260,32 +276,32 @@
       <register name="0" type="4">
         <text>convert blast XML output to PSLs</text>
       </register>
-      <register name="1" type="4">
-        <text>x86_64</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="4">
-        <text>.</text>
+        <text />
       </register>
-      <register name="3" type="4">
-        <text>linux</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LSBibGFzdFhtbFRvUHNsIC1jb252ZXJ0VG9OdWNDb29yZHMgJGlucHV0ICRvdXRwdXQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">VGhpcyB0b29sIGlzIGNvbmZpZ3VyZWQgb25seSB0byB1c2UgdGhpcyBjb21tYW5kLCBhdCB0aGUgbW9tZW50Ogo=</text>
+        <text encoding="base64">CjwvJWRlZj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">UGxlYXNlIHVzZSBhbm90aGVyIHRvb2wgb3IgY29udGFjdCB0aGUgb3duZXIgYXQgcm1hcmVuY28gYXQgZ3d1IGRvdCBlZHUK</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="7" type="4">
-        <text>tranform a psl format file to a bed format file</text>
+        <text />
       </register>
       <register name="8" type="4">
-        <text>convert blast XML output to PSLs</text>
+        <text>x86_64</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">NC4gQWRkIHRoZSBkYXRhdHlwZSAncHNsJywgaWYgeW91IHdhbnQgdG8gdXNlIHRoZSB3b3JrZmxvdwo=</text>
+      <register name="9" type="4">
+        <text>.</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
