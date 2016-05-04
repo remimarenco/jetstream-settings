@@ -89,7 +89,7 @@
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/client/galaxy/scripts/viz/trackster/util.js" timestamp="1462373367438">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/trfbig/trfBig.xml" timestamp="1462393653557" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/trfbig/trfBig.xml" timestamp="1462397136679" />
       <file name="/Dummy.txt" timestamp="1461369485396">
         <mark key="[" line="0" column="0" />
       </file>
@@ -114,8 +114,12 @@
         <mark key="^" line="11" column="2" />
         <mark key="." line="11" column="2" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" timestamp="1461605645576">
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" timestamp="1462397706439">
         <mark key="'" line="40" column="115" />
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="63" column="14" />
+        <mark key="^" line="63" column="14" />
+        <mark key="." line="63" column="14" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/templates/webapps/galaxy/base_panels.mako" timestamp="1462375206528">
         <mark key="[" line="9" column="0" />
@@ -164,12 +168,12 @@
         <mark key="^" line="263" column="0" />
         <mark key="." line="263" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bed.py" timestamp="1462390923307">
-        <mark key="'" line="35" column="12" />
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="83" column="16" />
-        <mark key="^" line="83" column="16" />
-        <mark key="." line="83" column="16" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bed.py" timestamp="1462398124908">
+        <mark key="'" line="37" column="12" />
+        <mark key="[" line="44" column="30" />
+        <mark key="]" line="87" column="32" />
+        <mark key="^" line="87" column="32" />
+        <mark key="." line="87" column="32" />
       </file>
     </filemarks>
     <jumps>
