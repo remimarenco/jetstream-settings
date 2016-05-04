@@ -14,11 +14,6 @@
       <file name="/Python Console" timestamp="1462207767052">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/client/grunt-tasks/scripts.js" timestamp="1461946938217">
-        <mark key="'" line="120" column="4" />
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="107" column="43" />
-      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/pslToBed/pslToBed.xml" timestamp="1462063757507">
         <mark key="[" line="16" column="14" />
         <mark key="]" line="16" column="14" />
@@ -111,6 +106,7 @@
         <mark key="^" line="0" column="5" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/BedSimpleRepeats.py" timestamp="1462390828997" />
       <file name="$USER_HOME$/Google_Drive/Dev/todotica/README.md" timestamp="1461431619365">
         <mark key="[" line="11" column="3" />
         <mark key="]" line="11" column="2" />
@@ -166,6 +162,13 @@
         <mark key="]" line="263" column="0" />
         <mark key="^" line="263" column="0" />
         <mark key="." line="263" column="0" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bed.py" timestamp="1462390923307">
+        <mark key="'" line="35" column="12" />
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="16" />
+        <mark key="^" line="83" column="16" />
+        <mark key="." line="83" column="16" />
       </file>
     </filemarks>
     <jumps>
@@ -259,46 +262,47 @@
       <jump line="2" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/scripts/slideshow/build_slideshow.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/client/galaxy/scripts/viz/trackster/util.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/client/galaxy/scripts/viz/trackster/tracks.js" />
+      <jump line="35" column="12" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bed.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICBzZWxmLmlucHV0QmVkR2VuZXJpYy5uYW1lLA==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">ICAgICAgICAgICAgICAgICBzZWxmLmlucHV0QmVkR2VuZXJpYy5uYW1lLA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzY3JpcHRzXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>convert blast XML output to PSLs</text>
+        <text encoding="base64">c2VsZi5zb3J0ZWRCZWRGaWxlIA==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICBzZWxmLmlucHV0QmVkR2VuZXJpYy5uYW1lLA==</text>
       </register>
       <register name="2" type="4">
-        <text />
+        <text>k</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>sortedBedFil</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>inputBedSimpleRepeatsFile</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CjwvJWRlZj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgCg==</text>
-      </register>
-      <register name="7" type="4">
+      <register name="6" type="4">
         <text />
       </register>
-      <register name="8" type="4">
-        <text>x86_64</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>.</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">CjwvJWRlZj4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
