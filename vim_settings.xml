@@ -104,6 +104,11 @@
         <mark key="]" line="18" column="1" />
         <mark key="." line="18" column="1" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/temp/myHub/dbia3/tracks/bed.bb" timestamp="1462473423391">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="1" />
+        <mark key="." line="0" column="1" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/requirements.txt" timestamp="1461801376946">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -176,12 +181,9 @@
         <mark key="^" line="263" column="0" />
         <mark key="." line="263" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bed.py" timestamp="1462463271959">
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bed.py" timestamp="1462474004148">
         <mark key="'" line="33" column="0" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="^" line="68" column="7" />
-        <mark key="." line="45" column="0" />
+        <mark key="[" line="79" column="28" />
       </file>
     </filemarks>
     <jumps>
@@ -288,10 +290,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkaW1wb3J0IHBkYjsgcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>�</text>
       </register>
       <register name="/" type="4">
         <text>s</text>
@@ -300,19 +302,19 @@
         <text encoding="base64">c2VsZi5zb3J0ZWRCZWRGaWxlIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkaW1wb3J0IHBkYjsgcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50ICJmYXN0RmlsZSByZWNlaXZlZDogJXMiICUgZmFzdGFGaWxlLm5hbWUKICAgIHByaW50ICJ1Y3NjX3Rvb2xzX3BhdGggcmVjZWl2ZWQ6ICVzIiAlIHVjc2NfdG9vbHNfcGF0aAogICAgcHJpbnQgIm15U3BlY2llRm9sZGVyIHJlY2VpZXZlZDogJXMiICUgbXlTcGVjaWVGb2xkZXIK</text>
+      <register name="2" type="4">
+        <text>�</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHByaW50ICJmYXN0RmlsZSByZWNlaXZlZDogJXMiICUgZmFzdGFGaWxlLm5hbWUKICAgIHByaW50ICJ1Y3NjX3Rvb2xzX3BhdGggcmVjZWl2ZWQ6ICVzIiAlIHVjc2NfdG9vbHNfcGF0aAogICAgcHJpbnQgIm15U3BlY2llRm9sZGVyIHJlY2VpZXZlZDogJXMiICUgbXlTcGVjaWVGb2xkZXIK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIGltcG9ydCBwZGI7IHBkYi5zZXRfdHJhY2UoKQo=</text>
-      </register>
-      <register name="4" type="4">
-        <text>i</text>
-      </register>
-      <register name="5" type="4">
-        <text>i</text>
       </register>
       <register name="6" type="4">
         <text>i</text>
@@ -320,11 +322,11 @@
       <register name="7" type="4">
         <text>i</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="8" type="4">
+        <text>i</text>
       </register>
       <register name="9" type="4">
-        <text>print &quot;Ok sort&quot;</text>
+        <text>i</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
