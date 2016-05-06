@@ -33,11 +33,11 @@
         <mark key="." line="95" column="0" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/datatypes_conf.xml" timestamp="1462545166062" />
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/tool_dependencies.xml" timestamp="1462465788428">
-        <mark key="[" line="9" column="20" />
-        <mark key="]" line="10" column="6" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/tool_dependencies.xml" timestamp="1462577747197">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
         <mark key="^" line="10" column="6" />
-        <mark key="." line="10" column="6" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/AugustusProcess.py" timestamp="1462490528823">
         <mark key="'" line="40" column="12" />
@@ -147,9 +147,15 @@
         <mark key="^" line="57" column="40" />
         <mark key="." line="43" column="0" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubaDataType/hubAssembly.py" timestamp="1462577598241">
+        <mark key="'" line="4" column="31" />
+        <mark key="[" line="7" column="3" />
+        <mark key="]" line="7" column="17" />
+        <mark key="." line="7" column="17" />
+        <mark key="^" line="7" column="17" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" />
       <jump line="58" column="32" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/AugustusProcess.py" />
       <jump line="71" column="12" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/AugustusProcess.py" />
       <jump line="83" column="12" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/AugustusProcess.py" />
@@ -249,13 +255,14 @@
       <jump line="40" column="9" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/add_datatype.py" />
       <jump line="51" column="9" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/add_datatype.py" />
       <jump line="18" column="4" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/add_datatype.py" />
+      <jump line="4" column="31" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubaDataType/hubAssembly.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>../../..</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>../../..</text>
+        <text>version</text>
       </register>
       <register name="/" type="4">
         <text>datatype_path</text>
@@ -263,35 +270,35 @@
       <register name="0" type="4">
         <text>galaxy_root_path</text>
       </register>
-      <register name="1" type="4">
-        <text>../../..</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIGFkZHJncy5nYWxheHlfcm9vdDoK</text>
-      </register>
-      <register name="3" type="2">
+      <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIC0tPgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIDxwYWNrYWdlIG5hbWU9InR3b0JpdEluZm8iIHZlcnNpb249IjAuMC4xIj4KICAgICAgICA8aW5zdGFsbCB2ZXJzaW9uPSIxLjAiPgogICAgICAgICAgICA8YWN0aW9ucz4KICAgICAgICAgICAgICAgIDxhY3Rpb24gdHlwZT0iZG93bmxvYWRfYmluYXJ5IiB0YXJnZXRfZGlyZWN0b3J5PSJiaW4iPgogICAgICAgICAgICAgICAgICAgIDx1cmxfdGVtcGxhdGUgb3M9ImRhcndpbiI+aHR0cDovL2hnZG93bmxvYWQuY3NlLnVjc2MuZWR1L2FkbWluL2V4ZS9tYWNPU1guJHthcmNoaXRlY3R1cmV9L3R3b0JpdEluZm88L3VybF90ZW1wbGF0ZT4KICAgICAgICAgICAgICAgICAgICA8dXJsX3RlbXBsYXRlIG9zPSJsaW51eCI+aHR0cDovL2hnZG93bmxvYWQuY3NlLnVjc2MuZWR1L2FkbWluL2V4ZS9saW51eC4ke2FyY2hpdGVjdHVyZX0vdHdvQml0SW5mbzwvdXJsX3RlbXBsYXRlPgogICAgICAgICAgICAgICAgPC9hY3Rpb24+CiAgICAgICAgICAgICAgICA8YWN0aW9uIHR5cGU9ImNobW9kIj4KICAgICAgICAgICAgICAgICAgICA8ZmlsZSBtb2RlPSI3NTAiPiRJTlNUQUxMX0RJUi9iaW4vdHdvQml0SW5mbzwvZmlsZT4KICAgICAgICAgICAgICAgIDwvYWN0aW9uPgogICAgICAgICAgICAgICAgPGFjdGlvbiB0eXBlPSJzZXRfZW52aXJvbm1lbnQiPgogICAgICAgICAgICAgICAgICAgIDxlbnZpcm9ubWVudF92YXJpYWJsZSBuYW1lPSJQQVRIIiBhY3Rpb249InByZXBlbmRfdG8iPiRJTlNUQUxMX0RJUi9iaW48L2Vudmlyb25tZW50X3ZhcmlhYmxlPgogICAgICAgICAgICAgICAgPC9hY3Rpb24+CiAgICAgICAgICAgIDwvYWN0aW9ucz4KICAgICAgICA8L2luc3RhbGw+CiAgICAgICAgPHJlYWRtZT5UaGUgdG9vbHMgZG93bmxvYWRlZCBieSB0aGlzIGRlcGVuZGVuY3kgZGVmaW5pdGlvbiBhcmUgZnJlZSBmb3IgYWNhZGVtaWMgdXNlLjwvcmVhZG1lPgogICAgPC9wYWNrYWdlPgoKICAgIDxwYWNrYWdlIG5hbWU9ImJlZFRvQmlnQmVkIiB2ZXJzaW9uPSIwLjAuMSI+CiAgICAgICAgPGluc3RhbGwgdmVyc2lvbj0iMS4wIj4KICAgICAgICAgICAgPGFjdGlvbnM+CiAgICAgICAgICAgICAgICA8YWN0aW9uIHR5cGU9ImRvd25sb2FkX2JpbmFyeSIgdGFyZ2V0X2RpcmVjdG9yeT0iYmluIj4KICAgICAgICAgICAgICAgICAgICA8dXJsX3RlbXBsYXRlIG9zPSJkYXJ3aW4iPmh0dHA6Ly9oZ2Rvd25sb2FkLmNzZS51Y3NjLmVkdS9hZG1pbi9leGUvbWFjT1NYLiR7YXJjaGl0ZWN0dXJlfS9iZWRUb0JpZ0JlZDwvdXJsX3RlbXBsYXRlPgogICAgICAgICAgICAgICAgICAgIDx1cmxfdGVtcGxhdGUgb3M9ImxpbnV4Ij5odHRwOi8vaGdkb3dubG9hZC5jc2UudWNzYy5lZHUvYWRtaW4vZXhlL2xpbnV4LiR7YXJjaGl0ZWN0dXJlfS9iZWRUb0JpZ0JlZDwvdXJsX3RlbXBsYXRlPgogICAgICAgICAgICAgICAgPC9hY3Rpb24+CiAgICAgICAgICAgICAgICA8YWN0aW9uIHR5cGU9ImNobW9kIj4KICAgICAgICAgICAgICAgICAgICA8ZmlsZSBtb2RlPSI3NTAiPiRJTlNUQUxMX0RJUi9iaW4vYmVkVG9CaWdCZWQ8L2ZpbGU+CiAgICAgICAgICAgICAgICA8L2FjdGlvbj4KICAgICAgICAgICAgICAgIDxhY3Rpb24gdHlwZT0ic2V0X2Vudmlyb25tZW50Ij4KICAgICAgICAgICAgICAgICAgICA8ZW52aXJvbm1lbnRfdmFyaWFibGUgbmFtZT0iUEFUSCIgYWN0aW9uPSJwcmVwZW5kX3RvIj4kSU5TVEFMTF9ESVIvYmluPC9lbnZpcm9ubWVudF92YXJpYWJsZT4KICAgICAgICAgICAgICAgIDwvYWN0aW9uPgogICAgICAgICAgICAKICAgICAgICA8L2luc3RhbGw+CiAgICAgICAgPHJlYWRtZT5UaGUgdG9vbHMgZG93bmxvYWRlZCBieSB0aGlzIGRlcGVuZGVuY3kgZGVmaW5pdGlvbiBhcmUgZnJlZSBmb3IgYWNhZGVtaWMgdXNlLjwvcmVhZG1lPgogICAgPC9wYWNrYWdlPgoKICAgIDxwYWNrYWdlIG5hbWU9ImZhVG9Ud29CaXQiIHZlcnNpb249IjAuMC4xIj4KICAgICAgICA8aW5zdGFsbCB2ZXJzaW9uPSIxLjAiPgogICAgICAgICAgICA8YWN0aW9ucz4KICAgICAgICAgICAgICAgIDxhY3Rpb24gdHlwZT0iZG93bmxvYWRfYmluYXJ5IiB0YXJnZXRfZGlyZWN0b3J5PSJiaW4iPgogICAgICAgICAgICAgICAgICAgIDx1cmxfdGVtcGxhdGUgb3M9ImRhcndpbiI+aHR0cDovL2hnZG93bmxvYWQuY3NlLnVjc2MuZWR1L2FkbWluL2V4ZS9tYWNPU1guJHthcmNoaXRlY3R1cmV9L2ZhVG9Ud29CaXQ8L3VybF90ZW1wbGF0ZT4KICAgICAgICAgICAgICAgICAgICA8dXJsX3RlbXBsYXRlIG9zPSJsaW51eCI+aHR0cDovL2hnZG93bmxvYWQuY3NlLnVjc2MuZWR1L2FkbWluL2V4ZS9saW51eC4ke2FyY2hpdGVjdHVyZX0vZmFUb1R3b0JpdDwvdXJsX3RlbXBsYXRlPgogICAgICAgICAgICAgICAgPC9hY3Rpb24+CiAgICAgICAgICAgICAgICA8YWN0aW9uIHR5cGU9ImNobW9kIj4KICAgICAgICAgICAgICAgICAgICA8ZmlsZSBtb2RlPSI3NTAiPiRJTlNUQUxMX0RJUi9iaW4vZmFUb1R3b0JpdDwvZmlsZT4KICAgICAgICAgICAgICAgIDwvYWN0aW9uPgogICAgICAgICAgICAgICAgPGFjdGlvbiB0eXBlPSJzZXRfZW52aXJvbm1lbnQiPgogICAgICAgICAgICAgICAgICAgIDxlbnZpcm9ubWVudF92YXJpYWJsZSBuYW1lPSJQQVRIIiBhY3Rpb249InByZXBlbmRfdG8iPiRJTlNUQUxMX0RJUi9iaW48L2Vudmlyb25tZW50X3ZhcmlhYmxlPgogICAgICAgICAgICAgICAgPC9hY3Rpb24+CiAgICAgICAgICAgIDwvYWN0aW9ucz4KICAgICAgICA8L2luc3RhbGw+CiAgICAgICAgPHJlYWRtZT5UaGUgdG9vbHMgZG93bmxvYWRlZCBieSB0aGlzIGRlcGVuZGVuY3kgZGVmaW5pdGlvbiBhcmUgZnJlZSBmb3IgYWNhZGVtaWMgdXNlLjwvcmVhZG1lPgogICAgPC9wYWNrYWdlPgo=</text>
+      </register>
       <register name="4" type="4">
-        <text>displayApp_ucsc_path</text>
+        <text>version</text>
       </register>
       <register name="5" type="4">
-        <text>displayApp_ucsc_path</text>
+        <text>.</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+        <text>as</text>
       </register>
       <register name="7" type="4">
-        <text>#</text>
+        <text>version</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDwvZGF0YXR5cGU+Cg==</text>
+        <text encoding="base64">ICAgIGlmCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPGRpc3BsYXkgZmlsZT0idWNzYy9odWJhLnhtbCIgLz4K</text>
+        <text encoding="base64">Zm9yIGxpbmUgaW4gdmVyc2lvbkZpbGU6Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -340,8 +347,8 @@
         <entry>%s/Popen/check_call/gc</entry>
         <entry>%s/check_output/check_call/gc</entry>
         <entry>%s/datatype_path/datatype_conf_path/gc</entry>
-        <entry>w</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
