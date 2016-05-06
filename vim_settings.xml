@@ -94,6 +94,12 @@
         <mark key="^" line="76" column="43" />
         <mark key="." line="66" column="0" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/TrackHub.py" timestamp="1462548528597">
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="0" />
+        <mark key="^" line="76" column="0" />
+        <mark key="." line="79" column="0" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" timestamp="1462468969752">
         <mark key="'" line="16" column="0" />
         <mark key="[" line="76" column="0" />
@@ -247,10 +253,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>html</text>
+        <text encoding="base64">ICAgICAgICAgICAgaHRtbE91dHB1dC53cml0ZSgnPC9odG1sPicp</text>
       </register>
       <register name="-" type="4">
-        <text>html</text>
+        <text encoding="base64">ICAgICAgICAgICAgaHRtbE91dHB1dC53cml0ZSgnPC9odG1sPicp</text>
       </register>
       <register name="/" type="4">
         <text>twoBitInfo</text>
@@ -259,31 +265,31 @@
         <text encoding="base64">ICAtIHRvb2xfdGVzdF9vdXRwdXQuaHRtbAo=</text>
       </register>
       <register name="1" type="4">
-        <text>html</text>
+        <text encoding="base64">ICAgICAgICAgICAgaHRtbE91dHB1dC53cml0ZSgnPC9odG1sPicp</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAtIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaHRtbE91dHB1dC53cml0ZSgnPC9odG1sPicpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAtIHB5Ywo=</text>
-      </register>
-      <register name="4" type="4">
-        <text>.</text>
-      </register>
-      <register name="5" type="4">
-        <text>*</text>
-      </register>
-      <register name="6" type="4">
-        <text>*</text>
-      </register>
-      <register name="7" type="4">
-        <text>.</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="4">
+        <text />
+      </register>
+      <register name="5" type="4">
+        <text />
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBodG1sT3V0cHV0LndyaXRlKHN0ci5mb3JtYXQoJzxsaT48YSBocmVmPSJ7MH0iPnsxfTwvYT48L2xpPicsIG9zLnBhdGguam9pbihyZWxEaXIsIGZpbGUpLCBvcy5wYXRoLmpvaW4ocmVsRGlyLCBmaWxlKSkp</text>
+      </register>
+      <register name="7" type="4">
+        <text>html</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAtIAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwLndhaXQoKQo=</text>
+        <text encoding="base64">ICAtIHB5Ywo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
