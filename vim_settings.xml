@@ -14,18 +14,6 @@
       <file name="/Python Console" timestamp="1462207767052">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/pslToBed/pslToBed.xml" timestamp="1462063757507">
-        <mark key="[" line="16" column="14" />
-        <mark key="]" line="16" column="14" />
-        <mark key="." line="16" column="14" />
-        <mark key="^" line="16" column="14" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1461543690549">
-        <mark key="[" line="31" column="65" />
-        <mark key="]" line="32" column="51" />
-        <mark key="." line="32" column="51" />
-        <mark key="^" line="32" column="51" />
-      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/client/galaxy/scripts/viz/trackster/tracks.js" timestamp="1462373387205">
         <mark key="'" line="0" column="0" />
       </file>
@@ -39,22 +27,16 @@
         <mark key="^" line="416" column="58" />
         <mark key="." line="416" column="58" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/pslToBed/.shed.yml" timestamp="1461979212496">
-        <mark key="[" line="2" column="5" />
-        <mark key="]" line="2" column="13" />
-        <mark key="." line="2" column="13" />
-        <mark key="^" line="2" column="13" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1462487112427">
+        <mark key="[" line="22" column="12" />
+        <mark key="]" line="22" column="36" />
+        <mark key="^" line="22" column="36" />
+        <mark key="." line="22" column="36" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/templates/base.mako" timestamp="1462375051682">
         <mark key="[" line="95" column="0" />
         <mark key="]" line="95" column="0" />
         <mark key="." line="95" column="0" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/scripts/slideshow_template.html" timestamp="1461797800889">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="21" column="7" />
-        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/slideshow/galaxy_architecture_2015.html" timestamp="1461802336778">
         <mark key="'" line="30" column="0" />
@@ -65,29 +47,19 @@
         <mark key="^" line="10" column="6" />
         <mark key="." line="10" column="6" />
       </file>
-      <file name="$USER_HOME$/Downloads/tblastn_blastXmlToPsl_test/tblastn_Dbia3_ci.xml.psl" timestamp="1462055669578">
-        <mark key="[" line="0" column="15" />
-        <mark key="]" line="0" column="19" />
-        <mark key="^" line="0" column="19" />
-        <mark key="." line="0" column="19" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/AugustusProcess.py" timestamp="1462490528823">
+        <mark key="'" line="40" column="12" />
+        <mark key="[" line="109" column="0" />
+        <mark key="]" line="109" column="0" />
+        <mark key="^" line="108" column="21" />
+        <mark key="." line="109" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/blastXmlToPsl/README.md" timestamp="1462065869270">
-        <mark key="[" line="0" column="46" />
-        <mark key="]" line="0" column="46" />
-        <mark key="^" line="0" column="46" />
-        <mark key="." line="0" column="46" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/client/README.md" timestamp="1461958244920">
-        <mark key="[" line="92" column="14" />
-        <mark key="]" line="93" column="13" />
-        <mark key="." line="93" column="13" />
-        <mark key="^" line="93" column="13" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/twoBitCreator.py" timestamp="1462462296740">
-        <mark key="'" line="25" column="0" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/twoBitCreator.py" timestamp="1462490736145">
+        <mark key="'" line="4" column="7" />
+        <mark key="[" line="19" column="27" />
+        <mark key="]" line="19" column="37" />
+        <mark key="." line="19" column="37" />
+        <mark key="^" line="19" column="37" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/client/galaxy/scripts/viz/trackster/util.js" timestamp="1462373367438">
         <mark key="'" line="0" column="0" />
@@ -109,18 +81,13 @@
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/requirements.txt" timestamp="1461801376946">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="5" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/BedSimpleRepeats.py" timestamp="1462390828997" />
-      <file name="$USER_HOME$/Google_Drive/Dev/todotica/README.md" timestamp="1461431619365">
-        <mark key="[" line="11" column="3" />
-        <mark key="]" line="11" column="2" />
-        <mark key="^" line="11" column="2" />
-        <mark key="." line="11" column="2" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/build/html/_sources/releases/15.05.txt" timestamp="1462486321212" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/BedSimpleRepeats.py" timestamp="1462490563947">
+        <mark key="'" line="52" column="37" />
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="^" line="76" column="43" />
+        <mark key="." line="66" column="0" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" timestamp="1462468969752">
         <mark key="'" line="16" column="0" />
@@ -132,12 +99,6 @@
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/todotica/Task.py" timestamp="1461487170384">
-        <mark key="[" line="12" column="20" />
-        <mark key="]" line="12" column="25" />
-        <mark key="." line="12" column="25" />
-        <mark key="^" line="12" column="25" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/scripts/slideshow/build_slideshow.py" timestamp="1462210899733">
         <mark key="'" line="2" column="0" />
@@ -155,18 +116,6 @@
         <mark key="^" line="12" column="18" />
         <mark key="." line="12" column="18" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/pslToBed/README.md" timestamp="1462063929760">
-        <mark key="[" line="5" column="45" />
-        <mark key="]" line="5" column="98" />
-        <mark key="^" line="5" column="98" />
-        <mark key="." line="5" column="98" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/todotica/config.py" timestamp="1461433314952">
-        <mark key="[" line="1" column="22" />
-        <mark key="]" line="1" column="57" />
-        <mark key="." line="1" column="57" />
-        <mark key="^" line="1" column="57" />
-      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/blastXmlToPsl/blastXmlToPsl.xml" timestamp="1462065085939">
         <mark key="'" line="18" column="38" />
         <mark key="[" line="0" column="31" />
@@ -181,53 +130,15 @@
         <mark key="^" line="263" column="0" />
         <mark key="." line="263" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bed.py" timestamp="1462485116603">
-        <mark key="'" line="33" column="0" />
-        <mark key="[" line="79" column="28" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bed.py" timestamp="1462491374369">
+        <mark key="'" line="47" column="14" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="^" line="57" column="40" />
+        <mark key="." line="43" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/run_unit_tests.html" />
-      <jump line="49" column="4" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/run_unit_tests.html" />
-      <jump line="75" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/run_unit_tests.html" />
-      <jump line="31" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" />
-      <jump line="28" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" />
-      <jump line="55" column="4" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" />
-      <jump line="50" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" />
-      <jump line="66" column="21" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/.gitignore" />
-      <jump line="380" column="42" filename="$USER_HOME$/Google_Drive/Dev/galaxy161/paster.log" />
-      <jump line="18" column="54" filename="$USER_HOME$/Google_Drive/Dev/galaxy161/paster.log" />
-      <jump line="124" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy161/.gitignore" />
-      <jump line="3" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy161/CODE_OF_CONDUCT.md" />
-      <jump line="24" column="50" filename="$USER_HOME$/Google_Drive/Dev/galaxy161/CODE_OF_CONDUCT.md" />
-      <jump line="26" column="50" filename="$USER_HOME$/Google_Drive/Dev/galaxy161/CODE_OF_CONDUCT.md" />
-      <jump line="28" column="22" filename="$USER_HOME$/Google_Drive/Dev/galaxy161/CODE_OF_CONDUCT.md" />
-      <jump line="32" column="18" filename="$USER_HOME$/Google_Drive/Dev/galaxy161/CODE_OF_CONDUCT.md" />
-      <jump line="33" column="70" filename="$USER_HOME$/Google_Drive/Dev/galaxy161/CODE_OF_CONDUCT.md" />
-      <jump line="0" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy161/tool_list.py" />
-      <jump line="34" column="8" filename="$USER_HOME$/Google_Drive/Dev/galaxy161/tool_list.py" />
-      <jump line="43" column="12" filename="$USER_HOME$/Google_Drive/Dev/galaxy161/tool_list.py" />
-      <jump line="5" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy161/tool_list.py" />
-      <jump line="23" column="8" filename="$USER_HOME$/Google_Drive/Dev/galaxy161/tool_list.py" />
-      <jump line="47" column="4" filename="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/hubArchiveCreator.py" />
-      <jump line="86" column="4" filename="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/hubArchiveCreator.py" />
-      <jump line="87" column="4" filename="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/hubArchiveCreator.py" />
-      <jump line="86" column="58" filename="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/AugustusProcess.py" />
-      <jump line="24" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/Bed.py" />
-      <jump line="55" column="8" filename="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/AugustusProcess.py" />
-      <jump line="2" column="8" filename="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/Bed.py" />
-      <jump line="46" column="8" filename="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/Bed.py" />
-      <jump line="28" column="16" filename="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/Bed.py" />
-      <jump line="3" column="16" filename="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/Bed.py" />
-      <jump line="17" column="7" filename="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/Bed.py" />
-      <jump line="4" column="14" filename="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/Bed.py" />
-      <jump line="34" column="8" filename="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/Bed.py" />
-      <jump line="60" column="1" filename="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/AugustusProcess.py" />
-      <jump line="57" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/AugustusProcess.py" />
-      <jump line="65" column="16" filename="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/AugustusProcess.py" />
-      <jump line="7" column="26" filename="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/AugustusProcess.py" />
-      <jump line="58" column="8" filename="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/AugustusProcess.py" />
-      <jump line="60" column="8" filename="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/Bed.py" />
       <jump line="26" column="12" filename="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/Bed.py" />
       <jump line="81" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/Bed.py" />
       <jump line="73" column="7" filename="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/Bed.py" />
@@ -242,9 +153,7 @@
       <jump line="71" column="12" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/AugustusProcess.py" />
       <jump line="83" column="12" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/AugustusProcess.py" />
       <jump line="97" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/AugustusProcess.py" />
-      <jump line="3" column="7" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/AugustusProcess.py" />
       <jump line="28" column="12" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/AugustusProcess.py" />
-      <jump line="37" column="12" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/AugustusProcess.py" />
       <jump line="51" column="12" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/AugustusProcess.py" />
       <jump line="8" column="6" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/twoBitCreator.py" />
       <jump line="18" column="12" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/twoBitCreator.py" />
@@ -287,68 +196,105 @@
       <jump line="75" column="9" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bed.py" />
       <jump line="33" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bed.py" />
       <jump line="27" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/twoBitCreator.py" />
+      <jump line="89" column="20" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bed.py" />
+      <jump line="33" column="16" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/BedSimpleRepeats.py" />
+      <jump line="66" column="17" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/BedSimpleRepeats.py" />
+      <jump line="26" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/twoBitCreator.py" />
+      <jump line="4" column="7" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/twoBitCreator.py" />
+      <jump line="86" column="20" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/BedSimpleRepeats.py" />
+      <jump line="23" column="39" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/BedSimpleRepeats.py" />
+      <jump line="45" column="39" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/BedSimpleRepeats.py" />
+      <jump line="49" column="23" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/BedSimpleRepeats.py" />
+      <jump line="59" column="39" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/BedSimpleRepeats.py" />
+      <jump line="63" column="16" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bed.py" />
+      <jump line="34" column="36" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bed.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/AugustusProcess.py" />
+      <jump line="41" column="39" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/AugustusProcess.py" />
+      <jump line="45" column="15" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/AugustusProcess.py" />
+      <jump line="61" column="16" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/AugustusProcess.py" />
+      <jump line="80" column="16" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/AugustusProcess.py" />
+      <jump line="94" column="17" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/AugustusProcess.py" />
+      <jump line="112" column="21" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/AugustusProcess.py" />
+      <jump line="3" column="7" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/AugustusProcess.py" />
+      <jump line="29" column="16" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/AugustusProcess.py" />
+      <jump line="33" column="15" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/AugustusProcess.py" />
+      <jump line="37" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/AugustusProcess.py" />
+      <jump line="46" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/AugustusProcess.py" />
+      <jump line="60" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/AugustusProcess.py" />
+      <jump line="92" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/AugustusProcess.py" />
+      <jump line="78" column="43" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/BedSimpleRepeats.py" />
+      <jump line="87" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/BedSimpleRepeats.py" />
+      <jump line="34" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/BedSimpleRepeats.py" />
+      <jump line="67" column="38" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bed.py" />
+      <jump line="109" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/AugustusProcess.py" />
+      <jump line="111" column="26" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/AugustusProcess.py" />
+      <jump line="40" column="12" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/AugustusProcess.py" />
+      <jump line="52" column="37" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/BedSimpleRepeats.py" />
+      <jump line="70" column="11" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bed.py" />
+      <jump line="73" column="22" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bed.py" />
+      <jump line="25" column="13" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bed.py" />
+      <jump line="55" column="8" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bed.py" />
+      <jump line="56" column="8" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bed.py" />
+      <jump line="58" column="12" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bed.py" />
+      <jump line="59" column="48" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bed.py" />
+      <jump line="62" column="23" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bed.py" />
+      <jump line="49" column="14" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bed.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkaW1wb3J0IHBkYjsgcGRiLnNldF90cmFjZSgpCg==</text>
-      </register>
-      <register name="-" type="4">
-        <text>�</text>
-      </register>
-      <register name="/" type="4">
-        <text>s</text>
-      </register>
-      <register name="0" type="4">
-        <text encoding="base64">c2VsZi5zb3J0ZWRCZWRGaWxlIA==</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkaW1wb3J0IHBkYjsgcGRiLnNldF90cmFjZSgpCg==</text>
-      </register>
-      <register name="2" type="4">
-        <text>�</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50ICJmYXN0RmlsZSByZWNlaXZlZDogJXMiICUgZmFzdGFGaWxlLm5hbWUKICAgIHByaW50ICJ1Y3NjX3Rvb2xzX3BhdGggcmVjZWl2ZWQ6ICVzIiAlIHVjc2NfdG9vbHNfcGF0aAogICAgcHJpbnQgIm15U3BlY2llRm9sZGVyIHJlY2VpZXZlZDogJXMiICUgbXlTcGVjaWVGb2xkZXIK</text>
+      <register name="-" type="4">
+        <text />
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBwZGI7IHBkYi5zZXRfdHJhY2UoKQo=</text>
+      <register name="/" type="4">
+        <text>twoBitInfo</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IHN1YnByb2Nlc3MuQ2FsbGVkUHJvY2Vzc0Vycm9yOgogICAgICAgICAgICAgICAgcmFpc2UK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBwLndhaXQoKQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB0d29CaXRJbmZvX291dCA9IE5vbmUK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB0d29CaXRJbmZlcnIgPSBOb25lCg==</text>
+      </register>
+      <register name="5" type="4">
+        <text />
       </register>
       <register name="6" type="4">
-        <text>i</text>
+        <text>o_</text>
       </register>
-      <register name="7" type="4">
-        <text>i</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAnPicsCg==</text>
       </register>
       <register name="8" type="4">
-        <text>i</text>
+        <text>,</text>
       </register>
-      <register name="9" type="4">
-        <text>i</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0ZGVycj10d29CaXRJbmZvX2VycikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>s</last-search>
+      <last-search>twoBitInfo</last-search>
       <last-offset />
-      <last-pattern>s</last-pattern>
-      <last-replace>o</last-replace>
-      <last-substitute>p</last-substitute>
+      <last-pattern>twoBitInfo</last-pattern>
+      <last-replace>check_call</last-replace>
+      <last-substitute>check_output</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>banned</entry>
-        <entry>the</entry>
-        <entry>mySpecie</entry>
-        <entry>twoBitFile</entry>
-        <entry>subProcess</entry>
-        <entry>subprocess</entry>
         <entry>doc</entry>
         <entry>sphinx</entry>
         <entry>tool_list</entry>
@@ -358,18 +304,32 @@
         <entry encoding="base64">XDxzY3JpcHRzXD4=</entry>
         <entry>p</entry>
         <entry>s</entry>
+        <entry>subproc</entry>
+        <entry>sub</entry>
+        <entry>Pope</entry>
+        <entry>subpro</entry>
+        <entry>Pop</entry>
+        <entry>subprocess</entry>
+        <entry>p.wait()</entry>
+        <entry>%s</entry>
+        <entry>Popen</entry>
+        <entry>check_output</entry>
+        <entry>twoBitInfo</entry>
       </history-search>
       <history-cmd>
         <entry>s/tool_list/toto</entry>
         <entry>s/tool_list/toto/gi</entry>
         <entry>s/tool_list/toto/gc</entry>
         <entry>vimgrep</entry>
-        <entry>q</entry>
         <entry>s</entry>
         <entry>q!</entry>
         <entry>wq</entry>
         <entry>W</entry>
         <entry>s/p/o</entry>
+        <entry encoding="base64">JzwsJz53</entry>
+        <entry>%s/Popen/check_call/gc</entry>
+        <entry>%s/check_output/check_call/gc</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
