@@ -95,10 +95,8 @@
         <mark key="^" line="76" column="43" />
         <mark key="." line="66" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/add_datatype.py" timestamp="1462551072833">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/add_datatype.py" timestamp="1462554774848">
+        <mark key="[" line="18" column="24" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/TrackHub.py" timestamp="1462548528597">
         <mark key="[" line="79" column="0" />
@@ -258,8 +256,8 @@
       <jump line="88" column="4" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgcHJpbnQgIkhlbGxv</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cHlodG9uCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ICAgcHJpbnQgIkhlbGxv</text>
@@ -268,7 +266,7 @@
         <text>twoBitInfo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAtIHRvb2xfdGVzdF9vdXRwdXQuaHRtbAo=</text>
+        <text encoding="base64">cHlodG9uCg==</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">ICAgcHJpbnQgIkhlbGxv</text>
