@@ -41,6 +41,7 @@
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/slideshow/galaxy_architecture_2015.html" timestamp="1461802336778">
         <mark key="'" line="30" column="0" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/datatypes_conf.xml" timestamp="1462545166062" />
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/tool_dependencies.xml" timestamp="1462465788428">
         <mark key="[" line="9" column="20" />
         <mark key="]" line="10" column="6" />
@@ -64,7 +65,6 @@
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/client/galaxy/scripts/viz/trackster/util.js" timestamp="1462373367438">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/trfbig/trfBig.xml" timestamp="1462397136679" />
       <file name="/Dummy.txt" timestamp="1461369485396">
         <mark key="[" line="0" column="0" />
       </file>
@@ -81,7 +81,12 @@
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/build/html/_sources/releases/15.05.txt" timestamp="1462486321212" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/.shed.yml" timestamp="1462545336145">
+        <mark key="[" line="8" column="21" />
+        <mark key="]" line="8" column="24" />
+        <mark key="." line="8" column="24" />
+        <mark key="^" line="8" column="24" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/BedSimpleRepeats.py" timestamp="1462490563947">
         <mark key="'" line="52" column="37" />
         <mark key="[" line="66" column="0" />
@@ -241,44 +246,44 @@
       <jump line="49" column="14" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bed.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>html</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>html</text>
       </register>
       <register name="/" type="4">
         <text>twoBitInfo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IHN1YnByb2Nlc3MuQ2FsbGVkUHJvY2Vzc0Vycm9yOgogICAgICAgICAgICAgICAgcmFpc2UK</text>
+        <text encoding="base64">ICAtIHRvb2xfdGVzdF9vdXRwdXQuaHRtbAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>html</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwLndhaXQoKQo=</text>
+        <text encoding="base64">ICAtIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0d29CaXRJbmZvX291dCA9IE5vbmUK</text>
+        <text encoding="base64">ICAtIHB5Ywo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0d29CaXRJbmZlcnIgPSBOb25lCg==</text>
+      <register name="4" type="4">
+        <text>.</text>
       </register>
       <register name="5" type="4">
-        <text />
+        <text>*</text>
       </register>
       <register name="6" type="4">
-        <text>o_</text>
+        <text>*</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAnPicsCg==</text>
+      <register name="7" type="4">
+        <text>.</text>
       </register>
-      <register name="8" type="4">
-        <text>,</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0ZGVycj10d29CaXRJbmZvX2VycikK</text>
+        <text encoding="base64">ICAgICAgICBwLndhaXQoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
