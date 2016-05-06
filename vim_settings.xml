@@ -89,12 +89,12 @@
         <mark key="^" line="444" column="0" />
         <mark key="." line="444" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/add_datatype.py" timestamp="1462565459994">
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/add_datatype.py" timestamp="1462568712288">
         <mark key="'" line="18" column="4" />
-        <mark key="[" line="50" column="43" />
-        <mark key="]" line="17" column="4" />
-        <mark key="." line="17" column="4" />
-        <mark key="^" line="22" column="31" />
+        <mark key="[" line="53" column="67" />
+        <mark key="]" line="53" column="83" />
+        <mark key="." line="53" column="83" />
+        <mark key="^" line="53" column="83" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/TrackHub.py" timestamp="1462548528597">
         <mark key="[" line="79" column="0" />
@@ -252,40 +252,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>displayApp_ucsc_path</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>displayApp_ucsc_path</text>
       </register>
       <register name="/" type="4">
         <text>datatype_path</text>
       </register>
-      <register name="0" type="4">
-        <text>=======</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHByaW50ICJDb250ZW50IG9mICVzIG5vdzogJXMiICUgKGRpc3BsYXlBcHBfdWNzY19wYXRoLCBvcy5saXN0ZGlyKGRpc3BsYXlBcHBfdWNzY19wYXRoKSkK</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+        <text>displayApp_ucsc_path</text>
       </register>
       <register name="2" type="4">
+        <text>displayApp_ucsc_path</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="4" type="4">
         <text>#</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIDwvZGF0YXR5cGU+Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgPGRpc3BsYXkgZmlsZT0idWNzYy9odWJhLnhtbCIgLz4K</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIDxkYXRhdHlwZSBkaXNwbGF5X2luX3VwbG9hZD0idHJ1ZSIgZXh0ZW5zaW9uPSJodWJhIiB0eXBlPSJnYWxheHkuZGF0YXR5cGVzLmh1YkFzc2VtYmx5Okh1YkFzc2VtYmx5Ij4K</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text encoding="base64">PC9kYXRhdHlwZT4=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIDxkaXNwbGF5IGZpbGU9InVjc2MvaHViYS54bWwiIC8+Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">PC9kYXRhdHlwZT48ZGF0YXR5cGUgZGlzcGxheV9pbl91cGxvYWQ9InRydWUiIGV4dGVuc2lvbj0iaHViYSIgdHlwZT0iZ2FsYXh5LmRhdGF0eXBlcy5odWJBc3NlbWJseTpIdWJBc3NlbWJseSI+Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIDxkaXNwbGF5IGZpbGU9InVjc2MvaHViYS54bWwiIC8+Cg==</text>
