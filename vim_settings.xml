@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/start_script.py" timestamp="1461363640213">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/scripts/slideshow/example.md" timestamp="1461801926862">
         <mark key="[" line="35" column="3" />
         <mark key="]" line="35" column="3" />
@@ -16,12 +13,6 @@
         <mark key="]" line="1" column="0" />
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
-      </file>
-      <file name="/Python Console" timestamp="1462207767052">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/templates/js-app.mako" timestamp="1462375221321">
-        <mark key="[" line="21" column="25" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/slideshow/galaxy_architecture_2015.md" timestamp="1462309929294">
         <mark key="'" line="122" column="0" />
@@ -62,12 +53,6 @@
         <mark key="." line="19" column="37" />
         <mark key="^" line="19" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1461369485396">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/todotica/config.py.sample" timestamp="1461430909924">
-        <mark key="[" line="0" column="36" />
-      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/README.md" timestamp="1462550932189">
         <mark key="[" line="15" column="2" />
         <mark key="]" line="16" column="100" />
@@ -85,10 +70,11 @@
         <mark key="." line="8" column="24" />
         <mark key="^" line="8" column="24" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/test-data/add_datatype/datatypes_conf.xml" timestamp="1462561319007">
-        <mark key="[" line="490" column="0" />
-        <mark key="]" line="490" column="0" />
-        <mark key="." line="490" column="0" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/test-data/add_datatype/datatypes_conf.xml" timestamp="1462563060424">
+        <mark key="[" line="444" column="0" />
+        <mark key="]" line="444" column="1" />
+        <mark key="." line="444" column="1" />
+        <mark key="^" line="444" column="1" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/BedSimpleRepeats.py" timestamp="1462490563947">
         <mark key="'" line="52" column="37" />
@@ -97,11 +83,18 @@
         <mark key="^" line="76" column="43" />
         <mark key="." line="66" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/add_datatype.py" timestamp="1462561366318">
-        <mark key="[" line="32" column="24" />
-        <mark key="]" line="32" column="36" />
-        <mark key="^" line="32" column="36" />
-        <mark key="." line="32" column="36" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/config/datatypes_conf.xml" timestamp="1462564624503">
+        <mark key="[" line="444" column="0" />
+        <mark key="]" line="444" column="0" />
+        <mark key="^" line="444" column="0" />
+        <mark key="." line="444" column="0" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/add_datatype.py" timestamp="1462565459994">
+        <mark key="'" line="18" column="4" />
+        <mark key="[" line="50" column="43" />
+        <mark key="]" line="17" column="4" />
+        <mark key="." line="17" column="4" />
+        <mark key="^" line="22" column="31" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/TrackHub.py" timestamp="1462548528597">
         <mark key="[" line="79" column="0" />
@@ -156,13 +149,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="7" filename="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/Bed.py" />
-      <jump line="67" column="17" filename="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/Bed.py" />
-      <jump line="75" column="18" filename="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/hubArchiveCreator.py" />
-      <jump line="38" column="23" filename="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/hubArchiveCreator.py" />
-      <jump line="59" column="8" filename="$USER_HOME$/Google_Drive/Dev/galaxy161/tools/hub_assembly/hubArchiveCreator.py" />
-      <jump line="44" column="4" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" />
-      <jump line="40" column="115" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" />
       <jump line="12" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" />
       <jump line="58" column="32" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/AugustusProcess.py" />
       <jump line="71" column="12" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/AugustusProcess.py" />
@@ -256,63 +242,69 @@
       <jump line="83" column="4" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" />
       <jump line="88" column="4" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" />
+      <jump line="35" column="27" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/add_datatype.py" />
+      <jump line="32" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/add_datatype.py" />
+      <jump line="24" column="12" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/add_datatype.py" />
+      <jump line="54" column="17" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/add_datatype.py" />
+      <jump line="40" column="9" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/add_datatype.py" />
+      <jump line="51" column="9" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/add_datatype.py" />
+      <jump line="18" column="4" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/add_datatype.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">KEVULmZyb21zdHJpbmcoJzx1c2VyIHVzZXJuYW1lPSJhZG1pbiIgZnVsbG5hbWU9ImFkbWluIiBwYXNzd29yZD0ieHgiICB1aWQ9IjEwMDAiLz4nKSk=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KEVULmZyb21zdHJpbmcoJzx1c2VyIHVzZXJuYW1lPSJhZG1pbiIgZnVsbG5hbWU9ImFkbWluIiBwYXNzd29yZD0ieHgiICB1aWQ9IjEwMDAiLz4nKSk=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>twoBitInfo</text>
+        <text>datatype_path</text>
       </register>
       <register name="0" type="4">
-        <text>../test-data/add_datatype/datatypes_conf.xml.sample'</text>
+        <text>=======</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">KEVULmZyb21zdHJpbmcoJzx1c2VyIHVzZXJuYW1lPSJhZG1pbiIgZnVsbG5hbWU9ImFkbWluIiBwYXNzd29yZD0ieHgiICB1aWQ9IjEwMDAiLz4nKSk=</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIDx1c2VyIGZ1bGxuYW1lPSJhZG1pbiIgcGFzc3dvcmQ9Inh4IiB1aWQ9IjEwMDAiIHVzZXJuYW1lPSJhZG1pbiIgLz4K</text>
+      <register name="2" type="4">
+        <text>#</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIDwvZGF0YXR5cGU+Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgIGxhc3RfZGF0YXR5cGVz</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgPGRpc3BsYXkgZmlsZT0idWNzYy9odWJhLnhtbCIgLz4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxhc3RfZGF0YXR5cGVzID0gcmVnaXN0cmF0aW9uWyJbbGFzdCgpIl0K</text>
+        <text encoding="base64">ICAgIDxkYXRhdHlwZSBkaXNwbGF5X2luX3VwbG9hZD0idHJ1ZSIgZXh0ZW5zaW9uPSJodWJhIiB0eXBlPSJnYWxheHkuZGF0YXR5cGVzLmh1YkFzc2VtYmx5Okh1YkFzc2VtYmx5Ij4K</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGxhc3RfZGF0YXR5cGVzID0gcmVnaXN0cmF0aW9uWyJbbGFzdCgpIl0K</text>
+      <register name="6" type="4">
+        <text encoding="base64">PC9kYXRhdHlwZT4=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJlZ2lzdHJhdGlvbi5maW5kYWxsKCJbbGFzdCgpXSIpCg==</text>
+        <text encoding="base64">ICAgIDxkaXNwbGF5IGZpbGU9InVjc2MvaHViYS54bWwiIC8+Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>Element</text>
+      <register name="8" type="2">
+        <text encoding="base64">PC9kYXRhdHlwZT48ZGF0YXR5cGUgZGlzcGxheV9pbl91cGxvYWQ9InRydWUiIGV4dGVuc2lvbj0iaHViYSIgdHlwZT0iZ2FsYXh5LmRhdGF0eXBlcy5odWJBc3NlbWJseTpIdWJBc3NlbWJseSI+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50ICJjb3Vjb3UiCg==</text>
+        <text encoding="base64">ICAgIDxkaXNwbGF5IGZpbGU9InVjc2MvaHViYS54bWwiIC8+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>twoBitInfo</last-search>
+      <last-search>%s</last-search>
       <last-offset />
-      <last-pattern>twoBitInfo</last-pattern>
-      <last-replace>check_call</last-replace>
-      <last-substitute>check_output</last-substitute>
+      <last-pattern>datatype_path</last-pattern>
+      <last-replace>datatype_conf_path</last-replace>
+      <last-substitute>datatype_path</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>doc</entry>
         <entry>sphinx</entry>
         <entry>tool_list</entry>
         <entry>source_suffix</entry>
@@ -328,10 +320,11 @@
         <entry>Pop</entry>
         <entry>subprocess</entry>
         <entry>p.wait()</entry>
-        <entry>%s</entry>
         <entry>Popen</entry>
         <entry>check_output</entry>
         <entry>twoBitInfo</entry>
+        <entry>%s</entry>
+        <entry>datatype_path</entry>
       </history-search>
       <history-cmd>
         <entry>s/tool_list/toto</entry>
@@ -347,6 +340,7 @@
         <entry>%s/Popen/check_call/gc</entry>
         <entry>%s/check_output/check_call/gc</entry>
         <entry>q</entry>
+        <entry>%s/datatype_path/datatype_conf_path/gc</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
