@@ -49,12 +49,12 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/slideshow/galaxy_architecture_2015/galaxy_architecture_2015.md" timestamp="1462661776004">
-        <mark key="'" line="331" column="5" />
-        <mark key="[" line="544" column="0" />
-        <mark key="]" line="547" column="25" />
-        <mark key="^" line="190" column="0" />
-        <mark key="." line="544" column="0" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/slideshow/galaxy_architecture_2015/galaxy_architecture_2015.md" timestamp="1462664744216">
+        <mark key="'" line="223" column="37" />
+        <mark key="[" line="256" column="4" />
+        <mark key="]" line="256" column="13" />
+        <mark key="^" line="256" column="13" />
+        <mark key="." line="256" column="13" />
       </file>
       <file name="/Dummy.txt" timestamp="1461369485396">
         <mark key="[" line="0" column="0" />
@@ -110,11 +110,11 @@
         <mark key="^" line="76" column="0" />
         <mark key="." line="79" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/slideshow/galaxy_architecture_2015/style.css" timestamp="1462653102818">
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/slideshow/galaxy_architecture_2015/style.css" timestamp="1462664446427">
         <mark key="'" line="115" column="11" />
-        <mark key="[" line="128" column="0" />
-        <mark key="]" line="128" column="0" />
-        <mark key="." line="128" column="0" />
+        <mark key="[" line="127" column="0" />
+        <mark key="]" line="127" column="0" />
+        <mark key="." line="127" column="0" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" timestamp="1462572013883">
         <mark key="'" line="88" column="4" />
@@ -145,9 +145,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" />
-      <jump line="93" column="4" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" />
-      <jump line="16" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" />
       <jump line="75" column="9" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bed.py" />
       <jump line="33" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bed.py" />
       <jump line="27" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/twoBitCreator.py" />
@@ -245,55 +242,58 @@
       <jump line="313" column="5" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/slideshow/galaxy_architecture_2015/galaxy_architecture_2015.md" />
       <jump line="322" column="5" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/slideshow/galaxy_architecture_2015/galaxy_architecture_2015.md" />
       <jump line="331" column="5" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/slideshow/galaxy_architecture_2015/galaxy_architecture_2015.md" />
+      <jump line="545" column="5" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/slideshow/galaxy_architecture_2015/galaxy_architecture_2015.md" />
+      <jump line="65" column="57" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/slideshow/galaxy_architecture_2015/galaxy_architecture_2015.md" />
+      <jump line="223" column="37" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/slideshow/galaxy_architecture_2015/galaxy_architecture_2015.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">YmFja2dyb3VuZC1pbWFnZTogdXJsKGltYWdlcy9nYWxheHlfY29tcG9uZW50cy9EYXRhTW9kZWwyLnBuZykKYmFja2dyb3VuZC1wb3NpdGlvbjogY2VudGVyOwpiYWNrZ3JvdW5kLXJlcGVhdDogbm8tcmVwZWF0OwpiYWNrZ3JvdW5kLXNpemU6IGNvbnRhaW47Cg==</text>
+      <register name="&quot;" type="4">
+        <text>*</text>
       </register>
       <register name="-" type="4">
-        <text>app_architecturbbe/job_management</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
-        <text>Image</text>
+        <text>Charts</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YmFja2dyb3VuZC1pbWFnZTogdXJsKGltYWdlcy9nYWxheHlfY29tcG9uZW50cy9EYXRhTW9kZWwyLnBuZykKYmFja2dyb3VuZC1wb3NpdGlvbjogY2VudGVyOwpiYWNrZ3JvdW5kLXJlcGVhdDogbm8tcmVwZWF0OwpiYWNrZ3JvdW5kLXNpemU6IGNvbnRhaW47Cg==</text>
+        <text encoding="base64">IVtEZWZhdWx0LWFsaWduZWQgaW1hZ2VdKGltYWdlcy9nYWxheHlfY29tcG9uZW50cy9kYXRhX2NhY2hlLnBuZykK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">PCEtLSBJbWFnZSB0byBmZXRjaCBhbmQgYWRkIC0tPgo=</text>
+      <register name="1" type="4">
+        <text>*</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">PCEtLSBJbWFnZSB0byBmZXRjaCBhbmQgYWRkIC0tPgo=</text>
+      <register name="2" type="4">
+        <text>*</text>
       </register>
       <register name="3" type="4">
-        <text>app_architecturbbe/job_management</text>
+        <text>*</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">YmFja2dyb3VuZC1zaXplOiBjb250YWluOwo=</text>
+      <register name="4" type="4">
+        <text>*</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">YmFja2dyb3VuZC1wb3NpdGlvbjogY2VudGVyOwo=</text>
+      <register name="5" type="4">
+        <text>*</text>
       </register>
       <register name="6" type="4">
-        <text>;</text>
+        <text>*</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">YmFja2dyb3VuZC1yZXBlYXQ6IA==</text>
+        <text>*</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">YmFja2dyb3VuZC1wb3NpdGlvbjogY2VudGVyOwpiYWNrZ3JvdW5kLXJlcGVhdDogbm8tcmVwZWF0OwpiYWNrZ3JvdW5kLXNpemU6IGNvbnRhaW47Cg==</text>
+      <register name="8" type="4">
+        <text>*</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YmFja2dyb3VuZC1pbWFnZTogdXJsKGltYWdlcy9hcHBfYXJjaGl0ZWN0dXJlL2pvYl9tYW5hZ2VtZW50LnBuZykKCg==</text>
+        <text encoding="base64">IVtEZWZhdWx0LWFsaWduZWQgaW1hZ2VdKGltYWdlcy9nYWxheHlfY29tcG9uZW50cy9kYXRhX2NhY2hlLnBuZykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Image</last-search>
+      <last-search>Charts</last-search>
       <last-offset />
-      <last-pattern>Image</last-pattern>
+      <last-pattern>Charts</last-pattern>
       <last-replace>datatype_conf_path</last-replace>
       <last-substitute>datatype_path</last-substitute>
       <last-dir>1</last-dir>
@@ -301,8 +301,6 @@
     </search>
     <history>
       <history-search>
-        <entry>tool_list</entry>
-        <entry>source_suffix</entry>
         <entry>toto</entry>
         <entry>watch</entry>
         <entry encoding="base64">XDxzY3JpcHRzXD4=</entry>
@@ -321,6 +319,8 @@
         <entry>%s</entry>
         <entry>datatype_path</entry>
         <entry>Image</entry>
+        <entry>3. Galaxy</entry>
+        <entry>Charts</entry>
       </history-search>
       <history-cmd>
         <entry>s/tool_list/toto</entry>
