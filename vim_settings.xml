@@ -3,11 +3,25 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/start_script.py" timestamp="1461363640213">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/scripts/slideshow/example.md" timestamp="1461801926862">
+        <mark key="[" line="35" column="3" />
+        <mark key="]" line="35" column="3" />
+        <mark key="." line="35" column="3" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubaDataType/datatypes_conf.xml" timestamp="1462561339102">
         <mark key="[" line="0" column="4" />
         <mark key="]" line="1" column="0" />
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1462207767052">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/templates/js-app.mako" timestamp="1462375221321">
+        <mark key="[" line="21" column="25" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/slideshow/galaxy_architecture_2015.md" timestamp="1462309929294">
         <mark key="'" line="122" column="0" />
@@ -22,13 +36,28 @@
         <mark key="^" line="22" column="36" />
         <mark key="." line="22" column="36" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/slideshow/galaxy_architecture_2015/galaxy_architecture_2015.html" timestamp="1462586714530" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/templates/base.mako" timestamp="1462375051682">
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="95" column="0" />
+        <mark key="." line="95" column="0" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/scripts/slideshow/style.sample.css" timestamp="1462588953710">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/datatypes_conf.xml" timestamp="1462545166062" />
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/tool_dependencies.xml" timestamp="1462578456179">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="^" line="10" column="6" />
         <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/scripts/slideshow/slideshow_template.html" timestamp="1462588819323">
+        <mark key="[" line="5" column="54" />
+        <mark key="]" line="5" column="54" />
+        <mark key="." line="5" column="54" />
+        <mark key="^" line="5" column="68" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/AugustusProcess.py" timestamp="1462490528823">
         <mark key="'" line="40" column="12" />
@@ -37,11 +66,11 @@
         <mark key="^" line="108" column="21" />
         <mark key="." line="109" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/slideshow/galaxy_architecture_2015/galaxy_architecture_2015.md" timestamp="1462586730514">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="42" column="37" />
-        <mark key="." line="42" column="37" />
-        <mark key="^" line="42" column="37" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/slideshow/galaxy_architecture_2015/galaxy_architecture_2015.md" timestamp="1462587975311">
+        <mark key="[" line="43" column="1" />
+        <mark key="]" line="43" column="26" />
+        <mark key="^" line="43" column="26" />
+        <mark key="." line="43" column="26" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/twoBitCreator.py" timestamp="1462490736145">
         <mark key="'" line="4" column="7" />
@@ -50,17 +79,34 @@
         <mark key="." line="19" column="37" />
         <mark key="^" line="19" column="37" />
       </file>
+      <file name="/Dummy.txt" timestamp="1461369485396">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/todotica/config.py.sample" timestamp="1461430909924">
+        <mark key="[" line="0" column="36" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/README.md" timestamp="1462550932189">
         <mark key="[" line="15" column="2" />
         <mark key="]" line="16" column="100" />
         <mark key="." line="16" column="100" />
         <mark key="^" line="16" column="100" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/temp/myHub/dbia3/tracks/bed.bb" timestamp="1462473423391">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="1" />
+        <mark key="." line="0" column="1" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/.shed.yml" timestamp="1462545336145">
         <mark key="[" line="8" column="21" />
         <mark key="]" line="8" column="24" />
         <mark key="." line="8" column="24" />
         <mark key="^" line="8" column="24" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/scripts/slideshow/style.css" timestamp="1462588576322">
+        <mark key="[" line="8" column="3" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/test-data/add_datatype/datatypes_conf.xml" timestamp="1462563060424">
         <mark key="[" line="444" column="0" />
@@ -100,6 +146,11 @@
         <mark key="]" line="48" column="30" />
         <mark key="." line="76" column="0" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/templates/webapps/galaxy/base_panels.mako" timestamp="1462375206528">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/scripts/slideshow/build_slideshow.py" timestamp="1462210899733">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="26" column="10" />
@@ -126,6 +177,9 @@
         <mark key="]" line="263" column="0" />
         <mark key="^" line="263" column="0" />
         <mark key="." line="263" column="0" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/scripts/slideshow/style.css.sample" timestamp="1462588364530">
+        <mark key="[" line="7" column="7" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bed.py" timestamp="1462491374369">
         <mark key="'" line="47" column="14" />
@@ -245,11 +299,11 @@
       <jump line="4" column="31" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubaDataType/hubAssembly.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">PCEtLS0gVE9ETzogSW5zZXJ0IEdhbGF4eSBQcm9qZWN0IEdpdGh1YiBJbWFnZSAtLQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PCEtLS0gVE9ETzogSW5zZXJ0IEdhbGF4eSBQcm9qZWN0IEdpdGh1YiBJbWFnZSAtLQ==</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>datatype_path</text>
@@ -257,32 +311,40 @@
       <register name="0" type="4">
         <text>galaxy_root_path</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">PCEtLS0gVE9ETzogSW5zZXJ0IEdhbGF4eSBQcm9qZWN0IEdpdGh1YiBJbWFnZSAtLQ==</text>
-      </register>
-      <register name="2" type="4">
-        <text encoding="base64">Pg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">PCEtLS0gVE9ETzogSW5zZXJ0IEdhbGF4eSBQcm9qZWN0IEdpdGh1YiBJbWFnZSAtLT4K</text>
-      </register>
-      <register name="4" type="2">
+      <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIC0tPgo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIDxwYWNrYWdlIG5hbWU9InR3b0JpdEluZm8iIHZlcnNpb249IjAuMC4xIj4KICAgICAgICA8aW5zdGFsbCB2ZXJzaW9uPSIxLjAiPgogICAgICAgICAgICA8YWN0aW9ucz4KICAgICAgICAgICAgICAgIDxhY3Rpb24gdHlwZT0iZG93bmxvYWRfYmluYXJ5IiB0YXJnZXRfZGlyZWN0b3J5PSJiaW4iPgogICAgICAgICAgICAgICAgICAgIDx1cmxfdGVtcGxhdGUgb3M9ImRhcndpbiI+aHR0cDovL2hnZG93bmxvYWQuY3NlLnVjc2MuZWR1L2FkbWluL2V4ZS9tYWNPU1guJHthcmNoaXRlY3R1cmV9L3R3b0JpdEluZm88L3VybF90ZW1wbGF0ZT4KICAgICAgICAgICAgICAgICAgICA8dXJsX3RlbXBsYXRlIG9zPSJsaW51eCI+aHR0cDovL2hnZG93bmxvYWQuY3NlLnVjc2MuZWR1L2FkbWluL2V4ZS9saW51eC4ke2FyY2hpdGVjdHVyZX0vdHdvQml0SW5mbzwvdXJsX3RlbXBsYXRlPgogICAgICAgICAgICAgICAgPC9hY3Rpb24+CiAgICAgICAgICAgICAgICA8YWN0aW9uIHR5cGU9ImNobW9kIj4KICAgICAgICAgICAgICAgICAgICA8ZmlsZSBtb2RlPSI3NTAiPiRJTlNUQUxMX0RJUi9iaW4vdHdvQml0SW5mbzwvZmlsZT4KICAgICAgICAgICAgICAgIDwvYWN0aW9uPgogICAgICAgICAgICAgICAgPGFjdGlvbiB0eXBlPSJzZXRfZW52aXJvbm1lbnQiPgogICAgICAgICAgICAgICAgICAgIDxlbnZpcm9ubWVudF92YXJpYWJsZSBuYW1lPSJQQVRIIiBhY3Rpb249InByZXBlbmRfdG8iPiRJTlNUQUxMX0RJUi9iaW48L2Vudmlyb25tZW50X3ZhcmlhYmxlPgogICAgICAgICAgICAgICAgPC9hY3Rpb24+CiAgICAgICAgICAgIDwvYWN0aW9ucz4KICAgICAgICA8L2luc3RhbGw+CiAgICAgICAgPHJlYWRtZT5UaGUgdG9vbHMgZG93bmxvYWRlZCBieSB0aGlzIGRlcGVuZGVuY3kgZGVmaW5pdGlvbiBhcmUgZnJlZSBmb3IgYWNhZGVtaWMgdXNlLjwvcmVhZG1lPgogICAgPC9wYWNrYWdlPgoKICAgIDxwYWNrYWdlIG5hbWU9ImJlZFRvQmlnQmVkIiB2ZXJzaW9uPSIwLjAuMSI+CiAgICAgICAgPGluc3RhbGwgdmVyc2lvbj0iMS4wIj4KICAgICAgICAgICAgPGFjdGlvbnM+CiAgICAgICAgICAgICAgICA8YWN0aW9uIHR5cGU9ImRvd25sb2FkX2JpbmFyeSIgdGFyZ2V0X2RpcmVjdG9yeT0iYmluIj4KICAgICAgICAgICAgICAgICAgICA8dXJsX3RlbXBsYXRlIG9zPSJkYXJ3aW4iPmh0dHA6Ly9oZ2Rvd25sb2FkLmNzZS51Y3NjLmVkdS9hZG1pbi9leGUvbWFjT1NYLiR7YXJjaGl0ZWN0dXJlfS9iZWRUb0JpZ0JlZDwvdXJsX3RlbXBsYXRlPgogICAgICAgICAgICAgICAgICAgIDx1cmxfdGVtcGxhdGUgb3M9ImxpbnV4Ij5odHRwOi8vaGdkb3dubG9hZC5jc2UudWNzYy5lZHUvYWRtaW4vZXhlL2xpbnV4LiR7YXJjaGl0ZWN0dXJlfS9iZWRUb0JpZ0JlZDwvdXJsX3RlbXBsYXRlPgogICAgICAgICAgICAgICAgPC9hY3Rpb24+CiAgICAgICAgICAgICAgICA8YWN0aW9uIHR5cGU9ImNobW9kIj4KICAgICAgICAgICAgICAgICAgICA8ZmlsZSBtb2RlPSI3NTAiPiRJTlNUQUxMX0RJUi9iaW4vYmVkVG9CaWdCZWQ8L2ZpbGU+CiAgICAgICAgICAgICAgICA8L2FjdGlvbj4KICAgICAgICAgICAgICAgIDxhY3Rpb24gdHlwZT0ic2V0X2Vudmlyb25tZW50Ij4KICAgICAgICAgICAgICAgICAgICA8ZW52aXJvbm1lbnRfdmFyaWFibGUgbmFtZT0iUEFUSCIgYWN0aW9uPSJwcmVwZW5kX3RvIj4kSU5TVEFMTF9ESVIvYmluPC9lbnZpcm9ubWVudF92YXJpYWJsZT4KICAgICAgICAgICAgICAgIDwvYWN0aW9uPgogICAgICAgICAgICAKICAgICAgICA8L2luc3RhbGw+CiAgICAgICAgPHJlYWRtZT5UaGUgdG9vbHMgZG93bmxvYWRlZCBieSB0aGlzIGRlcGVuZGVuY3kgZGVmaW5pdGlvbiBhcmUgZnJlZSBmb3IgYWNhZGVtaWMgdXNlLjwvcmVhZG1lPgogICAgPC9wYWNrYWdlPgoKICAgIDxwYWNrYWdlIG5hbWU9ImZhVG9Ud29CaXQiIHZlcnNpb249IjAuMC4xIj4KICAgICAgICA8aW5zdGFsbCB2ZXJzaW9uPSIxLjAiPgogICAgICAgICAgICA8YWN0aW9ucz4KICAgICAgICAgICAgICAgIDxhY3Rpb24gdHlwZT0iZG93bmxvYWRfYmluYXJ5IiB0YXJnZXRfZGlyZWN0b3J5PSJiaW4iPgogICAgICAgICAgICAgICAgICAgIDx1cmxfdGVtcGxhdGUgb3M9ImRhcndpbiI+aHR0cDovL2hnZG93bmxvYWQuY3NlLnVjc2MuZWR1L2FkbWluL2V4ZS9tYWNPU1guJHthcmNoaXRlY3R1cmV9L2ZhVG9Ud29CaXQ8L3VybF90ZW1wbGF0ZT4KICAgICAgICAgICAgICAgICAgICA8dXJsX3RlbXBsYXRlIG9zPSJsaW51eCI+aHR0cDovL2hnZG93bmxvYWQuY3NlLnVjc2MuZWR1L2FkbWluL2V4ZS9saW51eC4ke2FyY2hpdGVjdHVyZX0vZmFUb1R3b0JpdDwvdXJsX3RlbXBsYXRlPgogICAgICAgICAgICAgICAgPC9hY3Rpb24+CiAgICAgICAgICAgICAgICA8YWN0aW9uIHR5cGU9ImNobW9kIj4KICAgICAgICAgICAgICAgICAgICA8ZmlsZSBtb2RlPSI3NTAiPiRJTlNUQUxMX0RJUi9iaW4vZmFUb1R3b0JpdDwvZmlsZT4KICAgICAgICAgICAgICAgIDwvYWN0aW9uPgogICAgICAgICAgICAgICAgPGFjdGlvbiB0eXBlPSJzZXRfZW52aXJvbm1lbnQiPgogICAgICAgICAgICAgICAgICAgIDxlbnZpcm9ubWVudF92YXJpYWJsZSBuYW1lPSJQQVRIIiBhY3Rpb249InByZXBlbmRfdG8iPiRJTlNUQUxMX0RJUi9iaW48L2Vudmlyb25tZW50X3ZhcmlhYmxlPgogICAgICAgICAgICAgICAgPC9hY3Rpb24+CiAgICAgICAgICAgIDwvYWN0aW9ucz4KICAgICAgICA8L2luc3RhbGw+CiAgICAgICAgPHJlYWRtZT5UaGUgdG9vbHMgZG93bmxvYWRlZCBieSB0aGlzIGRlcGVuZGVuY3kgZGVmaW5pdGlvbiBhcmUgZnJlZSBmb3IgYWNhZGVtaWMgdXNlLjwvcmVhZG1lPgogICAgPC9wYWNrYWdlPgo=</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">QGltcG9ydCB1cmwoaHR0cHM6Ly9mb250cy5nb29nbGVhcGlzLmNvbS9jc3M/ZmFtaWx5PVlhbm9uZStLYWZmZWVzYXR6KTsKQGltcG9ydCB1cmwoaHR0cHM6Ly9mb250cy5nb29nbGVhcGlzLmNvbS9jc3M/ZmFtaWx5PURyb2lkK1NlcmlmOjQwMCw3MDAsNDAwaXRhbGljKTsKQGltcG9ydCB1cmwoaHR0cHM6Ly9mb250cy5nb29nbGVhcGlzLmNvbS9jc3M/ZmFtaWx5PVVidW50dStNb25vOjQwMCw3MDAsNDAwaXRhbGljKTsKCmJvZHkgeyBmb250LWZhbWlseTogJ0Ryb2lkIFNlcmlmJzsgfQoKaDEsIGgyLCBoMyB7CiAgICBmb250LWZhbWlseTogJ1lhbm9uZSBLYWZmZWVzYXR6JzsKICAgIGZvbnQtd2VpZ2h0OiBub3JtYWw7Cn0KCi5yZW1hcmstY29kZSwgLnJlbWFyay1pbmxpbmUtY29kZSB7IGZvbnQtZmFtaWx5OiAnVWJ1bnR1IE1vbm8nOyB9Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
+        <text>/*
+This is a sample of a CSS file for a slideshow
+You need to put your `style.css` at the same level than your *.md slideshow file
+Example:
+MyDirectory:
+  - mySlideshow.md
+  - myCss.css
+  - images/
+*/</text>
       </register>
       <register name="7" type="4">
-        <text>version</text>
+        <text>e</text>
       </register>
       <register name="8" type="4">
-        <text>.</text>
+        <text>l</text>
       </register>
       <register name="9" type="4">
-        <text>as</text>
+        <text>p</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
