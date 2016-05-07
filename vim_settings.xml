@@ -49,11 +49,10 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/slideshow/galaxy_architecture_2015/galaxy_architecture_2015.md" timestamp="1462650033005">
-        <mark key="[" line="26" column="30" />
-        <mark key="]" line="26" column="40" />
-        <mark key="." line="26" column="40" />
-        <mark key="^" line="26" column="40" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/slideshow/galaxy_architecture_2015/galaxy_architecture_2015.md" timestamp="1462650965556">
+        <mark key="[" line="114" column="0" />
+        <mark key="]" line="114" column="0" />
+        <mark key="." line="114" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1461369485396">
         <mark key="[" line="0" column="0" />
@@ -246,11 +245,11 @@
       <jump line="4" column="31" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubaDataType/hubAssembly.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>400</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">YmFja2dyb3VuZC1zaXplOiBjb250YWluOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>400</text>
+        <text encoding="base64">PCEtLSBJbWFnZSB0byBmZXRjaCBhbmQgYWRkIC0t</text>
       </register>
       <register name="/" type="4">
         <text>datatype_path</text>
@@ -258,29 +257,29 @@
       <register name="0" type="4">
         <text>galaxy_root_path</text>
       </register>
-      <register name="1" type="4">
-        <text>400</text>
+      <register name="1" type="2">
+        <text encoding="base64">YmFja2dyb3VuZC1zaXplOiBjb250YWluOwo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGZvbnQtZmFtaWx5OiAnWWFub25lIEthZmZlZXNhdHonOwo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">PCEtLSBJbWFnZSB0byBmZXRjaCBhbmQgYWRkIC0t</text>
       </register>
       <register name="3" type="4">
-        <text>Droid Serif</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PCEtLSBJbWFnZSB0byBmZXRjaCBhbmQgYWRkIC0tPgo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">bGF5b3V0OnRydWUK</text>
+      <register name="5" type="4">
+        <text />
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">LS0tCg==</text>
+      <register name="6" type="4">
+        <text>400</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y2xhc3M6IGludmVyc2UsIGNlbnRlciwgbWlkZGxlCg==</text>
+        <text encoding="base64">ICAgIGZvbnQtZmFtaWx5OiAnWWFub25lIEthZmZlZXNhdHonOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Y2xhc3M6IGludmVyc2UsIGNlbnRlciwgbWlkZGxlCg==</text>
+      <register name="8" type="4">
+        <text>Droid Serif</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
