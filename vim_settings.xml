@@ -21,11 +21,11 @@
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/templates/js-app.mako" timestamp="1462375221321">
         <mark key="[" line="21" column="25" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/SubTools.py" timestamp="1462741607152">
-        <mark key="[" line="98" column="12" />
-        <mark key="]" line="98" column="7" />
-        <mark key="." line="98" column="7" />
-        <mark key="^" line="98" column="7" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/SubTools.py" timestamp="1462742590302">
+        <mark key="[" line="95" column="30" />
+        <mark key="]" line="95" column="39" />
+        <mark key="." line="95" column="39" />
+        <mark key="^" line="95" column="39" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1462487112427">
         <mark key="[" line="22" column="12" />
@@ -264,11 +264,11 @@
       <jump line="14" column="51" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/SubTools.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>type</text>
       </register>
       <register name="-" type="4">
-        <text>inject into the sort</text>
+        <text>type</text>
       </register>
       <register name="/" type="4">
         <text>arrayCall</text>
@@ -276,32 +276,32 @@
       <register name="0" type="4">
         <text>twoBitInfoFile</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>type</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBteVNwZWNpZUZvbGRlclBhdGggPSBvcy5wYXRoLmpvaW4oZXh0cmFfZmlsZXNfcGF0aCwgIm15SHViIiwgImRiaWEzIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IEZpbmQgdGhlIGJlc3QgdG8gZ2V0IHRoaXMgcGF0aCB3aXRob3V0IGhhcmRjb2RpbmcgaXQK</text>
+        <text encoding="base64">ICAgICAgICBteVNwZWNpZUZvbGRlclBhdGggPSBvcy5wYXRoLmpvaW4oZXh0cmFfZmlsZXNfcGF0aCwgIm15SHViIiwgImRiaWEzIikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIGJlZFRvQmlnQmVkIGF1Z3VzdHVzRGJpYTMuc29ydGJlZCBjaHJvbS5zaXplcyBhdWd1c3R1c0RiaWEzLmJiCg==</text>
+        <text encoding="base64">ICAgICAgICAjIFRPRE86IEZpbmQgdGhlIGJlc3QgdG8gZ2V0IHRoaXMgcGF0aCB3aXRob3V0IGhhcmRjb2RpbmcgaXQK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAjIGJlZFRvQmlnQmVkIGF1Z3VzdHVzRGJpYTMuc29ydGJlZCBjaHJvbS5zaXplcyBhdWd1c3R1c0RiaWEzLmJiCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgcCA9IHN1YnByb2Nlc3MuY2hlY2tfY2FsbCgKICAgICAgICAgICAgICAgICAgICBbb3MucGF0aC5qb2luKHVjc2NfdG9vbHNfcGF0aCwgJ2JlZFRvQmlnQmVkJyksCiAgICAgICAgICAgICAgICAgICAgIHNvcnRlZEJlZEZpbGUubmFtZSwKICAgICAgICAgICAgICAgICAgICAgY2hyb21TaXplc0ZpbGUubmFtZSwKICAgICAgICAgICAgICAgICAgICAgYmlnQmVkRmlsZS5uYW1lXSkKICAgICAgICAgICAgZXhjZXB0IHN1YnByb2Nlc3MuQ2FsbGVkUHJvY2Vzc0Vycm9yOgogICAgICAgICAgICAgICAgcmFpc2UK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>inject into the sort</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>chrom.sizes</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6CiAgICAgICAgICAgIHAgPSBzdWJwcm9jZXNzLmNoZWNrX2NhbGwoCiAgICAgICAgICAgICAgICBbJ3NvcnQnLAogICAgICAgICAgICAgICAgICctazJybicsCiAgICAgICAgICAgICAgICAgdHdvQml0SW5mb0ZpbGUubmFtZSwKICAgICAgICAgICAgICAgICAnLW8nLAogICAgICAgICAgICAgICAgIGNocm9tU2l6ZXNGaWxlLm5hbWVdKQogICAgICAgIGV4Y2VwdCBzdWJwcm9jZXNzLkNhbGxlZFByb2Nlc3NFcnJvcjoKICAgICAgICAgICAgcmFpc2UK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6CiAgICAgICAgICAgIHAgPSBzdWJwcm9jZXNzLmNoZWNrX2NhbGwoCiAgICAgICAgICAgICAgICBbJ3NvcnQnLAogICAgICAgICAgICAgICAgICctazJybicsCiAgICAgICAgICAgICAgICAgdHdvQml0SW5mb0ZpbGUubmFtZSwKICAgICAgICAgICAgICAgICAnLW8nLAogICAgICAgICAgICAgICAgIGNocm9tU2l6ZXNGaWxlLm5hbWVdKQogICAgICAgIGV4Y2VwdCBzdWJwcm9jZXNzLkNhbGxlZFByb2Nlc3NFcnJvcjoKICAgICAgICAgICAgcmFpc2UKICAgICAgICBzZWxmLnN1YlRvb2xzLnNvcnRDaHJvbVNpemVzKHR3b0JpdEluZm9GaWxlLCBjaHJvbVNpemVzRmlsZSkK</text>
+        <text encoding="base64">ICAgICAgICB0cnk6CiAgICAgICAgICAgIHAgPSBzdWJwcm9jZXNzLmNoZWNrX2NhbGwoCiAgICAgICAgICAgICAgICBbJ3NvcnQnLAogICAgICAgICAgICAgICAgICctazJybicsCiAgICAgICAgICAgICAgICAgdHdvQml0SW5mb0ZpbGUubmFtZSwKICAgICAgICAgICAgICAgICAnLW8nLAogICAgICAgICAgICAgICAgIGNocm9tU2l6ZXNGaWxlLm5hbWVdKQogICAgICAgIGV4Y2VwdCBzdWJwcm9jZXNzLkNhbGxlZFByb2Nlc3NFcnJvcjoKICAgICAgICAgICAgcmFpc2UK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
