@@ -21,11 +21,11 @@
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/templates/js-app.mako" timestamp="1462375221321">
         <mark key="[" line="21" column="25" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/SubTools.py" timestamp="1462736282870">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="13" column="7" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/SubTools.py" timestamp="1462737681658">
+        <mark key="[" line="41" column="23" />
+        <mark key="]" line="41" column="28" />
+        <mark key="." line="41" column="28" />
+        <mark key="^" line="41" column="28" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1462487112427">
         <mark key="[" line="22" column="12" />
@@ -62,11 +62,11 @@
         <mark key="^" line="292" column="49" />
         <mark key="." line="410" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/AugustusProcess.py" timestamp="1462736230344">
-        <mark key="[" line="29" column="32" />
-        <mark key="]" line="29" column="24" />
-        <mark key="." line="29" column="24" />
-        <mark key="^" line="29" column="24" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/AugustusProcess.py" timestamp="1462737697763">
+        <mark key="[" line="32" column="50" />
+        <mark key="]" line="32" column="73" />
+        <mark key="^" line="32" column="73" />
+        <mark key="." line="32" column="73" />
       </file>
       <file name="/Dummy.txt" timestamp="1461369485396">
         <mark key="[" line="0" column="0" />
@@ -265,11 +265,11 @@
       <jump line="14" column="51" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/SubTools.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnVjc2NfdG9vbHNfcGF0aCA9IE5vbmUK</text>
+      <register name="&quot;" type="4">
+        <text>self</text>
       </register>
       <register name="-" type="4">
-        <text>subtools</text>
+        <text>self</text>
       </register>
       <register name="/" type="4">
         <text>arrayCall</text>
@@ -277,32 +277,32 @@
       <register name="0" type="4">
         <text>twoBitInfoFile</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnVjc2NfdG9vbHNfcGF0aCA9IE5vbmUK</text>
+      <register name="1" type="4">
+        <text>self</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBleGNlcHQgc3VicHJvY2Vzcy5DYWxsZWRQcm9jZXNzRXJyb3I6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSB1dGlsLlN1YlRvb2xzIGltcG9ydCBTdWJUb29scwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICBnZW5lUHJlZEZpbGUubmFtZV0pCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>subtools</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICBpbnB1dEdGRjNGaWxlLm5hbWUsCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>, trackHub</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFtvcy5wYXRoLmpvaW4odWNzY190b29sc19wYXRoLCAnZ2ZmM1RvR2VuZVByZWQnKSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcCA9IHN1YnByb2Nlc3MuY2hlY2tfY2FsbCgK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgQ3JlYXRlIHRoZSBTdWJUb29scyBvYmplY3QK</text>
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHN1YlRvb2xzID0gU3ViVG9vbHModWNzY190b29sc19wYXRoKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIFRPRE86IENoZWNrIGlmIHdlIHNob3VsZCB1c2UgY29tbXVuaWNhdGUgaW5zdGVhZCBvZiB3YWl0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
