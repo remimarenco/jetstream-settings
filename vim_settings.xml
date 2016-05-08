@@ -21,6 +21,13 @@
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/templates/js-app.mako" timestamp="1462375221321">
         <mark key="[" line="21" column="25" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/SubTools.py" timestamp="1462723368958">
+        <mark key="'" line="14" column="51" />
+        <mark key="[" line="41" column="54" />
+        <mark key="]" line="41" column="55" />
+        <mark key="." line="41" column="55" />
+        <mark key="^" line="41" column="55" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1462487112427">
         <mark key="[" line="22" column="12" />
         <mark key="]" line="22" column="36" />
@@ -55,6 +62,12 @@
         <mark key="]" line="410" column="68" />
         <mark key="^" line="292" column="49" />
         <mark key="." line="410" column="0" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/AugustusProcess.py" timestamp="1462723806451">
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="0" />
+        <mark key="^" line="75" column="35" />
+        <mark key="." line="79" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1461369485396">
         <mark key="[" line="0" column="0" />
@@ -97,12 +110,17 @@
         <mark key="^" line="444" column="0" />
         <mark key="." line="444" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/add_datatype.py" timestamp="1462572628415">
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/cleanDirectory.py" timestamp="1462719417267">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="17" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/add_datatype.py" timestamp="1462719405350">
         <mark key="'" line="18" column="4" />
-        <mark key="[" line="62" column="25" />
-        <mark key="]" line="62" column="78" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
         <mark key="^" line="62" column="78" />
-        <mark key="." line="62" column="78" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/TrackHub.py" timestamp="1462548528597">
         <mark key="[" line="79" column="0" />
@@ -146,8 +164,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bed.py" />
-      <jump line="27" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/twoBitCreator.py" />
       <jump line="89" column="20" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bed.py" />
       <jump line="33" column="16" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/BedSimpleRepeats.py" />
       <jump line="66" column="17" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/BedSimpleRepeats.py" />
@@ -246,63 +262,64 @@
       <jump line="65" column="57" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/slideshow/galaxy_architecture_2015/galaxy_architecture_2015.md" />
       <jump line="223" column="37" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/slideshow/galaxy_architecture_2015/galaxy_architecture_2015.md" />
       <jump line="257" column="12" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/slideshow/galaxy_architecture_2015/galaxy_architecture_2015.md" />
+      <jump line="7" column="16" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/SubTools.py" />
+      <jump line="14" column="51" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/SubTools.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">IVtEZWZhdWx0LWFsaWduZWQgaW1hZ2VdKGltYWdlcy9nYWxheHlfY29tcG9uZW50cy9vYmplY3Rfc3RvcmUyLnBuZykK</text>
+        <text encoding="base64">ICAgICAgICB0d29CaXRJbmZvRmlsZS53cml0ZSh0d29CaXRJbmZvX291dCkK</text>
       </register>
       <register name="-" type="4">
-        <text>object_store1</text>
+        <text>twoBitInfo_out.name</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0aG91c2FuZHNcPg==</text>
+        <text>arrayCall</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">IVtEZWZhdWx0LWFsaWduZWQgaW1hZ2VdKGltYWdlcy9nYWxheHlfY29tcG9uZW50cy9vYmplY3Rfc3RvcmUyLnBuZykK</text>
+      <register name="0" type="4">
+        <text>twoBitInfoFile</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PCEtLSBJbWFnZSB0byBmZXRjaCBhbmQgYWRkIC0tPgpiYWNrZ3JvdW5kLWltYWdlOiB1cmwoaW1hZ2VzL2dhbGF4eV9jb21wb25lbnRzL0RhdGFNb2RlbDIucG5nKQpiYWNrZ3JvdW5kLXBvc2l0aW9uOiBjZW50ZXI7CmJhY2tncm91bmQtcmVwZWF0OiBuby1yZXBlYXQ7CmJhY2tncm91bmQtc2l6ZTogY29udGFpbjsK</text>
+        <text encoding="base64">ICAgICAgICB0d29CaXRJbmZvRmlsZS53cml0ZSh0d29CaXRJbmZvX291dCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PCEtLSBJbWFnZSB0byBmZXRjaCBhbmQgYWRkIC0tPgpiYWNrZ3JvdW5kLWltYWdlOiB1cmwoaW1hZ2VzL2dhbGF4eV9jb21wb25lbnRzL0RhdGFNb2RlbDIucG5nKQpiYWNrZ3JvdW5kLXBvc2l0aW9uOiBjZW50ZXI7CmJhY2tncm91bmQtcmVwZWF0OiBuby1yZXBlYXQ7CmJhY2tncm91bmQtc2l6ZTogY29udGFpbjsK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAiVHdvQml0SW5mbzogJXMiICUgdHdvQml0SW5mb19vdXQK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">PCEtLSBJbWFnZSB0byBmZXRjaCBhbmQgYWRkIC0tPgpiYWNrZ3JvdW5kLWltYWdlOiB1cmwoaW1hZ2VzL2dhbGF4eV9jb21wb25lbnRzL0RhdGFNb2RlbDIucG5nKQpiYWNrZ3JvdW5kLXBvc2l0aW9uOiBjZW50ZXI7CmJhY2tncm91bmQtcmVwZWF0OiBuby1yZXBlYXQ7CmJhY2tncm91bmQtc2l6ZTogY29udGFpbjsK</text>
+      <register name="3" type="4">
+        <text>twoBitInfo_out.name</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PCEtLSBJbWFnZSB0byBmZXRjaCBhbmQgYWRkIC0tPgpiYWNrZ3JvdW5kLWltYWdlOiB1cmwoaW1hZ2VzL2dhbGF4eV9jb21wb25lbnRzL0RhdGFNb2RlbDIucG5nKQpiYWNrZ3JvdW5kLXBvc2l0aW9uOiBjZW50ZXI7CmJhY2tncm91bmQtcmVwZWF0OiBuby1yZXBlYXQ7CmJhY2tncm91bmQtc2l6ZTogY29udGFpbjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0ZGVycj10d29CaXRJbmZvX2VycikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PCEtLSBJbWFnZSB0byBmZXRjaCBhbmQgYWRkIC0tPgpiYWNrZ3JvdW5kLWltYWdlOiB1cmwoaW1hZ2VzL2dhbGF4eV9jb21wb25lbnRzL0RhdGFNb2RlbDIucG5nKQpiYWNrZ3JvdW5kLXBvc2l0aW9uOiBjZW50ZXI7CmJhY2tncm91bmQtcmVwZWF0OiBuby1yZXBlYXQ7CmJhY2tncm91bmQtc2l6ZTogY29udGFpbjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0ZG91dD10d29CaXRJbmZvX291dCwK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">PCEtLSBJbWFnZSB0byBmZXRjaCBhbmQgYWRkIC0tPgpiYWNrZ3JvdW5kLWltYWdlOiB1cmwoaW1hZ2VzL2dhbGF4eV9jb21wb25lbnRzL0RhdGFNb2RlbDIucG5nKQpiYWNrZ3JvdW5kLXBvc2l0aW9uOiBjZW50ZXI7CmJhY2tncm91bmQtcmVwZWF0OiBuby1yZXBlYXQ7CmJhY2tncm91bmQtc2l6ZTogY29udGFpbjsK</text>
+      <register name="6" type="4">
+        <text>subprocess.PIPE</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">PCEtLSBJbWFnZSB0byBmZXRjaCBhbmQgYWRkIC0tPgpiYWNrZ3JvdW5kLWltYWdlOiB1cmwoaW1hZ2VzL2dhbGF4eV9jb21wb25lbnRzL0RhdGFNb2RlbDIucG5nKQpiYWNrZ3JvdW5kLXBvc2l0aW9uOiBjZW50ZXI7CmJhY2tncm91bmQtcmVwZWF0OiBuby1yZXBlYXQ7CmJhY2tncm91bmQtc2l6ZTogY29udGFpbjsK</text>
+      <register name="7" type="4">
+        <text>subprocess.PIPE</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PCEtLSBJbWFnZSB0byBmZXRjaCBhbmQgYWRkIC0tPgpiYWNrZ3JvdW5kLWltYWdlOiB1cmwoaW1hZ2VzL2dhbGF4eV9jb21wb25lbnRzL0RhdGFNb2RlbDIucG5nKQpiYWNrZ3JvdW5kLXBvc2l0aW9uOiBjZW50ZXI7CmJhY2tncm91bmQtcmVwZWF0OiBuby1yZXBlYXQ7CmJhY2tncm91bmQtc2l6ZTogY29udGFpbjsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PCEtLSBJbWFnZSB0byBmZXRjaCBhbmQgYWRkIC0tPgpiYWNrZ3JvdW5kLWltYWdlOiB1cmwoaW1hZ2VzL2dhbGF4eV9jb21wb25lbnRzL0RhdGFNb2RlbDIucG5nKQpiYWNrZ3JvdW5kLXBvc2l0aW9uOiBjZW50ZXI7CmJhY2tncm91bmQtcmVwZWF0OiBuby1yZXBlYXQ7CmJhY2tncm91bmQtc2l6ZTogY29udGFpbjsK</text>
+        <text encoding="base64">ICAgICAgICBDYWxsIHR3b0JpdEluZm8gYW5kIHdyaXRlIHRoZSByZXN1bHQgaW50byB0d29CaXRfaW5mb19maWxlCiAgICAgICAgdHdvQml0X2luZm9fZmlsZSBORUVEUyBUTyBCRSBXUklUQUJMRQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0aG91c2FuZHNcPg==</last-search>
+      <last-search>%s</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0aG91c2FuZHNcPg==</last-pattern>
-      <last-replace>datatype_conf_path</last-replace>
-      <last-substitute>datatype_path</last-substitute>
+      <last-pattern>arrayCall</last-pattern>
+      <last-replace>array_call</last-replace>
+      <last-substitute>arrayCall</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>watch</entry>
         <entry encoding="base64">XDxzY3JpcHRzXD4=</entry>
         <entry>p</entry>
         <entry>s</entry>
@@ -316,12 +333,13 @@
         <entry>Popen</entry>
         <entry>check_output</entry>
         <entry>twoBitInfo</entry>
-        <entry>%s</entry>
         <entry>datatype_path</entry>
         <entry>Image</entry>
         <entry>3. Galaxy</entry>
         <entry>Charts</entry>
         <entry encoding="base64">XDx0aG91c2FuZHNcPg==</entry>
+        <entry>%s</entry>
+        <entry>arrayCall</entry>
       </history-search>
       <history-cmd>
         <entry>s/tool_list/toto</entry>
@@ -338,8 +356,9 @@
         <entry>%s/check_output/check_call/gc</entry>
         <entry>%s/datatype_path/datatype_conf_path/gc</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>r !ls</entry>
+        <entry>%s/arrayCall/array_call/gc</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
