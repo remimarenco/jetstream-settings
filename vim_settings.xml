@@ -21,11 +21,11 @@
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/templates/js-app.mako" timestamp="1462375221321">
         <mark key="[" line="21" column="25" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/SubTools.py" timestamp="1462738488908">
-        <mark key="[" line="52" column="73" />
-        <mark key="]" line="55" column="15" />
-        <mark key="." line="55" column="15" />
-        <mark key="^" line="55" column="15" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/SubTools.py" timestamp="1462741607152">
+        <mark key="[" line="98" column="12" />
+        <mark key="]" line="98" column="7" />
+        <mark key="." line="98" column="7" />
+        <mark key="^" line="98" column="7" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1462487112427">
         <mark key="[" line="22" column="12" />
@@ -62,11 +62,10 @@
         <mark key="^" line="292" column="49" />
         <mark key="." line="410" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/AugustusProcess.py" timestamp="1462738542849">
-        <mark key="[" line="35" column="70" />
-        <mark key="]" line="35" column="74" />
-        <mark key="^" line="35" column="74" />
-        <mark key="." line="35" column="74" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/AugustusProcess.py" timestamp="1462741273529">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1461369485396">
         <mark key="[" line="0" column="0" />
@@ -266,10 +265,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6CiAgICAgICAgICAgIHAgPSBzdWJwcm9jZXNzLmNoZWNrX2NhbGwoCiAgICAgICAgICAgICAgICBbb3MucGF0aC5qb2luKHVjc2NfdG9vbHNfcGF0aCwgJ2dlbmVQcmVkVG9CZWQnKSwKICAgICAgICAgICAgICAgICBnZW5lUHJlZEZpbGUubmFtZSwKICAgICAgICAgICAgICAgICB1bnNvcnRlZEJlZEZpbGUubmFtZV0pCiAgICAgICAgZXhjZXB0IHN1YnByb2Nlc3MuQ2FsbGVkUHJvY2Vzc0Vycm9yOgogICAgICAgICAgICByYWlzZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>self</text>
+        <text>inject into the sort</text>
       </register>
       <register name="/" type="4">
         <text>arrayCall</text>
@@ -278,31 +277,31 @@
         <text>twoBitInfoFile</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6CiAgICAgICAgICAgIHAgPSBzdWJwcm9jZXNzLmNoZWNrX2NhbGwoCiAgICAgICAgICAgICAgICBbb3MucGF0aC5qb2luKHVjc2NfdG9vbHNfcGF0aCwgJ2dlbmVQcmVkVG9CZWQnKSwKICAgICAgICAgICAgICAgICBnZW5lUHJlZEZpbGUubmFtZSwKICAgICAgICAgICAgICAgICB1bnNvcnRlZEJlZEZpbGUubmFtZV0pCiAgICAgICAgZXhjZXB0IHN1YnByb2Nlc3MuQ2FsbGVkUHJvY2Vzc0Vycm9yOgogICAgICAgICAgICByYWlzZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>self</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBteVNwZWNpZUZvbGRlclBhdGggPSBvcy5wYXRoLmpvaW4oZXh0cmFfZmlsZXNfcGF0aCwgIm15SHViIiwgImRiaWEzIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UK</text>
+        <text encoding="base64">ICAgICAgICAjIFRPRE86IEZpbmQgdGhlIGJlc3QgdG8gZ2V0IHRoaXMgcGF0aCB3aXRob3V0IGhhcmRjb2RpbmcgaXQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQgc3VicHJvY2Vzcy5DYWxsZWRQcm9jZXNzRXJyb3I6Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIGJlZFRvQmlnQmVkIGF1Z3VzdHVzRGJpYTMuc29ydGJlZCBjaHJvbS5zaXplcyBhdWd1c3R1c0RiaWEzLmJiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICBnZW5lUHJlZEZpbGUubmFtZV0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgcCA9IHN1YnByb2Nlc3MuY2hlY2tfY2FsbCgKICAgICAgICAgICAgICAgICAgICBbb3MucGF0aC5qb2luKHVjc2NfdG9vbHNfcGF0aCwgJ2JlZFRvQmlnQmVkJyksCiAgICAgICAgICAgICAgICAgICAgIHNvcnRlZEJlZEZpbGUubmFtZSwKICAgICAgICAgICAgICAgICAgICAgY2hyb21TaXplc0ZpbGUubmFtZSwKICAgICAgICAgICAgICAgICAgICAgYmlnQmVkRmlsZS5uYW1lXSkKICAgICAgICAgICAgZXhjZXB0IHN1YnByb2Nlc3MuQ2FsbGVkUHJvY2Vzc0Vycm9yOgogICAgICAgICAgICAgICAgcmFpc2UK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICBpbnB1dEdGRjNGaWxlLm5hbWUsCg==</text>
+      <register name="6" type="4">
+        <text>inject into the sort</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFtvcy5wYXRoLmpvaW4odWNzY190b29sc19wYXRoLCAnZ2ZmM1RvR2VuZVByZWQnKSwK</text>
+      <register name="7" type="4">
+        <text>chrom.sizes</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcCA9IHN1YnByb2Nlc3MuY2hlY2tfY2FsbCgK</text>
+        <text encoding="base64">ICAgICAgICB0cnk6CiAgICAgICAgICAgIHAgPSBzdWJwcm9jZXNzLmNoZWNrX2NhbGwoCiAgICAgICAgICAgICAgICBbJ3NvcnQnLAogICAgICAgICAgICAgICAgICctazJybicsCiAgICAgICAgICAgICAgICAgdHdvQml0SW5mb0ZpbGUubmFtZSwKICAgICAgICAgICAgICAgICAnLW8nLAogICAgICAgICAgICAgICAgIGNocm9tU2l6ZXNGaWxlLm5hbWVdKQogICAgICAgIGV4Y2VwdCBzdWJwcm9jZXNzLkNhbGxlZFByb2Nlc3NFcnJvcjoKICAgICAgICAgICAgcmFpc2UK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cnk6CiAgICAgICAgICAgIHAgPSBzdWJwcm9jZXNzLmNoZWNrX2NhbGwoCiAgICAgICAgICAgICAgICBbJ3NvcnQnLAogICAgICAgICAgICAgICAgICctazJybicsCiAgICAgICAgICAgICAgICAgdHdvQml0SW5mb0ZpbGUubmFtZSwKICAgICAgICAgICAgICAgICAnLW8nLAogICAgICAgICAgICAgICAgIGNocm9tU2l6ZXNGaWxlLm5hbWVdKQogICAgICAgIGV4Y2VwdCBzdWJwcm9jZXNzLkNhbGxlZFByb2Nlc3NFcnJvcjoKICAgICAgICAgICAgcmFpc2UKICAgICAgICBzZWxmLnN1YlRvb2xzLnNvcnRDaHJvbVNpemVzKHR3b0JpdEluZm9GaWxlLCBjaHJvbVNpemVzRmlsZSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
