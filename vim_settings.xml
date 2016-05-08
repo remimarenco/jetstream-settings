@@ -21,11 +21,11 @@
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/templates/js-app.mako" timestamp="1462375221321">
         <mark key="[" line="21" column="25" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/SubTools.py" timestamp="1462733989226">
-        <mark key="[" line="14" column="4" />
-        <mark key="]" line="14" column="16" />
-        <mark key="^" line="14" column="16" />
-        <mark key="." line="14" column="16" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/SubTools.py" timestamp="1462736282870">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="13" column="7" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1462487112427">
         <mark key="[" line="22" column="12" />
@@ -62,10 +62,11 @@
         <mark key="^" line="292" column="49" />
         <mark key="." line="410" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/AugustusProcess.py" timestamp="1462733960498">
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/AugustusProcess.py" timestamp="1462736230344">
+        <mark key="[" line="29" column="32" />
+        <mark key="]" line="29" column="24" />
+        <mark key="." line="29" column="24" />
+        <mark key="^" line="29" column="24" />
       </file>
       <file name="/Dummy.txt" timestamp="1461369485396">
         <mark key="[" line="0" column="0" />
@@ -132,11 +133,11 @@
         <mark key="]" line="127" column="0" />
         <mark key="." line="127" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" timestamp="1462572013883">
-        <mark key="'" line="88" column="4" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="48" column="30" />
-        <mark key="." line="76" column="0" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" timestamp="1462736269605">
+        <mark key="'" line="84" column="4" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/templates/webapps/galaxy/base_panels.mako" timestamp="1462375206528">
         <mark key="[" line="9" column="0" />
@@ -265,7 +266,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAiSGV5IGl0IHdvcmtlZCEiCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnVjc2NfdG9vbHNfcGF0aCA9IE5vbmUK</text>
       </register>
       <register name="-" type="4">
         <text>subtools</text>
@@ -277,31 +278,31 @@
         <text>twoBitInfoFile</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAiSGV5IGl0IHdvcmtlZCEiCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnVjc2NfdG9vbHNfcGF0aCA9IE5vbmUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzdWJ0b29scyA9IFN1YlRvb2xzKCkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="3" type="4">
-        <text>subtools</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>self</text>
+      <register name="4" type="2">
+        <text encoding="base64">ZnJvbSB1dGlsLlN1YlRvb2xzIGltcG9ydCBTdWJUb29scwo=</text>
       </register>
       <register name="5" type="4">
-        <text>SubTools</text>
+        <text>subtools</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IElzb2xhdGUgaW4gYSBmdW5jdGlvbgogICAgICAgICMgV2UgZmlyc3QgZ2V0IHRoZSB0d29CaXQgSW5mb3MKICAgICAgICB0d29CaXRJbmZvX291dCA9IE5vbmUKICAgICAgICB0d29CaXRJbmZvX2VyciA9IE5vbmUKICAgICAgICB0cnk6CiAgICAgICAgICAgIHAgPSBzdWJwcm9jZXNzLmNoZWNrX2NhbGwoCiAgICAgICAgICAgICAgICBbb3MucGF0aC5qb2luKHVjc2NfdG9vbHNfcGF0aCwgJ3R3b0JpdEluZm8nKSwKICAgICAgICAgICAgICAgICB0d29CaXRGaWxlLm5hbWUsCiAgICAgICAgICAgICAgICAgdHdvQml0SW5mb0ZpbGUubmFtZV0pCiAgICAgICAgZXhjZXB0IHN1YnByb2Nlc3MuQ2FsbGVkUHJvY2Vzc0Vycm9yOgogICAgICAgICAgICByYWlzZQo=</text>
+      <register name="6" type="4">
+        <text>, trackHub</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIKICAgICAgICBDYWxsIHR3b0JpdEluZm8gYW5kIHdyaXRlIHRoZSByZXN1bHQgaW50byB0d29CaXRfaW5mb19maWxlCiAgICAgICAgdHdvQml0X2luZm9fZmlsZSBORUVEUyBUTyBCRSBXUklUQUJMRQogICAgICAgIHR3b19iaXRfaW5mb19maWxlIE5FRURTIFRPIEJFIFdSSVRBQkxFCiAgICAgICAgOnBhcmFtIHR3b19iaXRfZmlsZV9uYW1lOgogICAgICAgIDpwYXJhbSB0d29fYml0X2luZm9fZmlsZToKICAgICAgICA6cmV0dXJuOgogICAgICAgICIiIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIKICAgICAgICBDYWxsIHR3b0JpdEluZm8gYW5kIHdyaXRlIHRoZSByZXN1bHQgaW50byB0d29CaXRfaW5mb19maWxlCiAgICAgICAgdHdvQml0X2luZm9fZmlsZSBORUVEUyBUTyBCRSBXUklUQUJMRQogICAgICAgIHR3b19iaXRfaW5mb19maWxlIE5FRURTIFRPIEJFIFdSSVRBQkxFCiAgICAgICAgOnBhcmFtIHR3b19iaXRfZmlsZV9uYW1lOgogICAgICAgIDpwYXJhbSB0d29fYml0X2luZm9fZmlsZToKICAgICAgICA6cmV0dXJuOgo=</text>
+        <text encoding="base64">ICAgICMgQ3JlYXRlIHRoZSBTdWJUb29scyBvYmplY3QK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIKICAgICAgICBDYWxsIHR3b0JpdEluZm8gYW5kIHdyaXRlIHRoZSByZXN1bHQgaW50byB0d29CaXRfaW5mb19maWxlCiAgICAgICAgdHdvQml0X2luZm9fZmlsZSBORUVEUyBUTyBCRSBXUklUQUJMRQogICAgICAgIHR3b19iaXRfaW5mb19maWxlIE5FRURTIFRPIEJFIFdSSVRBQkxFCiAgICAgICAgOnBhcmFtIHR3b19iaXRfZmlsZV9uYW1lOgogICAgICAgIDpwYXJhbSB0d29fYml0X2luZm9fZmlsZToKICAgICAgICA6cmV0dXJuOgo=</text>
+        <text encoding="base64">ICAgIHN1YlRvb2xzID0gU3ViVG9vbHModWNzY190b29sc19wYXRoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -347,7 +348,6 @@
         <entry>s</entry>
         <entry>q!</entry>
         <entry>wq</entry>
-        <entry>W</entry>
         <entry>s/p/o</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>%s/Popen/check_call/gc</entry>
@@ -356,6 +356,7 @@
         <entry>q</entry>
         <entry>r !ls</entry>
         <entry>%s/arrayCall/array_call/gc</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
