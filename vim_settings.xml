@@ -21,12 +21,11 @@
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/templates/js-app.mako" timestamp="1462375221321">
         <mark key="[" line="21" column="25" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/SubTools.py" timestamp="1462723368958">
-        <mark key="'" line="14" column="51" />
-        <mark key="[" line="41" column="54" />
-        <mark key="]" line="41" column="55" />
-        <mark key="." line="41" column="55" />
-        <mark key="^" line="41" column="55" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/SubTools.py" timestamp="1462733989226">
+        <mark key="[" line="14" column="4" />
+        <mark key="]" line="14" column="16" />
+        <mark key="^" line="14" column="16" />
+        <mark key="." line="14" column="16" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1462487112427">
         <mark key="[" line="22" column="12" />
@@ -63,11 +62,10 @@
         <mark key="^" line="292" column="49" />
         <mark key="." line="410" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/AugustusProcess.py" timestamp="1462725949911">
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="^" line="75" column="35" />
-        <mark key="." line="78" column="0" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/AugustusProcess.py" timestamp="1462733960498">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1461369485396">
         <mark key="[" line="0" column="0" />
@@ -267,10 +265,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjIHR3b0JpdEluZm9fb3V0LCB0d29CaXRJbmZvX2VyciA9IHAuY29tbXVuaWNhdGUoKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAiSGV5IGl0IHdvcmtlZCEiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>twoBitInfo_out.name</text>
+        <text>subtools</text>
       </register>
       <register name="/" type="4">
         <text>arrayCall</text>
@@ -279,31 +277,31 @@
         <text>twoBitInfoFile</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIHR3b0JpdEluZm9fb3V0LCB0d29CaXRJbmZvX2VyciA9IHAuY29tbXVuaWNhdGUoKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAiSGV5IGl0IHdvcmtlZCEiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0d29CaXRJbmZvRmlsZS53cml0ZSh0d29CaXRJbmZvX291dCkK</text>
+        <text encoding="base64">ICAgICAgICBzdWJ0b29scyA9IFN1YlRvb2xzKCkK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAiVHdvQml0SW5mbzogJXMiICUgdHdvQml0SW5mb19vdXQK</text>
+      <register name="3" type="4">
+        <text>subtools</text>
       </register>
       <register name="4" type="4">
-        <text>twoBitInfo_out.name</text>
+        <text>self</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0ZGVycj10d29CaXRJbmZvX2VycikK</text>
+      <register name="5" type="4">
+        <text>SubTools</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0ZG91dD10d29CaXRJbmZvX291dCwK</text>
+        <text encoding="base64">ICAgICAgICAjIFRPRE86IElzb2xhdGUgaW4gYSBmdW5jdGlvbgogICAgICAgICMgV2UgZmlyc3QgZ2V0IHRoZSB0d29CaXQgSW5mb3MKICAgICAgICB0d29CaXRJbmZvX291dCA9IE5vbmUKICAgICAgICB0d29CaXRJbmZvX2VyciA9IE5vbmUKICAgICAgICB0cnk6CiAgICAgICAgICAgIHAgPSBzdWJwcm9jZXNzLmNoZWNrX2NhbGwoCiAgICAgICAgICAgICAgICBbb3MucGF0aC5qb2luKHVjc2NfdG9vbHNfcGF0aCwgJ3R3b0JpdEluZm8nKSwKICAgICAgICAgICAgICAgICB0d29CaXRGaWxlLm5hbWUsCiAgICAgICAgICAgICAgICAgdHdvQml0SW5mb0ZpbGUubmFtZV0pCiAgICAgICAgZXhjZXB0IHN1YnByb2Nlc3MuQ2FsbGVkUHJvY2Vzc0Vycm9yOgogICAgICAgICAgICByYWlzZQo=</text>
       </register>
-      <register name="7" type="4">
-        <text>subprocess.PIPE</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAiIiIKICAgICAgICBDYWxsIHR3b0JpdEluZm8gYW5kIHdyaXRlIHRoZSByZXN1bHQgaW50byB0d29CaXRfaW5mb19maWxlCiAgICAgICAgdHdvQml0X2luZm9fZmlsZSBORUVEUyBUTyBCRSBXUklUQUJMRQogICAgICAgIHR3b19iaXRfaW5mb19maWxlIE5FRURTIFRPIEJFIFdSSVRBQkxFCiAgICAgICAgOnBhcmFtIHR3b19iaXRfZmlsZV9uYW1lOgogICAgICAgIDpwYXJhbSB0d29fYml0X2luZm9fZmlsZToKICAgICAgICA6cmV0dXJuOgogICAgICAgICIiIgo=</text>
       </register>
-      <register name="8" type="4">
-        <text>subprocess.PIPE</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAiIiIKICAgICAgICBDYWxsIHR3b0JpdEluZm8gYW5kIHdyaXRlIHRoZSByZXN1bHQgaW50byB0d29CaXRfaW5mb19maWxlCiAgICAgICAgdHdvQml0X2luZm9fZmlsZSBORUVEUyBUTyBCRSBXUklUQUJMRQogICAgICAgIHR3b19iaXRfaW5mb19maWxlIE5FRURTIFRPIEJFIFdSSVRBQkxFCiAgICAgICAgOnBhcmFtIHR3b19iaXRfZmlsZV9uYW1lOgogICAgICAgIDpwYXJhbSB0d29fYml0X2luZm9fZmlsZToKICAgICAgICA6cmV0dXJuOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAiIiIKICAgICAgICBDYWxsIHR3b0JpdEluZm8gYW5kIHdyaXRlIHRoZSByZXN1bHQgaW50byB0d29CaXRfaW5mb19maWxlCiAgICAgICAgdHdvQml0X2luZm9fZmlsZSBORUVEUyBUTyBCRSBXUklUQUJMRQogICAgICAgIHR3b19iaXRfaW5mb19maWxlIE5FRURTIFRPIEJFIFdSSVRBQkxFCiAgICAgICAgOnBhcmFtIHR3b19iaXRfZmlsZV9uYW1lOgogICAgICAgIDpwYXJhbSB0d29fYml0X2luZm9fZmlsZToKICAgICAgICA6cmV0dXJuOgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
