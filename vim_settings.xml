@@ -24,11 +24,12 @@
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/SubTools.py" timestamp="1462752859717">
         <mark key="'" line="7" column="16" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1462832239175">
-        <mark key="[" line="0" column="69" />
-        <mark key="]" line="0" column="70" />
-        <mark key="^" line="128" column="57" />
-        <mark key="." line="0" column="70" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1462836004113">
+        <mark key="'" line="100" column="34" />
+        <mark key="[" line="98" column="11" />
+        <mark key="]" line="136" column="47" />
+        <mark key="^" line="136" column="47" />
+        <mark key="." line="136" column="47" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/templates/base.mako" timestamp="1462375051682">
         <mark key="[" line="95" column="0" />
@@ -147,7 +148,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="7" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/twoBitCreator.py" />
       <jump line="86" column="20" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/BedSimpleRepeats.py" />
       <jump line="23" column="39" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/BedSimpleRepeats.py" />
       <jump line="45" column="39" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/BedSimpleRepeats.py" />
@@ -247,6 +247,7 @@
       <jump line="21" column="12" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/AugustusProcess.py" />
       <jump line="7" column="16" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/SubTools.py" />
       <jump line="43" column="7" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/SubTools.py" />
+      <jump line="99" column="34" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -340,8 +341,8 @@
         <entry>q</entry>
         <entry>r !ls</entry>
         <entry>%s/arrayCall/array_call/gc</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
