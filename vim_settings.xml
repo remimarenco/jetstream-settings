@@ -21,17 +21,17 @@
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/templates/js-app.mako" timestamp="1462375221321">
         <mark key="[" line="21" column="25" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/SubTools.py" timestamp="1462742590302">
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/SubTools.py" timestamp="1462749423509">
         <mark key="[" line="95" column="30" />
         <mark key="]" line="95" column="39" />
         <mark key="." line="95" column="39" />
         <mark key="^" line="95" column="39" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1462487112427">
-        <mark key="[" line="22" column="12" />
-        <mark key="]" line="22" column="36" />
-        <mark key="^" line="22" column="36" />
-        <mark key="." line="22" column="36" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1462751633003">
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="24" />
+        <mark key="." line="82" column="24" />
+        <mark key="^" line="32" column="53" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/templates/base.mako" timestamp="1462375051682">
         <mark key="[" line="95" column="0" />
@@ -44,11 +44,8 @@
         <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/slideshow/galaxy_architecture_2015/galaxy_architecture_2015.html" timestamp="1462647503138" />
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/tool_dependencies.xml" timestamp="1462578456179">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="10" column="6" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/tool_dependencies.xml" timestamp="1462750676551">
+        <mark key="[" line="206" column="0" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/scripts/slideshow/slideshow_template.html" timestamp="1462648252727">
         <mark key="[" line="10" column="0" />
@@ -62,10 +59,8 @@
         <mark key="^" line="292" column="49" />
         <mark key="." line="410" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/AugustusProcess.py" timestamp="1462741273529">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/AugustusProcess.py" timestamp="1462750061748">
+        <mark key="." line="41" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1461369485396">
         <mark key="[" line="0" column="0" />
@@ -132,11 +127,12 @@
         <mark key="]" line="127" column="0" />
         <mark key="." line="127" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" timestamp="1462736269605">
-        <mark key="'" line="84" column="4" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" timestamp="1462751428876">
+        <mark key="'" line="85" column="4" />
+        <mark key="[" line="31" column="51" />
+        <mark key="]" line="31" column="55" />
+        <mark key="." line="31" column="55" />
+        <mark key="^" line="31" column="55" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/templates/webapps/galaxy/base_panels.mako" timestamp="1462375206528">
         <mark key="[" line="9" column="0" />
@@ -264,44 +260,44 @@
       <jump line="14" column="51" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/SubTools.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>type</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L2NvbmRpdGlvbmFsPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>type</text>
+        <text>output of Augustus</text>
       </register>
       <register name="/" type="4">
         <text>arrayCall</text>
       </register>
       <register name="0" type="4">
-        <text>twoBitInfoFile</text>
+        <text />
       </register>
-      <register name="1" type="4">
-        <text>type</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L2NvbmRpdGlvbmFsPgo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>output of Augustus</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBteVNwZWNpZUZvbGRlclBhdGggPSBvcy5wYXRoLmpvaW4oZXh0cmFfZmlsZXNfcGF0aCwgIm15SHViIiwgImRiaWEzIikK</text>
+      <register name="3" type="4">
+        <text>gff3</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IEZpbmQgdGhlIGJlc3QgdG8gZ2V0IHRoaXMgcGF0aCB3aXRob3V0IGhhcmRjb2RpbmcgaXQK</text>
+      <register name="4" type="4">
+        <text>track to display</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIGJlZFRvQmlnQmVkIGF1Z3VzdHVzRGJpYTMuc29ydGJlZCBjaHJvbS5zaXplcyBhdWd1c3R1c0RiaWEzLmJiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgcCA9IHN1YnByb2Nlc3MuY2hlY2tfY2FsbCgKICAgICAgICAgICAgICAgICAgICBbb3MucGF0aC5qb2luKHVjc2NfdG9vbHNfcGF0aCwgJ2JlZFRvQmlnQmVkJyksCiAgICAgICAgICAgICAgICAgICAgIHNvcnRlZEJlZEZpbGUubmFtZSwKICAgICAgICAgICAgICAgICAgICAgY2hyb21TaXplc0ZpbGUubmFtZSwKICAgICAgICAgICAgICAgICAgICAgYmlnQmVkRmlsZS5uYW1lXSkKICAgICAgICAgICAgZXhjZXB0IHN1YnByb2Nlc3MuQ2FsbGVkUHJvY2Vzc0Vycm9yOgogICAgICAgICAgICAgICAgcmFpc2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8cGFyYW0KICAgICAgICAgICAgICAgICAgICAgICAgZm9ybWF0PSJnZmYzIgogICAgICAgICAgICAgICAgICAgICAgICBuYW1lPSJHRkYzIgogICAgICAgICAgICAgICAgICAgICAgICB0eXBlPSJkYXRhIgogICAgICAgICAgICAgICAgICAgICAgICBsYWJlbD0iR0ZGMyB0cmFjayB0byBkaXNwbGF5IgogICAgICAgICAgICAgICAgICAgIC8+Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>inject into the sort</text>
+        <text>gff3</text>
       </register>
-      <register name="8" type="4">
-        <text>chrom.sizes</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGZhc3RxTW90dFRyaW0KICAgIGZhc3RxU3RhdHNBbmRTdWJzYW1wbGUKICAgIGZhc3RxVG9GYQogICAgZmFUcmltUmVhZAogICAgZmFVbmlxaWZ5CiAgICBmZXRjaENocm9tU2l6ZXMKICAgIGZpbGVFeGlzdHMKICAgIGZpbmRNb3RpZgogICAgZml4Q3IKICAgIGdhcFNwbGl0CiAgICBnZmZQZWVrCiAgICBnaXQtcmVwb3J0cwogICAgZ210aW1lCiAgICBncmVlZHlQYWNrCiAgICBoZWFkUmVzdAogICAgaHRtbENoZWNrCiAgICBodG1sUGljcwogICAgamtVbmlxCiAgICBsaW5lQ291bnQKICAgIGxpbmVGaWxlU3BsaXQKICAgIGxpbmVSYW5nZQogICAgbGluZXNJbkFsbEZpbGVzCiAgICBsaW5lc1RvUmEKICAgIGxvY2FsdGltZQogICAgbWFrZVJnYlJhaW5ib3cKICAgIG1hcFZpZXdlclRvR2VuZVByZWQKICAgIG1heEVhY2hSb3cKICAgIG1ldGh5bGF0ZUdlbm9tZQogICAgbWluRWFjaFJvdwogICAgbWt0aW1lCiAgICBuZXdQcm9nCiAgICBuaWJDaGVjawogICAgbmliRnJhZwogICAgbmliU2l6ZQogICAgbnQ0RnJhZwogICAgcGFyYUZldGNoCiAgICBwYXJhTWQ1CiAgICBwYXJhU3luYwogICAgcHNsUG9zVGFyZ2V0CiAgICBwc2xTY29yZQogICAgcHNsVG9Qc2x4CiAgICBwc2xUb1hhCiAgICByYUZyb21UYWIKICAgIHJhTWVyZ2UKICAgIHJhbmRvbUxpbmVzCiAgICByYVRvTGluZXMKICAgIHJhVG9TdHJ1Y3RHZW4KICAgIHJhVG9Tdm1MaWdodAogICAgcmFUb1RhYgogICAgcmVwbGFjZVRleHRCZXR3ZWVuCiAgICBybUZhRHVwcwogICAgcm93c1RvQ29scwogICAgc2FtcGxlSW5kZXhlcwogICAgc2NyYW1ibGVGYQogICAgc2h1ZmZsZUxpbmVzCiAgICBzaXplb2YKICAgIHNvcnRGYQogICAgc3BhY2VkVG9UYWIKICAgIHNwbGl0RmlsZQogICAgc3BsaXRGaWxlQnlDb2x1bW4KICAgIHN0cmluZ2lmeQogICAgc3ViQ2hhcgogICAgc3ViQ29sdW1uCiAgICBzdWJzCiAgICB0YWJsZVN1bQogICAgdGFpbExpbmVzCiAgICB0ZXh0QmV0d2VlbgogICAgdGV4dEhpc3QyCiAgICB0ZXh0SGlzdG9ncmFtCiAgICB0aWNrVG9EYXRlCiAgICB0b0xvd2VyCiAgICB0b1VwcGVyCiAgICB0VGVzdFR3bwogICAgdHdvQml0RHVwCiAgICB0d29CaXRJbmZvCiAgICB0d29CaXRUb0ZhCiAgICB1ZGNDbGVhbnVwCiAgICB1bmR1cEZhCiAgICB1cHBlcgogICAgdmVubgogICAgdmVubklkcwogICAgdmVydGljYWxTcGxpdFNxbFRhYmxlCiAgICB3ZWVkTGluZXMKICAgIHdnZXRNZDUKICAgIHdpZ0NvcnJlbGF0ZQogICAgd2lnU2V0U3Bhbk9yU3RlcAogICAgd2lnU29ydAogICAgd2lnVGVzdE1ha2VyCiAgICB3aWdUb0JlZAogICAgd2lnVG9CZWRHcmFwaAogICAgd2lnVG9CaWdXaWcKICAgIHdvcmRMaW5lCiAgICB3b3Jkc0luRWFjaExpbmUKICAgIGFkZENvbHMKICAgIGFOb3RCCiAgICBhc0NvbXBhcmUKICAgIGF2ZQogICAgYXZlQ29scwogICAgYmJUZXN0CiAgICBiZWRDbGlwCiAgICBiZWRDb21tb25SZWdpb25zCiAgICBiZWRHZW5lUGFydHMKICAgIGJlZEdyYXBoUGFjawogICAgYmVkR3JhcGhUb0JpZ1dpZwogICAgYmVkUGlsZVVwcwogICAgYmVkUmVtb3ZlT3ZlcmxhcAogICAgYmVkUmVzdHJpY3RUb1Bvc2l0aW9ucwogICAgYmVkU2NvcmUKICAgIGJlZFRvQmlnQmVkCiAgICBiZXN0VGhyZXNob2xkCiAgICBiaWdCZWRJbmZvCiAgICBiaWdCZWROYW1lZEl0ZW1zCiAgICBiaWdCZWRTdW1tYXJ5CiAgICBiaWdCZWRUb0JlZAogICAgYmlnV2lnQXZlcmFnZU92ZXJCZWQKICAgIGJpZ1dpZ0NhdAogICAgYmlnV2lnQ2x1c3RlcgogICAgYmlnV2lnQ29ycmVsYXRlCiAgICBiaWdXaWdJbmZvCiAgICBiaWdXaWdNZXJnZQogICAgYmlnV2lnU3VtbWFyeQogICAgYmlnV2lnVG9CZWRHcmFwaAogICAgYmlnV2lnVG9XaWcKICAgIGNhbGMKICAgIGNhdERpcgogICAgY2F0VW5jb21tZW50CiAgICBjY0NwCiAgICBjQ3AKICAgIGNoYWluRGlzdAogICAgY2hvcEZhTGluZXMKICAgIGNvbENvdW50CiAgICBjb2xUcmFuc2Zvcm0KICAgIGNvbWJpbmVGaWxlcwogICAgY29udm9sdmUKICAgIGNvcnJlbGF0ZQogICAgY291bnRDaGFycwogICAgY3BnX2xoCiAgICBkZXRhYgogICAgZGlzdHJpYnV0ZVJnYlJhaW5ib3cKICAgIGVuZHNJbkxmCiAgICBmYUFsaWduCiAgICBmYUNhdAogICAgZmFDbXAKICAgIGZhQ291bnQKICAgIGZhRmlsdGVyCiAgICBmYUZpbHRlck4KICAgIGZhRmx5QmFzZVRvVWNzYwogICAgZmFGcmFnCiAgICBmYUdhcExvY3MKICAgIGZhR2FwU2l6ZXMKICAgIGZhTG93ZXJUb04KICAgIGZhTmNiaVRvVWNzYwogICAgZmFOb2lzZQogICAgZmFPbmVSZWNvcmQKICAgIGZhUG9seUFTaXplcwogICAgZmFSYW5kb21pemUKICAgIGZhUmMKICAgIGZhUmVuYW1lUmVjb3JkcwogICAgZmFTaW1wbGlmeQogICAgZmFTaXplCiAgICBmYVNvbWVSZWNvcmRzCiAgICBmYVNwbGl0CiAgICBmYVRvRmFzdHEKICAgIGZhVG9OaWIKICAgIGZhVG9UYWIKICAgIGZhVG9Ud29CaXQKICAgIGZhVHJhbnMKICAgIGZhVHJpbVBvbHlBCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6CiAgICAgICAgICAgIHAgPSBzdWJwcm9jZXNzLmNoZWNrX2NhbGwoCiAgICAgICAgICAgICAgICBbJ3NvcnQnLAogICAgICAgICAgICAgICAgICctazJybicsCiAgICAgICAgICAgICAgICAgdHdvQml0SW5mb0ZpbGUubmFtZSwKICAgICAgICAgICAgICAgICAnLW8nLAogICAgICAgICAgICAgICAgIGNocm9tU2l6ZXNGaWxlLm5hbWVdKQogICAgICAgIGV4Y2VwdCBzdWJwcm9jZXNzLkNhbGxlZFByb2Nlc3NFcnJvcjoKICAgICAgICAgICAgcmFpc2UK</text>
+      <register name="9" type="4">
+        <text>type</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
