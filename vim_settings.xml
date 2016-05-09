@@ -21,11 +21,12 @@
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/templates/js-app.mako" timestamp="1462375221321">
         <mark key="[" line="21" column="25" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/SubTools.py" timestamp="1462749423509">
-        <mark key="[" line="95" column="30" />
-        <mark key="]" line="95" column="39" />
-        <mark key="." line="95" column="39" />
-        <mark key="^" line="95" column="39" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/SubTools.py" timestamp="1462752859717">
+        <mark key="'" line="7" column="16" />
+        <mark key="[" line="58" column="11" />
+        <mark key="]" line="61" column="15" />
+        <mark key="." line="61" column="15" />
+        <mark key="^" line="61" column="15" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1462751633003">
         <mark key="[" line="82" column="0" />
@@ -37,6 +38,12 @@
         <mark key="[" line="95" column="0" />
         <mark key="]" line="95" column="0" />
         <mark key="." line="95" column="0" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/todo.md" timestamp="1462752560666">
+        <mark key="[" line="24" column="47" />
+        <mark key="]" line="25" column="110" />
+        <mark key="^" line="25" column="110" />
+        <mark key="." line="25" column="110" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/scripts/slideshow/style.sample.css" timestamp="1462588953710">
         <mark key="[" line="25" column="0" />
@@ -59,8 +66,12 @@
         <mark key="^" line="292" column="49" />
         <mark key="." line="410" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/AugustusProcess.py" timestamp="1462750061748">
-        <mark key="." line="41" column="0" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/AugustusProcess.py" timestamp="1462753575867">
+        <mark key="'" line="21" column="12" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="^" line="40" column="44" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1461369485396">
         <mark key="[" line="0" column="0" />
@@ -127,12 +138,12 @@
         <mark key="]" line="127" column="0" />
         <mark key="." line="127" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" timestamp="1462751428876">
-        <mark key="'" line="85" column="4" />
-        <mark key="[" line="31" column="51" />
-        <mark key="]" line="31" column="55" />
-        <mark key="." line="31" column="55" />
-        <mark key="^" line="31" column="55" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" timestamp="1462753538494">
+        <mark key="'" line="91" column="4" />
+        <mark key="[" line="76" column="20" />
+        <mark key="]" line="77" column="74" />
+        <mark key="." line="77" column="74" />
+        <mark key="^" line="77" column="74" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/templates/webapps/galaxy/base_panels.mako" timestamp="1462375206528">
         <mark key="[" line="9" column="0" />
@@ -158,10 +169,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="20" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bed.py" />
-      <jump line="33" column="16" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/BedSimpleRepeats.py" />
-      <jump line="66" column="17" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/BedSimpleRepeats.py" />
-      <jump line="26" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/twoBitCreator.py" />
       <jump line="4" column="7" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/twoBitCreator.py" />
       <jump line="86" column="20" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/BedSimpleRepeats.py" />
       <jump line="23" column="39" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/BedSimpleRepeats.py" />
@@ -256,48 +263,52 @@
       <jump line="65" column="57" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/slideshow/galaxy_architecture_2015/galaxy_architecture_2015.md" />
       <jump line="223" column="37" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/slideshow/galaxy_architecture_2015/galaxy_architecture_2015.md" />
       <jump line="257" column="12" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/slideshow/galaxy_architecture_2015/galaxy_architecture_2015.md" />
-      <jump line="7" column="16" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/SubTools.py" />
       <jump line="14" column="51" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/SubTools.py" />
+      <jump line="54" column="12" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" />
+      <jump line="35" column="75" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/AugustusProcess.py" />
+      <jump line="21" column="12" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/AugustusProcess.py" />
+      <jump line="7" column="16" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/SubTools.py" />
+      <jump line="43" column="7" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/SubTools.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L2NvbmRpdGlvbmFsPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgIlRoZSBuYW1lIG9mIHRoZSBmaWxlIGlzOiAlcyIgJSBpbnB1dEdURkZpbGUubmFtZQo=</text>
       </register>
       <register name="-" type="4">
-        <text>output of Augustus</text>
+        <text>self.subTools.</text>
       </register>
       <register name="/" type="4">
         <text>arrayCall</text>
       </register>
-      <register name="0" type="4">
-        <text />
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBDYWxsIGdmZjNUb0dlbmVQcmVkIGFuZCB3cml0ZSB0aGUgcmVzdWx0IGludG8gZ2VuZV9wcmVkX2ZpbGVfbmFtZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L2NvbmRpdGlvbmFsPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgIlRoZSBuYW1lIG9mIHRoZSBmaWxlIGlzOiAlcyIgJSBpbnB1dEdURkZpbGUubmFtZQo=</text>
       </register>
-      <register name="2" type="4">
-        <text>output of Augustus</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgIlRoZSBmaWxlIGlzOiAlcyIgJSBpbnB1dEdURkZpbGUK</text>
       </register>
-      <register name="3" type="4">
-        <text>gff3</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="4">
-        <text>track to display</text>
+        <text>self.subTools.</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>inputGFF3File=inputGFF3File,</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8cGFyYW0KICAgICAgICAgICAgICAgICAgICAgICAgZm9ybWF0PSJnZmYzIgogICAgICAgICAgICAgICAgICAgICAgICBuYW1lPSJHRkYzIgogICAgICAgICAgICAgICAgICAgICAgICB0eXBlPSJkYXRhIgogICAgICAgICAgICAgICAgICAgICAgICBsYWJlbD0iR0ZGMyB0cmFjayB0byBkaXNwbGF5IgogICAgICAgICAgICAgICAgICAgIC8+Cg==</text>
+      <register name="6" type="4">
+        <text>g</text>
       </register>
       <register name="7" type="4">
-        <text>gff3</text>
+        <text>t</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGZhc3RxTW90dFRyaW0KICAgIGZhc3RxU3RhdHNBbmRTdWJzYW1wbGUKICAgIGZhc3RxVG9GYQogICAgZmFUcmltUmVhZAogICAgZmFVbmlxaWZ5CiAgICBmZXRjaENocm9tU2l6ZXMKICAgIGZpbGVFeGlzdHMKICAgIGZpbmRNb3RpZgogICAgZml4Q3IKICAgIGdhcFNwbGl0CiAgICBnZmZQZWVrCiAgICBnaXQtcmVwb3J0cwogICAgZ210aW1lCiAgICBncmVlZHlQYWNrCiAgICBoZWFkUmVzdAogICAgaHRtbENoZWNrCiAgICBodG1sUGljcwogICAgamtVbmlxCiAgICBsaW5lQ291bnQKICAgIGxpbmVGaWxlU3BsaXQKICAgIGxpbmVSYW5nZQogICAgbGluZXNJbkFsbEZpbGVzCiAgICBsaW5lc1RvUmEKICAgIGxvY2FsdGltZQogICAgbWFrZVJnYlJhaW5ib3cKICAgIG1hcFZpZXdlclRvR2VuZVByZWQKICAgIG1heEVhY2hSb3cKICAgIG1ldGh5bGF0ZUdlbm9tZQogICAgbWluRWFjaFJvdwogICAgbWt0aW1lCiAgICBuZXdQcm9nCiAgICBuaWJDaGVjawogICAgbmliRnJhZwogICAgbmliU2l6ZQogICAgbnQ0RnJhZwogICAgcGFyYUZldGNoCiAgICBwYXJhTWQ1CiAgICBwYXJhU3luYwogICAgcHNsUG9zVGFyZ2V0CiAgICBwc2xTY29yZQogICAgcHNsVG9Qc2x4CiAgICBwc2xUb1hhCiAgICByYUZyb21UYWIKICAgIHJhTWVyZ2UKICAgIHJhbmRvbUxpbmVzCiAgICByYVRvTGluZXMKICAgIHJhVG9TdHJ1Y3RHZW4KICAgIHJhVG9Tdm1MaWdodAogICAgcmFUb1RhYgogICAgcmVwbGFjZVRleHRCZXR3ZWVuCiAgICBybUZhRHVwcwogICAgcm93c1RvQ29scwogICAgc2FtcGxlSW5kZXhlcwogICAgc2NyYW1ibGVGYQogICAgc2h1ZmZsZUxpbmVzCiAgICBzaXplb2YKICAgIHNvcnRGYQogICAgc3BhY2VkVG9UYWIKICAgIHNwbGl0RmlsZQogICAgc3BsaXRGaWxlQnlDb2x1bW4KICAgIHN0cmluZ2lmeQogICAgc3ViQ2hhcgogICAgc3ViQ29sdW1uCiAgICBzdWJzCiAgICB0YWJsZVN1bQogICAgdGFpbExpbmVzCiAgICB0ZXh0QmV0d2VlbgogICAgdGV4dEhpc3QyCiAgICB0ZXh0SGlzdG9ncmFtCiAgICB0aWNrVG9EYXRlCiAgICB0b0xvd2VyCiAgICB0b1VwcGVyCiAgICB0VGVzdFR3bwogICAgdHdvQml0RHVwCiAgICB0d29CaXRJbmZvCiAgICB0d29CaXRUb0ZhCiAgICB1ZGNDbGVhbnVwCiAgICB1bmR1cEZhCiAgICB1cHBlcgogICAgdmVubgogICAgdmVubklkcwogICAgdmVydGljYWxTcGxpdFNxbFRhYmxlCiAgICB3ZWVkTGluZXMKICAgIHdnZXRNZDUKICAgIHdpZ0NvcnJlbGF0ZQogICAgd2lnU2V0U3Bhbk9yU3RlcAogICAgd2lnU29ydAogICAgd2lnVGVzdE1ha2VyCiAgICB3aWdUb0JlZAogICAgd2lnVG9CZWRHcmFwaAogICAgd2lnVG9CaWdXaWcKICAgIHdvcmRMaW5lCiAgICB3b3Jkc0luRWFjaExpbmUKICAgIGFkZENvbHMKICAgIGFOb3RCCiAgICBhc0NvbXBhcmUKICAgIGF2ZQogICAgYXZlQ29scwogICAgYmJUZXN0CiAgICBiZWRDbGlwCiAgICBiZWRDb21tb25SZWdpb25zCiAgICBiZWRHZW5lUGFydHMKICAgIGJlZEdyYXBoUGFjawogICAgYmVkR3JhcGhUb0JpZ1dpZwogICAgYmVkUGlsZVVwcwogICAgYmVkUmVtb3ZlT3ZlcmxhcAogICAgYmVkUmVzdHJpY3RUb1Bvc2l0aW9ucwogICAgYmVkU2NvcmUKICAgIGJlZFRvQmlnQmVkCiAgICBiZXN0VGhyZXNob2xkCiAgICBiaWdCZWRJbmZvCiAgICBiaWdCZWROYW1lZEl0ZW1zCiAgICBiaWdCZWRTdW1tYXJ5CiAgICBiaWdCZWRUb0JlZAogICAgYmlnV2lnQXZlcmFnZU92ZXJCZWQKICAgIGJpZ1dpZ0NhdAogICAgYmlnV2lnQ2x1c3RlcgogICAgYmlnV2lnQ29ycmVsYXRlCiAgICBiaWdXaWdJbmZvCiAgICBiaWdXaWdNZXJnZQogICAgYmlnV2lnU3VtbWFyeQogICAgYmlnV2lnVG9CZWRHcmFwaAogICAgYmlnV2lnVG9XaWcKICAgIGNhbGMKICAgIGNhdERpcgogICAgY2F0VW5jb21tZW50CiAgICBjY0NwCiAgICBjQ3AKICAgIGNoYWluRGlzdAogICAgY2hvcEZhTGluZXMKICAgIGNvbENvdW50CiAgICBjb2xUcmFuc2Zvcm0KICAgIGNvbWJpbmVGaWxlcwogICAgY29udm9sdmUKICAgIGNvcnJlbGF0ZQogICAgY291bnRDaGFycwogICAgY3BnX2xoCiAgICBkZXRhYgogICAgZGlzdHJpYnV0ZVJnYlJhaW5ib3cKICAgIGVuZHNJbkxmCiAgICBmYUFsaWduCiAgICBmYUNhdAogICAgZmFDbXAKICAgIGZhQ291bnQKICAgIGZhRmlsdGVyCiAgICBmYUZpbHRlck4KICAgIGZhRmx5QmFzZVRvVWNzYwogICAgZmFGcmFnCiAgICBmYUdhcExvY3MKICAgIGZhR2FwU2l6ZXMKICAgIGZhTG93ZXJUb04KICAgIGZhTmNiaVRvVWNzYwogICAgZmFOb2lzZQogICAgZmFPbmVSZWNvcmQKICAgIGZhUG9seUFTaXplcwogICAgZmFSYW5kb21pemUKICAgIGZhUmMKICAgIGZhUmVuYW1lUmVjb3JkcwogICAgZmFTaW1wbGlmeQogICAgZmFTaXplCiAgICBmYVNvbWVSZWNvcmRzCiAgICBmYVNwbGl0CiAgICBmYVRvRmFzdHEKICAgIGZhVG9OaWIKICAgIGZhVG9UYWIKICAgIGZhVG9Ud29CaXQKICAgIGZhVHJhbnMKICAgIGZhVHJpbVBvbHlBCg==</text>
+      <register name="8" type="4">
+        <text>fObject</text>
       </register>
       <register name="9" type="4">
-        <text>type</text>
+        <text encoding="base64">IGlucHV0R0ZGM0ZpbGU=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -381,6 +392,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
