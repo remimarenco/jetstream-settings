@@ -24,6 +24,12 @@
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/SubTools.py" timestamp="1462752859717">
         <mark key="'" line="7" column="16" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1462832239175">
+        <mark key="[" line="0" column="69" />
+        <mark key="]" line="0" column="70" />
+        <mark key="^" line="128" column="57" />
+        <mark key="." line="0" column="70" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/templates/base.mako" timestamp="1462375051682">
         <mark key="[" line="95" column="0" />
         <mark key="]" line="95" column="0" />
