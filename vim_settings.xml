@@ -24,12 +24,12 @@
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/SubTools.py" timestamp="1462752859717">
         <mark key="'" line="7" column="16" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1462836004113">
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1462837435278">
         <mark key="'" line="100" column="34" />
-        <mark key="[" line="98" column="11" />
-        <mark key="]" line="136" column="47" />
-        <mark key="^" line="136" column="47" />
-        <mark key="." line="136" column="47" />
+        <mark key="[" line="140" column="35" />
+        <mark key="]" line="140" column="38" />
+        <mark key="." line="140" column="38" />
+        <mark key="^" line="140" column="38" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/templates/base.mako" timestamp="1462375051682">
         <mark key="[" line="95" column="0" />
@@ -250,11 +250,11 @@
       <jump line="99" column="34" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgIlRoZSBuYW1lIG9mIHRoZSBmaWxlIGlzOiAlcyIgJSBpbnB1dEdURkZpbGUubmFtZQo=</text>
+      <register name="&quot;" type="4">
+        <text>galaxyFrom</text>
       </register>
       <register name="-" type="4">
-        <text>self.subTools.</text>
+        <text>galaxyFrom</text>
       </register>
       <register name="/" type="4">
         <text>arrayCall</text>
@@ -262,32 +262,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBDYWxsIGdmZjNUb0dlbmVQcmVkIGFuZCB3cml0ZSB0aGUgcmVzdWx0IGludG8gZ2VuZV9wcmVkX2ZpbGVfbmFtZQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgIlRoZSBuYW1lIG9mIHRoZSBmaWxlIGlzOiAlcyIgJSBpbnB1dEdURkZpbGUubmFtZQo=</text>
+      <register name="1" type="4">
+        <text>galaxyFrom</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgIlRoZSBmaWxlIGlzOiAlcyIgJSBpbnB1dEdURkZpbGUK</text>
+      <register name="2" type="4">
+        <text>type</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="3" type="4">
+        <text>re_match</text>
       </register>
       <register name="4" type="4">
-        <text>self.subTools.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
-        <text>inputGFF3File=inputGFF3File,</text>
+        <text>galaxyFrom.bed&quot;</text>
       </register>
       <register name="6" type="4">
-        <text>g</text>
+        <text>value=&quot;</text>
       </register>
-      <register name="7" type="4">
-        <text>t</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHBhcmFtIG5hbWU9IiIK</text>
       </register>
-      <register name="8" type="4">
-        <text>fObject</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgIlRoZSBuYW1lIG9mIHRoZSBmaWxlIGlzOiAlcyIgJSBpbnB1dEdURkZpbGUubmFtZQo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IGlucHV0R0ZGM0ZpbGU=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgIlRoZSBmaWxlIGlzOiAlcyIgJSBpbnB1dEdURkZpbGUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -341,8 +341,8 @@
         <entry>q</entry>
         <entry>r !ls</entry>
         <entry>%s/arrayCall/array_call/gc</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
