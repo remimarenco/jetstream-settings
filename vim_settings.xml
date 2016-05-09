@@ -23,16 +23,6 @@
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/SubTools.py" timestamp="1462752859717">
         <mark key="'" line="7" column="16" />
-        <mark key="[" line="58" column="11" />
-        <mark key="]" line="61" column="15" />
-        <mark key="." line="61" column="15" />
-        <mark key="^" line="61" column="15" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1462751633003">
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="24" />
-        <mark key="." line="82" column="24" />
-        <mark key="^" line="32" column="53" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/templates/base.mako" timestamp="1462375051682">
         <mark key="[" line="95" column="0" />
@@ -46,9 +36,7 @@
         <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/slideshow/galaxy_architecture_2015/galaxy_architecture_2015.html" timestamp="1462647503138" />
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/tool_dependencies.xml" timestamp="1462750676551">
-        <mark key="[" line="206" column="0" />
-      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/tool_dependencies.xml" timestamp="1462750676551" />
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/scripts/slideshow/slideshow_template.html" timestamp="1462648252727">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -60,13 +48,6 @@
         <mark key="]" line="410" column="68" />
         <mark key="^" line="292" column="49" />
         <mark key="." line="410" column="0" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/AugustusProcess.py" timestamp="1462753575867">
-        <mark key="'" line="21" column="12" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="^" line="40" column="44" />
-        <mark key="." line="40" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1461369485396">
         <mark key="[" line="0" column="0" />
@@ -134,11 +115,7 @@
         <mark key="." line="127" column="0" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" timestamp="1462753538494">
-        <mark key="'" line="91" column="4" />
-        <mark key="[" line="76" column="20" />
-        <mark key="]" line="77" column="74" />
-        <mark key="." line="77" column="74" />
-        <mark key="^" line="77" column="74" />
+        <mark key="'" line="81" column="4" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/templates/webapps/galaxy/base_panels.mako" timestamp="1462375206528">
         <mark key="[" line="9" column="0" />
