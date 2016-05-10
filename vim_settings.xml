@@ -24,12 +24,12 @@
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/SubTools.py" timestamp="1462752859717">
         <mark key="'" line="7" column="16" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1462837435278">
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1462843278790">
         <mark key="'" line="100" column="34" />
-        <mark key="[" line="140" column="35" />
-        <mark key="]" line="140" column="38" />
-        <mark key="." line="140" column="38" />
-        <mark key="^" line="140" column="38" />
+        <mark key="[" line="24" column="25" />
+        <mark key="]" line="24" column="30" />
+        <mark key="^" line="24" column="30" />
+        <mark key="." line="24" column="30" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/templates/base.mako" timestamp="1462375051682">
         <mark key="[" line="95" column="0" />
@@ -250,47 +250,47 @@
       <jump line="99" column="34" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>galaxyFrom</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPG91dHB1dCBuYW1lPSJvdXRwdXQiIGZpbGU9ImF1Z3VzdHVzT3V0cHV0Lmh0bWwiPgogICAgICAgICAgICAgICAgPGV4dHJhX2ZpbGVzIHR5cGU9ImZpbGUiIG5hbWU9Im15SHViL2RiaWEzL3RyYWNrcy9hdWd1c3R1c0RiaWEzLmJiIiB2YWx1ZT0iYXVndXN0dXNEYmlhMy5iYiIgLz4KICAgICAgICAgICAgPC9vdXRwdXQ+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>galaxyFrom</text>
+        <text>&quot;&quot;</text>
       </register>
       <register name="/" type="4">
         <text>arrayCall</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBDYWxsIGdmZjNUb0dlbmVQcmVkIGFuZCB3cml0ZSB0aGUgcmVzdWx0IGludG8gZ2VuZV9wcmVkX2ZpbGVfbmFtZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPG91dHB1dCBuYW1lPSJvdXRwdXQiIGZpbGU9ImF1Z3VzdHVzT3V0cHV0Lmh0bWwiPgogICAgICAgICAgICAgICAgPGV4dHJhX2ZpbGVzIHR5cGU9ImZpbGUiIG5hbWU9Im15SHViL2RiaWEzL3RyYWNrcy9hdWd1c3R1c0RiaWEzLmJiIiB2YWx1ZT0iYXVndXN0dXNEYmlhMy5iYiIgLz4KICAgICAgICAgICAgPC9vdXRwdXQ+Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>galaxyFrom</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS08ZXh0cmFfZmlsZXMgbmFtZT0idG90by5iZWQiIHZhbHVlPSJnYWxheHlGcm9tLmJlZCIgY29tcGFyZT0iY29udGFpbnMiIC8+LS0+Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>type</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS08ZXh0cmFfZmlsZXMgdHlwZT0iZmlsZSIgbmFtZT0iZGJpYTNfdHJmQmlnLmJiIiB2YWx1ZT0iZGJpYTNfdHJmQmlnLmJiIiBjb21wYXJlPSJyZV9tYXRjaCIvPi0tPgo=</text>
       </register>
       <register name="3" type="4">
-        <text>re_match</text>
+        <text>&quot;&quot;</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+        <text>dbia3_trfBig_unsorted</text>
       </register>
       <register name="5" type="4">
-        <text>galaxyFrom.bed&quot;</text>
+        <text>BED_simple_repeats</text>
       </register>
       <register name="6" type="4">
-        <text>value=&quot;</text>
+        <text>Fasta_File</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHBhcmFtIG5hbWU9IiIK</text>
+      <register name="7" type="4">
+        <text>BED_simple_repeats</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgIlRoZSBuYW1lIG9mIHRoZSBmaWxlIGlzOiAlcyIgJSBpbnB1dEdURkZpbGUubmFtZQo=</text>
+      <register name="8" type="4">
+        <text>galaxyFrom</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgIlRoZSBmaWxlIGlzOiAlcyIgJSBpbnB1dEdURkZpbGUK</text>
+      <register name="9" type="4">
+        <text>type</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz53</text>
       </register>
     </registers>
     <search>
@@ -334,7 +334,6 @@
         <entry>q!</entry>
         <entry>wq</entry>
         <entry>s/p/o</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>%s/Popen/check_call/gc</entry>
         <entry>%s/check_output/check_call/gc</entry>
         <entry>%s/datatype_path/datatype_conf_path/gc</entry>
@@ -343,6 +342,7 @@
         <entry>%s/arrayCall/array_call/gc</entry>
         <entry>W</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz53</entry>
       </history-cmd>
       <history-expr />
       <history-input />
