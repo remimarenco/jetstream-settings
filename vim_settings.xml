@@ -25,9 +25,12 @@
         <mark key="." line="53" column="74" />
         <mark key="^" line="53" column="74" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1462912944572">
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1463183234328">
         <mark key="'" line="100" column="34" />
-        <mark key="[" line="40" column="79" />
+        <mark key="[" line="95" column="22" />
+        <mark key="]" line="95" column="29" />
+        <mark key="." line="95" column="29" />
+        <mark key="^" line="95" column="29" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/templates/base.mako" timestamp="1462375051682">
         <mark key="[" line="95" column="0" />
@@ -38,6 +41,13 @@
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/datatypes/tracks.py" timestamp="1463183246170">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="46" column="21" />
+        <mark key="]" line="46" column="22" />
+        <mark key="^" line="46" column="23" />
+        <mark key="." line="46" column="22" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/scripts/slideshow/slideshow_template.html" timestamp="1462648252727">
         <mark key="[" line="10" column="0" />
@@ -156,10 +166,10 @@
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/scripts/slideshow/style.css.sample" timestamp="1462588364530">
         <mark key="[" line="7" column="7" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubaDataType/hubAssembly.py" timestamp="1463016882685">
-        <mark key="'" line="4" column="31" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubaDataType/hubAssembly.py" timestamp="1463182955560">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="57" column="19" />
         <mark key="^" line="7" column="17" />
         <mark key="." line="25" column="0" />
       </file>
@@ -172,9 +182,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="16" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/AugustusProcess.py" />
-      <jump line="33" column="15" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/AugustusProcess.py" />
-      <jump line="37" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/AugustusProcess.py" />
       <jump line="46" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/AugustusProcess.py" />
       <jump line="60" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/AugustusProcess.py" />
       <jump line="92" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/AugustusProcess.py" />
@@ -272,46 +279,49 @@
       <jump line="34" column="10" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/BedSimpleRepeats.py" />
       <jump line="17" column="16" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/twoBitCreator.py" />
       <jump line="26" column="8" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bed.py" />
+      <jump line="39" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/datatypes/tracks.py" />
+      <jump line="15" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubaDataType/hubAssembly.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/datatypes/tracks.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>twoBitFileCreator(self.inputFastaFile, ucsc_tools_path, mySpecieFolderPath)</text>
+        <text>huba</text>
       </register>
       <register name="-" type="4">
-        <text>twoBitFileCreator(self.inputFastaFile, ucsc_tools_path, mySpecieFolderPath)</text>
+        <text>huba</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxHZW5lcmF0ZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGJhc2VOYW1lRmFzdGEgPSBvcy5wYXRoLmJhc2VuYW1lKGZhc3RhRmlsZS5uYW1lKQogICAgc3VmZml4VHdvQml0LCBleHRlbnNpb25Ud29CaXQgPSBvcy5wYXRoLnNwbGl0ZXh0KGJhc2VOYW1lRmFzdGEpCiAgICBuYW1lVHdvQml0ID0gc3VmZml4VHdvQml0ICsgJy4yYml0JwoKICAgIHdpdGggb3Blbihvcy5wYXRoLmpvaW4obXlTcGVjaWVGb2xkZXIsIG5hbWVUd29CaXQpLCAndycpIGFzIHR3b0JpdEZpbGU6CiAgICAgICAgdHJ5OgogICAgICAgICAgICBwID0gc3VicHJvY2Vzcy5jaGVja19jYWxsKAogICAgICAgICAgICAgICAgW29zLnBhdGguam9pbih1Y3NjX3Rvb2xzX3BhdGgsICdmYVRvVHdvQml0JyksCiAgICAgICAgICAgICAgICAgZmFzdGFGaWxlLm5hbWUsCiAgICAgICAgICAgICAgICAgdHdvQml0RmlsZS5uYW1lXSkKICAgICAgICBleGNlcHQgc3VicHJvY2Vzcy5DYWxsZWRQcm9jZXNzRXJyb3I6CiAgICAgICAgICAgIHJhaXNlCgogICAgcmV0dXJuIHR3b0JpdEZpbGUK</text>
+        <text encoding="base64">Y2xhc3MgSHViQXNzZW1ibHkoIEh0bWwgKToKICAgICIiIgogICAgZGVyaXZlZCBjbGFzcyBmb3IgQmlvQyBkYXRhIHN0cnVjdHVyZXMgaW4gR2FsYXh5CiAgICAiIiIKCiAgICBmaWxlX2V4dCA9ICdodWJhJwogICAgY29tcG9zaXRlX3R5cGUgPSAnYXV0b19wcmltYXJ5X2ZpbGUnCgogICAgZGVmIF9faW5pdF9fKHNlbGYsICoqa3dkKToKICAgICAgICBIdG1sLl9faW5pdF9fKHNlbGYsICoqa3dkKQoKICAgIGRlZiBnZW5lcmF0ZV9wcmltYXJ5X2ZpbGUoIHNlbGYsIGRhdGFzZXQ9Tm9uZSApOgogICAgICAgICIiIgogICAgICAgIFRoaXMgaXMgY2FsbGVkIG9ubHkgYXQgdXBsb2FkIHRvIHdyaXRlIHRoZSBodG1sIGZpbGUKICAgICAgICBjYW5ub3QgcmVuYW1lIHRoZSBkYXRhc2V0cyBoZXJlIC0gdGhleSBjb21lIHdpdGggdGhlIGRlZmF1bHQgdW5mb3J0dW5hdGVseQogICAgICAgICIiIgogICAgICAgIHJ2YWwgPSBbCiAgICAgICAgICAgICc8aHRtbD48aGVhZD48dGl0bGU+RmlsZXMgZm9yIENvbXBvc2l0ZSBEYXRhc2V0ICglcyk8L3RpdGxlPjwvaGVhZD48cC8+XAogICAgICAgICAgICBUaGlzIGNvbXBvc2l0ZSBkYXRhc2V0IGlzIGNvbXBvc2VkIG9mIHRoZSBmb2xsb3dpbmcgZmlsZXM6PHAvPjx1bD4nICUgKAogICAgICAgICAgICAgICAgc2VsZi5maWxlX2V4dCldCiAgICAgICAgZm9yIGNvbXBvc2l0ZV9uYW1lLCBjb21wb3NpdGVfZmlsZSBpbiBzZWxmLmdldF9jb21wb3NpdGVfZmlsZXMoIGRhdGFzZXQ9ZGF0YXNldCApLml0ZXJpdGVtcygpOgogICAgICAgICAgICBvcHRfdGV4dCA9ICcnCiAgICAgICAgICAgIGlmIGNvbXBvc2l0ZV9maWxlLm9wdGlvbmFsOgogICAgICAgICAgICAgICAgb3B0X3RleHQgPSAnIChvcHRpb25hbCknCiAgICAgICAgICAgIHJ2YWwuYXBwZW5kKCc8bGk+PGEgaHJlZj0iJXMiPiVzPC9hPiVzJyAlICggY29tcG9zaXRlX25hbWUsIGNvbXBvc2l0ZV9uYW1lLCBvcHRfdGV4dCkgKQogICAgICAgIHJ2YWwuYXBwZW5kKCc8L3VsPjwvaHRtbD4nKQogICAgICAgIHJldHVybiAiXG4iLmpvaW4ocnZhbCkKCiAgICBkZWYgc2V0X3BlZWsoIHNlbGYsIGRhdGFzZXQsIGlzX211bHRpX2J5dGU9RmFsc2UgKToKICAgICAgICBpZiBub3QgZGF0YXNldC5kYXRhc2V0LnB1cmdlZDoKICAgICAgICAgICAgZGF0YXNldC5wZWVrID0gIlRyYWNrIEh1YiBzdHJ1Y3R1cmU6IFZpc3VhbGl6YXRpb24gaW4gVUNTQyBUcmFjayBIdWIiCiAgICAgICAgZWxzZToKICAgICAgICAgICAgZGF0YXNldC5wZWVrID0gJ2ZpbGUgZG9lcyBub3QgZXhpc3QnCiAgICAgICAgICAgIGRhdGFzZXQuYmx1cmIgPSAnZmlsZSBwdXJnZWQgZnJvbSBkaXNrJwoKICAgIGRlZiBkaXNwbGF5X3BlZWsoIHNlbGYsIGRhdGFzZXQgKToKICAgICAgICB0cnk6CiAgICAgICAgICAgIHJldHVybiBkYXRhc2V0LnBlZWsKICAgICAgICBleGNlcHQ6CiAgICAgICAgICAgIHJldHVybiAiVHJhY2sgSHViIHN0cnVjdHVyZTogVmlzdWFsaXphdGlvbiBpbiBVQ1NDIFRyYWNrIEh1YiIKCiAgICBkZWYgc25pZmYoIHNlbGYsIGZpbGVuYW1lICk6CiAgICAgICAgcmV0dXJuIEZhbHNlCg==</text>
       </register>
       <register name="1" type="4">
+        <text>huba</text>
+      </register>
+      <register name="2" type="4">
+        <text>Assembly</text>
+      </register>
+      <register name="3" type="4">
+        <text>derived class for BioC data structures in Galaxy</text>
+      </register>
+      <register name="4" type="4">
         <text>twoBitFileCreator(self.inputFastaFile, ucsc_tools_path, mySpecieFolderPath)</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ZnJvbSB0d29CaXRDcmVhdG9yIGltcG9ydCB0d29CaXRGaWxlQ3JlYXRvcgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0d29CaXRGaWxlID0gdHdvQml0RmlsZUNyZWF0b3IoaW5wdXRGYXN0YUZpbGUsIHVjc2NfdG9vbHNfcGF0aCwgbXlTcGVjaWVGb2xkZXJQYXRoKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZnJvbSB0d29CaXRDcmVhdG9yIGltcG9ydCB0d29CaXRGaWxlQ3JlYXRvcgo=</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHN1YnByb2Nlc3MK</text>
+        <text encoding="base64">ZnJvbSB0d29CaXRDcmVhdG9yIGltcG9ydCB0d29CaXRGaWxlQ3JlYXRvcgo=</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB0d29CaXRGaWxlID0gdHdvQml0RmlsZUNyZWF0b3IoaW5wdXRGYXN0YUZpbGUsIHVjc2NfdG9vbHNfcGF0aCwgbXlTcGVjaWVGb2xkZXJQYXRoKQo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ZnJvbSB0d29CaXRDcmVhdG9yIGltcG9ydCB0d29CaXRGaWxlQ3JlYXRvcgo=</text>
       </register>
-      <register name="7" type="4">
-        <text>twoBitFileCreator</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN1YnByb2Nlc3MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG5hbWVUd29CaXQgPSBzdWZmaXhUd29CaXQgKyAnLjJiaXQnCg==</text>
+        <text encoding="base64">ZnJvbSB0d29CaXRDcmVhdG9yIGltcG9ydCB0d29CaXRGaWxlQ3JlYXRvcgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
