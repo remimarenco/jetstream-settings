@@ -9,8 +9,11 @@
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/scripts/slideshow/example.md" timestamp="1462589639103">
         <mark key="[" line="5" column="3" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubaDataType/datatypes_conf.xml" timestamp="1463017569541">
-        <mark key="[" line="2" column="11" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubaDataType/datatypes_conf.xml" timestamp="1463188178495">
+        <mark key="[" line="0" column="26" />
+        <mark key="]" line="0" column="27" />
+        <mark key="." line="0" column="27" />
+        <mark key="^" line="0" column="28" />
       </file>
       <file name="/Python Console" timestamp="1462207767052">
         <mark key="[" line="0" column="0" />
@@ -42,13 +45,19 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/datatypes/tracks.py" timestamp="1463183246170">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="46" column="21" />
-        <mark key="]" line="46" column="22" />
-        <mark key="^" line="46" column="23" />
-        <mark key="." line="46" column="22" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/datatypes/tracks.py" timestamp="1463188391821">
+        <mark key="[" line="69" column="90" />
+        <mark key="]" line="69" column="94" />
+        <mark key="." line="69" column="94" />
+        <mark key="^" line="69" column="94" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubaDataType/huba.xml" timestamp="1463187667364">
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="0" column="25" />
+        <mark key="." line="0" column="25" />
+        <mark key="^" line="0" column="25" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubaDataType/trackhub.xml" timestamp="1463188226869" />
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/scripts/slideshow/slideshow_template.html" timestamp="1462648252727">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -166,7 +175,7 @@
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/scripts/slideshow/style.css.sample" timestamp="1462588364530">
         <mark key="[" line="7" column="7" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubaDataType/hubAssembly.py" timestamp="1463182955560">
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubaDataType/hubAssembly.py" timestamp="1463187952716">
         <mark key="'" line="15" column="0" />
         <mark key="[" line="15" column="0" />
         <mark key="]" line="57" column="19" />
@@ -300,28 +309,28 @@
         <text>huba</text>
       </register>
       <register name="2" type="4">
-        <text>Assembly</text>
+        <text>huba</text>
       </register>
       <register name="3" type="4">
-        <text>derived class for BioC data structures in Galaxy</text>
+        <text>HubAssembly</text>
       </register>
       <register name="4" type="4">
-        <text>twoBitFileCreator(self.inputFastaFile, ucsc_tools_path, mySpecieFolderPath)</text>
+        <text>hubAssembly</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZnJvbSB0d29CaXRDcmVhdG9yIGltcG9ydCB0d29CaXRGaWxlQ3JlYXRvcgo=</text>
+      <register name="5" type="4">
+        <text>ucsc_huba</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0d29CaXRGaWxlID0gdHdvQml0RmlsZUNyZWF0b3IoaW5wdXRGYXN0YUZpbGUsIHVjc2NfdG9vbHNfcGF0aCwgbXlTcGVjaWVGb2xkZXJQYXRoKQo=</text>
+      <register name="6" type="4">
+        <text>iteritems</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSB0d29CaXRDcmVhdG9yIGltcG9ydCB0d29CaXRGaWxlQ3JlYXRvcgo=</text>
+        <text encoding="base64">aW1wb3J0IGdhbGF4eS5kYXRhdHlwZXMuCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHN1YnByb2Nlc3MK</text>
+      <register name="8" type="4">
+        <text>huba</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ZnJvbSB0d29CaXRDcmVhdG9yIGltcG9ydCB0d29CaXRGaWxlQ3JlYXRvcgo=</text>
+      <register name="9" type="4">
+        <text>Assembly</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
