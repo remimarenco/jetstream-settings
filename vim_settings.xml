@@ -119,11 +119,11 @@
         <mark key="." line="444" column="1" />
         <mark key="^" line="444" column="1" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/config/datatypes_conf.xml" timestamp="1463194717628">
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/config/datatypes_conf.xml" timestamp="1463229454850">
         <mark key="'" line="445" column="6" />
-        <mark key="[" line="441" column="50" />
-        <mark key="]" line="441" column="50" />
-        <mark key="." line="441" column="50" />
+        <mark key="[" line="441" column="55" />
+        <mark key="]" line="441" column="56" />
+        <mark key="." line="441" column="56" />
         <mark key="^" line="441" column="53" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/cleanDirectory.py" timestamp="1462719417267">
