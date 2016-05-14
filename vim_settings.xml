@@ -9,11 +9,11 @@
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/scripts/slideshow/example.md" timestamp="1462589639103">
         <mark key="[" line="5" column="3" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubaDataType/datatypes_conf.xml" timestamp="1463188178495">
-        <mark key="[" line="0" column="26" />
-        <mark key="]" line="0" column="27" />
-        <mark key="." line="0" column="27" />
-        <mark key="^" line="0" column="28" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubaDataType/datatypes_conf.xml" timestamp="1463190999499">
+        <mark key="[" line="0" column="25" />
+        <mark key="]" line="0" column="26" />
+        <mark key="." line="0" column="26" />
+        <mark key="^" line="0" column="24" />
       </file>
       <file name="/Python Console" timestamp="1462207767052">
         <mark key="[" line="0" column="0" />
@@ -45,11 +45,10 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/datatypes/tracks.py" timestamp="1463188391821">
-        <mark key="[" line="69" column="90" />
-        <mark key="]" line="69" column="94" />
-        <mark key="." line="69" column="94" />
-        <mark key="^" line="69" column="94" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/datatypes/tracks.py" timestamp="1463191257521">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubaDataType/huba.xml" timestamp="1463187667364">
         <mark key="[" line="0" column="13" />
@@ -57,7 +56,12 @@
         <mark key="." line="0" column="25" />
         <mark key="^" line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubaDataType/trackhub.xml" timestamp="1463188226869" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubaDataType/trackhub.xml" timestamp="1463190664154">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="129" />
+        <mark key="." line="3" column="45" />
+        <mark key="^" line="3" column="45" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/scripts/slideshow/slideshow_template.html" timestamp="1462648252727">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -105,7 +109,7 @@
         <mark key="." line="8" column="24" />
         <mark key="^" line="8" column="24" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/datatypes/hubAssembly.py" timestamp="1462890214290">
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/datatypes/hubAssembly.py" timestamp="1463191197132">
         <mark key="[" line="18" column="23" />
         <mark key="." line="18" column="28" />
       </file>
@@ -293,44 +297,44 @@
       <jump line="6" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/datatypes/tracks.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>huba</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGdhbGF4eS5kYXRhdHlwZXMudHIK</text>
       </register>
       <register name="-" type="4">
-        <text>huba</text>
+        <text>hub_file</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxHZW5lcmF0ZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y2xhc3MgSHViQXNzZW1ibHkoIEh0bWwgKToKICAgICIiIgogICAgZGVyaXZlZCBjbGFzcyBmb3IgQmlvQyBkYXRhIHN0cnVjdHVyZXMgaW4gR2FsYXh5CiAgICAiIiIKCiAgICBmaWxlX2V4dCA9ICdodWJhJwogICAgY29tcG9zaXRlX3R5cGUgPSAnYXV0b19wcmltYXJ5X2ZpbGUnCgogICAgZGVmIF9faW5pdF9fKHNlbGYsICoqa3dkKToKICAgICAgICBIdG1sLl9faW5pdF9fKHNlbGYsICoqa3dkKQoKICAgIGRlZiBnZW5lcmF0ZV9wcmltYXJ5X2ZpbGUoIHNlbGYsIGRhdGFzZXQ9Tm9uZSApOgogICAgICAgICIiIgogICAgICAgIFRoaXMgaXMgY2FsbGVkIG9ubHkgYXQgdXBsb2FkIHRvIHdyaXRlIHRoZSBodG1sIGZpbGUKICAgICAgICBjYW5ub3QgcmVuYW1lIHRoZSBkYXRhc2V0cyBoZXJlIC0gdGhleSBjb21lIHdpdGggdGhlIGRlZmF1bHQgdW5mb3J0dW5hdGVseQogICAgICAgICIiIgogICAgICAgIHJ2YWwgPSBbCiAgICAgICAgICAgICc8aHRtbD48aGVhZD48dGl0bGU+RmlsZXMgZm9yIENvbXBvc2l0ZSBEYXRhc2V0ICglcyk8L3RpdGxlPjwvaGVhZD48cC8+XAogICAgICAgICAgICBUaGlzIGNvbXBvc2l0ZSBkYXRhc2V0IGlzIGNvbXBvc2VkIG9mIHRoZSBmb2xsb3dpbmcgZmlsZXM6PHAvPjx1bD4nICUgKAogICAgICAgICAgICAgICAgc2VsZi5maWxlX2V4dCldCiAgICAgICAgZm9yIGNvbXBvc2l0ZV9uYW1lLCBjb21wb3NpdGVfZmlsZSBpbiBzZWxmLmdldF9jb21wb3NpdGVfZmlsZXMoIGRhdGFzZXQ9ZGF0YXNldCApLml0ZXJpdGVtcygpOgogICAgICAgICAgICBvcHRfdGV4dCA9ICcnCiAgICAgICAgICAgIGlmIGNvbXBvc2l0ZV9maWxlLm9wdGlvbmFsOgogICAgICAgICAgICAgICAgb3B0X3RleHQgPSAnIChvcHRpb25hbCknCiAgICAgICAgICAgIHJ2YWwuYXBwZW5kKCc8bGk+PGEgaHJlZj0iJXMiPiVzPC9hPiVzJyAlICggY29tcG9zaXRlX25hbWUsIGNvbXBvc2l0ZV9uYW1lLCBvcHRfdGV4dCkgKQogICAgICAgIHJ2YWwuYXBwZW5kKCc8L3VsPjwvaHRtbD4nKQogICAgICAgIHJldHVybiAiXG4iLmpvaW4ocnZhbCkKCiAgICBkZWYgc2V0X3BlZWsoIHNlbGYsIGRhdGFzZXQsIGlzX211bHRpX2J5dGU9RmFsc2UgKToKICAgICAgICBpZiBub3QgZGF0YXNldC5kYXRhc2V0LnB1cmdlZDoKICAgICAgICAgICAgZGF0YXNldC5wZWVrID0gIlRyYWNrIEh1YiBzdHJ1Y3R1cmU6IFZpc3VhbGl6YXRpb24gaW4gVUNTQyBUcmFjayBIdWIiCiAgICAgICAgZWxzZToKICAgICAgICAgICAgZGF0YXNldC5wZWVrID0gJ2ZpbGUgZG9lcyBub3QgZXhpc3QnCiAgICAgICAgICAgIGRhdGFzZXQuYmx1cmIgPSAnZmlsZSBwdXJnZWQgZnJvbSBkaXNrJwoKICAgIGRlZiBkaXNwbGF5X3BlZWsoIHNlbGYsIGRhdGFzZXQgKToKICAgICAgICB0cnk6CiAgICAgICAgICAgIHJldHVybiBkYXRhc2V0LnBlZWsKICAgICAgICBleGNlcHQ6CiAgICAgICAgICAgIHJldHVybiAiVHJhY2sgSHViIHN0cnVjdHVyZTogVmlzdWFsaXphdGlvbiBpbiBVQ1NDIFRyYWNrIEh1YiIKCiAgICBkZWYgc25pZmYoIHNlbGYsIGZpbGVuYW1lICk6CiAgICAgICAgcmV0dXJuIEZhbHNlCg==</text>
+        <text encoding="base64">ICAgICAgICA8cGFyYW0gdHlwZT0iZGF0YSIgbmFtZT0idHJhY2tIdWJfZmlsZSIgdXJsPSJnYWxheHlfJHtEQVRBU0VUX0hBU0h9IiBhbGxvd19leHRyYV9maWxlc19hY2Nlc3M9IlRydWUiIHN0cmlwX2h0dHBzPSJUcnVlIi8+Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>huba</text>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IGdhbGF4eS5kYXRhdHlwZXMudHIK</text>
       </register>
-      <register name="2" type="4">
-        <text>huba</text>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IGdhbGF4eS5kYXRhdHlwZXMudHIK</text>
       </register>
       <register name="3" type="4">
-        <text>HubAssembly</text>
+        <text>hub_file</text>
       </register>
       <register name="4" type="4">
-        <text>hubAssembly</text>
-      </register>
-      <register name="5" type="4">
-        <text>ucsc_huba</text>
-      </register>
-      <register name="6" type="4">
-        <text>iteritems</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGdhbGF4eS5kYXRhdHlwZXMuCg==</text>
-      </register>
-      <register name="8" type="4">
         <text>huba</text>
       </register>
+      <register name="5" type="4">
+        <text>huba</text>
+      </register>
+      <register name="6" type="4">
+        <text>HubAssembly</text>
+      </register>
+      <register name="7" type="4">
+        <text>hubAssembly</text>
+      </register>
+      <register name="8" type="4">
+        <text>ucsc_huba</text>
+      </register>
       <register name="9" type="4">
-        <text>Assembly</text>
+        <text>iteritems</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
