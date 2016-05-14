@@ -87,8 +87,11 @@
         <mark key="." line="16" column="100" />
         <mark key="^" line="16" column="100" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/datatypes/registry.py" timestamp="1463222401795">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/datatypes/registry.py" timestamp="1463234922092">
+        <mark key="'" line="436" column="10" />
+        <mark key="[" line="122" column="0" />
+        <mark key="]" line="122" column="0" />
+        <mark key="." line="122" column="0" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/temp/myHub/dbia3/tracks/bed.bb" timestamp="1462473423391">
         <mark key="[" line="0" column="1" />
@@ -187,8 +190,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/BedSimpleRepeats.py" />
-      <jump line="67" column="38" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bed.py" />
       <jump line="109" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/AugustusProcess.py" />
       <jump line="111" column="26" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/AugustusProcess.py" />
       <jump line="40" column="12" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/AugustusProcess.py" />
@@ -287,55 +288,57 @@
       <jump line="52" column="13" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/datatypes/registry.py" />
       <jump line="442" column="37" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/config/datatypes_conf.xml" />
       <jump line="445" column="6" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/config/datatypes_conf.xml" />
+      <jump line="351" column="14" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/datatypes/registry.py" />
+      <jump line="428" column="10" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/datatypes/registry.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>huba</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>huba</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>TrackHub</text>
+        <text>pdb</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZpbGVfZXh0ID0gJ1VDU0NUSCcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiBleHRlbnNpb24gPT0gJ3RyYWNrSHViJzoKICAgICAgICAgICAgICAgICAgICAgICAgaW1wb3J0IHBkYgogICAgICAgICAgICAgICAgICAgICAgICBwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
-      <register name="1" type="4">
-        <text>huba</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="4">
-        <text>HubAssembly</text>
+        <text>)</text>
       </register>
       <register name="3" type="4">
-        <text>:</text>
+        <text>;</text>
       </register>
       <register name="4" type="4">
-        <text>hubAssembly</text>
+        <text>huba</text>
       </register>
       <register name="5" type="4">
-        <text>tot</text>
+        <text>HubAssembly</text>
       </register>
       <register name="6" type="4">
-        <text>c</text>
+        <text>:</text>
       </register>
       <register name="7" type="4">
-        <text>s</text>
+        <text>hubAssembly</text>
       </register>
       <register name="8" type="4">
-        <text>c</text>
+        <text>tot</text>
       </register>
       <register name="9" type="4">
-        <text>u</text>
+        <text>c</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>TrackHub</last-search>
+      <last-search>pdb</last-search>
       <last-offset />
-      <last-pattern>TrackHub</last-pattern>
+      <last-pattern>pdb</last-pattern>
       <last-replace>array_call</last-replace>
       <last-substitute>arrayCall</last-substitute>
       <last-dir>1</last-dir>
@@ -343,7 +346,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Pope</entry>
         <entry>subpro</entry>
         <entry>Pop</entry>
         <entry>subprocess</entry>
@@ -363,6 +365,7 @@
         <entry encoding="base64">XDxHZW5lcmF0ZVw+</entry>
         <entry>UCSC</entry>
         <entry>TrackHub</entry>
+        <entry>pdb</entry>
       </history-search>
       <history-cmd>
         <entry>s/tool_list/toto</entry>
@@ -378,9 +381,9 @@
         <entry>%s/datatype_path/datatype_conf_path/gc</entry>
         <entry>r !ls</entry>
         <entry>%s/arrayCall/array_call/gc</entry>
-        <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>W</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
