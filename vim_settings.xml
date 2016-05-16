@@ -9,11 +9,11 @@
         <mark key="." line="0" column="26" />
         <mark key="^" line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/SubTools.py" timestamp="1463427634378">
-        <mark key="'" line="52" column="72" />
-        <mark key="[" line="42" column="40" />
-        <mark key="]" line="42" column="34" />
-        <mark key="." line="42" column="34" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/SubTools.py" timestamp="1463428327928">
+        <mark key="'" line="51" column="72" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
         <mark key="^" line="42" column="34" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1463423176981">
@@ -265,7 +265,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAiRmFzdGFfZmlsZV9uYW1lOiAlcyIgJSBmYXN0YV9maWxlX25hbWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgInR3b0JpdEZpbGVfbmFtZTogJXMiICUgdHdvQml0RmlsZS5uYW1lCg==</text>
       </register>
       <register name="-" type="4">
         <text>elem.get( 'extension', None )</text>
@@ -277,31 +277,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLmxvZy5leGNlcHRpb24oICJFcnJvciBkZWFjdGl2YXRpbmcgY29udmVydGVyIGZyb20gKCVzKTogJXMiICUgKCBjb252ZXJ0ZXJfcGF0aCwgc3RyKCBlICkgKSApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAiRmFzdGFfZmlsZV9uYW1lOiAlcyIgJSBmYXN0YV9maWxlX25hbWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgInR3b0JpdEZpbGVfbmFtZTogJXMiICUgdHdvQml0RmlsZS5uYW1lCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAiRmFzdGFfZmlsZV9uYW1lOiAlcyIgJSBmYXN0YV9maWxlX25hbWUK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAibXlTcGVjaWVGb2xkZXI6ICVzIiAlIG15U3BlY2llRm9sZGVyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAidHdvQml0RmlsZV9uYW1lOiAlcyIgJSB0d29CaXRGaWxlLm5hbWUK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAiRmFzdGFfZmlsZV9uYW1lOiAlcyIgJSBmYXN0YV9maWxlX25hbWUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAiRmFzdGFfZmlsZV9uYW1lOiAlcyIgJSBmYXN0YV9maWxlX25hbWUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5sb2cuZGVidWcoICIlcyBpcyBub3QgbG93ZXIgY2FzZSwgdGhhdCBjb3VsZCBjYXVzZSB0cm91YmxlcyBpbiB0aGUgZnV0dXJlLiBQbGVhc2UgY2hhbmdlIGl0IHRvIGxvd2VyIGNhc2UiICUgZXh0ZW5zaW9uICkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAiRmFzdGFfZmlsZV9uYW1lOiAlcyIgJSBmYXN0YV9maWxlX25hbWUK</text>
       </register>
-      <register name="6" type="4">
-        <text>elem.get( 'extension', None )</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCAidHdvQml0RmlsZV9uYW1lOiAlcyIgJSB0d29CaXRGaWxlLm5hbWUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4dGVuc2lvbiA9IGV4dGVuc2lvbi5sb3dlcigpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgZXh0ZW5zaW9uOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5sb2cuZGVidWcoICIlcyBpcyBub3QgbG93ZXIgY2FzZSwgdGhhdCBjb3VsZCBjYXVzZSB0cm91YmxlcyBpbiB0aGUgZnV0dXJlLiBQbGVhc2UgY2hhbmdlIGl0IHRvIGxvd2VyIGNhc2UiICUgZXh0ZW5zaW9uICkK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBleHRlbnNpb24gPSBleHRlbnNpb24ubG93ZXIoKQo=</text>
+      <register name="9" type="4">
+        <text>elem.get( 'extension', None )</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
