@@ -12,12 +12,11 @@
       <file name="/a.dummy" timestamp="1463407383140">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/SubTools.py" timestamp="1463408190153">
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/SubTools.py" timestamp="1463424661446">
         <mark key="'" line="51" column="72" />
-        <mark key="[" line="53" column="79" />
-        <mark key="]" line="54" column="72" />
-        <mark key="." line="54" column="72" />
-        <mark key="^" line="54" column="72" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="57" />
+        <mark key="." line="56" column="0" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1463423176981">
         <mark key="'" line="100" column="34" />
@@ -38,7 +37,7 @@
         <mark key="." line="0" column="25" />
         <mark key="^" line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/tool_dependencies.xml" timestamp="1463414397701" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/tool_dependencies.xml" timestamp="1463424456037" />
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubaDataType/huba.xml" timestamp="1463187667364">
         <mark key="[" line="0" column="13" />
         <mark key="]" line="0" column="25" />
@@ -268,7 +267,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAidHdvQml0RmlsZV9uYW1lOiAlcyIgJSB0d29CaXRGaWxlLm5hbWUK</text>
       </register>
       <register name="-" type="4">
         <text>elem.get( 'extension', None )</text>
@@ -280,31 +279,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLmxvZy5leGNlcHRpb24oICJFcnJvciBkZWFjdGl2YXRpbmcgY29udmVydGVyIGZyb20gKCVzKTogJXMiICUgKCBjb252ZXJ0ZXJfcGF0aCwgc3RyKCBlICkgKSApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAidHdvQml0RmlsZV9uYW1lOiAlcyIgJSB0d29CaXRGaWxlLm5hbWUK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2VsZi5sb2cuZGVidWcoICIlcyBpcyBub3QgbG93ZXIgY2FzZSwgdGhhdCBjb3VsZCBjYXVzZSB0cm91YmxlcyBpbiB0aGUgZnV0dXJlLiBQbGVhc2UgY2hhbmdlIGl0IHRvIGxvd2VyIGNhc2UiICUgZXh0ZW5zaW9uICkK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>elem.get( 'extension', None )</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGV4dGVuc2lvbiA9IGV4dGVuc2lvbi5sb3dlcigpCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgZXh0ZW5zaW9uOgo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBleHRlbnNpb24gPSBleHRlbnNpb24ubG93ZXIoKQo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGV4dGVuc2lvbjoK</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBpZiBleHRlbnNpb246Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text>extension</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
