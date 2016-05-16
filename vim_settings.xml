@@ -12,12 +12,12 @@
       <file name="/a.dummy" timestamp="1463407383140">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/SubTools.py" timestamp="1463168072951">
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/SubTools.py" timestamp="1463408190153">
         <mark key="'" line="51" column="72" />
-        <mark key="[" line="42" column="58" />
-        <mark key="]" line="53" column="74" />
-        <mark key="." line="53" column="74" />
-        <mark key="^" line="53" column="74" />
+        <mark key="[" line="53" column="79" />
+        <mark key="]" line="54" column="72" />
+        <mark key="." line="54" column="72" />
+        <mark key="^" line="54" column="72" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1463239201561">
         <mark key="'" line="100" column="34" />
