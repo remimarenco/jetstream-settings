@@ -9,7 +9,7 @@
         <mark key="." line="0" column="26" />
         <mark key="^" line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/SubTools.py" timestamp="1463428327928">
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/SubTools.py" timestamp="1463496165518">
         <mark key="'" line="51" column="72" />
         <mark key="[" line="54" column="0" />
         <mark key="]" line="54" column="0" />
@@ -137,8 +137,12 @@
         <mark key="]" line="127" column="0" />
         <mark key="." line="127" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" timestamp="1462753538494">
-        <mark key="'" line="81" column="4" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" timestamp="1463496065370">
+        <mark key="'" line="83" column="4" />
+        <mark key="[" line="61" column="46" />
+        <mark key="]" line="63" column="76" />
+        <mark key="^" line="63" column="76" />
+        <mark key="." line="63" column="76" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Track.py" timestamp="1462411595356">
         <mark key="[" line="6" column="8" />
