@@ -15,12 +15,15 @@
         <mark key="." line="0" column="26" />
         <mark key="^" line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/SubTools.py" timestamp="1463584643774">
+      <file name="/a.dummy" timestamp="1463586673578">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/SubTools.py" timestamp="1463586670363">
         <mark key="'" line="51" column="72" />
-        <mark key="[" line="77" column="46" />
-        <mark key="]" line="77" column="47" />
-        <mark key="." line="77" column="47" />
-        <mark key="^" line="77" column="47" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="66" />
+        <mark key="." line="15" column="36" />
+        <mark key="^" line="15" column="36" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1463583112958">
         <mark key="'" line="112" column="34" />
@@ -145,12 +148,12 @@
         <mark key="^" line="12" column="18" />
         <mark key="." line="12" column="18" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Gtf.py" timestamp="1463585737323">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="18" column="7" />
-        <mark key="]" line="19" column="34" />
-        <mark key="." line="19" column="34" />
-        <mark key="^" line="19" column="34" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Gtf.py" timestamp="1463586960516">
+        <mark key="'" line="50" column="16" />
+        <mark key="[" line="43" column="46" />
+        <mark key="]" line="43" column="50" />
+        <mark key="." line="43" column="50" />
+        <mark key="^" line="43" column="50" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubaDataType/hubAssembly.py" timestamp="1463407369815">
         <mark key="'" line="15" column="0" />
@@ -168,7 +171,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="421" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/slideshow/galaxy_architecture_2015/galaxy_architecture_2015.md" />
       <jump line="430" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/slideshow/galaxy_architecture_2015/galaxy_architecture_2015.md" />
       <jump line="439" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/slideshow/galaxy_architecture_2015/galaxy_architecture_2015.md" />
       <jump line="448" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/slideshow/galaxy_architecture_2015/galaxy_architecture_2015.md" />
@@ -268,19 +270,20 @@
       <jump line="57" column="12" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" />
       <jump line="18" column="52" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bed.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Gtf.py" />
+      <jump line="50" column="16" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Gtf.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>p</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGRlZiBfX2hhbmRsZUV4Y2VwdGlvbkFuZENoZWNrQ2FsbChzZWxmLCBhcnJheV9jYWxsLCAqKmt3YXJncyk6Cg==</text>
       </register>
       <register name="-" type="4">
         <text>p</text>
       </register>
       <register name="/" type="4">
-        <text>inputGTF</text>
+        <text>subTools</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyEvdXNyL2Jpbi9weXRob24KCmltcG9ydCBvcwppbXBvcnQgdGVtcGZpbGUKCiMgSW50ZXJuYWwgZGVwZW5kZW5jaWVzCmZyb20gVHJhY2sgaW1wb3J0IFRyYWNrCmZyb20gdXRpbC5TdWJUb29scyBpbXBvcnQgU3ViVG9vbHMK</text>
+        <text encoding="base64">ICAgIGRlZiBfX2hhbmRsZUV4Y2VwdGlvbkFuZENoZWNrQ2FsbChzZWxmLCBhcnJheV9jYWxsLCAqKmt3YXJncyk6Cg==</text>
       </register>
       <register name="1" type="4">
         <text>p</text>
@@ -314,9 +317,9 @@
       </register>
     </registers>
     <search>
-      <last-search>inputGTF</last-search>
+      <last-search>subTools</last-search>
       <last-offset />
-      <last-pattern>inputGTF</last-pattern>
+      <last-pattern>subTools</last-pattern>
       <last-replace>array_call</last-replace>
       <last-substitute>arrayCall</last-substitute>
       <last-dir>1</last-dir>
@@ -324,7 +327,6 @@
     </search>
     <history>
       <history-search>
-        <entry>twoBitInfo</entry>
         <entry>datatype_path</entry>
         <entry>Image</entry>
         <entry>3. Galaxy</entry>
@@ -344,6 +346,7 @@
         <entry>get_extension</entry>
         <entry>self.log</entry>
         <entry>inputGTF</entry>
+        <entry>subTools</entry>
       </history-search>
       <history-cmd>
         <entry>s/tool_list/toto</entry>
