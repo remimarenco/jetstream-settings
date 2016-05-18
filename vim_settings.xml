@@ -66,11 +66,10 @@
         <mark key="^" line="292" column="49" />
         <mark key="." line="410" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/AugustusProcess.py" timestamp="1463427719118">
-        <mark key="[" line="43" column="65" />
-        <mark key="]" line="43" column="65" />
-        <mark key="." line="43" column="65" />
-        <mark key="^" line="43" column="65" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/AugustusProcess.py" timestamp="1463535902755">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/README.md" timestamp="1463502908688">
         <mark key="[" line="11" column="99" />
@@ -116,12 +115,8 @@
         <mark key="." line="442" column="32" />
         <mark key="^" line="442" column="33" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/BedSimpleRepeats.py" timestamp="1463425874960">
-        <mark key="'" line="32" column="10" />
-        <mark key="[" line="30" column="60" />
-        <mark key="]" line="30" column="64" />
-        <mark key="." line="30" column="64" />
-        <mark key="^" line="30" column="64" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/BedSimpleRepeats.py" timestamp="1463535937706">
+        <mark key="[" line="64" column="9" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/add_datatype.py" timestamp="1463016971715">
         <mark key="'" line="18" column="4" />
@@ -156,16 +151,15 @@
         <mark key="^" line="15" column="1" />
         <mark key="." line="15" column="1" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bed.py" timestamp="1463169734152">
-        <mark key="'" line="26" column="8" />
-        <mark key="[" line="49" column="51" />
-        <mark key="]" line="49" column="94" />
-        <mark key="." line="49" column="94" />
-        <mark key="^" line="49" column="94" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bed.py" timestamp="1463535925385">
+        <mark key="'" line="61" column="0" />
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="66" />
+        <mark key="^" line="75" column="16" />
+        <mark key="." line="75" column="16" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="332" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/slideshow/galaxy_architecture_2015/galaxy_architecture_2015.md" />
       <jump line="341" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/slideshow/galaxy_architecture_2015/galaxy_architecture_2015.md" />
       <jump line="350" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/slideshow/galaxy_architecture_2015/galaxy_architecture_2015.md" />
       <jump line="363" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/slideshow/galaxy_architecture_2015/galaxy_architecture_2015.md" />
@@ -265,10 +259,11 @@
       <jump line="32" column="8" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/datatypes/registry.py" />
       <jump line="33" column="8" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/datatypes/registry.py" />
       <jump line="100" column="16" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/datatypes/registry.py" />
+      <jump line="61" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bed.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZWNobyAidHdvQml0SW5mbyBpbnN0YWxsZWQiCgo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiLSAlcyBjcmVhdGVkIGluICVzIiAlICh0cmFja05hbWUsIG15QmlnQmVkRmlsZVBhdGgpKQo=</text>
       </register>
       <register name="-" type="4">
         <text>:</text>
@@ -277,34 +272,34 @@
         <text>self.log</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZWNobyAidHdvQml0SW5mbyBpbnN0YWxsZWQiCgo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiLSAlcyBjcmVhdGVkIGluICVzIiAlICh0cmFja05hbWUsIG15QmlnQmVkRmlsZVBhdGgpKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>:</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>w</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHAgPSBzdWJwcm9jZXNzLmNoZWNrX2NhbGwoCiAgICAgICAgICAgICAgICBbb3MucGF0aC5qb2luKHVjc2NfdG9vbHNfcGF0aCwgJ2JlZFRvQmlnQmVkJyksCiAgICAgICAgICAgICAgICAgc2VsZi5zb3J0ZWRCZWRGaWxlLm5hbWUsCiAgICAgICAgICAgICAgICAgc2VsZi5jaHJvbVNpemVzRmlsZS5uYW1lLAogICAgICAgICAgICAgICAgIGJpZ0JlZEZpbGUubmFtZV0pCiAgICAgICAgICAgIGV4Y2VwdCBzdWJwcm9jZXNzLkNhbGxlZFByb2Nlc3NFcnJvcjoKICAgICAgICAgICAgICAgIHJhaXNlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBJbnN0YWxsIHR3b0JpdEluZm8K</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnN1YnRvb2xzLmJlZFRvQmlnQmVkKHNlbGYuc29ydGVkQmVkRmlsZS5uYW1lLCBzZWxmLmNocm9tU2l6ZXNGaWxlLm5hbWUsIGJpZ0JlZEZpbGUubmFtZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgInR3b0JpdEZpbGVfbmFtZTogJXMiICUgdHdvQml0RmlsZS5uYW1lCg==</text>
+        <text encoding="base64">ICAgICAgICB0cnk6CiAgICAgICAgICAgIHAgPSBzdWJwcm9jZXNzLmNoZWNrX2NhbGwoCiAgICAgICAgICAgICAgICBbJ3NvcnQnLAogICAgICAgICAgICAgICAgICctazJybicsCiAgICAgICAgICAgICAgICAgc2VsZi50d29CaXRJbmZvRmlsZS5uYW1lLAogICAgICAgICAgICAgICAgICctbycsCiAgICAgICAgICAgICAgICAgc2VsZi5jaHJvbVNpemVzRmlsZS5uYW1lXSkKICAgICAgICBleGNlcHQgc3VicHJvY2Vzcy5DYWxsZWRQcm9jZXNzRXJyb3I6CiAgICAgICAgICAgIHJhaXNlCgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAibXlTcGVjaWVGb2xkZXI6ICVzIiAlIG15U3BlY2llRm9sZGVyCg==</text>
+        <text encoding="base64">ICAgICAgICB0cnk6CiAgICAgICAgICAgIHAgPSBzdWJwcm9jZXNzLmNoZWNrX2NhbGwoCiAgICAgICAgICAgICAgICBbb3MucGF0aC5qb2luKHVjc2NfdG9vbHNfcGF0aCwgJ3R3b0JpdEluZm8nKSwKICAgICAgICAgICAgICAgICBzZWxmLnR3b0JpdEZpbGUubmFtZSwKICAgICAgICAgICAgICAgICBzZWxmLnR3b0JpdEluZm9GaWxlLm5hbWVdCiAgICAgICAgICAgICkKICAgICAgICBleGNlcHQgc3VicHJvY2Vzcy5DYWxsZWRQcm9jZXNzRXJyb3I6CiAgICAgICAgICAgIHJhaXNlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAiRmFzdGFfZmlsZV9uYW1lOiAlcyIgJSBmYXN0YV9maWxlX25hbWUK</text>
+        <text encoding="base64">ICAgICAgICBwID0gc3VicHJvY2Vzcy5jaGVja19jYWxsKAogICAgICAgICAgICBbJ3NvcnQnLAogICAgICAgICAgICAgJy1rJwogICAgICAgICAgICAgJzEsMScsCiAgICAgICAgICAgICAnLWsnCiAgICAgICAgICAgICAnMiwybicsCiAgICAgICAgICAgICBzZWxmLmlucHV0QmVkR2VuZXJpYy5uYW1lLAogICAgICAgICAgICAgJy1vJywKICAgICAgICAgICAgIHNlbGYuc29ydGVkQmVkRmlsZS5uYW1lXSkK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAiRmFzdGFfZmlsZV9uYW1lOiAlcyIgJSBmYXN0YV9maWxlX25hbWUK</text>
+      <register name="8" type="4">
+        <text>:</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAiRmFzdGFfZmlsZV9uYW1lOiAlcyIgJSBmYXN0YV9maWxlX25hbWUK</text>
+      <register name="9" type="4">
+        <text>w</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
