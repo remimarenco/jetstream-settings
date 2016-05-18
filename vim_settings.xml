@@ -18,25 +18,12 @@
       <file name="/a.dummy" timestamp="1463586673578">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/SubTools.py" timestamp="1463587987224">
-        <mark key="'" line="51" column="72" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="66" />
-        <mark key="." line="15" column="36" />
-        <mark key="^" line="15" column="36" />
-      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1463583112958">
         <mark key="'" line="112" column="34" />
         <mark key="[" line="76" column="0" />
         <mark key="]" line="76" column="20" />
         <mark key="." line="76" column="20" />
         <mark key="^" line="76" column="25" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/subtools.py" timestamp="1463589471758">
-        <mark key="[" line="90" column="9" />
-        <mark key="]" line="90" column="7" />
-        <mark key="^" line="90" column="7" />
-        <mark key="." line="90" column="7" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/datatypes/tracks.py" timestamp="1463230065436">
         <mark key="[" line="54" column="21" />
@@ -112,6 +99,9 @@
         <mark key="." line="444" column="1" />
         <mark key="^" line="444" column="1" />
       </file>
+      <file name="/a.regexp" timestamp="1463590907531">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/config/datatypes_conf.xml" timestamp="1463239213972">
         <mark key="'" line="445" column="6" />
         <mark key="[" line="442" column="31" />
@@ -148,12 +138,11 @@
         <mark key="^" line="12" column="18" />
         <mark key="." line="12" column="18" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Gtf.py" timestamp="1463589531741">
-        <mark key="'" line="48" column="16" />
-        <mark key="[" line="31" column="13" />
-        <mark key="]" line="56" column="11" />
-        <mark key="^" line="56" column="11" />
-        <mark key="." line="56" column="11" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Gtf.py" timestamp="1463595038262">
+        <mark key="[" line="55" column="12" />
+        <mark key="]" line="55" column="11" />
+        <mark key="^" line="55" column="11" />
+        <mark key="." line="55" column="11" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubaDataType/hubAssembly.py" timestamp="1463407369815">
         <mark key="'" line="15" column="0" />
@@ -272,11 +261,11 @@
       <jump line="50" column="16" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Gtf.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>self.</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>self.</text>
       </register>
       <register name="/" type="4">
         <text>subTools</text>
@@ -284,32 +273,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRlZiBfX2hhbmRsZUV4Y2VwdGlvbkFuZENoZWNrQ2FsbChzZWxmLCBhcnJheV9jYWxsLCAqKmt3YXJncyk6Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>self.</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnN1YnRvb2xzID0gU3ViVG9vbHMoKQo=</text>
+      <register name="2" type="4">
+        <text>self.</text>
       </register>
       <register name="3" type="4">
-        <text>p</text>
+        <text>self.</text>
       </register>
       <register name="4" type="4">
-        <text>Augustus_dbia3</text>
+        <text>self.</text>
       </register>
       <register name="5" type="4">
-        <text>From AugustusProcess</text>
+        <text>self.</text>
       </register>
       <register name="6" type="4">
-        <text>augustusDbia3</text>
+        <text>self.</text>
       </register>
       <register name="7" type="4">
-        <text>ff3</text>
+        <text>self.</text>
       </register>
-      <register name="8" type="4">
-        <text>3</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICBzZWxm</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLnN1YnRvb2xzID0gU3ViVG9vbHMoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
