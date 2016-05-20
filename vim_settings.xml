@@ -3,11 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/install_linux_binaries" timestamp="1463497992204">
-        <mark key="[" line="28" column="40" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="29" column="0" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/install_linux_binaries" timestamp="1463766274580">
+        <mark key="'" line="13" column="29" />
+        <mark key="[" line="16" column="2" />
+        <mark key="]" line="16" column="15" />
+        <mark key="^" line="16" column="15" />
+        <mark key="." line="16" column="15" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubaDataType/datatypes_conf.xml" timestamp="1463190999499">
         <mark key="[" line="0" column="25" />
@@ -117,6 +118,12 @@
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/BedSimpleRepeats.py" timestamp="1463535937706">
         <mark key="[" line="60" column="9" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubaDataType/tracks_partial.py" timestamp="1463763592847">
+        <mark key="[" line="23" column="16" />
+        <mark key="]" line="23" column="23" />
+        <mark key="." line="23" column="23" />
+        <mark key="^" line="23" column="23" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/add_datatype.py" timestamp="1463016971715">
         <mark key="'" line="18" column="4" />
         <mark key="[" line="46" column="41" />
@@ -156,7 +163,7 @@
         <mark key="^" line="15" column="1" />
         <mark key="." line="15" column="1" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bed.py" timestamp="1463584917384">
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bed.py" timestamp="1463763565581">
         <mark key="[" line="67" column="34" />
         <mark key="]" line="67" column="34" />
         <mark key="^" line="67" column="34" />
@@ -164,7 +171,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="430" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/slideshow/galaxy_architecture_2015/galaxy_architecture_2015.md" />
       <jump line="439" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/slideshow/galaxy_architecture_2015/galaxy_architecture_2015.md" />
       <jump line="448" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/slideshow/galaxy_architecture_2015/galaxy_architecture_2015.md" />
       <jump line="457" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/slideshow/galaxy_architecture_2015/galaxy_architecture_2015.md" />
@@ -264,46 +270,47 @@
       <jump line="18" column="52" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bed.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Gtf.py" />
       <jump line="50" column="16" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Gtf.py" />
+      <jump line="8" column="29" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/install_linux_binaries" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>binaryInstallationPath</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>binaryInstallationPath</text>
       </register>
       <register name="/" type="4">
         <text>subTools</text>
       </register>
       <register name="0" type="4">
-        <text>hubaDataType</text>
+        <text>$binaryName</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>binaryInstallationPath</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="4">
-        <text>d</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAtIHRvb2xzCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAtIHRlc3QtZGF0YQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZWNobyAidHdvQml0SW5mbyBpbnN0YWxsZWQiCgojIEluc3RhbGwgZmFUb1R3b0JpdApzdWRvIHdnZXQgLVAgL3Vzci9sb2NhbC9iaW4gaHR0cDovL2hnZG93bmxvYWQuc29lLnVjc2MuZWR1L2FkbWluL2V4ZS9saW51eC54ODZfNjQvZmFUb1R3b0JpdApzdWRvIGNobW9kICt4IC91c3IvbG9jYWwvYmluL2ZhVG9Ud29CaXQKCmVjaG8gImZhVG9Ud29CaXQgaW5zdGFsbGVkIgoKIyBJbnN0YWxsIGdmZjNUb0dlbmVQcmVkCnN1ZG8gd2dldCAtUCAvdXNyL2xvY2FsL2JpbiBodHRwOi8vaGdkb3dubG9hZC5zb2UudWNzYy5lZHUvYWRtaW4vZXhlL2xpbnV4Lng4Nl82NC9nZmYzVG9HZW5lUHJlZApzdWRvIGNobW9kICt4IC91c3IvbG9jYWwvYmluL2dmZjNUb0dlbmVQcmVkCgplY2hvICJnZmYzVG9HZW5lUHJlZCBpbnN0YWxsZWQiCgoKIyBJbnN0YWxsIGd0ZlRvR2VuZVByZWQKc3VkbyB3Z2V0IC1QIC91c3IvbG9jYWwvYmluIGh0dHA6Ly9oZ2Rvd25sb2FkLnNvZS51Y3NjLmVkdS9hZG1pbi9leGUvbGludXgueDg2XzY0L2d0ZlRvR2VuZVByZWQKc3VkbyBjaG93biAkVVNFUgpzdWRvIGNobW9kICt4IC91c3IvbG9jYWwvYmluL2d0ZlRvR2VuZVByZWQKCmVjaG8gImd0ZlRvR2VuZVByZWQgaW5zdGFsbGVkIgoKIyBJbnN0YWxsIGdlbmVQcmVkVG9CZWQKc3VkbyB3Z2V0IC1QIC91c3IvbG9jYWwvYmluIGh0dHA6Ly9oZ2Rvd25sb2FkLnNvZS51Y3NjLmVkdS9hZG1pbi9leGUvbGludXgueDg2XzY0L2dlbmVQcmVkVG9CZWQKc3VkbyBjaG1vZCAreCAvdXNyL2xvY2FsL2Jpbi9nZW5lUHJlZFRvQmVkCgplY2hvICJnZW5lUHJlZFRvQmVkIGluc3RhbGxlZCIKCiMgSW5zdGFsbCBiZWRUb0JpZ0JlZApzdWRvIHdnZXQgLVAgL3Vzci9sb2NhbC9iaW4gaHR0cDovL2hnZG93bmxvYWQuc29lLnVjc2MuZWR1L2FkbWluL2V4ZS9saW51eC54ODZfNjQvYmVkVG9CaWdCZWQKc3VkbyBjaG1vZCAreCAvdXNyL2xvY2FsL2Jpbi9iZWRUb0JpZ0JlZAoKZWNobyAiYmVkVG9CaWdCZWQgaW5zdGFsbGVkIgo=</text>
+      </register>
+      <register name="5" type="4">
+        <text>twoBitInf</text>
+      </register>
       <register name="6" type="4">
-        <text>hubaDataType</text>
+        <text>genePredToBed</text>
       </register>
       <register name="7" type="4">
-        <text>self.</text>
+        <text>echo</text>
       </register>
       <register name="8" type="4">
-        <text>self.</text>
+        <text />
       </register>
-      <register name="9" type="4">
-        <text>self.</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
