@@ -80,11 +80,11 @@
         <mark key="." line="872" column="11" />
         <mark key="^" line="872" column="11" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/.shed.yml" timestamp="1463706773191">
-        <mark key="[" line="12" column="11" />
-        <mark key="]" line="13" column="12" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/.shed.yml" timestamp="1463749038911">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
         <mark key="^" line="13" column="12" />
-        <mark key="." line="13" column="12" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/datatypes/hubAssembly.py" timestamp="1463236422489">
         <mark key="[" line="25" column="16" />
@@ -266,8 +266,8 @@
       <jump line="50" column="16" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Gtf.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>d</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>d</text>
@@ -278,23 +278,23 @@
       <register name="0" type="4">
         <text>hubaDataType</text>
       </register>
-      <register name="1" type="4">
-        <text>d</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAtIHRvb2xzCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAtIHRlc3QtZGF0YQo=</text>
-      </register>
-      <register name="4" type="2">
+      <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>hubaDataType</text>
+      <register name="2" type="4">
+        <text>d</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAtIHRvb2xzCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAtIHRlc3QtZGF0YQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="4">
-        <text>self.</text>
+        <text>hubaDataType</text>
       </register>
       <register name="7" type="4">
         <text>self.</text>
