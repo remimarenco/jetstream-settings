@@ -19,12 +19,12 @@
       <file name="/a.dummy" timestamp="1463702344189">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1463773701988">
-        <mark key="'" line="116" column="34" />
-        <mark key="[" line="13" column="55" />
-        <mark key="]" line="13" column="57" />
-        <mark key="." line="13" column="57" />
-        <mark key="^" line="13" column="57" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1463785957060">
+        <mark key="'" line="120" column="34" />
+        <mark key="[" line="52" column="22" />
+        <mark key="]" line="52" column="42" />
+        <mark key="." line="52" column="42" />
+        <mark key="^" line="52" column="42" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/datatypes/tracks.py" timestamp="1463230065436">
         <mark key="[" line="54" column="21" />
@@ -138,12 +138,12 @@
         <mark key="^" line="76" column="0" />
         <mark key="." line="79" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" timestamp="1463585091879">
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" timestamp="1463785561036">
         <mark key="'" line="57" column="12" />
-        <mark key="[" line="15" column="19" />
-        <mark key="]" line="16" column="18" />
-        <mark key="^" line="16" column="18" />
-        <mark key="." line="16" column="18" />
+        <mark key="[" line="47" column="33" />
+        <mark key="]" line="47" column="41" />
+        <mark key="." line="47" column="41" />
+        <mark key="^" line="47" column="41" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Track.py" timestamp="1462411595356">
         <mark key="[" line="6" column="8" />
@@ -275,43 +275,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>3</text>
+        <text>json.dumps(['foo', {'bar': ('baz', None, 1.0, 2)}])</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>json.dumps(['foo', {'bar': ('baz', None, 1.0, 2)}])</text>
       </register>
       <register name="/" type="4">
         <text>subTools</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8cmVxdWlyZW1lbnQgdHlwZT0icGFja2FnZSIgdmVyc2lvbj0iMzI0Ij51Y3NjLWdmZjN0b2dlbmVwcmVkPC9yZXF1aXJlbWVudD4K</text>
+        <text encoding="base64">ICAgIHByaW50ICJqc29uIGlzICVzIiAlIGpzb25faW5wdXRzX21ldGFkYXRhCg==</text>
       </register>
       <register name="1" type="4">
-        <text>3</text>
+        <text>json.dumps(['foo', {'bar': ('baz', None, 1.0, 2)}])</text>
       </register>
       <register name="2" type="4">
-        <text>f</text>
+        <text>&quot;</text>
       </register>
       <register name="3" type="4">
-        <text>f</text>
+        <text>metadata_</text>
       </register>
       <register name="4" type="4">
-        <text>g</text>
+        <text>f</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>gt</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHByaW50ICJqc29uIGlzICVzIiAlIGlucHV0R1RGRmlsZQo=</text>
       </register>
       <register name="7" type="4">
-        <text>gff3togenepred</text>
+        <text>json_inputs_metadata</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAtaiBqc29uLmR1bXAoWydmb28nLCB7J2Jhcic6ICgnYmF6JywgTm9uZSwgMS4wLCAyKX1dKQo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tIENvbmRhIGRlcGVuZGVuY2llcyAtLT4K</text>
+      <register name="9" type="4">
+        <text>dump</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -363,9 +363,9 @@
         <entry>%s/datatype_path/datatype_conf_path/gc</entry>
         <entry>r !ls</entry>
         <entry>%s/arrayCall/array_call/gc</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>q</entry>
         <entry>W</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
