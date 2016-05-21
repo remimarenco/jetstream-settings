@@ -16,15 +16,11 @@
         <mark key="." line="0" column="26" />
         <mark key="^" line="0" column="24" />
       </file>
-      <file name="/a.dummy" timestamp="1463702344189">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1463785957060">
-        <mark key="'" line="120" column="34" />
-        <mark key="[" line="52" column="22" />
-        <mark key="]" line="52" column="42" />
-        <mark key="." line="52" column="42" />
-        <mark key="^" line="52" column="42" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1463792581666">
+        <mark key="'" line="117" column="34" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/datatypes/tracks.py" timestamp="1463230065436">
         <mark key="[" line="54" column="21" />
@@ -145,6 +141,7 @@
         <mark key="." line="47" column="41" />
         <mark key="^" line="47" column="41" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/managers/hdas.py" timestamp="1463793004994" />
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Track.py" timestamp="1462411595356">
         <mark key="[" line="6" column="8" />
         <mark key="]" line="12" column="18" />
@@ -172,7 +169,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="439" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/slideshow/galaxy_architecture_2015/galaxy_architecture_2015.md" />
       <jump line="448" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/slideshow/galaxy_architecture_2015/galaxy_architecture_2015.md" />
       <jump line="457" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/slideshow/galaxy_architecture_2015/galaxy_architecture_2015.md" />
       <jump line="466" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/slideshow/galaxy_architecture_2015/galaxy_architecture_2015.md" />
@@ -272,13 +268,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Gtf.py" />
       <jump line="50" column="16" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Gtf.py" />
       <jump line="8" column="29" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/install_linux_binaries" />
+      <jump line="0" column="0" filename="/a.dummy" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>json.dumps(['foo', {'bar': ('baz', None, 1.0, 2)}])</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aGRhCg==</text>
       </register>
       <register name="-" type="4">
-        <text>json.dumps(['foo', {'bar': ('baz', None, 1.0, 2)}])</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
         <text>subTools</text>
@@ -286,32 +283,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaW50ICJqc29uIGlzICVzIiAlIGpzb25faW5wdXRzX21ldGFkYXRhCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>json.dumps(['foo', {'bar': ('baz', None, 1.0, 2)}])</text>
+      <register name="1" type="2">
+        <text encoding="base64">aGRhCg==</text>
       </register>
       <register name="2" type="4">
-        <text>&quot;</text>
+        <text>h</text>
       </register>
-      <register name="3" type="4">
-        <text>metadata_</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAjanNvbl9tZXRhZGF0YV9kdW1wID0ganNvbi5kdW1wcyhbJ2ZvbycsIHsnYmFyJzogKCdiYXonLCBOb25lLCAxLjAsIDIpfV0pCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>f</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>gt</text>
+      <register name="5" type="2">
+        <text encoding="base64">aXNkZgo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50ICJqc29uIGlzICVzIiAlIGlucHV0R1RGRmlsZQo=</text>
+      <register name="6" type="4">
+        <text>json_metadata_dum</text>
       </register>
-      <register name="7" type="4">
-        <text>json_inputs_metadata</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAtaiBqc29uLmR1bXAoWydmb28nLCB7J2Jhcic6ICgnYmF6JywgTm9uZSwgMS4wLCAyKX1dKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>dump</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAjanNvbl9tZXRhZGF0YV9kdW1wID0ganNvbi5kdW1wcyhbJ2ZvbycsIHsnYmFyJzogKCdiYXonLCBOb25lLCAxLjAsIDIpfV0pCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
