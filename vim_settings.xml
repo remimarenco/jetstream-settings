@@ -16,8 +16,12 @@
         <mark key="." line="0" column="26" />
         <mark key="^" line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1463792581666">
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1463922665904">
         <mark key="'" line="113" column="34" />
+        <mark key="[" line="153" column="64" />
+        <mark key="]" line="154" column="62" />
+        <mark key="^" line="154" column="62" />
+        <mark key="." line="154" column="62" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/datatypes/tracks.py" timestamp="1463230065436">
         <mark key="[" line="54" column="21" />
@@ -261,11 +265,11 @@
       <jump line="0" column="0" filename="/a.dummy" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aGRhCg==</text>
+      <register name="&quot;" type="4">
+        <text>hubaInput</text>
       </register>
       <register name="-" type="4">
-        <text>h</text>
+        <text>hubaInput</text>
       </register>
       <register name="/" type="4">
         <text>subTools</text>
@@ -273,32 +277,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaW50ICJqc29uIGlzICVzIiAlIGpzb25faW5wdXRzX21ldGFkYXRhCg==</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>hubaInput</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">aGRhCg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>h</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAjanNvbl9tZXRhZGF0YV9kdW1wID0ganNvbi5kdW1wcyhbJ2ZvbycsIHsnYmFyJzogKCdiYXonLCBOb25lLCAxLjAsIDIpfV0pCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">aXNkZgo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>json_metadata_dum</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjanNvbl9tZXRhZGF0YV9kdW1wID0ganNvbi5kdW1wcyhbJ2ZvbycsIHsnYmFyJzogKCdiYXonLCBOb25lLCAxLjAsIDIpfV0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
