@@ -62,6 +62,9 @@
         <mark key="^" line="67" column="67" />
         <mark key="." line="67" column="67" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/config/datatypes_conf.xml.sample" timestamp="1463955599608">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/README.md" timestamp="1463584049348">
         <mark key="[" line="21" column="15" />
         <mark key="]" line="11" column="107" />
@@ -99,6 +102,7 @@
         <mark key="." line="444" column="1" />
         <mark key="^" line="444" column="1" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/datatypes/binary.py" timestamp="1463955942642" />
       <file name="/a.regexp" timestamp="1463590907531">
         <mark key="[" line="0" column="0" />
       </file>
@@ -159,7 +163,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="448" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/slideshow/galaxy_architecture_2015/galaxy_architecture_2015.md" />
       <jump line="457" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/slideshow/galaxy_architecture_2015/galaxy_architecture_2015.md" />
       <jump line="466" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/slideshow/galaxy_architecture_2015/galaxy_architecture_2015.md" />
       <jump line="480" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/slideshow/galaxy_architecture_2015/galaxy_architecture_2015.md" />
@@ -259,6 +262,7 @@
       <jump line="50" column="16" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Gtf.py" />
       <jump line="8" column="29" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/install_linux_binaries" />
       <jump line="0" column="0" filename="/a.dummy" />
+      <jump line="0" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/config/datatypes_conf.xml.sample" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -268,7 +272,7 @@
         <text>hubaInput</text>
       </register>
       <register name="/" type="4">
-        <text>subTools</text>
+        <text>bam</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaW50ICJqc29uIGlzICVzIiAlIGpzb25faW5wdXRzX21ldGFkYXRhCg==</text>
@@ -305,9 +309,9 @@
       </register>
     </registers>
     <search>
-      <last-search>subTools</last-search>
+      <last-search>bam</last-search>
       <last-offset />
-      <last-pattern>subTools</last-pattern>
+      <last-pattern>bam</last-pattern>
       <last-replace>array_call</last-replace>
       <last-substitute>arrayCall</last-substitute>
       <last-dir>1</last-dir>
@@ -315,7 +319,6 @@
     </search>
     <history>
       <history-search>
-        <entry>datatype_path</entry>
         <entry>Image</entry>
         <entry>3. Galaxy</entry>
         <entry>Charts</entry>
@@ -335,6 +338,7 @@
         <entry>self.log</entry>
         <entry>inputGTF</entry>
         <entry>subTools</entry>
+        <entry>bam</entry>
       </history-search>
       <history-cmd>
         <entry>s/tool_list/toto</entry>
