@@ -19,12 +19,12 @@
       <file name="/a.dummy" timestamp="1463960749064">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1464016664737">
-        <mark key="'" line="123" column="34" />
-        <mark key="[" line="0" column="70" />
-        <mark key="]" line="0" column="69" />
-        <mark key="." line="0" column="69" />
-        <mark key="^" line="0" column="69" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1464034066723">
+        <mark key="'" line="44" column="18" />
+        <mark key="[" line="54" column="67" />
+        <mark key="]" line="54" column="70" />
+        <mark key="." line="54" column="70" />
+        <mark key="^" line="54" column="70" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/todo.md" timestamp="1463965216464">
         <mark key="[" line="27" column="0" />
@@ -131,12 +131,12 @@
         <mark key="^" line="59" column="91" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" timestamp="1463966835212">
-        <mark key="'" line="101" column="64" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="22" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" timestamp="1464032907291">
+        <mark key="'" line="108" column="64" />
+        <mark key="[" line="72" column="25" />
+        <mark key="]" line="72" column="39" />
+        <mark key="^" line="72" column="39" />
+        <mark key="." line="72" column="39" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Track.py" timestamp="1462411595356">
         <mark key="[" line="6" column="8" />
@@ -159,7 +159,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="304" column="5" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/slideshow/galaxy_architecture_2015/galaxy_architecture_2015.md" />
       <jump line="313" column="5" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/slideshow/galaxy_architecture_2015/galaxy_architecture_2015.md" />
       <jump line="322" column="5" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/slideshow/galaxy_architecture_2015/galaxy_architecture_2015.md" />
       <jump line="331" column="5" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/slideshow/galaxy_architecture_2015/galaxy_architecture_2015.md" />
@@ -259,13 +258,14 @@
       <jump line="86" column="8" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" />
       <jump line="97" column="34" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" />
       <jump line="100" column="64" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" />
+      <jump line="44" column="18" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>display_mode</text>
+        <text>file_type_nam</text>
       </register>
       <register name="-" type="4">
-        <text>display_mode</text>
+        <text>file_type_nam</text>
       </register>
       <register name="/" type="4">
         <text>mySpecieFolder</text>
@@ -274,31 +274,31 @@
         <text encoding="base64">ICAgICAgICAjIDJiaXQgZmlsZSBjcmVhdGlvbiBmcm9tIGlucHV0IGZhc3RhCiAgICAgICAgc2VsZi50d29CaXRGaWxlID0gc3VidG9vbHMuZmFUb1R3b0JpdChzZWxmLmlucHV0RmFzdGFGaWxlLm5hbWUsIG15U3BlY2llRm9sZGVyUGF0aCkK</text>
       </register>
       <register name="1" type="4">
+        <text>file_type_nam</text>
+      </register>
+      <register name="2" type="4">
+        <text>e</text>
+      </register>
+      <register name="3" type="4">
+        <text>inputGTFFil</text>
+      </register>
+      <register name="4" type="4">
+        <text>name</text>
+      </register>
+      <register name="5" type="4">
+        <text>GTF</text>
+      </register>
+      <register name="6" type="4">
         <text>display_mode</text>
       </register>
-      <register name="2" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="9" type="2">
         <text encoding="base64">IyEvdXNyL2Jpbi9weXRob24K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">IyBlbmNvZGluZz11dGY4Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">IyBlbmNvZGluZz11dGY4Cg==</text>
-      </register>
-      <register name="7" type="4">
-        <text>name</text>
-      </register>
-      <register name="8" type="4">
-        <text>.</text>
-      </register>
-      <register name="9" type="4">
-        <text>name</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
