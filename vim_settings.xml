@@ -32,7 +32,7 @@
         <mark key="^" line="27" column="97" />
         <mark key="." line="27" column="97" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/subtools.py" timestamp="1463966831351">
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/subtools.py" timestamp="1463969213618">
         <mark key="'" line="138" column="18" />
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="22" />
@@ -73,12 +73,12 @@
         <mark key="^" line="67" column="67" />
         <mark key="." line="67" column="67" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bam.py" timestamp="1463967225877">
-        <mark key="'" line="67" column="0" />
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="." line="71" column="0" />
-        <mark key="^" line="0" column="17" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bam.py" timestamp="1463969609313">
+        <mark key="'" line="69" column="0" />
+        <mark key="[" line="67" column="24" />
+        <mark key="]" line="67" column="28" />
+        <mark key="." line="67" column="28" />
+        <mark key="^" line="67" column="28" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/config/datatypes_conf.xml.sample" timestamp="1463955599608">
         <mark key="'" line="0" column="0" />
@@ -150,10 +150,10 @@
         <mark key="^" line="55" column="11" />
         <mark key="." line="55" column="11" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bed.py" timestamp="1463965477063">
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bed.py" timestamp="1463969311914">
         <mark key="'" line="56" column="0" />
-        <mark key="[" line="36" column="42" />
-        <mark key="]" line="36" column="57" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="39" column="91" />
         <mark key="^" line="67" column="34" />
         <mark key="." line="67" column="34" />
       </file>
@@ -261,35 +261,35 @@
       <jump line="100" column="64" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>display_mode</text>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text>display_mode</text>
       </register>
       <register name="/" type="4">
         <text>mySpecieFolder</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyAtKi0gY29kaW5nOiB1dGY4IC0qLQo=</text>
+        <text encoding="base64">ICAgICAgICAjIDJiaXQgZmlsZSBjcmVhdGlvbiBmcm9tIGlucHV0IGZhc3RhCiAgICAgICAgc2VsZi50d29CaXRGaWxlID0gc3VidG9vbHMuZmFUb1R3b0JpdChzZWxmLmlucHV0RmFzdGFGaWxlLm5hbWUsIG15U3BlY2llRm9sZGVyUGF0aCkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>display_mode</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyEvdXNyL2Jpbi9weXRob24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBlbmNvZGluZz11dGY4Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">IyEvdXNyL2Jpbi9weXRob24K</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">IyBlbmNvZGluZz11dGY4Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>name</text>
-      </register>
-      <register name="6" type="4">
-        <text>.</text>
+      <register name="6" type="2">
+        <text encoding="base64">IyBlbmNvZGluZz11dGY4Cg==</text>
       </register>
       <register name="7" type="4">
         <text>name</text>
@@ -298,7 +298,7 @@
         <text>.</text>
       </register>
       <register name="9" type="4">
-        <text>bamFile</text>
+        <text>name</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
