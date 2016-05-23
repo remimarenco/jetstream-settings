@@ -10,6 +10,7 @@
         <mark key="^" line="16" column="15" />
         <mark key="." line="16" column="15" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/templates/form.mako" timestamp="1464036483806" />
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubaDataType/datatypes_conf.xml" timestamp="1463190999499">
         <mark key="[" line="0" column="25" />
         <mark key="]" line="0" column="26" />
@@ -19,12 +20,12 @@
       <file name="/a.dummy" timestamp="1463960749064">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1464034871444">
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1464037019286">
         <mark key="'" line="44" column="18" />
-        <mark key="[" line="54" column="70" />
-        <mark key="]" line="54" column="57" />
-        <mark key="." line="54" column="57" />
-        <mark key="^" line="54" column="57" />
+        <mark key="[" line="54" column="41" />
+        <mark key="]" line="54" column="52" />
+        <mark key="^" line="54" column="52" />
+        <mark key="." line="54" column="52" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/todo.md" timestamp="1463965216464">
         <mark key="[" line="27" column="0" />
@@ -37,6 +38,7 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="22" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/datatypes/data.py" timestamp="1464035956430" />
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/datatypes/tracks.py" timestamp="1463230065436">
         <mark key="[" line="54" column="21" />
         <mark key="]" line="54" column="22" />
@@ -261,8 +263,8 @@
       <jump line="44" column="18" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>file_type_nam</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAtLW1ldGFkYXRhX2pzb24gJGYuZm9ybWF0Q2hvaWNlLmUK</text>
       </register>
       <register name="-" type="4">
         <text>file_type_nam</text>
@@ -273,32 +275,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAjIDJiaXQgZmlsZSBjcmVhdGlvbiBmcm9tIGlucHV0IGZhc3RhCiAgICAgICAgc2VsZi50d29CaXRGaWxlID0gc3VidG9vbHMuZmFUb1R3b0JpdChzZWxmLmlucHV0RmFzdGFGaWxlLm5hbWUsIG15U3BlY2llRm9sZGVyUGF0aCkK</text>
       </register>
-      <register name="1" type="4">
-        <text>file_type_nam</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAtLW1ldGFkYXRhX2pzb24gJGYuZm9ybWF0Q2hvaWNlLmUK</text>
       </register>
       <register name="2" type="4">
-        <text>e</text>
+        <text>file_type_nam</text>
       </register>
       <register name="3" type="4">
-        <text>inputGTFFil</text>
+        <text>e</text>
       </register>
       <register name="4" type="4">
-        <text>name</text>
+        <text>inputGTFFil</text>
       </register>
       <register name="5" type="4">
-        <text>GTF</text>
+        <text>name</text>
       </register>
       <register name="6" type="4">
-        <text>display_mode</text>
+        <text>GTF</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>display_mode</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyEvdXNyL2Jpbi9weXRob24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
