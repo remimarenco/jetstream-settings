@@ -20,13 +20,6 @@
       <file name="/a.dummy" timestamp="1463960749064">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1464037019286">
-        <mark key="'" line="44" column="18" />
-        <mark key="[" line="54" column="41" />
-        <mark key="]" line="54" column="52" />
-        <mark key="^" line="54" column="52" />
-        <mark key="." line="54" column="52" />
-      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/todo.md" timestamp="1463965216464">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="97" />
@@ -75,12 +68,12 @@
         <mark key="^" line="67" column="67" />
         <mark key="." line="67" column="67" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bam.py" timestamp="1463969609313">
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bam.py" timestamp="1464189095681">
         <mark key="'" line="69" column="0" />
-        <mark key="[" line="67" column="24" />
-        <mark key="]" line="67" column="28" />
-        <mark key="." line="67" column="28" />
-        <mark key="^" line="67" column="28" />
+        <mark key="[" line="30" column="23" />
+        <mark key="]" line="30" column="35" />
+        <mark key="." line="30" column="35" />
+        <mark key="^" line="30" column="35" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/config/datatypes_conf.xml.sample" timestamp="1463955599608">
         <mark key="'" line="0" column="0" />
@@ -133,12 +126,8 @@
         <mark key="^" line="59" column="91" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" timestamp="1464032907291">
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" timestamp="1464189530912">
         <mark key="'" line="108" column="64" />
-        <mark key="[" line="72" column="25" />
-        <mark key="]" line="72" column="39" />
-        <mark key="^" line="72" column="39" />
-        <mark key="." line="72" column="39" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Track.py" timestamp="1462411595356">
         <mark key="[" line="6" column="8" />
