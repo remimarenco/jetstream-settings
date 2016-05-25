@@ -17,8 +17,17 @@
         <mark key="." line="0" column="26" />
         <mark key="^" line="0" column="24" />
       </file>
-      <file name="/a.dummy" timestamp="1463960749064">
+      <file name="/Python Console" timestamp="1464190664539">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1464192838501">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1464194955875">
+        <mark key="[" line="54" column="56" />
+        <mark key="]" line="54" column="59" />
+        <mark key="^" line="54" column="59" />
+        <mark key="." line="54" column="59" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/todo.md" timestamp="1463965216464">
         <mark key="[" line="27" column="0" />
@@ -67,6 +76,9 @@
         <mark key="]" line="67" column="67" />
         <mark key="^" line="67" column="67" />
         <mark key="." line="67" column="67" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" timestamp="1464194878806">
+        <mark key="'" line="2291" column="54" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bam.py" timestamp="1464189095681">
         <mark key="'" line="69" column="0" />
@@ -126,8 +138,13 @@
         <mark key="^" line="59" column="91" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" timestamp="1464189530912">
-        <mark key="'" line="108" column="64" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/dataset_collections/types/paired.py" timestamp="1464191167657" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" timestamp="1464194380549">
+        <mark key="'" line="110" column="64" />
+        <mark key="[" line="75" column="6" />
+        <mark key="]" line="75" column="3" />
+        <mark key="^" line="75" column="3" />
+        <mark key="." line="75" column="3" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Track.py" timestamp="1462411595356">
         <mark key="[" line="6" column="8" />
@@ -135,6 +152,7 @@
         <mark key="^" line="12" column="18" />
         <mark key="." line="12" column="18" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/dataset_collections/types/__init__.py" timestamp="1464191153356" />
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Gtf.py" timestamp="1463595038262">
         <mark key="[" line="55" column="12" />
         <mark key="]" line="55" column="11" />
@@ -150,68 +168,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="313" column="5" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/slideshow/galaxy_architecture_2015/galaxy_architecture_2015.md" />
-      <jump line="322" column="5" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/slideshow/galaxy_architecture_2015/galaxy_architecture_2015.md" />
-      <jump line="331" column="5" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/slideshow/galaxy_architecture_2015/galaxy_architecture_2015.md" />
-      <jump line="545" column="5" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/slideshow/galaxy_architecture_2015/galaxy_architecture_2015.md" />
-      <jump line="65" column="57" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/slideshow/galaxy_architecture_2015/galaxy_architecture_2015.md" />
-      <jump line="223" column="37" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/slideshow/galaxy_architecture_2015/galaxy_architecture_2015.md" />
-      <jump line="257" column="12" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/doc/source/slideshow/galaxy_architecture_2015/galaxy_architecture_2015.md" />
-      <jump line="14" column="51" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/SubTools.py" />
-      <jump line="54" column="12" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" />
-      <jump line="35" column="75" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/AugustusProcess.py" />
-      <jump line="21" column="12" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/AugustusProcess.py" />
-      <jump line="7" column="16" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/SubTools.py" />
-      <jump line="43" column="7" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/SubTools.py" />
-      <jump line="99" column="34" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" />
-      <jump line="53" column="41" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/BedSimpleRepeats.py" />
-      <jump line="96" column="8" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/BedSimpleRepeats.py" />
-      <jump line="52" column="51" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/SubTools.py" />
-      <jump line="54" column="55" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/SubTools.py" />
-      <jump line="56" column="17" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/SubTools.py" />
-      <jump line="59" column="62" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/SubTools.py" />
-      <jump line="63" column="21" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/SubTools.py" />
-      <jump line="32" column="50" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/SubTools.py" />
-      <jump line="37" column="23" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/SubTools.py" />
-      <jump line="30" column="8" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/SubTools.py" />
-      <jump line="46" column="72" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/SubTools.py" />
-      <jump line="10" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/SubTools.py" />
-      <jump line="33" column="52" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/BedSimpleRepeats.py" />
-      <jump line="34" column="10" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/BedSimpleRepeats.py" />
-      <jump line="17" column="16" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/twoBitCreator.py" />
-      <jump line="26" column="8" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bed.py" />
-      <jump line="39" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/datatypes/tracks.py" />
-      <jump line="15" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubaDataType/hubAssembly.py" />
-      <jump line="6" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/datatypes/tracks.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/datatypes/registry.py" />
-      <jump line="52" column="13" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/datatypes/registry.py" />
-      <jump line="442" column="37" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/config/datatypes_conf.xml" />
-      <jump line="445" column="6" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/config/datatypes_conf.xml" />
-      <jump line="351" column="14" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/datatypes/registry.py" />
-      <jump line="428" column="10" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/datatypes/registry.py" />
-      <jump line="238" column="49" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/datatypes/registry.py" />
-      <jump line="549" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/datatypes/registry.py" />
-      <jump line="610" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/datatypes/registry.py" />
-      <jump line="678" column="19" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/datatypes/registry.py" />
-      <jump line="715" column="19" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/datatypes/registry.py" />
-      <jump line="122" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/datatypes/registry.py" />
-      <jump line="170" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/datatypes/registry.py" />
-      <jump line="230" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/datatypes/registry.py" />
-      <jump line="706" column="19" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/datatypes/registry.py" />
-      <jump line="669" column="19" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/datatypes/registry.py" />
-      <jump line="867" column="7" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/datatypes/registry.py" />
-      <jump line="1" column="25" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/datatypes/registry.py" />
-      <jump line="34" column="26" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/datatypes/registry.py" />
-      <jump line="35" column="26" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/datatypes/registry.py" />
-      <jump line="89" column="24" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/datatypes/registry.py" />
-      <jump line="121" column="53" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/datatypes/registry.py" />
-      <jump line="868" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/datatypes/registry.py" />
-      <jump line="537" column="28" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/datatypes/registry.py" />
-      <jump line="552" column="29" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/datatypes/registry.py" />
-      <jump line="594" column="28" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/datatypes/registry.py" />
-      <jump line="600" column="28" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/datatypes/registry.py" />
-      <jump line="603" column="24" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/datatypes/registry.py" />
-      <jump line="605" column="24" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/datatypes/registry.py" />
       <jump line="611" column="20" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/datatypes/registry.py" />
       <jump line="630" column="16" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/datatypes/registry.py" />
       <jump line="641" column="8" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/datatypes/registry.py" />
@@ -250,55 +206,120 @@
       <jump line="97" column="34" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" />
       <jump line="100" column="64" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" />
       <jump line="44" column="18" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" />
+      <jump line="3344" column="6" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
+      <jump line="5140" column="8" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
+      <jump line="131" column="41" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
+      <jump line="256" column="8" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
+      <jump line="728" column="36" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
+      <jump line="895" column="30" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
+      <jump line="897" column="23" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
+      <jump line="901" column="30" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
+      <jump line="903" column="23" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
+      <jump line="907" column="30" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
+      <jump line="909" column="23" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
+      <jump line="915" column="30" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
+      <jump line="917" column="43" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
+      <jump line="924" column="30" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
+      <jump line="926" column="34" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
+      <jump line="930" column="30" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
+      <jump line="932" column="23" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
+      <jump line="936" column="30" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
+      <jump line="938" column="23" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
+      <jump line="949" column="36" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
+      <jump line="951" column="46" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
+      <jump line="974" column="34" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
+      <jump line="976" column="23" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
+      <jump line="977" column="47" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
+      <jump line="978" column="25" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
+      <jump line="979" column="55" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
+      <jump line="982" column="8" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
+      <jump line="983" column="24" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
+      <jump line="984" column="32" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
+      <jump line="985" column="34" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
+      <jump line="986" column="40" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
+      <jump line="991" column="48" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
+      <jump line="992" column="47" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
+      <jump line="996" column="23" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
+      <jump line="999" column="39" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
+      <jump line="1037" column="47" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
+      <jump line="1041" column="23" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
+      <jump line="1131" column="13" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
+      <jump line="1141" column="21" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
+      <jump line="1145" column="32" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
+      <jump line="1146" column="19" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
+      <jump line="1147" column="31" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
+      <jump line="1156" column="27" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
+      <jump line="1157" column="23" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
+      <jump line="1158" column="56" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
+      <jump line="1159" column="40" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
+      <jump line="1161" column="29" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
+      <jump line="2283" column="52" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
+      <jump line="2339" column="49" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
+      <jump line="2330" column="25" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
+      <jump line="2327" column="48" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
+      <jump line="2326" column="20" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
+      <jump line="2323" column="25" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
+      <jump line="2321" column="20" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
+      <jump line="2319" column="26" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
+      <jump line="2318" column="19" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
+      <jump line="2314" column="56" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
+      <jump line="2313" column="19" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
+      <jump line="2308" column="47" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
+      <jump line="2302" column="62" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
+      <jump line="2295" column="61" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
+      <jump line="2291" column="54" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAtLW1ldGFkYXRhX2pzb24gJGYuZm9ybWF0Q2hvaWNlLmUK</text>
+      <register name="&quot;" type="4">
+        <text>tool_version</text>
       </register>
       <register name="-" type="4">
-        <text>file_type_nam</text>
+        <text>tool_version</text>
       </register>
       <register name="/" type="4">
-        <text>mySpecieFolder</text>
+        <text>dataset</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAjIDJiaXQgZmlsZSBjcmVhdGlvbiBmcm9tIGlucHV0IGZhc3RhCiAgICAgICAgc2VsZi50d29CaXRGaWxlID0gc3VidG9vbHMuZmFUb1R3b0JpdChzZWxmLmlucHV0RmFzdGFGaWxlLm5hbWUsIG15U3BlY2llRm9sZGVyUGF0aCkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAtLW1ldGFkYXRhX2pzb24gJGYuZm9ybWF0Q2hvaWNlLmUK</text>
+      <register name="1" type="4">
+        <text>tool_version</text>
+      </register>
+      <register name="q" type="4">
+        <text />
       </register>
       <register name="2" type="4">
-        <text>file_type_nam</text>
+        <text>#</text>
       </register>
       <register name="3" type="4">
-        <text>e</text>
+        <text>#</text>
       </register>
-      <register name="4" type="4">
-        <text>inputGTFFil</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAtLW1ldGFkYXRhX2pzb24gJGYuZm9ybWF0Q2hvaWNlLmUK</text>
       </register>
       <register name="5" type="4">
-        <text>name</text>
+        <text>file_type_nam</text>
       </register>
       <register name="6" type="4">
-        <text>GTF</text>
+        <text>e</text>
       </register>
       <register name="7" type="4">
-        <text>display_mode</text>
+        <text>inputGTFFil</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>name</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>GTF</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>mySpecieFolder</last-search>
+      <last-search>dataset</last-search>
       <last-offset />
-      <last-pattern>mySpecieFolder</last-pattern>
+      <last-pattern>dataset</last-pattern>
       <last-replace>array_call</last-replace>
       <last-substitute>arrayCall</last-substitute>
       <last-dir>1</last-dir>
@@ -306,7 +327,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Charts</entry>
         <entry encoding="base64">XDx0aG91c2FuZHNcPg==</entry>
         <entry>%s</entry>
         <entry>arrayCall</entry>
@@ -326,6 +346,7 @@
         <entry>bam</entry>
         <entry>myTrackFolder</entry>
         <entry>mySpecieFolder</entry>
+        <entry>dataset</entry>
       </history-search>
       <history-cmd>
         <entry>s/tool_list/toto</entry>
