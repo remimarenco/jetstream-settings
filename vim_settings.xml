@@ -24,11 +24,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1464315352967" />
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/todo.md" timestamp="1464274289518">
-        <mark key="[" line="27" column="99" />
-        <mark key="]" line="28" column="78" />
-        <mark key="^" line="28" column="78" />
-        <mark key="." line="28" column="78" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/todo.md" timestamp="1464368900655">
+        <mark key="[" line="28" column="80" />
+        <mark key="]" line="29" column="120" />
+        <mark key="^" line="29" column="120" />
+        <mark key="." line="29" column="120" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/datatypes/data.py" timestamp="1464035956430" />
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/TrackDb.py" timestamp="1464290971088">
@@ -40,8 +40,8 @@
         <mark key="." line="54" column="22" />
         <mark key="^" line="54" column="23" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/BigWig.py" timestamp="1464317082688">
-        <mark key="[" line="17" column="74" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/BigWig.py" timestamp="1464368758096">
+        <mark key="[" line="18" column="63" />
         <mark key="]" line="18" column="54" />
         <mark key="^" line="18" column="54" />
         <mark key="." line="18" column="54" />
