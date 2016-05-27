@@ -23,17 +23,12 @@
       <file name="/a.dummy" timestamp="1464192838501">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1464227728937" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1464315352967" />
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/todo.md" timestamp="1464274289518">
         <mark key="[" line="27" column="99" />
         <mark key="]" line="28" column="78" />
         <mark key="^" line="28" column="78" />
         <mark key="." line="28" column="78" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/subtools.py" timestamp="1463969213618">
-        <mark key="'" line="138" column="18" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="22" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/datatypes/data.py" timestamp="1464035956430" />
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/TrackDb.py" timestamp="1464290971088">
@@ -45,13 +40,19 @@
         <mark key="." line="54" column="22" />
         <mark key="^" line="54" column="23" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/BigWig.py" timestamp="1464315909360">
+        <mark key="[" line="16" column="48" />
+        <mark key="]" line="16" column="47" />
+        <mark key="^" line="16" column="47" />
+        <mark key="." line="16" column="47" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/display_applications/ucsc/trackHub.xml" timestamp="1463193708923">
         <mark key="[" line="0" column="18" />
         <mark key="]" line="0" column="25" />
         <mark key="." line="0" column="25" />
         <mark key="^" line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/tool_dependencies.xml" timestamp="1463773373795">
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/tool_dependencies.xml" timestamp="1464314907776">
         <mark key="[" line="48" column="54" />
         <mark key="]" line="48" column="66" />
         <mark key="^" line="48" column="66" />
@@ -157,8 +158,10 @@
         <mark key="^" line="67" column="30" />
         <mark key="." line="67" column="30" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bed.py" timestamp="1464292269867">
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bed.py" timestamp="1464315737435">
         <mark key="'" line="7" column="4" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="8" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -265,54 +268,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>tools.hub_assembly.</text>
+        <text>Bed</text>
       </register>
       <register name="-" type="4">
-        <text>tools.hub_assembly.</text>
+        <text>Bed</text>
       </register>
       <register name="/" type="4">
         <text>dataset</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAjIDJiaXQgZmlsZSBjcmVhdGlvbiBmcm9tIGlucHV0IGZhc3RhCiAgICAgICAgc2VsZi50d29CaXRGaWxlID0gc3VidG9vbHMuZmFUb1R3b0JpdChzZWxmLmlucHV0RmFzdGFGaWxlLm5hbWUsIG15U3BlY2llRm9sZGVyUGF0aCkK</text>
+        <text encoding="base64">IyEvdXNyL2Jpbi9weXRob24KCmltcG9ydCBvcwppbXBvcnQgdGVtcGZpbGUKCiMgSW50ZXJuYWwgZGVwZW5kZW5jaWVzCmZyb20gVHJhY2sgaW1wb3J0IFRyYWNrCmZyb20gdXRpbCBpbXBvcnQgc3VidG9vbHMKCg==</text>
       </register>
       <register name="1" type="4">
-        <text>tools.hub_assembly.</text>
+        <text>Bed</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>s</text>
+        <text>Bed</text>
       </register>
-      <register name="3" type="4">
-        <text>newTrack</text>
-      </register>
-      <register name="4" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBuZXdUcmFjayA9IFRyYWNrRGIK</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHAK</text>
+      </register>
+      <register name="5" type="4">
+        <text>tools.hub_assembly.</text>
       </register>
       <register name="6" type="4">
-        <text>(
-            trackName=trackObject.trackName,
-            longLabel=trackObject.longLabel,
-            shortLabel=trackObject.shortLabel,
-            trackDataURL=trackObject.trackDataURL,
-            trackType=trackObject.trackType,
-            visibility=trackObject.visibility,
-            thickDrawItem=trackObject.thickDrawItem,
-        )</text>
+        <text>s</text>
       </register>
       <register name="7" type="4">
-        <text>tools.hub_assembly.</text>
+        <text>newTrack</text>
       </register>
-      <register name="8" type="4">
-        <text>tools.hub_assembly.</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>)</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBuZXdUcmFjayA9IFRyYWNrRGIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
