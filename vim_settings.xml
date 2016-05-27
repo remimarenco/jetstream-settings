@@ -71,20 +71,19 @@
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/AugustusProcess.py" timestamp="1464292422534">
         <mark key="'" line="7" column="4" />
-        <mark key="[" line="63" column="25" />
-        <mark key="]" line="63" column="23" />
-        <mark key="^" line="63" column="23" />
-        <mark key="." line="63" column="23" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" timestamp="1464194878806">
         <mark key="'" line="2291" column="54" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bam.py" timestamp="1464292239213">
-        <mark key="'" line="74" column="0" />
+        <mark key="'" line="68" column="0" />
         <mark key="[" line="10" column="5" />
         <mark key="]" line="10" column="4" />
         <mark key="^" line="10" column="4" />
         <mark key="." line="10" column="4" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/config/datatypes_conf.xml.sample" timestamp="1463955599608">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/README.md" timestamp="1463584049348">
         <mark key="[" line="21" column="15" />
@@ -138,19 +137,12 @@
         <mark key="." line="8" column="41" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/TrackHub.py" timestamp="1464292389256">
-        <mark key="[" line="52" column="31" />
-        <mark key="]" line="52" column="36" />
-        <mark key="^" line="52" column="36" />
-        <mark key="." line="52" column="36" />
+        <mark key="[" line="45" column="31" />
+        <mark key="]" line="45" column="36" />
+        <mark key="^" line="45" column="36" />
+        <mark key="." line="45" column="36" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/dataset_collections/types/paired.py" timestamp="1464191167657" />
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" timestamp="1464292608767">
-        <mark key="'" line="100" column="64" />
-        <mark key="[" line="98" column="30" />
-        <mark key="]" line="98" column="43" />
-        <mark key="^" line="98" column="43" />
-        <mark key="." line="98" column="43" />
-      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Track.py" timestamp="1464291588140">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -166,10 +158,6 @@
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bed.py" timestamp="1464292269867">
         <mark key="'" line="7" column="4" />
-        <mark key="[" line="71" column="30" />
-        <mark key="]" line="71" column="30" />
-        <mark key="." line="71" column="30" />
-        <mark key="^" line="71" column="30" />
       </file>
     </filemarks>
     <jumps>
