@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '/Users/remi/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubaDataType/tracks_partial.py'" />
-    <option name="defaultScopeName" value="File '/Users/remi/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubaDataType/tracks_partial.py'" />
-    <option name="SEARCH_SCOPE" value="File '/Users/remi/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubaDataType/tracks_partial.py'" />
+    <option name="customScope" value="File '/Users/remi/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/BigWig.py'" />
+    <option name="defaultScopeName" value="File '/Users/remi/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/BigWig.py'" />
+    <option name="SEARCH_SCOPE" value="File '/Users/remi/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/BigWig.py'" />
   </component>
 </application>

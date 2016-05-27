@@ -20,11 +20,11 @@
       <file name="/Python Console" timestamp="1464190664539">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1464192838501">
+      <file name="/a.dummy" timestamp="1464370292716">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1464315352967" />
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/todo.md" timestamp="1464368900655">
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/todo.md" timestamp="1464368941666">
         <mark key="[" line="28" column="80" />
         <mark key="]" line="29" column="120" />
         <mark key="^" line="29" column="120" />
@@ -40,11 +40,11 @@
         <mark key="." line="54" column="22" />
         <mark key="^" line="54" column="23" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/BigWig.py" timestamp="1464368758096">
-        <mark key="[" line="18" column="63" />
-        <mark key="]" line="18" column="54" />
-        <mark key="^" line="18" column="54" />
-        <mark key="." line="18" column="54" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/BigWig.py" timestamp="1464370378543">
+        <mark key="[" line="13" column="8" />
+        <mark key="]" line="13" column="8" />
+        <mark key="^" line="13" column="8" />
+        <mark key="." line="13" column="8" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/display_applications/ucsc/trackHub.xml" timestamp="1463193708923">
         <mark key="[" line="0" column="18" />
@@ -268,10 +268,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Bed</text>
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text>Bed</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>dataset</text>
@@ -280,34 +280,34 @@
         <text encoding="base64">IyEvdXNyL2Jpbi9weXRob24KCmltcG9ydCBvcwppbXBvcnQgdGVtcGZpbGUKCiMgSW50ZXJuYWwgZGVwZW5kZW5jaWVzCmZyb20gVHJhY2sgaW1wb3J0IFRyYWNrCmZyb20gdXRpbCBpbXBvcnQgc3VidG9vbHMKCg==</text>
       </register>
       <register name="1" type="4">
-        <text>Bed</text>
+        <text>#</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>Bed</text>
+        <text encoding="base64">IyBUT0RPOiBDaGFuZ2UgdGhpcyBiZWNhdXNlIGl0IGNhbiBiZSBjYWxsZWQgYnkgb3RoZXJzIHRoaW5nIHRoYXQgLmJlZCA9PiAuZ3RmLy5nZmYz</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>outputFile, toolDirectory</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHAK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnVjc2NfdG9vbHNfcGF0aCA9IHVjc2NfdG9vbHNfcGF0aAo=</text>
       </register>
-      <register name="5" type="4">
-        <text>tools.hub_assembly.</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLnRvb2xEaXJlY3RvcnkgPSB0b29sRGlyZWN0b3J5Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>s</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLm91dHB1dEZpbGUgPSBvdXRwdXRGaWxlCg==</text>
       </register>
       <register name="7" type="4">
-        <text>newTrack</text>
+        <text>h</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>dense</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBuZXdUcmFjayA9IFRyYWNrRGIK</text>
+      <register name="9" type="4">
+        <text>bigBed</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
