@@ -16,11 +16,11 @@
       <file name="/a.dummy" timestamp="1464372192129">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1464386090229">
-        <mark key="[" line="10" column="79" />
-        <mark key="]" line="11" column="57" />
-        <mark key="^" line="11" column="57" />
-        <mark key="." line="11" column="57" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1464456033945">
+        <mark key="[" line="33" column="20" />
+        <mark key="]" line="39" column="60" />
+        <mark key="^" line="39" column="60" />
+        <mark key="." line="39" column="60" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/todo.md" timestamp="1464372301071">
         <mark key="[" line="29" column="121" />
@@ -69,9 +69,9 @@
         <mark key="'" line="2291" column="54" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bam.py" timestamp="1464455009509">
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/config/datatypes_conf.xml.sample" timestamp="1463955599608">
         <mark key="'" line="0" column="0" />
