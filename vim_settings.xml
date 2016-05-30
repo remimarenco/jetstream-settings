@@ -15,12 +15,11 @@
       <file name="/a.dummy" timestamp="1464635038446">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1464639724304">
-        <mark key="'" line="58" column="22" />
-        <mark key="[" line="61" column="27" />
-        <mark key="]" line="61" column="28" />
-        <mark key="." line="61" column="28" />
-        <mark key="^" line="61" column="28" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1464643043916">
+        <mark key="[" line="78" column="40" />
+        <mark key="]" line="78" column="40" />
+        <mark key="^" line="78" column="40" />
+        <mark key="." line="78" column="40" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/todo.md" timestamp="1464372301071">
         <mark key="[" line="29" column="121" />
@@ -136,9 +135,12 @@
         <mark key="." line="12" column="66" />
         <mark key="^" line="12" column="66" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" timestamp="1464634289051">
-        <mark key="'" line="82" column="37" />
-        <mark key="[" line="82" column="45" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" timestamp="1464646358227">
+        <mark key="'" line="84" column="37" />
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="^" line="122" column="40" />
+        <mark key="." line="78" column="0" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Track.py" timestamp="1464291588140">
         <mark key="[" line="9" column="0" />
@@ -152,15 +154,14 @@
         <mark key="^" line="67" column="30" />
         <mark key="." line="67" column="30" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bed.py" timestamp="1464384989426">
-        <mark key="'" line="7" column="4" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="8" column="0" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bed.py" timestamp="1464646232699">
+        <mark key="'" line="12" column="71" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="6" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" />
-      <jump line="88" column="15" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" />
       <jump line="57" column="12" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" />
       <jump line="18" column="52" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bed.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Gtf.py" />
@@ -259,66 +260,67 @@
       <jump line="79" column="32" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" />
       <jump line="82" column="37" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" />
       <jump line="51" column="22" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" />
+      <jump line="28" column="24" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bed.py" />
+      <jump line="12" column="71" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bed.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>data_parameter_array</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaW50ICJJbiBhcmdzLmJlZDogJXMiICUgYXJncy5iZWQK</text>
       </register>
       <register name="-" type="4">
-        <text>data_parameter_array</text>
+        <text>array_inputs_bed_generic</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxiZWRcPg==</text>
+        <text>trackHub</text>
       </register>
       <register name="0" type="4">
-        <text>dict_to_add_object_attrs</text>
+        <text>inputs_data</text>
       </register>
-      <register name="1" type="4">
-        <text>data_parameter_array</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHByaW50ICJJbiBhcmdzLmJlZDogJXMiICUgYXJncy5iZWQK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjc2V0IGRhdGFfcGFyYW1ldGVyX2RpY3QgPSB7fQo=</text>
+        <text encoding="base64">ICAgIHByaW50ICJqc29uIGlzICVzIiAlIGpzb25faW5wdXRzX2RhdGEK</text>
       </register>
-      <register name="4" type="4">
-        <text>_bed</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHByaW50ICJMb2FkZWQganNvbiBpcyAlcyIgJSBpbnB1dHNfZGF0YQo=</text>
       </register>
-      <register name="5" type="4">
-        <text>bed_object</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="4">
-        <text>input_to_prepare</text>
+        <text>array_inputs_bed_generic</text>
       </register>
       <register name="7" type="4">
-        <text>input_to_prepare</text>
+        <text>array_inputs_bed_generic</text>
       </register>
       <register name="8" type="4">
-        <text>}</text>
+        <text>nargs='*'</text>
       </register>
       <register name="9" type="4">
-        <text>{</text>
+        <text>+</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxiZWRcPg==</last-search>
+      <last-search>trackHub</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxiZWRcPg==</last-pattern>
+      <last-pattern>trackHub</last-pattern>
       <last-replace>array_call</last-replace>
       <last-substitute>arrayCall</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>arrayCall</entry>
         <entry>sort</entry>
         <entry>twoBit</entry>
         <entry encoding="base64">XDxHZW5lcmF0ZVw+</entry>
@@ -338,6 +340,7 @@
         <entry>dataset</entry>
         <entry>metadata</entry>
         <entry encoding="base64">XDxiZWRcPg==</entry>
+        <entry>trackHub</entry>
       </history-search>
       <history-cmd>
         <entry>s/tool_list/toto</entry>
@@ -355,8 +358,8 @@
         <entry>%s/arrayCall/array_call/gc</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5x</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>W</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
