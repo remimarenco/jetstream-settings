@@ -57,16 +57,19 @@
         <mark key="." line="3" column="45" />
         <mark key="^" line="3" column="45" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/AugustusProcess.py" timestamp="1464292422534">
-        <mark key="'" line="7" column="4" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/AugustusProcess.py" timestamp="1464631138943">
+        <mark key="'" line="5" column="4" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" timestamp="1464194878806">
         <mark key="'" line="2291" column="54" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bam.py" timestamp="1464455009509">
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="." line="78" column="0" />
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/config/datatypes_conf.xml.sample" timestamp="1463955599608">
         <mark key="'" line="0" column="0" />
@@ -128,7 +131,11 @@
         <mark key="." line="42" column="29" />
         <mark key="^" line="42" column="29" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" timestamp="1464628279107" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" timestamp="1464630329372">
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="91" column="0" />
+        <mark key="." line="91" column="0" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Track.py" timestamp="1464291588140">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -251,10 +258,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJhYwo=</text>
+        <text encoding="base64">ICAgICAgICBpbnB1dEdGRjNGaWxlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>`</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>dataset</text>
@@ -263,34 +270,34 @@
         <text encoding="base64">IyEvdXNyL2Jpbi9weXRob24KCmltcG9ydCBvcwppbXBvcnQgdGVtcGZpbGUKCiMgSW50ZXJuYWwgZGVwZW5kZW5jaWVzCmZyb20gVHJhY2sgaW1wb3J0IFRyYWNrCmZyb20gdXRpbCBpbXBvcnQgc3VidG9vbHMKCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJhYwo=</text>
+        <text encoding="base64">ICAgICAgICBpbnB1dEdGRjNGaWxlLgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>`</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdWNzY190b29sc19wYXRoLCB0cmFja0h1YikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBBdWd1c3R1c1Byb2Nlc3MoMywgaW5wdXRGYXN0YUZpbGUsIG91dHB1dEZpbGUsIHRvb2xEaXJlY3RvcnksIGV4dHJhX2ZpbGVzX3BhdGgsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBUcmFja0RiIGltcG9ydCBUcmFja0RiCg==</text>
-      </register>
-      <register name="5" type="4">
-        <text>False</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBpbnB1dEZhc3RhRmlsZS4K</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIENyZWF0ZSBhbmQgYWRkIHRoZSBiYW0gaW5kZXggZmlsZSB0byB0aGUgc2FtZSBmb2xkZXIKICAgICAgICBiYW1JbmRleEZpbGVQYXRoID0gb3MucGF0aC5qb2luKG15VHJhY2tGb2xkZXJQYXRoLCBiYW1JbmRleEZpbGUpCiAgICAgICAgc3VidG9vbHMuY3JlYXRlQmFtSW5kZXgobXlTb3J0ZWRCYW1GaWxlUGF0aCwgYmFtSW5kZXhGaWxlUGF0aCkK</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBpbnB1dEdGRjNGaWxlLgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBpbnB1dEdGRjNGaWxlCg==</text>
+      </register>
+      <register name="8" type="4">
+        <text>.</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHRlbXBmaWxlCg==</text>
+        <text encoding="base64">ICAgICAgICBpbnB1dEdGRjNGaWxlLgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -344,8 +351,8 @@
         <entry>%s/arrayCall/array_call/gc</entry>
         <entry>q</entry>
         <entry>W</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry encoding="base64">JzwsJz5x</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />

@@ -1,0 +1,12 @@
+<code_scheme name="Default (1)">
+  <MarkdownNavigatorCodeStyleSettings>
+    <option name="RIGHT_MARGIN" value="72" />
+  </MarkdownNavigatorCodeStyleSettings>
+  <Python>
+    <option name="DICT_ALIGNMENT" value="2" />
+    <option name="USE_CONTINUATION_INDENT_FOR_ARGUMENTS" value="true" />
+  </Python>
+  <XML>
+    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
+  </XML>
+</code_scheme>
