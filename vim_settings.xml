@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/templates/form.mako" timestamp="1464036483806" />
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubaDataType/datatypes_conf.xml" timestamp="1463190999499">
         <mark key="[" line="0" column="25" />
         <mark key="]" line="0" column="26" />
@@ -25,7 +24,6 @@
         <mark key="^" line="30" column="101" />
         <mark key="." line="30" column="101" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/datatypes/data.py" timestamp="1464035956430" />
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/TrackDb.py" timestamp="1464290971088">
         <mark key="[" line="1" column="0" />
       </file>
@@ -124,20 +122,19 @@
         <mark key="^" line="8" column="41" />
         <mark key="." line="8" column="41" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/TrackHub.py" timestamp="1464292389256">
-        <mark key="[" line="45" column="31" />
-        <mark key="]" line="45" column="36" />
-        <mark key="^" line="45" column="36" />
-        <mark key="." line="45" column="36" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/TrackHub.py" timestamp="1464627778249">
+        <mark key="[" line="42" column="29" />
+        <mark key="]" line="42" column="29" />
+        <mark key="." line="42" column="29" />
+        <mark key="^" line="42" column="29" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/dataset_collections/types/paired.py" timestamp="1464191167657" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" timestamp="1464628279107" />
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Track.py" timestamp="1464291588140">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="^" line="5" column="50" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/dataset_collections/types/__init__.py" timestamp="1464191153356" />
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Gtf.py" timestamp="1464292183685">
         <mark key="[" line="67" column="30" />
         <mark key="]" line="67" column="30" />
@@ -253,11 +250,11 @@
       <jump line="63" column="4" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>False</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdHJhYwo=</text>
       </register>
       <register name="-" type="4">
-        <text>False</text>
+        <text>`</text>
       </register>
       <register name="/" type="4">
         <text>dataset</text>
@@ -265,35 +262,35 @@
       <register name="0" type="2">
         <text encoding="base64">IyEvdXNyL2Jpbi9weXRob24KCmltcG9ydCBvcwppbXBvcnQgdGVtcGZpbGUKCiMgSW50ZXJuYWwgZGVwZW5kZW5jaWVzCmZyb20gVHJhY2sgaW1wb3J0IFRyYWNrCmZyb20gdXRpbCBpbXBvcnQgc3VidG9vbHMKCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>False</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdHJhYwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>`</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIENyZWF0ZSBhbmQgYWRkIHRoZSBiYW0gaW5kZXggZmlsZSB0byB0aGUgc2FtZSBmb2xkZXIKICAgICAgICBiYW1JbmRleEZpbGVQYXRoID0gb3MucGF0aC5qb2luKG15VHJhY2tGb2xkZXJQYXRoLCBiYW1JbmRleEZpbGUpCiAgICAgICAgc3VidG9vbHMuY3JlYXRlQmFtSW5kZXgobXlTb3J0ZWRCYW1GaWxlUGF0aCwgYmFtSW5kZXhGaWxlUGF0aCkK</text>
+        <text encoding="base64">ZnJvbSBUcmFja0RiIGltcG9ydCBUcmFja0RiCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHRlbXBmaWxlCg==</text>
+      <register name="5" type="4">
+        <text>False</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnR3b0JpdEluZm9GaWxlID0gdGVtcGZpbGUuTmFtZWRUZW1wb3JhcnlGaWxlKGJ1ZnNpemU9MCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNocm9tU2l6ZXNGaWxlID0gdGVtcGZpbGUuTmFtZWRUZW1wb3JhcnlGaWxlKGJ1ZnNpemU9MCwgc3VmZml4PSIuY2hyb20uc2l6ZXMiKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIENyZWF0ZSBhbmQgYWRkIHRoZSBiYW0gaW5kZXggZmlsZSB0byB0aGUgc2FtZSBmb2xkZXIKICAgICAgICBiYW1JbmRleEZpbGVQYXRoID0gb3MucGF0aC5qb2luKG15VHJhY2tGb2xkZXJQYXRoLCBiYW1JbmRleEZpbGUpCiAgICAgICAgc3VidG9vbHMuY3JlYXRlQmFtSW5kZXgobXlTb3J0ZWRCYW1GaWxlUGF0aCwgYmFtSW5kZXhGaWxlUGF0aCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNvcnRlZEJlZEZpbGUgPSB0ZW1wZmlsZS5OYW1lZFRlbXBvcmFyeUZpbGUoc3VmZml4PSIuc29ydGVkQmVkIikK</text>
+        <text encoding="base64">aW1wb3J0IHRlbXBmaWxlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
