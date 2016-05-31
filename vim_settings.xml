@@ -70,7 +70,7 @@
         <mark key="'" line="2291" column="54" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/tools/wrappers.py" timestamp="1464635889995" />
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bam.py" timestamp="1464455009509">
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bam.py" timestamp="1464658296340">
         <mark key="[" line="73" column="0" />
         <mark key="]" line="73" column="0" />
         <mark key="." line="73" column="0" />
@@ -135,12 +135,12 @@
         <mark key="." line="12" column="66" />
         <mark key="^" line="12" column="66" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" timestamp="1464646358227">
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" timestamp="1464658344226">
         <mark key="'" line="84" column="37" />
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="^" line="122" column="40" />
-        <mark key="." line="78" column="0" />
+        <mark key="[" line="124" column="0" />
+        <mark key="]" line="124" column="20" />
+        <mark key="^" line="120" column="3" />
+        <mark key="." line="124" column="20" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Track.py" timestamp="1464291588140">
         <mark key="[" line="9" column="0" />
