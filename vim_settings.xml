@@ -30,6 +30,12 @@
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/todo.md" timestamp="1464659505421">
         <mark key="[" line="30" column="103" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/subtools.py" timestamp="1464726550179">
+        <mark key="[" line="156" column="67" />
+        <mark key="]" line="156" column="64" />
+        <mark key="." line="156" column="64" />
+        <mark key="^" line="156" column="64" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/TrackDb.py" timestamp="1464290971088">
         <mark key="[" line="1" column="0" />
       </file>
@@ -73,11 +79,12 @@
         <mark key="'" line="2291" column="54" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/tools/wrappers.py" timestamp="1464635889995" />
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bam.py" timestamp="1464723441010">
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bam.py" timestamp="1464727355281">
         <mark key="'" line="19" column="0" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
+        <mark key="[" line="22" column="66" />
+        <mark key="]" line="22" column="55" />
+        <mark key="." line="22" column="55" />
+        <mark key="^" line="22" column="55" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/config/datatypes_conf.xml.sample" timestamp="1463955599608">
         <mark key="'" line="0" column="0" />
@@ -270,10 +277,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAiQ3JlYXRpbmcgVHJhY2tIdWIgQkFNIGZyb20gKGZhbHNlUGF0aDogJXM7IG5hbWU6ICVzKSIgJSAoIGlucHUK</text>
       </register>
       <register name="-" type="4">
-        <text>inputFastaFile</text>
+        <text>output_name_index_name</text>
       </register>
       <register name="/" type="4">
         <text>os</text>
@@ -282,34 +289,34 @@
         <text encoding="base64">ICAgICAgICAjIFRPRE86IFJlZHVuZGFudCwgc2hvdWxkIGJlIHJlZmFjdG9yZWQgYmVjYXVzZSB0aGV5IGFyZSBhbGwgZG9pbmcgaXQuLi5pbnRvIGh1YkFyY2hpdmVDcmVhdG9yPwogICAgICAgICMgMmJpdCBmaWxlIGNyZWF0aW9uIGZyb20gaW5wdXQgZmFzdGEKICAgICAgICBzZWxmLnR3b0JpdEZpbGUgPSBzdWJ0b29scy5mYVRvVHdvQml0KHNlbGYuaW5wdXRGYXN0YUZpbGUsIG15U3BlY2llRm9sZGVyUGF0aCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAiQ3JlYXRpbmcgVHJhY2tIdWIgQkFNIGZyb20gKGZhbHNlUGF0aDogJXM7IG5hbWU6ICVzKSIgJSAoIGlucHUK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IFJlZHVuZGFudCwgc2hvdWxkIGJlIHJlZmFjdG9yZWQgYmVjYXVzZSB0aGV5IGFyZSBhbGwgZG9pbmcgaXQuLi5pbnRvIGh1YkFyY2hpdmVDcmVhdG9yPwogICAgICAgICMgMmJpdCBmaWxlIGNyZWF0aW9uIGZyb20gaW5wdXQgZmFzdGEKICAgICAgICBzZWxmLnR3b0JpdEZpbGUgPSBzdWJ0b29scy5mYVRvVHdvQml0KHNlbGYuaW5wdXRfZmFzdGFfZmlsZSwgc2VsZi5teVNwZWNpZUZvbGRlclBhdGgpCg==</text>
+      <register name="2" type="4">
+        <text>output_name_index_name</text>
       </register>
-      <register name="3" type="4">
-        <text>inputFastaFile</text>
-      </register>
-      <register name="4" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IFJlZmFjdG9yIHRoZSBuYW1lIG9mIHRoZSBmb2xkZXIgInRyYWNrcyIgaW50byBvbmUgdmFyaWFibGUsIGFuZCBzaG91bGQgYmUgaW5zaWRlIFRyYWNrSHViIG9iamVjdAogICAgICAgIG15VHJhY2tGb2xkZXJQYXRoID0gb3MucGF0aC5qb2luKG15U3BlY2llRm9sZGVyUGF0aCwgInRyYWNrcyIpCg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAjIFRPRE86IFJlZHVuZGFudCwgc2hvdWxkIGJlIHJlZmFjdG9yZWQgYmVjYXVzZSB0aGV5IGFyZSBhbGwgZG9pbmcgaXQuLi5pbnRvIGh1YkFyY2hpdmVDcmVhdG9yPwogICAgICAgICMgMmJpdCBmaWxlIGNyZWF0aW9uIGZyb20gaW5wdXQgZmFzdGEKICAgICAgICBzZWxmLnR3b0JpdEZpbGUgPSBzdWJ0b29scy5mYVRvVHdvQml0KHNlbGYuaW5wdXRfZmFzdGFfZmlsZSwgc2VsZi5teVNwZWNpZUZvbGRlclBhdGgpCg==</text>
+      </register>
+      <register name="5" type="4">
+        <text>inputFastaFile</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIENvbnN0cnVjdGlvbiBvZiB0aGUgYXJib3Jlc2NlbmNlCiAgICAgICAgIyBUT0RPOiBDaGFuZ2UgdGhlIGhhcmQtY29kZWQgcGF0aCB3aXRoIGEgaW5wdXQgYmFzZWQgb25lCiAgICAgICAgbXlTcGVjaWVGb2xkZXJQYXRoID0gb3MucGF0aC5qb2luKGV4dHJhX2ZpbGVzX3BhdGgsICJteUh1YiIsICJkYmlhMyIpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIFRPRE86IFJlZmFjdG9yIHRoZSBuYW1lIG9mIHRoZSBmb2xkZXIgInRyYWNrcyIgaW50byBvbmUgdmFyaWFibGUsIGFuZCBzaG91bGQgYmUgaW5zaWRlIFRyYWNrSHViIG9iamVjdAogICAgICAgIG15VHJhY2tGb2xkZXJQYXRoID0gb3MucGF0aC5qb2luKG15U3BlY2llRm9sZGVyUGF0aCwgInRyYWNrcyIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmlucHV0RmFzdGFGaWxlID0gaW5wdXRGYXN0YUZpbGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>object</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAjIENvbnN0cnVjdGlvbiBvZiB0aGUgYXJib3Jlc2NlbmNlCiAgICAgICAgIyBUT0RPOiBDaGFuZ2UgdGhlIGhhcmQtY29kZWQgcGF0aCB3aXRoIGEgaW5wdXQgYmFzZWQgb25lCiAgICAgICAgbXlTcGVjaWVGb2xkZXJQYXRoID0gb3MucGF0aC5qb2luKGV4dHJhX2ZpbGVzX3BhdGgsICJteUh1YiIsICJkYmlhMyIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
