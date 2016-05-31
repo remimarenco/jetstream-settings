@@ -108,11 +108,12 @@
       <file name="/a.regexp" timestamp="1463590907531">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/BedSimpleRepeats.py" timestamp="1464718520491">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="5" column="4" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/BedSimpleRepeats.py" timestamp="1464719233775">
+        <mark key="'" line="25" column="41" />
+        <mark key="[" line="20" column="52" />
+        <mark key="]" line="20" column="46" />
+        <mark key="^" line="20" column="46" />
+        <mark key="." line="20" column="46" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubaDataType/tracks_partial.py" timestamp="1463763592847">
         <mark key="[" line="23" column="16" />
@@ -159,9 +160,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="12" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" />
-      <jump line="18" column="52" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bed.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Gtf.py" />
       <jump line="50" column="16" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Gtf.py" />
       <jump line="8" column="29" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/install_linux_binaries" />
       <jump line="0" column="0" filename="/a.dummy" />
@@ -259,6 +257,9 @@
       <jump line="51" column="22" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" />
       <jump line="28" column="24" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bed.py" />
       <jump line="12" column="71" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bed.py" />
+      <jump line="20" column="22" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/BedSimpleRepeats.py" />
+      <jump line="11" column="50" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/BedSimpleRepeats.py" />
+      <jump line="25" column="41" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/BedSimpleRepeats.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -268,7 +269,7 @@
         <text encoding="base64">IiIiIA==</text>
       </register>
       <register name="/" type="4">
-        <text>trackHub</text>
+        <text>inputFasta</text>
       </register>
       <register name="0" type="4">
         <text>inputs_data</text>
@@ -308,9 +309,9 @@
       </register>
     </registers>
     <search>
-      <last-search>trackHub</last-search>
+      <last-search>inputFasta</last-search>
       <last-offset />
-      <last-pattern>trackHub</last-pattern>
+      <last-pattern>inputFasta</last-pattern>
       <last-replace>array_call</last-replace>
       <last-substitute>arrayCall</last-substitute>
       <last-dir>1</last-dir>
@@ -318,8 +319,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sort</entry>
-        <entry>twoBit</entry>
         <entry encoding="base64">XDxHZW5lcmF0ZVw+</entry>
         <entry>UCSC</entry>
         <entry>TrackHub</entry>
@@ -338,6 +337,8 @@
         <entry>metadata</entry>
         <entry encoding="base64">XDxiZWRcPg==</entry>
         <entry>trackHub</entry>
+        <entry>inputBed</entry>
+        <entry>inputFasta</entry>
       </history-search>
       <history-cmd>
         <entry>s/tool_list/toto</entry>
