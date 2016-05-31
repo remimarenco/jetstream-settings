@@ -15,7 +15,7 @@
       <file name="/a.dummy" timestamp="1464635038446">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1464708669185">
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1464718018910">
         <mark key="[" line="41" column="62" />
         <mark key="]" line="41" column="77" />
         <mark key="^" line="41" column="77" />
@@ -108,11 +108,11 @@
       <file name="/a.regexp" timestamp="1463590907531">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/BedSimpleRepeats.py" timestamp="1464292556614">
-        <mark key="[" line="5" column="5" />
-        <mark key="]" line="5" column="4" />
-        <mark key="." line="5" column="4" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/BedSimpleRepeats.py" timestamp="1464718520491">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
         <mark key="^" line="5" column="4" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubaDataType/tracks_partial.py" timestamp="1463763592847">
         <mark key="[" line="23" column="16" />
@@ -279,29 +279,29 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IiIiIA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBpbnB1dEZhc3RhRmlsZSA9IG9wZW4oaW5wdXRGYXN0YUZpbGUsICdyJykK</text>
       </register>
-      <register name="3" type="4">
-        <text>#</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBpbnB1dEJlZFNpbXBsZVJlcGVhdHNGaWxlID0gb3BlbihpbnB1dEJlZFNpbXBsZVJlcGVhdHNGaWxlLCAncicpCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="4">
-        <text>array_inputs_bed_generic</text>
+        <text encoding="base64">IiIiIA==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>#</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICMgVE9ETzogUmVtb3ZlIGFsbCBzcGFjZXMgZnJvbSB0aGUgbmFtZSBpbiB0aGUgZGljdAo=</text>
+      <register name="8" type="4">
+        <text>array_inputs_bed_generic</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNhbml0aXplX2lucHV0cyggKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
