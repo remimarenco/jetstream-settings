@@ -12,6 +12,12 @@
       <file name="/Python Console" timestamp="1464190664539">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Datatype.py" timestamp="1464723488316">
+        <mark key="[" line="28" column="56" />
+        <mark key="]" line="28" column="66" />
+        <mark key="^" line="28" column="66" />
+        <mark key="." line="28" column="66" />
+      </file>
       <file name="/a.dummy" timestamp="1464635038446">
         <mark key="[" line="0" column="0" />
       </file>
@@ -67,10 +73,11 @@
         <mark key="'" line="2291" column="54" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/tools/wrappers.py" timestamp="1464635889995" />
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bam.py" timestamp="1464658296340">
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="0" />
-        <mark key="." line="73" column="0" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bam.py" timestamp="1464723441010">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/config/datatypes_conf.xml.sample" timestamp="1463955599608">
         <mark key="'" line="0" column="0" />
@@ -160,7 +167,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="16" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Gtf.py" />
       <jump line="8" column="29" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/install_linux_binaries" />
       <jump line="0" column="0" filename="/a.dummy" />
       <jump line="0" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/config/datatypes_conf.xml.sample" />
@@ -260,19 +266,20 @@
       <jump line="20" column="22" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/BedSimpleRepeats.py" />
       <jump line="11" column="50" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/BedSimpleRepeats.py" />
       <jump line="25" column="41" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/BedSimpleRepeats.py" />
+      <jump line="19" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bam.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IiIiIA==</text>
+        <text>inputFastaFile</text>
       </register>
       <register name="/" type="4">
-        <text>inputFasta</text>
+        <text>os</text>
       </register>
-      <register name="0" type="4">
-        <text>inputs_data</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAjIFRPRE86IFJlZHVuZGFudCwgc2hvdWxkIGJlIHJlZmFjdG9yZWQgYmVjYXVzZSB0aGV5IGFyZSBhbGwgZG9pbmcgaXQuLi5pbnRvIGh1YkFyY2hpdmVDcmVhdG9yPwogICAgICAgICMgMmJpdCBmaWxlIGNyZWF0aW9uIGZyb20gaW5wdXQgZmFzdGEKICAgICAgICBzZWxmLnR3b0JpdEZpbGUgPSBzdWJ0b29scy5mYVRvVHdvQml0KHNlbGYuaW5wdXRGYXN0YUZpbGUsIG15U3BlY2llRm9sZGVyUGF0aCkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -281,37 +288,37 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbnB1dEZhc3RhRmlsZSA9IG9wZW4oaW5wdXRGYXN0YUZpbGUsICdyJykK</text>
+        <text encoding="base64">ICAgICAgICAjIFRPRE86IFJlZHVuZGFudCwgc2hvdWxkIGJlIHJlZmFjdG9yZWQgYmVjYXVzZSB0aGV5IGFyZSBhbGwgZG9pbmcgaXQuLi5pbnRvIGh1YkFyY2hpdmVDcmVhdG9yPwogICAgICAgICMgMmJpdCBmaWxlIGNyZWF0aW9uIGZyb20gaW5wdXQgZmFzdGEKICAgICAgICBzZWxmLnR3b0JpdEZpbGUgPSBzdWJ0b29scy5mYVRvVHdvQml0KHNlbGYuaW5wdXRfZmFzdGFfZmlsZSwgc2VsZi5teVNwZWNpZUZvbGRlclBhdGgpCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbnB1dEJlZFNpbXBsZVJlcGVhdHNGaWxlID0gb3BlbihpbnB1dEJlZFNpbXBsZVJlcGVhdHNGaWxlLCAncicpCg==</text>
+      <register name="3" type="4">
+        <text>inputFastaFile</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IiIiIA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAjIFRPRE86IFJlZmFjdG9yIHRoZSBuYW1lIG9mIHRoZSBmb2xkZXIgInRyYWNrcyIgaW50byBvbmUgdmFyaWFibGUsIGFuZCBzaG91bGQgYmUgaW5zaWRlIFRyYWNrSHViIG9iamVjdAogICAgICAgIG15VHJhY2tGb2xkZXJQYXRoID0gb3MucGF0aC5qb2luKG15U3BlY2llRm9sZGVyUGF0aCwgInRyYWNrcyIpCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>#</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIENvbnN0cnVjdGlvbiBvZiB0aGUgYXJib3Jlc2NlbmNlCiAgICAgICAgIyBUT0RPOiBDaGFuZ2UgdGhlIGhhcmQtY29kZWQgcGF0aCB3aXRoIGEgaW5wdXQgYmFzZWQgb25lCiAgICAgICAgbXlTcGVjaWVGb2xkZXJQYXRoID0gb3MucGF0aC5qb2luKGV4dHJhX2ZpbGVzX3BhdGgsICJteUh1YiIsICJkYmlhMyIpCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>array_inputs_bed_generic</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmlucHV0RmFzdGFGaWxlID0gaW5wdXRGYXN0YUZpbGUK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>object</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>inputFasta</last-search>
+      <last-search>os</last-search>
       <last-offset />
-      <last-pattern>inputFasta</last-pattern>
+      <last-pattern>os</last-pattern>
       <last-replace>array_call</last-replace>
       <last-substitute>arrayCall</last-substitute>
       <last-dir>1</last-dir>
@@ -319,7 +326,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxHZW5lcmF0ZVw+</entry>
         <entry>UCSC</entry>
         <entry>TrackHub</entry>
         <entry>pdb</entry>
@@ -339,6 +345,7 @@
         <entry>trackHub</entry>
         <entry>inputBed</entry>
         <entry>inputFasta</entry>
+        <entry>os</entry>
       </history-search>
       <history-cmd>
         <entry>s/tool_list/toto</entry>
