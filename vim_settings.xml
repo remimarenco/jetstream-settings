@@ -26,12 +26,6 @@
         <mark key="^" line="51" column="24" />
         <mark key="." line="51" column="24" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/todo.md" timestamp="1464749882744">
-        <mark key="[" line="35" column="65" />
-        <mark key="]" line="36" column="56" />
-        <mark key="^" line="36" column="56" />
-        <mark key="." line="36" column="56" />
-      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/subtools.py" timestamp="1464728595232">
         <mark key="[" line="156" column="67" />
         <mark key="]" line="156" column="64" />
@@ -178,11 +172,10 @@
         <mark key="^" line="17" column="64" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bed.py" timestamp="1464749751920">
-        <mark key="'" line="12" column="71" />
-        <mark key="[" line="46" column="40" />
-        <mark key="]" line="46" column="44" />
-        <mark key="^" line="46" column="44" />
-        <mark key="." line="46" column="44" />
+        <mark key="[" line="6" column="40" />
+        <mark key="]" line="6" column="44" />
+        <mark key="^" line="6" column="44" />
+        <mark key="." line="6" column="44" />
       </file>
     </filemarks>
     <jumps>
