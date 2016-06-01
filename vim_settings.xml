@@ -12,10 +12,14 @@
       <file name="/Python Console" timestamp="1464190664539">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Datatype.py" timestamp="1464742594952">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Datatype.py" timestamp="1464747249686">
+        <mark key="[" line="13" column="77" />
+        <mark key="]" line="13" column="77" />
+        <mark key="." line="13" column="77" />
+        <mark key="^" line="13" column="77" />
+      </file>
+      <file name="/a.dummy" timestamp="1464747384126">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1464745102136">
         <mark key="[" line="51" column="21" />
@@ -128,12 +132,11 @@
       <file name="/a.regexp" timestamp="1463590907531">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/BedSimpleRepeats.py" timestamp="1464720847275">
-        <mark key="'" line="25" column="41" />
-        <mark key="[" line="20" column="52" />
-        <mark key="]" line="20" column="46" />
-        <mark key="^" line="20" column="46" />
-        <mark key="." line="20" column="46" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/BedSimpleRepeats.py" timestamp="1464747517153">
+        <mark key="[" line="42" column="57" />
+        <mark key="]" line="42" column="67" />
+        <mark key="^" line="42" column="67" />
+        <mark key="." line="42" column="67" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubaDataType/tracks_partial.py" timestamp="1463763592847">
         <mark key="[" line="23" column="16" />
@@ -147,14 +150,14 @@
         <mark key="^" line="8" column="41" />
         <mark key="." line="8" column="41" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/TrackHub.py" timestamp="1464632667693">
-        <mark key="[" line="12" column="69" />
-        <mark key="]" line="12" column="66" />
-        <mark key="." line="12" column="66" />
-        <mark key="^" line="12" column="66" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/TrackHub.py" timestamp="1464747379190">
+        <mark key="[" line="16" column="38" />
+        <mark key="]" line="17" column="42" />
+        <mark key="." line="17" column="42" />
+        <mark key="^" line="17" column="42" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" timestamp="1464745073351">
-        <mark key="'" line="107" column="38" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" timestamp="1464747314221">
+        <mark key="'" line="154" column="11" />
         <mark key="[" line="44" column="30" />
         <mark key="]" line="44" column="23" />
         <mark key="." line="44" column="23" />
@@ -181,8 +184,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="41" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bed.py" />
-      <jump line="56" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bed.py" />
       <jump line="30" column="64" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bam.py" />
       <jump line="5" column="8" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bam.py" />
       <jump line="51" column="34" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bam.py" />
@@ -281,58 +282,60 @@
       <jump line="82" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" />
       <jump line="50" column="54" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Gff3.py" />
       <jump line="107" column="38" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" />
+      <jump line="146" column="101" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" />
+      <jump line="154" column="11" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICMgVE9ETzogT3B0aW1pemUgdGhpcyBkb3VibGUgbG9vcAo=</text>
+      <register name="&quot;" type="4">
+        <text>tool_directory</text>
       </register>
       <register name="-" type="4">
-        <text>bedRepeat = BedSimpleRepeats</text>
+        <text>tool_directory</text>
       </register>
       <register name="/" type="4">
-        <text>array_inputs</text>
+        <text>trackHub</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCAiQ3JlYXRpbmcgVHJhY2tIdWIgQkFNIGZyb20gKGZhbHNlUGF0aDogJXM7IG5hbWU6ICVzKSIgJSAoIHNlbGYuaW5wdXRfYmFtX2ZhbHNlX3BhdGgsIHNlbGYubmFtZV9iYW0pCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICMgVE9ETzogT3B0aW1pemUgdGhpcyBkb3VibGUgbG9vcAo=</text>
+      <register name="1" type="4">
+        <text>tool_directory</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0cmFja0h1Yi5hZGRUcmFjayhiZWRSZXBlYXQudHJhY2sudHJhY2tEYikK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnRvb2xfZGlyZWN0b3J5ID0gdG9vbF9kaXJlY3RvcnkK</text>
       </register>
       <register name="3" type="4">
-        <text>bedRepeat = BedSimpleRepeats</text>
+        <text>inputBedSimpleRepeatsFile</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGV4dHJhX2ZpbGVzX3BhdGgsIHVjc2NfdG9vbHNfcGF0aCwgdHJhY2tIdWIpCg==</text>
+      <register name="4" type="4">
+        <text>toolDirectory</text>
       </register>
       <register name="5" type="4">
-        <text>outputFile, toolDirectory,</text>
+        <text>toolDirectory</text>
       </register>
-      <register name="6" type="4">
-        <text>g</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAjIEdlbmVyYXRlIHRoZSBjaHJvbS5zaXplcwo=</text>
       </register>
-      <register name="7" type="4">
-        <text>f</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>f</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB0d29CaXRGaWxlID0gc3VidG9vbHMuZmFUb1R3b0JpdChpbnB1dEZhc3RhRmlsZSwgbXlTcGVjaWVGb2xkZXJQYXRoKQo=</text>
       </register>
-      <register name="9" type="4">
-        <text>3</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAjIDJiaXQgZmlsZSBjcmVhdGlvbiBmcm9tIGlucHV0IGZhc3RhCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>array_inputs</last-search>
+      <last-search>trackHub</last-search>
       <last-offset />
-      <last-pattern>array_inputs</last-pattern>
+      <last-pattern>trackHub</last-pattern>
       <last-replace>array_call</last-replace>
       <last-substitute>arrayCall</last-substitute>
       <last-dir>1</last-dir>
@@ -355,11 +358,11 @@
         <entry>dataset</entry>
         <entry>metadata</entry>
         <entry encoding="base64">XDxiZWRcPg==</entry>
-        <entry>trackHub</entry>
         <entry>inputBed</entry>
         <entry>inputFasta</entry>
         <entry>os</entry>
         <entry>array_inputs</entry>
+        <entry>trackHub</entry>
       </history-search>
       <history-cmd>
         <entry>s/tool_list/toto</entry>
