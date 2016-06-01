@@ -39,11 +39,11 @@
         <mark key="." line="54" column="22" />
         <mark key="^" line="54" column="23" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/BigWig.py" timestamp="1464739034236">
-        <mark key="[" line="20" column="116" />
-        <mark key="]" line="20" column="116" />
-        <mark key="^" line="20" column="116" />
-        <mark key="." line="20" column="116" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/BigWig.py" timestamp="1464739827538">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="7" column="26" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/display_applications/ucsc/trackHub.xml" timestamp="1463193708923">
         <mark key="[" line="0" column="18" />
@@ -271,8 +271,8 @@
       <jump line="117" column="24" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>name_bam</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSB1dGlsIGltcG9ydCBzdWJ0b29scwo=</text>
       </register>
       <register name="-" type="4">
         <text>name_bam</text>
@@ -283,35 +283,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCAiQ3JlYXRpbmcgVHJhY2tIdWIgQkFNIGZyb20gKGZhbHNlUGF0aDogJXM7IG5hbWU6ICVzKSIgJSAoIHNlbGYuaW5wdXRfYmFtX2ZhbHNlX3BhdGgsIHNlbGYubmFtZV9iYW0pCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>name_bam</text>
+      <register name="1" type="2">
+        <text encoding="base64">ZnJvbSB1dGlsIGltcG9ydCBzdWJ0b29scwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>input_bam_false_path</text>
+      <register name="2" type="2">
+        <text encoding="base64">ZnJvbSBUcmFjayBpbXBvcnQgVHJhY2sK</text>
       </register>
       <register name="3" type="4">
+        <text>name_bam</text>
+      </register>
+      <register name="4" type="4">
+        <text>input_bam_false_path</text>
+      </register>
+      <register name="5" type="4">
         <text>BAM</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAjIFRPRE86IENoYW5nZSB0aGUgbmFtZSBvZiB0aGUgYmIsIHRvIHRvb2wgKyBnZW5vbWUgKyBwb3NzaWJsZSBhZGRpbmcgaWYgbXVsdGlwbGUgKyAgLmJiCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBteVRyYWNrRm9sZGVyUGF0aCA9IG9zLnBhdGguam9pbihteVNwZWNpZUZvbGRlclBhdGgsICJ0cmFja3MiKQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnR3b0JpdEZpbGUgPSBzdWJ0b29scy5mYVRvVHdvQml0KHNlbGYuaW5wdXRfZmFzdGFfcGF0aCwgbXlTcGVjaWVGb2xkZXJQYXRoKQo=</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIDJiaXQgZmlsZSBjcmVhdGlvbiBmcm9tIGlucHV0IGZhc3RhCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnR3b0JpdEZpbGUgPSBzdWJ0b29scy5mYVRvVHdvQml0KHNlbGYuaW5wdXRfZmFzdGFfcGF0aCwgbXlTcGVjaWVGb2xkZXJQYXRoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
