@@ -17,11 +17,11 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1464809556578">
-        <mark key="[" line="51" column="21" />
-        <mark key="]" line="51" column="24" />
-        <mark key="^" line="51" column="24" />
-        <mark key="." line="51" column="24" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1464897111771">
+        <mark key="[" line="11" column="48" />
+        <mark key="]" line="11" column="50" />
+        <mark key="^" line="11" column="50" />
+        <mark key="." line="11" column="50" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/todo.md" timestamp="1464825705644">
         <mark key="[" line="38" column="0" />
@@ -62,6 +62,12 @@
         <mark key="]" line="17" column="7" />
         <mark key="." line="17" column="7" />
         <mark key="^" line="17" column="7" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/tool_dependencies.xml" timestamp="1464897352912">
+        <mark key="[" line="18" column="26" />
+        <mark key="]" line="18" column="26" />
+        <mark key="." line="18" column="26" />
+        <mark key="^" line="17" column="43" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubaDataType/huba.xml" timestamp="1463187667364">
         <mark key="[" line="0" column="13" />
@@ -284,10 +290,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>output_name_index_name</text>
+        <text>package_samtools_1_2</text>
       </register>
       <register name="-" type="4">
-        <text>output_name_index_name</text>
+        <text>package_samtools_1_2</text>
       </register>
       <register name="/" type="4">
         <text>trackHub</text>
@@ -296,34 +302,34 @@
         <text encoding="base64">ICAgIHByaW50ICJTb3J0QmFtOiIK</text>
       </register>
       <register name="1" type="4">
-        <text>output_name_index_name</text>
+        <text>package_samtools_1_2</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIF9oYW5kbGVFeGNlcHRpb25BbmRDaGVja0NhbGwoYXJyYXlfY2FsbCkK</text>
+      <register name="2" type="4">
+        <text>1.</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGFycmF5X2NhbGwgPSBbJ3NhbXRvb2xzJywgJy0tdmVyc2lvbiddCg==</text>
+      <register name="3" type="4">
+        <text>output_name_index_name</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50ICJTYW10b29scyBJbmRleDoiCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgIF9oYW5kbGVFeGNlcHRpb25BbmRDaGVja0NhbGwoYXJyYXlfY2FsbCkK</text>
       </register>
-      <register name="6" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIGFycmF5X2NhbGwgPSBbJ3NhbXRvb2xzJywgJy0tdmVyc2lvbiddCg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHByaW50ICJTYW10b29scyBJbmRleDoiCg==</text>
+      </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgIF9oYW5kbGVFeGNlcHRpb25BbmRDaGVja0NhbGwoYXJyYXlfY2FsbCkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGFycmF5X2NhbGwgPSBbJ3NhbXRvb2xzJywgJy0tdmVyc2lvbiddCg==</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">ICAgIHByaW50ICJTb3J0QmFtOiIK</text>
-      </register>
-      <register name="8" type="4">
-        <text>SortBam</text>
-      </register>
-      <register name="9" type="4">
-        <text>, input_sorted_bam_file_name, output_name_index_name</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
