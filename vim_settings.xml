@@ -29,6 +29,12 @@
         <mark key="^" line="38" column="42" />
         <mark key="." line="38" column="42" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/subtools.py" timestamp="1464890850686">
+        <mark key="[" line="159" column="11" />
+        <mark key="]" line="159" column="24" />
+        <mark key="^" line="159" column="24" />
+        <mark key="." line="159" column="24" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/TrackDb.py" timestamp="1464741817554">
         <mark key="[" line="1" column="0" />
       </file>
@@ -78,7 +84,6 @@
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" timestamp="1464194878806">
         <mark key="'" line="2291" column="54" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/tools/wrappers.py" timestamp="1464635889995" />
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bam.py" timestamp="1464748837202">
         <mark key="'" line="21" column="0" />
         <mark key="[" line="16" column="17" />
@@ -279,46 +284,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, input_sorted_bam_file_name, output_name_index_name</text>
+        <text>SortBam</text>
       </register>
       <register name="-" type="4">
-        <text>, input_sorted_bam_file_name, output_name_index_name</text>
+        <text>SortBam</text>
       </register>
       <register name="/" type="4">
         <text>trackHub</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFycmF5X2NhbGwgPSBbJ3NhbXRvb2xzJywgJ2luZGV4JywgaW5wdXRfc29ydGVkX2JhbV9maWxlX25hbWUsIG91dHB1dF9uYW1lX2luZGV4X25hbWVdCg==</text>
+        <text encoding="base64">ICAgIHByaW50ICJTb3J0QmFtOiIK</text>
       </register>
       <register name="1" type="4">
-        <text>, input_sorted_bam_file_name, output_name_index_name</text>
+        <text>SortBam</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSB0b29sX2RpcmVjdG9yeToK</text>
+      <register name="2" type="4">
+        <text>, input_sorted_bam_file_name, output_name_index_name</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBteUJpZ0JlZEZpbGVQYXRoID0gb3MucGF0aC5qb2luKG15VHJhY2tGb2xkZXJQYXRoLCB0cmFja05hbWUpCg==</text>
+        <text encoding="base64">ICAgIDpwYXJhbSB0b29sX2RpcmVjdG9yeToK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIGJlZFRvQmlnQmVkIGF1Z3VzdHVzRGJpYTMuc29ydGJlZCBjaHJvbS5zaXplcyBhdWd1c3R1c0RiaWEzLmJiCg==</text>
+        <text encoding="base64">ICAgICAgICBteUJpZ0JlZEZpbGVQYXRoID0gb3MucGF0aC5qb2luKG15VHJhY2tGb2xkZXJQYXRoLCB0cmFja05hbWUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBteVRyYWNrRm9sZGVyUGF0aCA9IG9zLnBhdGguam9pbihteVNwZWNpZUZvbGRlclBhdGgsICJ0cmFja3MiKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIGJlZFRvQmlnQmVkIGF1Z3VzdHVzRGJpYTMuc29ydGJlZCBjaHJvbS5zaXplcyBhdWd1c3R1c0RiaWEzLmJiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBteVRyYWNrRm9sZGVyUGF0aCA9IG9zLnBhdGguam9pbihteVNwZWNpZUZvbGRlclBhdGgsICJ0cmFja3MiKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIDJiaXQgZmlsZSBjcmVhdGlvbiBmcm9tIGlucHV0IGZhc3RhCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnR3b0JpdEZpbGUgPSBzdWJ0b29scy5mYVRvVHdvQml0KHNlbGYuaW5wdXRGYXN0YUZpbGUsIG15U3BlY2llRm9sZGVyUGF0aCkK</text>
+        <text encoding="base64">ICAgICAgICAjIDJiaXQgZmlsZSBjcmVhdGlvbiBmcm9tIGlucHV0IGZhc3RhCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnR3b0JpdEZpbGUgPSBzdWJ0b29scy5mYVRvVHdvQml0KHNlbGYuaW5wdXRGYXN0YUZpbGUsIG15U3BlY2llRm9sZGVyUGF0aCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
