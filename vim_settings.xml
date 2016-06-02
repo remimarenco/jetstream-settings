@@ -29,7 +29,12 @@
         <mark key="^" line="38" column="42" />
         <mark key="." line="38" column="42" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/subtools.py" timestamp="1464890850686" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/subtools.py" timestamp="1464895551951">
+        <mark key="[" line="156" column="67" />
+        <mark key="]" line="156" column="64" />
+        <mark key="." line="156" column="64" />
+        <mark key="^" line="156" column="64" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/TrackDb.py" timestamp="1464741817554">
         <mark key="[" line="1" column="0" />
       </file>
@@ -279,10 +284,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>SortBam</text>
+        <text>output_name_index_name</text>
       </register>
       <register name="-" type="4">
-        <text>SortBam</text>
+        <text>output_name_index_name</text>
       </register>
       <register name="/" type="4">
         <text>trackHub</text>
@@ -291,34 +296,34 @@
         <text encoding="base64">ICAgIHByaW50ICJTb3J0QmFtOiIK</text>
       </register>
       <register name="1" type="4">
-        <text>SortBam</text>
+        <text>output_name_index_name</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>, input_sorted_bam_file_name, output_name_index_name</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIF9oYW5kbGVFeGNlcHRpb25BbmRDaGVja0NhbGwoYXJyYXlfY2FsbCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSB0b29sX2RpcmVjdG9yeToK</text>
+        <text encoding="base64">ICAgIGFycmF5X2NhbGwgPSBbJ3NhbXRvb2xzJywgJy0tdmVyc2lvbiddCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBteUJpZ0JlZEZpbGVQYXRoID0gb3MucGF0aC5qb2luKG15VHJhY2tGb2xkZXJQYXRoLCB0cmFja05hbWUpCg==</text>
+        <text encoding="base64">ICAgIHByaW50ICJTYW10b29scyBJbmRleDoiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIGJlZFRvQmlnQmVkIGF1Z3VzdHVzRGJpYTMuc29ydGJlZCBjaHJvbS5zaXplcyBhdWd1c3R1c0RiaWEzLmJiCg==</text>
+        <text encoding="base64">ICAgIF9oYW5kbGVFeGNlcHRpb25BbmRDaGVja0NhbGwoYXJyYXlfY2FsbCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBteVRyYWNrRm9sZGVyUGF0aCA9IG9zLnBhdGguam9pbihteVNwZWNpZUZvbGRlclBhdGgsICJ0cmFja3MiKQo=</text>
+        <text encoding="base64">ICAgIGFycmF5X2NhbGwgPSBbJ3NhbXRvb2xzJywgJy0tdmVyc2lvbiddCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50ICJTb3J0QmFtOiIK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIDJiaXQgZmlsZSBjcmVhdGlvbiBmcm9tIGlucHV0IGZhc3RhCg==</text>
+      <register name="8" type="4">
+        <text>SortBam</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnR3b0JpdEZpbGUgPSBzdWJ0b29scy5mYVRvVHdvQml0KHNlbGYuaW5wdXRGYXN0YUZpbGUsIG15U3BlY2llRm9sZGVyUGF0aCkK</text>
+      <register name="9" type="4">
+        <text>, input_sorted_bam_file_name, output_name_index_name</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
