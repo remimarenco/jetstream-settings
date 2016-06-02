@@ -29,12 +29,7 @@
         <mark key="^" line="38" column="42" />
         <mark key="." line="38" column="42" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/subtools.py" timestamp="1464890850686">
-        <mark key="[" line="159" column="11" />
-        <mark key="]" line="159" column="24" />
-        <mark key="^" line="159" column="24" />
-        <mark key="." line="159" column="24" />
-      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/subtools.py" timestamp="1464890850686" />
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/TrackDb.py" timestamp="1464741817554">
         <mark key="[" line="1" column="0" />
       </file>
