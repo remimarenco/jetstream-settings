@@ -17,11 +17,11 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1464921776551">
-        <mark key="[" line="43" column="30" />
-        <mark key="]" line="43" column="28" />
-        <mark key="^" line="43" column="28" />
-        <mark key="." line="43" column="28" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1464924435106">
+        <mark key="[" line="0" column="70" />
+        <mark key="]" line="0" column="69" />
+        <mark key="^" line="0" column="69" />
+        <mark key="." line="0" column="69" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/todo.md" timestamp="1464825705644">
         <mark key="[" line="38" column="0" />
@@ -29,11 +29,11 @@
         <mark key="^" line="38" column="42" />
         <mark key="." line="38" column="42" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/subtools.py" timestamp="1464899918762">
-        <mark key="[" line="156" column="67" />
-        <mark key="]" line="156" column="64" />
-        <mark key="." line="156" column="64" />
-        <mark key="^" line="156" column="64" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/subtools.py" timestamp="1464923992815">
+        <mark key="[" line="156" column="65" />
+        <mark key="]" line="156" column="88" />
+        <mark key="." line="156" column="88" />
+        <mark key="^" line="156" column="88" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/TrackDb.py" timestamp="1464741817554">
         <mark key="[" line="1" column="0" />
@@ -87,11 +87,11 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bam.py" timestamp="1464922448273">
-        <mark key="[" line="39" column="16" />
-        <mark key="]" line="8" column="12" />
-        <mark key="." line="8" column="12" />
-        <mark key="^" line="8" column="12" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bam.py" timestamp="1464923879805">
+        <mark key="[" line="27" column="32" />
+        <mark key="]" line="28" column="116" />
+        <mark key="." line="28" column="116" />
+        <mark key="^" line="28" column="116" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/README.md" timestamp="1463584049348">
         <mark key="[" line="21" column="15" />
@@ -173,7 +173,7 @@
         <mark key="." line="17" column="64" />
         <mark key="^" line="17" column="64" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bed.py" timestamp="1464749751920">
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bed.py" timestamp="1464923007591">
         <mark key="[" line="6" column="40" />
         <mark key="]" line="6" column="44" />
         <mark key="^" line="6" column="44" />
@@ -283,11 +283,11 @@
       <jump line="34" column="8" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bam.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIG9wZW4obXlCYW1GaWxlUGF0aCwgJ3cnKSBhcyBzb3J0ZWRCYW1QYXRoOgo=</text>
+      <register name="&quot;" type="4">
+        <text>data_bam</text>
       </register>
       <register name="-" type="4">
-        <text>subtools.sortBam(self.input_bam_false_path, sortedBamPath.name)</text>
+        <text>data_bam</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzb3J0ZWRCYW1cPg==</text>
@@ -295,35 +295,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaW50ICJTb3J0QmFtOiIK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIG9wZW4obXlCYW1GaWxlUGF0aCwgJ3cnKSBhcyBzb3J0ZWRCYW1QYXRoOgo=</text>
+      <register name="1" type="4">
+        <text>data_bam</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>subtools.sortBam(self.input_bam_false_path, sortedBamPath.name)</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="3" type="4">
-        <text>mySortedBamFilePath</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>sortedBam</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBuYW1lX2luZGV4X2JhbSA9IHNlbGYubmFtZV9iYW0gKyAiLmJhaSIK</text>
       </register>
-      <register name="5" type="4">
-        <text>d</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBuYW1lX2luZGV4X2JhbSA9IHNlbGYubmFtZV9iYW0gKyAiLmJhaSIK</text>
       </register>
       <register name="6" type="4">
-        <text>e</text>
+        <text>bamIndexFilePath</text>
       </register>
       <register name="7" type="4">
-        <text>t</text>
+        <text>bam_index_file_path</text>
       </register>
       <register name="8" type="4">
-        <text>r</text>
+        <text>bamIndexFile</text>
       </register>
       <register name="9" type="4">
-        <text>o</text>
+        <text>mySortedBamFilePath</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
