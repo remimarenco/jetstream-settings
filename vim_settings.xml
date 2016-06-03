@@ -17,11 +17,11 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1464978546923">
-        <mark key="[" line="0" column="70" />
-        <mark key="]" line="0" column="69" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1464981330226">
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="0" />
         <mark key="^" line="0" column="69" />
-        <mark key="." line="0" column="69" />
+        <mark key="." line="77" column="0" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/todo.md" timestamp="1464977384952">
         <mark key="[" line="38" column="0" />
@@ -284,8 +284,8 @@
       <jump line="34" column="8" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bam.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>data_bam</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAjZW5kIGZvcgo=</text>
       </register>
       <register name="-" type="4">
         <text>data_bam</text>
@@ -296,35 +296,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaW50ICJTb3J0QmFtOiIK</text>
       </register>
-      <register name="1" type="4">
-        <text>data_bam</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAjZW5kIGZvcgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="2" type="4">
+        <text>data_bam</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBuYW1lX2luZGV4X2JhbSA9IHNlbGYubmFtZV9iYW0gKyAiLmJhaSIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBuYW1lX2luZGV4X2JhbSA9IHNlbGYubmFtZV9iYW0gKyAiLmJhaSIK</text>
       </register>
-      <register name="6" type="4">
-        <text>bamIndexFilePath</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBuYW1lX2luZGV4X2JhbSA9IHNlbGYubmFtZV9iYW0gKyAiLmJhaSIK</text>
       </register>
       <register name="7" type="4">
-        <text>bam_index_file_path</text>
+        <text>bamIndexFilePath</text>
       </register>
       <register name="8" type="4">
-        <text>bamIndexFile</text>
+        <text>bam_index_file_path</text>
       </register>
       <register name="9" type="4">
-        <text>mySortedBamFilePath</text>
+        <text>bamIndexFile</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
