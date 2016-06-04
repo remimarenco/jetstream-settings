@@ -117,7 +117,6 @@
         <mark key="." line="444" column="1" />
         <mark key="^" line="444" column="1" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/datatypes/binary.py" timestamp="1464920086330" />
       <file name="/a.regexp" timestamp="1463590907531">
         <mark key="[" line="0" column="0" />
       </file>
@@ -130,7 +129,6 @@
       <file name="/" timestamp="1464748456393">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/Dbia3_sample/README.md" timestamp="1464980345149" />
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubaDataType/tracks_partial.py" timestamp="1464998751242">
         <mark key="[" line="41" column="52" />
         <mark key="]" line="41" column="52" />
@@ -149,7 +147,7 @@
         <mark key="." line="17" column="42" />
         <mark key="^" line="17" column="42" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" timestamp="1464922179774">
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" timestamp="1465070164355">
         <mark key="'" line="159" column="11" />
         <mark key="[" line="126" column="59" />
         <mark key="]" line="126" column="58" />
