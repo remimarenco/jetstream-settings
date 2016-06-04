@@ -17,7 +17,7 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1464984440512">
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1464998436692">
         <mark key="[" line="77" column="0" />
         <mark key="]" line="77" column="0" />
         <mark key="^" line="0" column="69" />
@@ -81,12 +81,6 @@
         <mark key="." line="3" column="45" />
         <mark key="^" line="3" column="45" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/AugustusProcess.py" timestamp="1464631138943">
-        <mark key="'" line="5" column="4" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bam.py" timestamp="1464974393074">
         <mark key="[" line="27" column="32" />
         <mark key="]" line="28" column="116" />
@@ -137,11 +131,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/Dbia3_sample/README.md" timestamp="1464980345149" />
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubaDataType/tracks_partial.py" timestamp="1463763592847">
-        <mark key="[" line="23" column="16" />
-        <mark key="]" line="23" column="23" />
-        <mark key="." line="23" column="23" />
-        <mark key="^" line="23" column="23" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubaDataType/tracks_partial.py" timestamp="1464998751242">
+        <mark key="[" line="41" column="52" />
+        <mark key="]" line="41" column="52" />
+        <mark key="^" line="41" column="52" />
+        <mark key="." line="41" column="52" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/templates/trackDb/layout.txt" timestamp="1464269444829">
         <mark key="[" line="8" column="19" />
@@ -284,11 +278,11 @@
       <jump line="34" column="8" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bam.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjZW5kIGZvcgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ZnJvbSA=</text>
       </register>
       <register name="-" type="4">
-        <text>data_bam</text>
+        <text encoding="base64">ZnJvbSA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzb3J0ZWRCYW1cPg==</text>
@@ -296,38 +290,38 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaW50ICJTb3J0QmFtOiIK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjZW5kIGZvcgo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">ZnJvbSA=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>data_bam</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="4" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBuYW1lX2luZGV4X2JhbSA9IHNlbGYubmFtZV9iYW0gKyAiLmJhaSIK</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAjZW5kIGZvcgo=</text>
+      </register>
+      <register name="5" type="4">
+        <text>data_bam</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBuYW1lX2luZGV4X2JhbSA9IHNlbGYubmFtZV9iYW0gKyAiLmJhaSIK</text>
       </register>
-      <register name="7" type="4">
-        <text>bamIndexFilePath</text>
-      </register>
-      <register name="8" type="4">
-        <text>bam_index_file_path</text>
-      </register>
-      <register name="9" type="4">
-        <text>bamIndexFile</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBuYW1lX2luZGV4X2JhbSA9IHNlbGYubmFtZV9iYW0gKyAiLmJhaSIK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -369,7 +363,6 @@
         <entry>vimgrep</entry>
         <entry>s</entry>
         <entry>q!</entry>
-        <entry>wq</entry>
         <entry>s/p/o</entry>
         <entry>%s/Popen/check_call/gc</entry>
         <entry>%s/check_output/check_call/gc</entry>
@@ -380,8 +373,9 @@
         <entry encoding="base64">JzwsJz5x</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>Q</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
