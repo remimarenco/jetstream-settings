@@ -9,8 +9,11 @@
         <mark key="." line="0" column="26" />
         <mark key="^" line="0" column="24" />
       </file>
-      <file name="/Python Console" timestamp="1464190664539">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/trfbig/tool_dependencies.xml" timestamp="1465427495365">
+        <mark key="[" line="8" column="86" />
+        <mark key="]" line="3" column="45" />
+        <mark key="." line="3" column="45" />
+        <mark key="^" line="3" column="45" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/bamToBigwig/bam_to_bigwig.xml" timestamp="1465248445603">
         <mark key="[" line="21" column="14" />
@@ -53,9 +56,6 @@
         <mark key="." line="156" column="88" />
         <mark key="^" line="156" column="88" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/TrackDb.py" timestamp="1464741817554">
-        <mark key="[" line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/datatypes/tracks.py" timestamp="1463230065436">
         <mark key="[" line="54" column="21" />
         <mark key="]" line="54" column="22" />
@@ -81,7 +81,7 @@
         <mark key="." line="17" column="7" />
         <mark key="^" line="17" column="7" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/tool_dependencies.xml" timestamp="1465173623437">
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/tool_dependencies.xml" timestamp="1465426810812">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="93" column="0" />
         <mark key="]" line="93" column="17" />
@@ -143,23 +143,17 @@
         <mark key="." line="444" column="1" />
         <mark key="^" line="444" column="1" />
       </file>
-      <file name="/a.regexp" timestamp="1463590907531">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/BedSimpleRepeats.py" timestamp="1464749479059">
         <mark key="[" line="35" column="32" />
         <mark key="]" line="35" column="36" />
         <mark key="^" line="35" column="36" />
         <mark key="." line="35" column="36" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/bamToBigwig/tool_dependencies.xml" timestamp="1465423724100">
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/bamToBigwig/tool_dependencies.xml" timestamp="1465426784513">
         <mark key="[" line="6" column="42" />
         <mark key="]" line="6" column="41" />
         <mark key="." line="6" column="41" />
         <mark key="^" line="6" column="41" />
-      </file>
-      <file name="/" timestamp="1464748456393">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubaDataType/tracks_partial.py" timestamp="1464998751242">
         <mark key="[" line="41" column="52" />
@@ -315,10 +309,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>From</text>
+        <text>genePredToBed</text>
       </register>
       <register name="-" type="4">
-        <text>From</text>
+        <text>genePredToBed</text>
       </register>
       <register name="/" type="4">
         <text>upstream</text>
@@ -327,34 +321,34 @@
         <text encoding="base64">ICAgIDxwYWNrYWdlIG5hbWU9InVjc2NfdG9vbHMiIHZlcnNpb249IjMxMiI+CiAgICAgICAgPHJlcG9zaXRvcnkgbmFtZT0icGFja2FnZV91Y3NjX3Rvb2xzXzMxMiIgb3duZXI9Iml1YyIgcHJpb3JfaW5zdGFsbGF0aW9uX3JlcXVpcmVkPSJUcnVlIi8+CiAgICA8L3BhY2thZ2U+Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>From</text>
+        <text>genePredToBed</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNhZ2U6CiAgIGJsYXN0WG1sVG9Qc2wgW29wdGlvbnNdIGJsYXN0WG1sIHBzbAoKb3B0aW9uczoKICAtc2NvcmVzPWZpbGUgLSBXcml0ZSBzY29yZSBpbmZvcm1hdGlvbiB0byB0aGlzIGZpbGUuICBGb3JtYXQgaXM6CiAgICAgICBzdHJhbmRzIHFOYW1lIHFTdGFydCBxRW5kIHROYW1lIHRTdGFydCB0RW5kIGJpdHNjb3JlIGVWYWwgcURlZiB0RGVmCiAgLXZlcmJvc2U9biAtIG4gPj0gMyBwcmludHMgZWFjaCBsaW5lIG9mIGZpbGUgYWZ0ZXIgcGFyc2luZy4KICAgICAgICAgICAgICAgbiA+PSA0IGR1bXBzIHRoZSByZXN1bHQgb2YgZWFjaCBxdWVyeQogIC1lVmFsPW4gbiBpcyBlLXZhbHVlIHRocmVzaG9sZCB0byBmaWx0ZXIgcmVzdWx0cy4gRm9ybWF0IGNhbiBiZSBlaXRoZXIKICAgICAgICAgIGFuIGludGVnZXIsIGRvdWJsZSBvciAxZS0xMC4gRGVmYXVsdCBpcyBubyBmaWx0ZXIuCiAgLXBzbHggLSBjcmVhdGUgUFNMWCBvdXRwdXQgKGluY2x1ZGVzIHNlcXVlbmNlcyBmb3IgYmxvY2tzKQogIC1jb252ZXJ0VG9OdWNDb29yZHMgLSBjb252ZXJ0IHByb3RlaW4gdG8gbnVjbGVpYyBhbGlnbm1lbnRzIHRvIG51Y2xlaWMKICAgdG8gbnVjbGVpYyBjb29yZGluYXRlcwogIC1xTmFtZT1zcmMgLSBkZWZpbmUgZWxlbWVudCB1c2VkIHRvIG9idGFpbiB0aGUgcU5hbWUuICBUaGUgZm9sbG93aW5nCiAgIHZhbHVlcyBhcmUgc3VwcG9ydDoKICAgICBvIHF1ZXJ5LUlEIC0gdXNlIGNvbnRlbnRzIG9mIHRoZSA8SXRlcmF0aW9uX3F1ZXJ5LUlEPiBlbGVtZW50IGlmIGl0CiAgICAgICBleGlzdHMsIG90aGVyd2lzZSB1c2UgPEJsYXN0T3V0cHV0X3F1ZXJ5LUlEPgogICAgIG8gcXVlcnktZGVmMCAtIHVzZSB0aGUgZmlyc3Qgd2hpdGUtc3BhY2Ugc2VwYXJhdGVkIHdvcmQgb2YgdGhlCiAgICAgICA8SXRlcmF0aW9uX3F1ZXJ5LWRlZj4gZWxlbWVudCBpZiBpdCBleGlzdHMsIG90aGVyd2lzZSB0aGUgZmlyc3Qgd29yZAogICAgICAgb2YgPEJsYXN0T3V0cHV0X3F1ZXJ5LWRlZj4uCiAgIERlZmF1bHQgaXMgcXVlcnktZGVmMC4KICAtdE5hbWU9c3JjIC0gZGVmaW5lIGVsZW1lbnQgdXNlZCB0byBvYnRhaW4gdGhlIHROYW1lLiAgVGhlIGZvbGxvd2luZwogICB2YWx1ZXMgYXJlIHN1cHBvcnQ6CiAgICAgbyBIaXRfaWQgLSB1c2UgY29udGVudHMgb2YgdGhlIDxIaXQtaWQ+IGVsZW1lbnQuCiAgICAgbyBIaXRfZGVmMCAtIHVzZSB0aGUgZmlyc3Qgd2hpdGUtc3BhY2Ugc2VwYXJhdGVkIHdvcmQgb2YgdGhlCiAgICAgICA8SGl0X2RlZj4gZWxlbWVudC4KICAgICBvIEhpdF9hY2Nlc3Npb24gLSBjb250ZW50cyBvZiB0aGUgPEhpdF9hY2Nlc3Npb24+IGVsZW1lbnQuCiAgIERlZmF1bHQgaXMgSGl0LWRlZjAuCiAgLWZvcmNlUHNpQmxhc3QgLSB0cmVhdCBhcyBvdXRwdXQgb2YgUFNJLUJMQVNULiBibGFzdC0yLjIuMTYgYW5kIG1heWJlCiAgIG90aGVycyBpbmRlbnRpZnkgcHNpYmxhc3QgYXMgYmxhc3RwLgpPdXRwdXQgb25seSByZXN1bHRzIG9mIGxhc3Qgcm91bmQgZnJvbSBQU0kgQkxBU1QK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaHR0cDovL2hnZG93bmxvYWQuY3NlLnVjc2MuZWR1L2FkbWluL2V4ZS9tYWNPU1guJHthcmNoaXRlY3R1cmV9L2dlbmVQcmVkVG9CZWQK</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">CnVzYWdlOgpwc2xUb0JlZCBwc2wgYmVkCm9wdGlvbnM6CiAgICAtY2RzPWNkc0ZpbGUKY2RzRmlsZSBzcGVjaWZpZXMgYSBpbnB1dCBjZHMgdGFiLXNlcGFyYXRlZCBmaWxlIHdoaWNoIGNvbnRhaW5zCmdlbmJhbmstc3R5bGUgQ0RTIHJlY29yZHMgc2hvd2luZyBjZHNTdGFydC4uY2RzRW5kCmUuZy4gTk1fMTIzNDU2IDM0Li4zMDUKVGhlc2UgY29vcmRpbmF0ZXMgYXJlIGFzc3VtZWQgdG8gYmUgaW4gdGhlIHF1ZXJ5IGNvb3JkaW5hdGUgc3lzdGVtCm9mIHRoZSBwc2wsIGxpa2UgdGhvc2UgdGhhdCBhcmUgY3JlYXRlZCBmcm9tIGdlbmVQcmVkVG9GYWtlUHNsCiAgICAtcG9zTmFtZQpjaGFuZ2VzIHRoZSBxTmFtZSBmaWVsZCB0byBxTmFtZTpxU3RhcnQtcUVuZAooY2FuIGJlIHVzZWQgdG8gY3JlYXRlIGxpbmtzIHRvIHF1ZXJ5IHBvc2l0aW9uIG9uIGRldGFpbHMgcGFnZSk=</text>
+        <text>genePredToBed</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8cmVxdWlyZW1lbnQgdHlwZT0icGFja2FnZSIgdmVyc2lvbj0iMi4yMiI+YmVkdG9vbHM8L3JlcXVpcmVtZW50Pgo=</text>
+        <text encoding="base64">ICAgIDwvcGFja2FnZT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8cmVxdWlyZW1lbnQgdHlwZT0icGFja2FnZSIgdmVyc2lvbj0iMzEyIj51Y3NjX3Rvb2xzPC9yZXF1aXJlbWVudD4K</text>
+        <text encoding="base64">ICAgICAgICA8cmVwb3NpdG9yeSBuYW1lPSJwYWNrYWdlX2JlZHRvb2xzXzJfMjQiIG93bmVyPSJpdWMiIHByaW9yX2luc3RhbGxhdGlvbl9yZXF1aXJlZD0iVHJ1ZSIvPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIF1dPjwvaGVscD4K</text>
+        <text encoding="base64">ICAgIDxwYWNrYWdlIG5hbWU9ImJlZHRvb2xzIiB2ZXJzaW9uPSIyLjI0Ij4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxoZWxwPjwhW0NEQVRBWwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPOiBGaWxsIGluIGhlbHAuCg==</text>
+        <text encoding="base64">ICAgIDwvcGFja2FnZT4K</text>
       </register>
-      <register name="9" type="4">
-        <text>0</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICA8cmVwb3NpdG9yeSBuYW1lPSJwYWNrYWdlX3Vjc2NfdG9vbHNfMzEyIiBvd25lcj0iaXVjIiBwcmlvcl9pbnN0YWxsYXRpb25fcmVxdWlyZWQ9IlRydWUiLz4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
