@@ -113,11 +113,10 @@
         <mark key="." line="51" column="58" />
         <mark key="^" line="51" column="58" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/trfbig/trfBig.xml" timestamp="1465431228276">
-        <mark key="[" line="4" column="75" />
-        <mark key="]" line="5" column="55" />
-        <mark key="^" line="5" column="55" />
-        <mark key="." line="5" column="55" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/trfbig/trfBig.xml" timestamp="1465434565980">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/README.md" timestamp="1463584049348">
         <mark key="[" line="21" column="15" />
@@ -314,8 +313,8 @@
       <jump line="17" column="3" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/blastXmlToPsl/blastXmlToPsl.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>genePredToBed</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8cmVxdWlyZW1lbnQgdHlwZT0icGFja2FnZSIgdmVyc2lvbj0iMS4wIj48L3JlcXVpcmVtZW50Pgo=</text>
       </register>
       <register name="-" type="4">
         <text>genePredToBed</text>
@@ -326,35 +325,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxwYWNrYWdlIG5hbWU9InVjc2NfdG9vbHMiIHZlcnNpb249IjMxMiI+CiAgICAgICAgPHJlcG9zaXRvcnkgbmFtZT0icGFja2FnZV91Y3NjX3Rvb2xzXzMxMiIgb3duZXI9Iml1YyIgcHJpb3JfaW5zdGFsbGF0aW9uX3JlcXVpcmVkPSJUcnVlIi8+CiAgICA8L3BhY2thZ2U+Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>genePredToBed</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICA8cmVxdWlyZW1lbnQgdHlwZT0icGFja2FnZSIgdmVyc2lvbj0iMS4wIj48L3JlcXVpcmVtZW50Pgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>0.</text>
+        <text>genePredToBed</text>
       </register>
       <register name="3" type="4">
-        <text>genePredToBed</text>
+        <text>0.</text>
       </register>
       <register name="4" type="4">
         <text>genePredToBed</text>
       </register>
       <register name="5" type="4">
-        <text>g</text>
+        <text>genePredToBed</text>
       </register>
       <register name="6" type="4">
+        <text>g</text>
+      </register>
+      <register name="7" type="4">
         <text>genePredToBed</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaHR0cDovL2hnZG93bmxvYWQuY3NlLnVjc2MuZWR1L2FkbWluL2V4ZS9tYWNPU1guJHthcmNoaXRlY3R1cmV9L2dlbmVQcmVkVG9CZWQK</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>genePredToBed</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIDwvcGFja2FnZT4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -410,8 +409,8 @@
         <entry>Q</entry>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
