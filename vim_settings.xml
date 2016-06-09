@@ -9,7 +9,7 @@
         <mark key="." line="0" column="26" />
         <mark key="^" line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/trfbig/tool_dependencies.xml" timestamp="1465427495365">
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/trfbig/tool_dependencies.xml" timestamp="1465431219063">
         <mark key="[" line="8" column="86" />
         <mark key="]" line="3" column="45" />
         <mark key="." line="3" column="45" />
@@ -112,6 +112,12 @@
         <mark key="]" line="51" column="58" />
         <mark key="." line="51" column="58" />
         <mark key="^" line="51" column="58" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/trfbig/trfBig.xml" timestamp="1465431228276">
+        <mark key="[" line="4" column="75" />
+        <mark key="]" line="5" column="55" />
+        <mark key="^" line="5" column="55" />
+        <mark key="." line="5" column="55" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/README.md" timestamp="1463584049348">
         <mark key="[" line="21" column="15" />
