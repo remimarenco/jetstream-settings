@@ -9,11 +9,11 @@
         <mark key="." line="0" column="26" />
         <mark key="^" line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/trfbig/tool_dependencies.xml" timestamp="1465431219063">
-        <mark key="[" line="8" column="86" />
-        <mark key="]" line="3" column="45" />
-        <mark key="." line="3" column="45" />
-        <mark key="^" line="3" column="45" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/trfbig/tool_dependencies.xml" timestamp="1465432416500">
+        <mark key="[" line="15" column="54" />
+        <mark key="]" line="15" column="59" />
+        <mark key="." line="15" column="59" />
+        <mark key="^" line="15" column="59" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/bamToBigwig/bam_to_bigwig.xml" timestamp="1465248445603">
         <mark key="[" line="21" column="14" />
@@ -332,29 +332,29 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaHR0cDovL2hnZG93bmxvYWQuY3NlLnVjc2MuZWR1L2FkbWluL2V4ZS9tYWNPU1guJHthcmNoaXRlY3R1cmV9L2dlbmVQcmVkVG9CZWQK</text>
+      <register name="2" type="4">
+        <text>0.</text>
       </register>
       <register name="3" type="4">
         <text>genePredToBed</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIDwvcGFja2FnZT4K</text>
+      <register name="4" type="4">
+        <text>genePredToBed</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8cmVwb3NpdG9yeSBuYW1lPSJwYWNrYWdlX2JlZHRvb2xzXzJfMjQiIG93bmVyPSJpdWMiIHByaW9yX2luc3RhbGxhdGlvbl9yZXF1aXJlZD0iVHJ1ZSIvPgo=</text>
+      <register name="5" type="4">
+        <text>g</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIDxwYWNrYWdlIG5hbWU9ImJlZHRvb2xzIiB2ZXJzaW9uPSIyLjI0Ij4K</text>
+      <register name="6" type="4">
+        <text>genePredToBed</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaHR0cDovL2hnZG93bmxvYWQuY3NlLnVjc2MuZWR1L2FkbWluL2V4ZS9tYWNPU1guJHthcmNoaXRlY3R1cmV9L2dlbmVQcmVkVG9CZWQK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIDwvcGFja2FnZT4K</text>
+      <register name="8" type="4">
+        <text>genePredToBed</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8cmVwb3NpdG9yeSBuYW1lPSJwYWNrYWdlX3Vjc2NfdG9vbHNfMzEyIiBvd25lcj0iaXVjIiBwcmlvcl9pbnN0YWxsYXRpb25fcmVxdWlyZWQ9IlRydWUiLz4K</text>
+        <text encoding="base64">ICAgIDwvcGFja2FnZT4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -409,9 +409,9 @@
         <entry encoding="base64">JzwsJz5x</entry>
         <entry>Q</entry>
         <entry>wq</entry>
-        <entry>W</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
