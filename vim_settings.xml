@@ -15,11 +15,11 @@
         <mark key="." line="31" column="21" />
         <mark key="^" line="31" column="21" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/bamToBigwig/bam_to_bigwig.xml" timestamp="1465248445603">
-        <mark key="[" line="21" column="14" />
-        <mark key="]" line="27" column="49" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/bamToBigwig/bam_to_bigwig.xml" timestamp="1465564119936">
+        <mark key="[" line="3" column="48" />
+        <mark key="]" line="3" column="49" />
         <mark key="^" line="27" column="49" />
-        <mark key="." line="27" column="49" />
+        <mark key="." line="3" column="49" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/pslToBed/pslToBed.xml" timestamp="1465251132025">
         <mark key="[" line="16" column="59" />
