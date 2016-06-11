@@ -38,11 +38,11 @@
         <mark key="]" line="89" column="0" />
         <mark key="." line="89" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1464998436692">
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="0" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1465680699657">
+        <mark key="[" line="0" column="70" />
+        <mark key="]" line="0" column="69" />
         <mark key="^" line="0" column="69" />
-        <mark key="." line="77" column="0" />
+        <mark key="." line="0" column="69" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/todo.md" timestamp="1464977384952">
         <mark key="[" line="38" column="0" />
@@ -62,11 +62,11 @@
         <mark key="." line="54" column="22" />
         <mark key="^" line="54" column="23" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/BigWig.py" timestamp="1465255503415">
-        <mark key="[" line="37" column="36" />
-        <mark key="]" line="37" column="61" />
-        <mark key="." line="37" column="61" />
-        <mark key="^" line="37" column="61" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/BigWig.py" timestamp="1465680027729">
+        <mark key="[" line="37" column="23" />
+        <mark key="]" line="37" column="58" />
+        <mark key="." line="37" column="58" />
+        <mark key="^" line="37" column="58" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/display_applications/ucsc/trackHub.xml" timestamp="1463193708923">
         <mark key="[" line="0" column="18" />
@@ -314,10 +314,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'GTF'</text>
+        <text>self.name_bigwig[self.short_label_slice]</text>
       </register>
       <register name="-" type="4">
-        <text>'GTF'</text>
+        <text>self.name_bigwig[self.short_label_slice]</text>
       </register>
       <register name="/" type="4">
         <text>upstream</text>
@@ -326,34 +326,34 @@
         <text encoding="base64">ICAgIDxwYWNrYWdlIG5hbWU9InVjc2NfdG9vbHMiIHZlcnNpb249IjMxMiI+CiAgICAgICAgPHJlcG9zaXRvcnkgbmFtZT0icGFja2FnZV91Y3NjX3Rvb2xzXzMxMiIgb3duZXI9Iml1YyIgcHJpb3JfaW5zdGFsbGF0aW9uX3JlcXVpcmVkPSJUcnVlIi8+CiAgICA8L3BhY2thZ2U+Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>'GTF'</text>
+        <text>self.name_bigwig[self.short_label_slice]</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>'From Gtf'</text>
+        <text>'GTF'</text>
       </register>
       <register name="3" type="4">
-        <text>'GFF3 File'</text>
+        <text>'From Gtf'</text>
       </register>
       <register name="4" type="4">
-        <text>'From Gff3'</text>
+        <text>'GFF3 File'</text>
       </register>
       <register name="5" type="4">
-        <text>'Tandem Repeats'</text>
+        <text>'From Gff3'</text>
       </register>
       <register name="6" type="4">
-        <text>'Tandem Repeats Big by TrfBig'</text>
+        <text>'Tandem Repeats'</text>
       </register>
       <register name="7" type="4">
-        <text>'From</text>
+        <text>'Tandem Repeats Big by TrfBig'</text>
       </register>
       <register name="8" type="4">
-        <text>self.name_bam</text>
+        <text>'From</text>
       </register>
       <register name="9" type="4">
-        <text>self.name_bam[self.short_label_slice]</text>
+        <text>self.name_bam</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
