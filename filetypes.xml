@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="install_linux_binaries" type="Bash" />
       <mapping ext="bb" type="PLAIN_TEXT" />
+      <mapping ext="fastqsanger" type="PLAIN_TEXT" />
       <mapping ext="sample" type="XML" />
     </extensionMap>
   </component>
