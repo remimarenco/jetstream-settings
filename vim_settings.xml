@@ -38,11 +38,12 @@
         <mark key="]" line="89" column="0" />
         <mark key="." line="89" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1465680699657">
-        <mark key="[" line="0" column="70" />
-        <mark key="]" line="0" column="69" />
-        <mark key="^" line="0" column="69" />
-        <mark key="." line="0" column="69" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1466205191046">
+        <mark key="'" line="223" column="36" />
+        <mark key="[" line="46" column="21" />
+        <mark key="]" line="46" column="29" />
+        <mark key="^" line="46" column="29" />
+        <mark key="." line="46" column="29" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/todo.md" timestamp="1465930227366">
         <mark key="'" line="12" column="0" />
@@ -179,12 +180,12 @@
         <mark key="." line="17" column="42" />
         <mark key="^" line="17" column="42" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" timestamp="1466203656475">
-        <mark key="'" line="165" column="11" />
-        <mark key="[" line="187" column="15" />
-        <mark key="]" line="179" column="27" />
-        <mark key="." line="179" column="27" />
-        <mark key="^" line="179" column="27" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" timestamp="1466206263392">
+        <mark key="'" line="147" column="63" />
+        <mark key="[" line="140" column="58" />
+        <mark key="]" line="140" column="80" />
+        <mark key="^" line="140" column="80" />
+        <mark key="." line="140" column="80" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Track.py" timestamp="1464291588140">
         <mark key="[" line="9" column="0" />
@@ -212,24 +213,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3344" column="6" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
-      <jump line="5140" column="8" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
-      <jump line="131" column="41" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
-      <jump line="256" column="8" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
-      <jump line="728" column="36" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
-      <jump line="895" column="30" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
-      <jump line="897" column="23" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
-      <jump line="901" column="30" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
-      <jump line="903" column="23" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
-      <jump line="907" column="30" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
-      <jump line="909" column="23" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
-      <jump line="915" column="30" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
-      <jump line="917" column="43" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
-      <jump line="924" column="30" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
-      <jump line="926" column="34" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
-      <jump line="930" column="30" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
-      <jump line="932" column="23" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
-      <jump line="936" column="30" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
       <jump line="938" column="23" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
       <jump line="949" column="36" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
       <jump line="951" column="46" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
@@ -279,7 +262,6 @@
       <jump line="7" column="4" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/AugustusProcess.py" />
       <jump line="7" column="4" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bed.py" />
       <jump line="63" column="4" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" />
-      <jump line="11" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" />
       <jump line="65" column="22" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" />
       <jump line="51" column="22" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" />
       <jump line="28" column="24" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bed.py" />
@@ -312,58 +294,77 @@
       <jump line="9" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/todo.md" />
       <jump line="30" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/todo.md" />
       <jump line="12" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/todo.md" />
+      <jump line="187" column="43" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" />
+      <jump line="86" column="35" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" />
+      <jump line="2" column="36" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" />
+      <jump line="38" column="36" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" />
+      <jump line="39" column="44" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" />
+      <jump line="40" column="34" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" />
+      <jump line="55" column="25" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" />
+      <jump line="60" column="29" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" />
+      <jump line="64" column="29" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" />
+      <jump line="69" column="25" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" />
+      <jump line="73" column="25" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" />
+      <jump line="78" column="25" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" />
+      <jump line="222" column="36" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" />
+      <jump line="140" column="8" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" />
+      <jump line="11" column="17" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" />
+      <jump line="142" column="4" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" />
+      <jump line="4" column="28" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" />
+      <jump line="196" column="18" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" />
+      <jump line="150" column="63" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyYWNrSHViLmFkZFRyYWNrKGV4dGVuc2lvbk9iamVjdC50cmFjay50cmFja0RiKQo=</text>
+      <register name="&quot;" type="4">
+        <text>trackHub</text>
       </register>
       <register name="-" type="4">
-        <text>strip_https=&quot;True&quot;</text>
+        <text>trackHub</text>
       </register>
       <register name="/" type="4">
-        <text>upstream</text>
+        <text>prepare</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">LSBbeF0gUmVwbGFjZSBBdWd1c3R1c1Byb2Nlc3MgYnkgYW4gYWJzdHJhY3QgY2xhc3MgR2VuZXJhbEZvcm1hdCwgd2l0aCB0d28gc3ViLWNsYXNzZXMgR0ZGM0Zvcm1hdCBhbmQgR1RGRm9ybWF0ID0+IAo=</text>
+      <register name="0" type="4">
+        <text>all_datatype_ordered_dictionary</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyYWNrSHViLmFkZFRyYWNrKGV4dGVuc2lvbk9iamVjdC50cmFjay50cmFja0RiKQo=</text>
+      <register name="1" type="4">
+        <text>trackHub</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>strip_https=&quot;True&quot;</text>
+        <text>trackHub</text>
       </register>
-      <register name="3" type="4">
-        <text>$INSTALL_DIR/bin</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBhbGxfZGF0YXR5cGVfZGljdGlvbmFyeS51cGRhdGUoYmFtX2RpY3Rpb25hcnkpCg==</text>
       </register>
       <register name="4" type="4">
-        <text>rename_to=&quot;trf&quot;</text>
+        <text encoding="base64">YmFtX2RpY3Rpb25hcnkgPSA=</text>
       </register>
       <register name="5" type="4">
-        <text>rename_to</text>
+        <text>trackHub</text>
       </register>
-      <register name="6" type="4">
-        <text>pac</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBhbGxfZGF0YXR5cGVfZGljdGlvbmFyeS51cGRhdGUoZ3RmX2RpY3Rpb25hcnkpCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">LSBbeF0gRWFjaCB0aW1lIGEgZmlsZSBpcyBhZGRlZCA9PiBQcmludCBpdCBpbiB0aGUgb3V0cHV0IHdpdGggdGhlIGZ1bGwgcGF0aCAob3IgcmVsYXRpdmUgcGF0aCB0byByb290KQotIFt4XSBBZGQgYSBzY3JpcHQgZm9yIExpbnV4Lng4Nl82NCB0byBkb3dubG9hZCBhbmQgYW5kIGNobW9kICt4IHRoZSBkZXBlbmRlbmNpZXMgZm9yIGxvY2FsIHRlc3RpbmcgPT4gdXRpbC9pbnN0YWxsX2xpbnV4X2JpbmFyaWVzLnB5Ci0gW3hdIEFkZCBzb3J0aW5nIEJFRCBpZiBub3Qgc29ydGVkIChVc2UgdGhlIG91dHB1dCBvZiBiZWRUb0JpZ0JlZCkKLSBbeF0gQWRkIGEgc2NyaXB0IHRvIGluc3RhbGwgdGhlIGh1YmEgZGF0YXR5cGUK</text>
+      <register name="7" type="4">
+        <text encoding="base64">Z3RmX2RpY3Rpb25hcnkgPSA=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">LSBbeF0gQWRkIHRoZSBwb3NzaWJpbGl0eSB0byBhZGQgYSBuZXcgaXRlbSBpbiBUcmFja0RiLnR4dCB0aHJvdWdoIGEgcHVibGljIGZ1bmN0aW9uIGZyb20gVHJhY2tIdWIucHkgPT4gYWRkVHJhY2soKSBpbiBUcmFja0h1Yi5weQo=</text>
+      <register name="8" type="4">
+        <text>trackHub</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LSBbeF0gRml4IHRoZSBlcnJvcnMgZm9yIHRoZSBzdGRpbyByZWdleHAgbm90IHByb3Blcmx5IHByb2Nlc3NlZCBpbiBlcnJvciBjYXNlIChhbHdheXMgZ3JlZW4pID0+IFVzZWQgYGRldGVjdF9lcnJvcnNgIGluICBnYWxheHkgd3JhcHBlciBhbmQgcmFpc2UgRXhjZXB0aW9uIGluIFB5dGhvbgo=</text>
+        <text encoding="base64">ICAgICAgICBhbGxfZGF0YXR5cGVfZGljdGlvbmFyeS51cGRhdGUoYmVkX2dlbmVyaWNfZGljdGlvbmFyeSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>upstream</last-search>
+      <last-search>prepare</last-search>
       <last-offset />
-      <last-pattern>upstream</last-pattern>
+      <last-pattern>prepare</last-pattern>
       <last-replace>array_call</last-replace>
       <last-substitute>arrayCall</last-substitute>
       <last-dir>1</last-dir>
@@ -371,7 +372,6 @@
     </search>
     <history>
       <history-search>
-        <entry>extension =</entry>
         <entry>get_extension</entry>
         <entry>self.log</entry>
         <entry>inputGTF</entry>
@@ -391,6 +391,7 @@
         <entry>template</entry>
         <entry>Up</entry>
         <entry>upstream</entry>
+        <entry>prepare</entry>
       </history-search>
       <history-cmd>
         <entry>s/tool_list/toto</entry>
@@ -408,9 +409,9 @@
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5x</entry>
         <entry>Q</entry>
-        <entry>W</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>wq</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
