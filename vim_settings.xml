@@ -179,12 +179,12 @@
         <mark key="." line="17" column="42" />
         <mark key="^" line="17" column="42" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" timestamp="1466202551582">
-        <mark key="'" line="159" column="11" />
-        <mark key="[" line="154" column="77" />
-        <mark key="]" line="154" column="76" />
-        <mark key="." line="154" column="76" />
-        <mark key="^" line="154" column="76" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" timestamp="1466203656475">
+        <mark key="'" line="165" column="11" />
+        <mark key="[" line="187" column="15" />
+        <mark key="]" line="179" column="27" />
+        <mark key="." line="179" column="27" />
+        <mark key="^" line="179" column="27" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Track.py" timestamp="1464291588140">
         <mark key="[" line="9" column="0" />
@@ -314,8 +314,8 @@
       <jump line="12" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/todo.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>strip_https=&quot;True&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyYWNrSHViLmFkZFRyYWNrKGV4dGVuc2lvbk9iamVjdC50cmFjay50cmFja0RiKQo=</text>
       </register>
       <register name="-" type="4">
         <text>strip_https=&quot;True&quot;</text>
@@ -326,38 +326,38 @@
       <register name="0" type="2">
         <text encoding="base64">LSBbeF0gUmVwbGFjZSBBdWd1c3R1c1Byb2Nlc3MgYnkgYW4gYWJzdHJhY3QgY2xhc3MgR2VuZXJhbEZvcm1hdCwgd2l0aCB0d28gc3ViLWNsYXNzZXMgR0ZGM0Zvcm1hdCBhbmQgR1RGRm9ybWF0ID0+IAo=</text>
       </register>
-      <register name="1" type="4">
-        <text>strip_https=&quot;True&quot;</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyYWNrSHViLmFkZFRyYWNrKGV4dGVuc2lvbk9iamVjdC50cmFjay50cmFja0RiKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>$INSTALL_DIR/bin</text>
+        <text>strip_https=&quot;True&quot;</text>
       </register>
       <register name="3" type="4">
-        <text>rename_to=&quot;trf&quot;</text>
+        <text>$INSTALL_DIR/bin</text>
       </register>
       <register name="4" type="4">
-        <text>rename_to</text>
+        <text>rename_to=&quot;trf&quot;</text>
       </register>
       <register name="5" type="4">
+        <text>rename_to</text>
+      </register>
+      <register name="6" type="4">
         <text>pac</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">LSBbeF0gRWFjaCB0aW1lIGEgZmlsZSBpcyBhZGRlZCA9PiBQcmludCBpdCBpbiB0aGUgb3V0cHV0IHdpdGggdGhlIGZ1bGwgcGF0aCAob3IgcmVsYXRpdmUgcGF0aCB0byByb290KQotIFt4XSBBZGQgYSBzY3JpcHQgZm9yIExpbnV4Lng4Nl82NCB0byBkb3dubG9hZCBhbmQgYW5kIGNobW9kICt4IHRoZSBkZXBlbmRlbmNpZXMgZm9yIGxvY2FsIHRlc3RpbmcgPT4gdXRpbC9pbnN0YWxsX2xpbnV4X2JpbmFyaWVzLnB5Ci0gW3hdIEFkZCBzb3J0aW5nIEJFRCBpZiBub3Qgc29ydGVkIChVc2UgdGhlIG91dHB1dCBvZiBiZWRUb0JpZ0JlZCkKLSBbeF0gQWRkIGEgc2NyaXB0IHRvIGluc3RhbGwgdGhlIGh1YmEgZGF0YXR5cGUK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">LSBbeF0gQWRkIHRoZSBwb3NzaWJpbGl0eSB0byBhZGQgYSBuZXcgaXRlbSBpbiBUcmFja0RiLnR4dCB0aHJvdWdoIGEgcHVibGljIGZ1bmN0aW9uIGZyb20gVHJhY2tIdWIucHkgPT4gYWRkVHJhY2soKSBpbiBUcmFja0h1Yi5weQo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">LSBbeF0gRml4IHRoZSBlcnJvcnMgZm9yIHRoZSBzdGRpbyByZWdleHAgbm90IHByb3Blcmx5IHByb2Nlc3NlZCBpbiBlcnJvciBjYXNlIChhbHdheXMgZ3JlZW4pID0+IFVzZWQgYGRldGVjdF9lcnJvcnNgIGluICBnYWxheHkgd3JhcHBlciBhbmQgcmFpc2UgRXhjZXB0aW9uIGluIFB5dGhvbgo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">LSBbeF0gQWRkIGEgY2xhc3MgbmFtZWQgfn5UcmZCaWdQcm9jZXNzfn4gQmVkU2ltcGxlUmVwZWF0cwotIFt4XSBBZGQgYSBjbGFzcyBuYW1lZCBUcmFja0h1YjogQ3JlYXRlIHRoZSBiYXNlIFRyYWNrSHViIGhpZXJhcmNoeQotIFt4XSBDaGFuZ2UgdGhlIE5hbWUgb2YgdGhlIGNsYXNzZXMK</text>
-      </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -410,8 +410,8 @@
         <entry>Q</entry>
         <entry>W</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
