@@ -69,11 +69,11 @@
         <mark key="." line="37" column="58" />
         <mark key="^" line="37" column="58" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/display_applications/ucsc/trackHub.xml" timestamp="1463193708923">
-        <mark key="[" line="0" column="18" />
-        <mark key="]" line="0" column="25" />
-        <mark key="." line="0" column="25" />
-        <mark key="^" line="0" column="25" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/display_applications/ucsc/trackHub.xml" timestamp="1466200120864">
+        <mark key="[" line="3" column="104" />
+        <mark key="]" line="3" column="103" />
+        <mark key="." line="3" column="103" />
+        <mark key="^" line="3" column="103" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Gff3.py" timestamp="1465602533451">
         <mark key="'" line="52" column="54" />
@@ -315,10 +315,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>$INSTALL_DIR/bin</text>
+        <text>strip_https=&quot;True&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>$INSTALL_DIR/bin</text>
+        <text>strip_https=&quot;True&quot;</text>
       </register>
       <register name="/" type="4">
         <text>upstream</text>
@@ -327,37 +327,37 @@
         <text encoding="base64">LSBbeF0gUmVwbGFjZSBBdWd1c3R1c1Byb2Nlc3MgYnkgYW4gYWJzdHJhY3QgY2xhc3MgR2VuZXJhbEZvcm1hdCwgd2l0aCB0d28gc3ViLWNsYXNzZXMgR0ZGM0Zvcm1hdCBhbmQgR1RGRm9ybWF0ID0+IAo=</text>
       </register>
       <register name="1" type="4">
-        <text>$INSTALL_DIR/bin</text>
+        <text>strip_https=&quot;True&quot;</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>rename_to=&quot;trf&quot;</text>
+        <text>$INSTALL_DIR/bin</text>
       </register>
       <register name="3" type="4">
-        <text>rename_to</text>
+        <text>rename_to=&quot;trf&quot;</text>
       </register>
       <register name="4" type="4">
+        <text>rename_to</text>
+      </register>
+      <register name="5" type="4">
         <text>pac</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">LSBbeF0gRWFjaCB0aW1lIGEgZmlsZSBpcyBhZGRlZCA9PiBQcmludCBpdCBpbiB0aGUgb3V0cHV0IHdpdGggdGhlIGZ1bGwgcGF0aCAob3IgcmVsYXRpdmUgcGF0aCB0byByb290KQotIFt4XSBBZGQgYSBzY3JpcHQgZm9yIExpbnV4Lng4Nl82NCB0byBkb3dubG9hZCBhbmQgYW5kIGNobW9kICt4IHRoZSBkZXBlbmRlbmNpZXMgZm9yIGxvY2FsIHRlc3RpbmcgPT4gdXRpbC9pbnN0YWxsX2xpbnV4X2JpbmFyaWVzLnB5Ci0gW3hdIEFkZCBzb3J0aW5nIEJFRCBpZiBub3Qgc29ydGVkIChVc2UgdGhlIG91dHB1dCBvZiBiZWRUb0JpZ0JlZCkKLSBbeF0gQWRkIGEgc2NyaXB0IHRvIGluc3RhbGwgdGhlIGh1YmEgZGF0YXR5cGUK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">LSBbeF0gQWRkIHRoZSBwb3NzaWJpbGl0eSB0byBhZGQgYSBuZXcgaXRlbSBpbiBUcmFja0RiLnR4dCB0aHJvdWdoIGEgcHVibGljIGZ1bmN0aW9uIGZyb20gVHJhY2tIdWIucHkgPT4gYWRkVHJhY2soKSBpbiBUcmFja0h1Yi5weQo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">LSBbeF0gRml4IHRoZSBlcnJvcnMgZm9yIHRoZSBzdGRpbyByZWdleHAgbm90IHByb3Blcmx5IHByb2Nlc3NlZCBpbiBlcnJvciBjYXNlIChhbHdheXMgZ3JlZW4pID0+IFVzZWQgYGRldGVjdF9lcnJvcnNgIGluICBnYWxheHkgd3JhcHBlciBhbmQgcmFpc2UgRXhjZXB0aW9uIGluIFB5dGhvbgo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">LSBbeF0gQWRkIGEgY2xhc3MgbmFtZWQgfn5UcmZCaWdQcm9jZXNzfn4gQmVkU2ltcGxlUmVwZWF0cwotIFt4XSBBZGQgYSBjbGFzcyBuYW1lZCBUcmFja0h1YjogQ3JlYXRlIHRoZSBiYXNlIFRyYWNrSHViIGhpZXJhcmNoeQotIFt4XSBDaGFuZ2UgdGhlIE5hbWUgb2YgdGhlIGNsYXNzZXMK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">LSBbeF0gQWRkIGEgY2xhc3MgbmFtZWQgQXVndXN0dXNQcm9jZXNzOiBQcm9jZXNzIHRoZSBBdWd1c3R1cyBvdXRwdXQgdG8gQmlnQmVkIChhbmQgb3RoZXJzIG5lZWRlZCBpbiBUcmFja0h1YikgYW5kIChjcmVhdGUgZm9sZGVycyArIGFkZCB0aGUgZmlsZXMgaW50byB0aGUgcmlnaHQgbG9jYXRpb24gPT4gUHJvY2VzcyBjYW4gYmUgcG9ydGVkIGluIGEgY2xhc3MgcmVzcG9uc2libGUgZm9yIHRoYXQpCiAtIFt4XSBBZGQgYSBjbGFzcyBuYW1lZCBBdWd1c3R1c1Byb2Nlc3MKIC0gW3hdIFByb2Nlc3MgdGhlIEF1Z3VzdHVzIG91dHB1dCB0byBCaWdCZWQKIC0gW3hdIGNyZWF0ZSBmb2xkZXJzICsgYWRkIHRoZSBmaWxlcyBpbnRvIHRoZSByaWdodCBsb2NhdGlvbgogLSBbeF0gQ3JlYXRpb24gb2YgZm9sZGVycyB0byBiZSBwb3J0ZWQgaW50byBhIHNlcGFyYXRlZCBjbGFzcyA9PiBJbiBEYXRhdHlwZS5weSBidXQgc2hvdWxkIGJlIGludG8gYSBkZWRpY2F0ZWQgdG8gZmlsZSBtYW5pcHVsYXRpb24gY2xhc3MKIC0gW3hdIFJlZmFjdG9yaW5nIG9mIHRoZSBBdWd1c3R1c1Byb2Nlc3MgY2xhc3MgdG8gYmVoYXZlIGxpa2UgYSBjbGFzcyBhbmQgbm90IGxpa2UgYSBwcm9jZWR1cmFsIG1hc2tlZCBpbnRvIGEgY2xhc3MKIC0gW3hdIFJlbmFtZSBBdWd1c3R1c1Byb2Nlc3MgaW50byBzb21ldGhpbmcgbW9yZSBnZW5lcmljIGlmIHRoZSBwcm9jZXNzIGlzIHNoYXJlZCAoZ3RmIHRvIEJpZ0JlZCkgPT4gR2ZmMy5weQo=</text>
-      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -409,9 +409,9 @@
         <entry encoding="base64">JzwsJz5x</entry>
         <entry>Q</entry>
         <entry>W</entry>
-        <entry>wq</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
