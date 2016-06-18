@@ -38,12 +38,12 @@
         <mark key="]" line="89" column="0" />
         <mark key="." line="89" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1466212435988">
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1466214295125">
         <mark key="'" line="223" column="36" />
-        <mark key="[" line="46" column="21" />
-        <mark key="]" line="46" column="29" />
-        <mark key="^" line="46" column="29" />
-        <mark key="." line="46" column="29" />
+        <mark key="[" line="46" column="66" />
+        <mark key="]" line="46" column="69" />
+        <mark key="^" line="46" column="69" />
+        <mark key="." line="46" column="69" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/todo.md" timestamp="1465930227366">
         <mark key="'" line="12" column="0" />
@@ -363,7 +363,7 @@
         <text>self.data_bam</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -416,8 +416,8 @@
         <entry>Q</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>W</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
