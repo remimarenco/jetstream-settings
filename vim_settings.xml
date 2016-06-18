@@ -180,12 +180,11 @@
         <mark key="." line="17" column="42" />
         <mark key="^" line="17" column="42" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" timestamp="1466207808590">
-        <mark key="'" line="147" column="63" />
-        <mark key="[" line="140" column="58" />
-        <mark key="]" line="140" column="80" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" timestamp="1466208951435">
+        <mark key="[" line="144" column="0" />
+        <mark key="]" line="144" column="0" />
         <mark key="^" line="140" column="80" />
-        <mark key="." line="140" column="80" />
+        <mark key="." line="144" column="0" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Track.py" timestamp="1464291588140">
         <mark key="[" line="9" column="0" />
@@ -315,56 +314,56 @@
       <jump line="150" column="63" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>trackHub</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaW50IGFsbF9kYXRhdHlwZV9vcmRlcmVkX2RpY3Rpb25hcnkK</text>
       </register>
       <register name="-" type="4">
-        <text>trackHub</text>
+        <text />
       </register>
       <register name="/" type="4">
-        <text>prepare</text>
+        <text>print</text>
       </register>
       <register name="0" type="4">
         <text>all_datatype_ordered_dictionary</text>
       </register>
-      <register name="1" type="4">
-        <text>trackHub</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHByaW50IGFsbF9kYXRhdHlwZV9vcmRlcmVkX2RpY3Rpb25hcnkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>trackHub</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhbGxfZGF0YXR5cGVfZGljdGlvbmFyeS51cGRhdGUoYmFtX2RpY3Rpb25hcnkpCg==</text>
+        <text encoding="base64">ICAgIHByaW50IGFsbF9kYXR5cGVfZGljdGlvbmFyeQo=</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">YmFtX2RpY3Rpb25hcnkgPSA=</text>
+        <text />
       </register>
       <register name="5" type="4">
-        <text>trackHub</text>
+        <text>ta</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhbGxfZGF0YXR5cGVfZGljdGlvbmFyeS51cGRhdGUoZ3RmX2RpY3Rpb25hcnkpCg==</text>
+      <register name="6" type="4">
+        <text>trackHub</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">Z3RmX2RpY3Rpb25hcnkgPSA=</text>
-      </register>
-      <register name="8" type="4">
         <text>trackHub</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhbGxfZGF0YXR5cGVfZGljdGlvbmFyeS51cGRhdGUoYmVkX2dlbmVyaWNfZGljdGlvbmFyeSkK</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBhbGxfZGF0YXR5cGVfZGljdGlvbmFyeS51cGRhdGUoYmFtX2RpY3Rpb25hcnkpCg==</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">YmFtX2RpY3Rpb25hcnkgPSA=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>prepare</last-search>
+      <last-search>print</last-search>
       <last-offset />
-      <last-pattern>prepare</last-pattern>
+      <last-pattern>print</last-pattern>
       <last-replace>array_call</last-replace>
       <last-substitute>arrayCall</last-substitute>
       <last-dir>1</last-dir>
@@ -372,7 +371,6 @@
     </search>
     <history>
       <history-search>
-        <entry>get_extension</entry>
         <entry>self.log</entry>
         <entry>inputGTF</entry>
         <entry>subTools</entry>
@@ -392,6 +390,7 @@
         <entry>Up</entry>
         <entry>upstream</entry>
         <entry>prepare</entry>
+        <entry>print</entry>
       </history-search>
       <history-cmd>
         <entry>s/tool_list/toto</entry>
@@ -410,9 +409,9 @@
         <entry encoding="base64">JzwsJz5x</entry>
         <entry>Q</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>wq</entry>
         <entry>W</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
