@@ -174,10 +174,11 @@
         <mark key="." line="17" column="42" />
         <mark key="^" line="17" column="42" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_bjorn/scripts/communication/communication_server.py" timestamp="1466271424186">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_bjorn/scripts/communication/communication_server.py" timestamp="1466272456982">
+        <mark key="[" line="34" column="76" />
+        <mark key="]" line="35" column="17" />
+        <mark key="." line="35" column="17" />
+        <mark key="^" line="35" column="17" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" timestamp="1466212296878">
         <mark key="[" line="144" column="0" />
