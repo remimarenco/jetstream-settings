@@ -33,11 +33,6 @@
         <mark key="^" line="13" column="73" />
         <mark key="." line="13" column="73" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_bjorn/scripts/communication_server.py" timestamp="1465139600484">
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="0" />
-        <mark key="." line="89" column="0" />
-      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1466214295125">
         <mark key="'" line="223" column="36" />
         <mark key="[" line="46" column="66" />
@@ -122,11 +117,6 @@
         <mark key="." line="22" column="34" />
         <mark key="^" line="22" column="34" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/trfbig/trfBig.xml" timestamp="1465511616383">
-        <mark key="[" line="10" column="12" />
-        <mark key="]" line="10" column="12" />
-        <mark key="." line="10" column="12" />
-      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/README.md" timestamp="1463584049348">
         <mark key="[" line="21" column="15" />
         <mark key="]" line="11" column="107" />
@@ -183,6 +173,11 @@
         <mark key="]" line="17" column="42" />
         <mark key="." line="17" column="42" />
         <mark key="^" line="17" column="42" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_bjorn/scripts/communication/communication_server.py" timestamp="1466271424186">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" timestamp="1466212296878">
         <mark key="[" line="144" column="0" />
@@ -320,11 +315,11 @@
       <jump line="23" column="13" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Gff3.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>priority=priority</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name="-" type="4">
-        <text>priority=priority</text>
+        <text>current_use</text>
       </register>
       <register name="/" type="4">
         <text>priority</text>
@@ -332,35 +327,35 @@
       <register name="0" type="4">
         <text>data_bed_simple_repeats</text>
       </register>
-      <register name="1" type="4">
-        <text>priority=priority</text>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>&quot;</text>
+        <text>current_use</text>
       </register>
-      <register name="3" type="4">
-        <text>&quot;</text>
+      <register name="3" type="2">
+        <text encoding="base64">Zmxhc2tfbG9naW4uTG9naW5NYW5hZ2VyCg==</text>
       </register>
       <register name="4" type="4">
-        <text>&quot;</text>
+        <text>priority=priority</text>
       </register>
       <register name="5" type="4">
-        <text>str</text>
+        <text>&quot;</text>
       </register>
       <register name="6" type="4">
-        <text>)</text>
+        <text>&quot;</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBzZWxmLnByaW9yaXR5Cg==</text>
+      <register name="7" type="4">
+        <text>&quot;</text>
       </register>
       <register name="8" type="4">
-        <text>priority</text>
+        <text>str</text>
       </register>
       <register name="9" type="4">
-        <text>self.data_bam</text>
+        <text>)</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -415,8 +410,8 @@
         <entry encoding="base64">JzwsJz5x</entry>
         <entry>Q</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>W</entry>
         <entry>wq</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
