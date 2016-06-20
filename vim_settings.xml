@@ -111,7 +111,7 @@
         <mark key="." line="3" column="45" />
         <mark key="^" line="3" column="45" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bam.py" timestamp="1466213389509">
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bam.py" timestamp="1466429242916">
         <mark key="[" line="22" column="35" />
         <mark key="]" line="22" column="34" />
         <mark key="." line="22" column="34" />
@@ -185,6 +185,11 @@
         <mark key="]" line="144" column="0" />
         <mark key="^" line="140" column="80" />
         <mark key="." line="144" column="0" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/client/galaxy/style/less/base.less" timestamp="1466429330841">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Track.py" timestamp="1464291588140">
         <mark key="[" line="9" column="0" />
@@ -317,7 +322,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+        <text encoding="base64">ICAgIGNvbG9yOiByZ2IoMCwxOTYsODApOwo=</text>
       </register>
       <register name="-" type="4">
         <text>current_use</text>
@@ -329,22 +334,22 @@
         <text>data_bed_simple_repeats</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+        <text encoding="base64">ICAgIGNvbG9yOiByZ2IoMCwxOTYsODApOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IAo=</text>
+      </register>
+      <register name="3" type="4">
         <text>current_use</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Zmxhc2tfbG9naW4uTG9naW5NYW5hZ2VyCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>priority=priority</text>
-      </register>
       <register name="5" type="4">
-        <text>&quot;</text>
+        <text>priority=priority</text>
       </register>
       <register name="6" type="4">
         <text>&quot;</text>
@@ -353,10 +358,10 @@
         <text>&quot;</text>
       </register>
       <register name="8" type="4">
-        <text>str</text>
+        <text>&quot;</text>
       </register>
       <register name="9" type="4">
-        <text>)</text>
+        <text>str</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
