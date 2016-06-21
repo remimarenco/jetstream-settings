@@ -167,6 +167,9 @@
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/templates/trackDb/layout.txt" timestamp="1466213518076">
         <mark key="[" line="9" column="32" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/add_datatype.py" timestamp="1466493173966">
+        <mark key="'" line="48" column="20" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/TrackHub.py" timestamp="1466212235487">
         <mark key="[" line="16" column="38" />
         <mark key="]" line="17" column="42" />
@@ -218,10 +221,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="979" column="55" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
-      <jump line="982" column="8" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
-      <jump line="983" column="24" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
-      <jump line="984" column="32" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
       <jump line="985" column="34" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
       <jump line="986" column="40" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
       <jump line="991" column="48" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
@@ -318,6 +317,10 @@
       <jump line="62" column="26" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bed.py" />
       <jump line="68" column="26" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Gff3.py" />
       <jump line="23" column="13" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Gff3.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/add_datatype.py" />
+      <jump line="48" column="33" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/add_datatype.py" />
+      <jump line="59" column="20" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/add_datatype.py" />
+      <jump line="67" column="20" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/add_datatype.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -327,7 +330,7 @@
         <text>current_use</text>
       </register>
       <register name="/" type="4">
-        <text>priority</text>
+        <text>Track</text>
       </register>
       <register name="0" type="4">
         <text>data_bed_simple_repeats</text>
@@ -367,9 +370,9 @@
       </register>
     </registers>
     <search>
-      <last-search>priority</last-search>
+      <last-search>Track</last-search>
       <last-offset />
-      <last-pattern>priority</last-pattern>
+      <last-pattern>Track</last-pattern>
       <last-replace>array_call</last-replace>
       <last-substitute>arrayCall</last-substitute>
       <last-dir>1</last-dir>
@@ -377,7 +380,6 @@
     </search>
     <history>
       <history-search>
-        <entry>inputGTF</entry>
         <entry>subTools</entry>
         <entry>bam</entry>
         <entry>myTrackFolder</entry>
@@ -397,6 +399,7 @@
         <entry>prepare</entry>
         <entry>print</entry>
         <entry>priority</entry>
+        <entry>Track</entry>
       </history-search>
       <history-cmd>
         <entry>s/tool_list/toto</entry>
