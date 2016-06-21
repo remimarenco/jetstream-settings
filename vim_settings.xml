@@ -47,11 +47,10 @@
         <mark key="^" line="4" column="14" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/subtools.py" timestamp="1464923992815">
-        <mark key="[" line="156" column="65" />
-        <mark key="]" line="156" column="88" />
-        <mark key="." line="156" column="88" />
-        <mark key="^" line="156" column="88" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/subtools.py" timestamp="1466489303771">
+        <mark key="[" line="135" column="0" />
+        <mark key="]" line="135" column="0" />
+        <mark key="." line="135" column="0" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/TrackDb.py" timestamp="1466213346722">
         <mark key="[" line="15" column="42" />
@@ -322,7 +321,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbG9yOiByZ2IoMCwxOTYsODApOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>current_use</text>
@@ -334,34 +333,34 @@
         <text>data_bed_simple_repeats</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbG9yOiByZ2IoMCwxOTYsODApOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="4">
-        <text>current_use</text>
+        <text encoding="base64">CmRlZiBzb3J0QmFtKGlucHV0X2JhbV9maWxlX25hbWUsIG91dHB1dF9zb3J0ZWRfYmFtX25hbWUpOgogICAgIiIiCiAgICBDYWxsIHNhbXRvb2xzIG9uIGlucHV0X2JhbV9maWxlX25hbWUgYW5kIG91dHB1dCB0aGUgcmVzdWx0IGluIG91dHB1dF9zb3J0ZWRfYmFtX25hbWUKICAgIDpwYXJhbSBpbnB1dF9iYW1fZmlsZV9uYW1lOgogICAgOnBhcmFtIG91dHB1dF9zb3J0ZWRfYmFtX25hbWU6CiAgICA6cmV0dXJuOgogICAgIiIiCiAgICBhcnJheV9jYWxsID0gWydzYW10b29scycsICdzb3J0JywgaW5wdXRfYmFtX2ZpbGVfbmFtZSwgJy1vJywgb3V0cHV0X3NvcnRlZF9iYW1fbmFtZV0KICAgIHAgPSBfaGFuZGxlRXhjZXB0aW9uQW5kQ2hlY2tDYWxsKGFycmF5X2NhbGwpCiAgICByZXR1cm4gcAoKCmRlZiBjcmVhdGVCYW1JbmRleChpbnB1dF9zb3J0ZWRfYmFtX2ZpbGVfbmFtZSwgb3V0cHV0X25hbWVfaW5kZXhfbmFtZSk6CiAgICAiIiIKICAgIENhbGwgYHNhbXRvb2xzIGluZGV4YCBvbiBpbXB1dF9zb3J0ZWRfYmFtX2ZpbGVfbmFtZSBhbmQgb3V0cHV0IHRoZSByZXN1bHQgaW4gb3V0cHV0X25hbWVfaW5kZXhfbmFtZQogICAgOnBhcmFtIGlucHV0X3NvcnRlZF9iYW1fZmlsZV9uYW1lOgogICAgOnBhcmFtIG91dHB1dF9uYW1lX2luZGV4X25hbWU6CiAgICA6cmV0dXJuOgogICAgIiIiCiAgICBhcnJheV9jYWxsID0gWydzYW10b29scycsICdpbmRleCcsIGlucHV0X3NvcnRlZF9iYW1fZmlsZV9uYW1lLCBvdXRwdXRfbmFtZV9pbmRleF9uYW1lXQogICAgcCA9IF9oYW5kbGVFeGNlcHRpb25BbmRDaGVja0NhbGwoYXJyYXlfY2FsbCkKICAgIHJldHVybiBw</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Zmxhc2tfbG9naW4uTG9naW5NYW5hZ2VyCg==</text>
+        <text encoding="base64">ICAgIGNvbG9yOiByZ2IoMCwxOTYsODApOwo=</text>
       </register>
-      <register name="5" type="4">
-        <text>priority=priority</text>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name="6" type="4">
-        <text>&quot;</text>
+        <text>current_use</text>
       </register>
-      <register name="7" type="4">
-        <text>&quot;</text>
+      <register name="7" type="2">
+        <text encoding="base64">Zmxhc2tfbG9naW4uTG9naW5NYW5hZ2VyCg==</text>
       </register>
       <register name="8" type="4">
-        <text>&quot;</text>
+        <text>priority=priority</text>
       </register>
       <register name="9" type="4">
-        <text>str</text>
+        <text>&quot;</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
