@@ -77,7 +77,7 @@
         <mark key="." line="3" column="103" />
         <mark key="^" line="3" column="103" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Gff3.py" timestamp="1466213316572">
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Gff3.py" timestamp="1466778493939">
         <mark key="'" line="23" column="13" />
         <mark key="[" line="23" column="28" />
         <mark key="]" line="23" column="47" />
@@ -116,11 +116,11 @@
         <mark key="." line="22" column="34" />
         <mark key="^" line="22" column="34" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/README.md" timestamp="1463584049348">
-        <mark key="[" line="21" column="15" />
-        <mark key="]" line="11" column="107" />
-        <mark key="." line="11" column="107" />
-        <mark key="^" line="11" column="107" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/README.md" timestamp="1466777317948">
+        <mark key="[" line="21" column="81" />
+        <mark key="]" line="21" column="81" />
+        <mark key="^" line="16" column="66" />
+        <mark key="." line="21" column="81" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/.shed.yml" timestamp="1463749038911">
         <mark key="[" line="14" column="0" />
@@ -167,8 +167,12 @@
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/templates/trackDb/layout.txt" timestamp="1466213518076">
         <mark key="[" line="9" column="32" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/add_datatype.py" timestamp="1466540643715">
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/add_datatype.py" timestamp="1466778148506">
         <mark key="'" line="48" column="20" />
+        <mark key="[" line="59" column="29" />
+        <mark key="]" line="59" column="36" />
+        <mark key="." line="59" column="36" />
+        <mark key="^" line="59" column="36" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/TrackHub.py" timestamp="1466212235487">
         <mark key="[" line="16" column="38" />
@@ -324,10 +328,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICIiIgoKICAgIGZpbGVfZXh0ID0gJ3RyYWNraHViJwo=</text>
       </register>
       <register name="-" type="4">
-        <text>current_use</text>
+        <text>huba</text>
       </register>
       <register name="/" type="4">
         <text>Track</text>
@@ -336,34 +340,34 @@
         <text>data_bed_simple_repeats</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICIiIgoKICAgIGZpbGVfZXh0ID0gJ3RyYWNraHViJwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>huba</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">CmRlZiBzb3J0QmFtKGlucHV0X2JhbV9maWxlX25hbWUsIG91dHB1dF9zb3J0ZWRfYmFtX25hbWUpOgogICAgIiIiCiAgICBDYWxsIHNhbXRvb2xzIG9uIGlucHV0X2JhbV9maWxlX25hbWUgYW5kIG91dHB1dCB0aGUgcmVzdWx0IGluIG91dHB1dF9zb3J0ZWRfYmFtX25hbWUKICAgIDpwYXJhbSBpbnB1dF9iYW1fZmlsZV9uYW1lOgogICAgOnBhcmFtIG91dHB1dF9zb3J0ZWRfYmFtX25hbWU6CiAgICA6cmV0dXJuOgogICAgIiIiCiAgICBhcnJheV9jYWxsID0gWydzYW10b29scycsICdzb3J0JywgaW5wdXRfYmFtX2ZpbGVfbmFtZSwgJy1vJywgb3V0cHV0X3NvcnRlZF9iYW1fbmFtZV0KICAgIHAgPSBfaGFuZGxlRXhjZXB0aW9uQW5kQ2hlY2tDYWxsKGFycmF5X2NhbGwpCiAgICByZXR1cm4gcAoKCmRlZiBjcmVhdGVCYW1JbmRleChpbnB1dF9zb3J0ZWRfYmFtX2ZpbGVfbmFtZSwgb3V0cHV0X25hbWVfaW5kZXhfbmFtZSk6CiAgICAiIiIKICAgIENhbGwgYHNhbXRvb2xzIGluZGV4YCBvbiBpbXB1dF9zb3J0ZWRfYmFtX2ZpbGVfbmFtZSBhbmQgb3V0cHV0IHRoZSByZXN1bHQgaW4gb3V0cHV0X25hbWVfaW5kZXhfbmFtZQogICAgOnBhcmFtIGlucHV0X3NvcnRlZF9iYW1fZmlsZV9uYW1lOgogICAgOnBhcmFtIG91dHB1dF9uYW1lX2luZGV4X25hbWU6CiAgICA6cmV0dXJuOgogICAgIiIiCiAgICBhcnJheV9jYWxsID0gWydzYW10b29scycsICdpbmRleCcsIGlucHV0X3NvcnRlZF9iYW1fZmlsZV9uYW1lLCBvdXRwdXRfbmFtZV9pbmRleF9uYW1lXQogICAgcCA9IF9oYW5kbGVFeGNlcHRpb25BbmRDaGVja0NhbGwoYXJyYXlfY2FsbCkKICAgIHJldHVybiBw</text>
+        <text encoding="base64">IGEgZm9vLnR4dCBpbnNpZGUgdGhlIGdpdmVuIGZvbGRlci4=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbG9yOiByZ2IoMCwxOTYsODApOwo=</text>
+      <register name="4" type="4">
+        <text>Create</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+      <register name="5" type="4">
+        <text>Create a foo.txt inside the given folder.</text>
       </register>
       <register name="6" type="4">
-        <text>current_use</text>
+        <text>huba</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Zmxhc2tfbG9naW4uTG9naW5NYW5hZ2VyCg==</text>
+      <register name="7" type="4">
+        <text>s</text>
       </register>
-      <register name="8" type="4">
-        <text>priority=priority</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>&quot;</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
