@@ -15,12 +15,12 @@
         <mark key="." line="36" column="52" />
         <mark key="^" line="36" column="52" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" timestamp="1466880127024">
-        <mark key="'" line="278" column="31" />
-        <mark key="[" line="296" column="32" />
-        <mark key="]" line="296" column="41" />
-        <mark key="^" line="296" column="41" />
-        <mark key="." line="296" column="41" />
+      <file name="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" timestamp="1466886550141">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="293" column="0" />
+        <mark key="]" line="293" column="0" />
+        <mark key="^" line="317" column="26" />
+        <mark key="." line="293" column="0" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/bamToBigwig/bam_to_bigwig.xml" timestamp="1466198401412">
         <mark key="[" line="3" column="48" />
@@ -54,8 +54,8 @@
         <mark key="^" line="4" column="14" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/serializers.py" timestamp="1466880739629">
-        <mark key="'" line="542" column="6" />
+      <file name="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/serializers.py" timestamp="1466886199437">
+        <mark key="'" line="698" column="31" />
         <mark key="[" line="699" column="0" />
         <mark key="]" line="699" column="0" />
         <mark key="^" line="699" column="3" />
@@ -247,10 +247,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1147" column="31" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
-      <jump line="1156" column="27" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
-      <jump line="1157" column="23" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
-      <jump line="1158" column="56" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
       <jump line="1159" column="40" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
       <jump line="1161" column="29" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
       <jump line="2283" column="52" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
@@ -339,7 +335,6 @@
       <jump line="159" column="19" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" />
       <jump line="294" column="28" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" />
       <jump line="302" column="4" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" />
       <jump line="303" column="36" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" />
       <jump line="549" column="0" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/serializers.py" />
       <jump line="278" column="31" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" />
@@ -347,10 +342,15 @@
       <jump line="530" column="23" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/serializers.py" />
       <jump line="538" column="23" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/serializers.py" />
       <jump line="542" column="6" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/serializers.py" />
+      <jump line="698" column="31" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/serializers.py" />
+      <jump line="108" column="15" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" />
+      <jump line="107" column="18" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" />
+      <jump line="119" column="4" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFwcGxpY2F0aW9uID0gc2VyaWFsaXplcnMuQ2hhckZpZWxkKGFsbG93X2JsYW5rPVRydWUpCg==</text>
+        <text encoding="base64">ICAgIG5hbWUgPSBtb2RlbHMuVGV4dEZpZWxkKAo=</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -358,11 +358,11 @@
       <register name="/" type="4">
         <text>Application</text>
       </register>
-      <register name="0" type="4">
-        <text>blank=True,</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGRlZiBzYXZlKHNlbGYsICphcmdzLCAqKmt3YXJncyk6CiAgICAgICAgaWYgbm90IHNlbGYuc2x1ZzoKICAgICAgICAgICAgIyBOZXdseSBjcmVhdGVkIG9iamVjdCwgc28gc2V0IHNsdWcKICAgICAgICAgICAgc2VsZi5zbHVnID0gc2x1Z2lmeShzZWxmLm5hbWUpCiAgICAgICAgc3VwZXIoQXBwbGljYXRpb24sIHNlbGYpLnNhdmUoKmFyZ3MsICoqa3dhcmdzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFwcGxpY2F0aW9uID0gc2VyaWFsaXplcnMuQ2hhckZpZWxkKGFsbG93X2JsYW5rPVRydWUpCg==</text>
+        <text encoding="base64">ICAgIG5hbWUgPSBtb2RlbHMuVGV4dEZpZWxkKAo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -371,10 +371,10 @@
         <text />
       </register>
       <register name="3" type="4">
-        <text>HyperlinkedModelSerializer</text>
+        <text>)</text>
       </register>
       <register name="4" type="4">
-        <text># TODO</text>
+        <text>Application</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -382,14 +382,14 @@
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>allow_blank=True</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGFwcGxpY2F0aW9uID0gc2VyaWFsaXplcnMuQ2hhckZpZWxkKGFsbG93X2JsYW5rPVRydWUpCg==</text>
       </register>
       <register name="8" type="4">
-        <text>)</text>
+        <text />
       </register>
       <register name="9" type="4">
-        <text>)</text>
+        <text>HyperlinkedModelSerializer</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
