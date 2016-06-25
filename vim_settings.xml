@@ -15,6 +15,13 @@
         <mark key="." line="36" column="52" />
         <mark key="^" line="36" column="52" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" timestamp="1466880127024">
+        <mark key="'" line="278" column="31" />
+        <mark key="[" line="296" column="32" />
+        <mark key="]" line="296" column="41" />
+        <mark key="^" line="296" column="41" />
+        <mark key="." line="296" column="41" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/bamToBigwig/bam_to_bigwig.xml" timestamp="1466198401412">
         <mark key="[" line="3" column="48" />
         <mark key="]" line="3" column="49" />
@@ -47,6 +54,13 @@
         <mark key="^" line="4" column="14" />
         <mark key="." line="26" column="0" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/serializers.py" timestamp="1466880739629">
+        <mark key="'" line="542" column="6" />
+        <mark key="[" line="699" column="0" />
+        <mark key="]" line="699" column="0" />
+        <mark key="^" line="699" column="3" />
+        <mark key="." line="699" column="0" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/subtools.py" timestamp="1466489303771">
         <mark key="[" line="135" column="0" />
         <mark key="]" line="135" column="0" />
@@ -64,6 +78,9 @@
         <mark key="]" line="22" column="34" />
         <mark key="." line="22" column="34" />
         <mark key="^" line="22" column="34" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/forms.py" timestamp="1466875789134">
+        <mark key="[" line="5" column="29" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/display_applications/ucsc/trackHub.xml" timestamp="1466211928664">
         <mark key="[" line="3" column="104" />
@@ -104,7 +121,11 @@
         <mark key="." line="3" column="45" />
         <mark key="^" line="3" column="45" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/trackHub/tracks_partial.py" timestamp="1466779842024" />
+      <file name="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/drf_helpers.py" timestamp="1466875994032">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bam.py" timestamp="1466456379816">
         <mark key="[" line="22" column="35" />
         <mark key="]" line="22" column="34" />
@@ -117,12 +138,19 @@
         <mark key="^" line="16" column="66" />
         <mark key="." line="21" column="81" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/urls.py" timestamp="1466879556927">
+        <mark key="[" line="33" column="41" />
+        <mark key="]" line="33" column="87" />
+        <mark key="^" line="33" column="87" />
+        <mark key="." line="33" column="87" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/.shed.yml" timestamp="1463749038911">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="^" line="13" column="12" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/templates/rest_framework/api.html" timestamp="1466875732771" />
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/datatypes/hubAssembly.py" timestamp="1463236422489">
         <mark key="[" line="25" column="16" />
         <mark key="]" line="25" column="23" />
@@ -198,6 +226,12 @@
         <mark key="." line="23" column="23" />
         <mark key="^" line="23" column="23" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/views.py" timestamp="1466881229018">
+        <mark key="[" line="463" column="22" />
+        <mark key="]" line="463" column="34" />
+        <mark key="." line="463" column="34" />
+        <mark key="^" line="463" column="34" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/blastXmlToPsl/blastXmlToPsl.xml" timestamp="1465253216065">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="7" />
@@ -213,18 +247,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="985" column="34" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
-      <jump line="986" column="40" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
-      <jump line="991" column="48" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
-      <jump line="992" column="47" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
-      <jump line="996" column="23" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
-      <jump line="999" column="39" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
-      <jump line="1037" column="47" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
-      <jump line="1041" column="23" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
-      <jump line="1131" column="13" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
-      <jump line="1141" column="21" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
-      <jump line="1145" column="32" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
-      <jump line="1146" column="19" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
       <jump line="1147" column="31" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
       <jump line="1156" column="27" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
       <jump line="1157" column="23" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
@@ -313,60 +335,70 @@
       <jump line="48" column="33" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/add_datatype.py" />
       <jump line="59" column="20" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/add_datatype.py" />
       <jump line="67" column="20" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/add_datatype.py" />
+      <jump line="289" column="47" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" />
+      <jump line="159" column="19" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" />
+      <jump line="294" column="28" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" />
+      <jump line="302" column="4" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" />
+      <jump line="303" column="36" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" />
+      <jump line="549" column="0" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/serializers.py" />
+      <jump line="278" column="31" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" />
+      <jump line="706" column="8" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/serializers.py" />
+      <jump line="530" column="23" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/serializers.py" />
+      <jump line="538" column="23" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/serializers.py" />
+      <jump line="542" column="6" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/serializers.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>end</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGFwcGxpY2F0aW9uID0gc2VyaWFsaXplcnMuQ2hhckZpZWxkKGFsbG93X2JsYW5rPVRydWUpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>end</text>
+        <text />
       </register>
       <register name="/" type="4">
-        <text>Track</text>
+        <text>Application</text>
       </register>
       <register name="0" type="4">
-        <text>data_bed_simple_repeats</text>
+        <text>blank=True,</text>
       </register>
-      <register name="1" type="4">
-        <text>end</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGFwcGxpY2F0aW9uID0gc2VyaWFsaXplcnMuQ2hhckZpZWxkKGFsbG93X2JsYW5rPVRydWUpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>end of the tracks.py line
-    print &quot;Content of %s now: %s&quot; % (datatype_lib_path, os.listdir(datatype_lib_path))
-    return</text>
+        <text />
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>HyperlinkedModelSerializer</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZWxzZToK</text>
+      <register name="4" type="4">
+        <text># TODO</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZyb20gZ2FsYXh5LmRhdGF0eXBlcy5pbWFnZXMgaW1wb3J0IEh0bWwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aWYgdmVyc2lvbi5WRVJTSU9OX01BSk9SIDw9ICIxNi4wMSI6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGZyb20gZ2FsYXh5LmRhdGF0eXBlcy5pbWFnZXMgaW1wb3J0IEh0bWwK</text>
+      <register name="7" type="4">
+        <text>allow_blank=True</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aWYgdmVyc2lvbi5WRVJTSU9OX01BSk9SIDw9ICIxNi4wMSI6Cg==</text>
+      <register name="8" type="4">
+        <text>)</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">IyBTdXBwb3J0IGZvciBHYWxheHkgPD0gMTYuMDEK</text>
+      <register name="9" type="4">
+        <text>)</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Track</last-search>
+      <last-search>Application</last-search>
       <last-offset />
-      <last-pattern>Track</last-pattern>
+      <last-pattern>Application</last-pattern>
       <last-replace>array_call</last-replace>
       <last-substitute>arrayCall</last-substitute>
       <last-dir>1</last-dir>
@@ -374,11 +406,6 @@
     </search>
     <history>
       <history-search>
-        <entry>subTools</entry>
-        <entry>bam</entry>
-        <entry>myTrackFolder</entry>
-        <entry>mySpecieFolder</entry>
-        <entry>dataset</entry>
         <entry>metadata</entry>
         <entry encoding="base64">XDxiZWRcPg==</entry>
         <entry>inputBed</entry>
@@ -394,6 +421,11 @@
         <entry>print</entry>
         <entry>priority</entry>
         <entry>Track</entry>
+        <entry>User</entry>
+        <entry>ForeignKey(User</entry>
+        <entry>ApplicationDep</entry>
+        <entry>nblank</entry>
+        <entry>Application</entry>
       </history-search>
       <history-cmd>
         <entry>s/tool_list/toto</entry>
@@ -408,12 +440,13 @@
         <entry>%s/datatype_path/datatype_conf_path/gc</entry>
         <entry>r !ls</entry>
         <entry>%s/arrayCall/array_call/gc</entry>
-        <entry>q</entry>
         <entry encoding="base64">JzwsJz5x</entry>
         <entry>Q</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>wq</entry>
+        <entry>q</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>W</entry>
+        <entry>ww</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
