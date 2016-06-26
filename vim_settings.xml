@@ -15,12 +15,12 @@
         <mark key="." line="36" column="52" />
         <mark key="^" line="36" column="52" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" timestamp="1466899289671">
+      <file name="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" timestamp="1466902624824">
         <mark key="'" line="8" column="47" />
-        <mark key="[" line="314" column="27" />
-        <mark key="]" line="314" column="26" />
-        <mark key="." line="314" column="26" />
-        <mark key="^" line="314" column="26" />
+        <mark key="[" line="310" column="34" />
+        <mark key="]" line="310" column="63" />
+        <mark key="^" line="310" column="63" />
+        <mark key="." line="310" column="63" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/bamToBigwig/bam_to_bigwig.xml" timestamp="1466198401412">
         <mark key="[" line="3" column="48" />
@@ -60,12 +60,12 @@
         <mark key="^" line="4" column="14" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/serializers.py" timestamp="1466897731234">
+      <file name="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/serializers.py" timestamp="1466902191414">
         <mark key="'" line="18" column="26" />
-        <mark key="[" line="699" column="27" />
-        <mark key="]" line="699" column="43" />
-        <mark key="^" line="699" column="43" />
-        <mark key="." line="699" column="43" />
+        <mark key="[" line="698" column="0" />
+        <mark key="]" line="699" column="0" />
+        <mark key="^" line="699" column="0" />
+        <mark key="." line="699" column="0" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/subtools.py" timestamp="1466489303771">
         <mark key="[" line="135" column="0" />
@@ -232,12 +232,12 @@
         <mark key="." line="23" column="23" />
         <mark key="^" line="23" column="23" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/views.py" timestamp="1466889712325">
-        <mark key="'" line="470" column="6" />
-        <mark key="[" line="465" column="35" />
-        <mark key="]" line="465" column="51" />
-        <mark key="." line="465" column="51" />
-        <mark key="^" line="465" column="51" />
+      <file name="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/views.py" timestamp="1466902405280">
+        <mark key="'" line="474" column="6" />
+        <mark key="[" line="466" column="0" />
+        <mark key="]" line="467" column="0" />
+        <mark key="." line="467" column="0" />
+        <mark key="^" line="467" column="0" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/blastXmlToPsl/blastXmlToPsl.xml" timestamp="1465253216065">
         <mark key="[" line="16" column="0" />
@@ -363,10 +363,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>#</text>
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>ApplicationVi</text>
@@ -375,34 +375,34 @@
         <text>infrastructure_regex_patter</text>
       </register>
       <register name="1" type="4">
-        <text>#</text>
+        <text>(</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>.</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmaWVsZHMgPSAoJ3VybCcsICdjb3VudHJ5JykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>django_countries.fields</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGNvdW50cnkgPSBDb3VudHJ5RmllbGQoY291bnRyeV9kaWN0PVRydWUpCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>Countries</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGxvY2F0aW9uID0gbW9kZWxzLlRleHRGaWVsZChibGFuaz1UcnVlLCBudWxsPVRydWUpCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>models.TextField(blank=True, null=True)</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNvdW50cnkgPSBDb3VudHJ5RmllbGQoYmxhbmtfbGFiZWw9JyhzZWxlY3QgY291bnRyeSknKQo=</text>
       </register>
-      <register name="7" type="4">
-        <text>, null=True</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICMgQ291bnRyeSA9PiBUT0RPOiBBZGQgdGhlIGh0dHBzOi8vZ2l0aHViLmNvbS9TbWlsZXlDaHJpcy9kamFuZ28tY291bnRyaWVzIHRvIG1hbmFnZSB0aGlzIGZpZWxkCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHVybChyJ2FwaS92MS9hdXRoLycsIGluY2x1ZGUoJ3Jlc3RfZnJhbWV3b3JrLnVybHMnLAo=</text>
+      <register name="8" type="4">
+        <text>#</text>
       </register>
-      <register name="9" type="4">
-        <text>)</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -458,8 +458,8 @@
         <entry>wq</entry>
         <entry>ww</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>W</entry>
         <entry>q</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
