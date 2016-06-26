@@ -15,12 +15,11 @@
         <mark key="." line="36" column="52" />
         <mark key="^" line="36" column="52" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" timestamp="1466948191285">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="349" column="47" />
-        <mark key="]" line="349" column="55" />
-        <mark key="^" line="349" column="55" />
-        <mark key="." line="349" column="55" />
+      <file name="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" timestamp="1466954738571">
+        <mark key="[" line="360" column="123" />
+        <mark key="]" line="361" column="38" />
+        <mark key="^" line="361" column="38" />
+        <mark key="." line="361" column="38" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/bamToBigwig/bam_to_bigwig.xml" timestamp="1466198401412">
         <mark key="[" line="3" column="48" />
@@ -258,12 +257,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2314" column="56" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
-      <jump line="2313" column="19" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
-      <jump line="2308" column="47" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
-      <jump line="2302" column="62" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
-      <jump line="2295" column="61" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
-      <jump line="2291" column="54" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
       <jump line="58" column="25" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/AugustusProcess.py" />
       <jump line="56" column="8" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/AugustusProcess.py" />
       <jump line="7" column="4" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/AugustusProcess.py" />
@@ -358,13 +351,19 @@
       <jump line="18" column="26" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/serializers.py" />
       <jump line="9" column="14" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" />
+      <jump line="10" column="32" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" />
+      <jump line="312" column="33" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" />
+      <jump line="207" column="27" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" />
+      <jump line="381" column="8" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" />
+      <jump line="338" column="4" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" />
+      <jump line="318" column="26" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>response</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAjIyBUT0RPOiBDYWxsIGFuIGFwaSB0byBnZXQgdGhlIGxvY2F0aW9uIGNvbXBsZXRlZCBiYXNlZCBvbiBsaW5rCg==</text>
       </register>
       <register name="-" type="4">
-        <text>response</text>
+        <text>save()</text>
       </register>
       <register name="/" type="4">
         <text>ApplicationVi</text>
@@ -372,35 +371,35 @@
       <register name="0" type="4">
         <text>infrastructure_regex_patter</text>
       </register>
-      <register name="1" type="4">
-        <text>response</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAjIyBUT0RPOiBDYWxsIGFuIGFwaSB0byBnZXQgdGhlIGxvY2F0aW9uIGNvbXBsZXRlZCBiYXNlZCBvbiBsaW5rCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IGZvciBnZW9sb2NhdGlvbl9hcGkgaW4gcmVzcG9uc2UuanNvbigpOg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAjIDMuIElmIHRoZSBQdWJsaWNTZXJ2aWNlIGRvZXMgbm90IGhhdmUgYSBMb2NhdGlvbiA9PiBDcmVhdGUgYSBuZXcgTG9jYXRpb24K</text>
       </register>
-      <register name="3" type="4">
-        <text>location</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAjIDIuIFBTIGhhcyBMb2NhdGlvbiBhbmQgYWxyZWFkeSBhIGxvbmdpdHVkZSAvIGxhdGl0dWRlID0+IFJlcGxhY2UgYnkgYSBuZXcgTG9jYXRpb24K</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAjIGFuZCBsb24vbGF0LCB1bmxlc3MgaXQgYWxyZWFkeSBleGlzdHMK</text>
       </register>
-      <register name="5" type="4">
-        <text>#</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAjIGJ1dCBubyBsb25naXR1ZGUgLyBsYXRpdHVkZSA9PiBSZXBsYWNlIGJ5IGEgbmV3IExvY2F0aW9uIG9iamVjdCB3aXRoIHRoZSBjb3VudHJ5Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAjIFRPRE86IE11bHRpcGxlIGNhc2VzIGhlcmU6IDEuIElmIHRoZSBQdWJsaWNTZXJ2aWNlIGFscmVhZHkgaGFzIGEgTG9jYXRpb24K</text>
       </register>
-      <register name="7" type="4">
-        <text>#</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChyZXNwb25zZS5qc29uKCkpCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>'freegeoip.net/'</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgiTG9jYXRpb24gb2JqZWN0IGlzOiB7MH0iLCBzZWxmLmxvY2F0aW9uKQo=</text>
       </register>
-      <register name="9" type="4">
-        <text>s</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmxvY2F0aW9uID0gTG9jYXRpb24ub2JqZWN0cy5nZXRfb3JfY3JlYXRlKGxvbmdpdHVkZT1qc29uX2dlb2xvY1sibG9uIl0sCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
