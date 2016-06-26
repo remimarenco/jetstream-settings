@@ -15,11 +15,10 @@
         <mark key="." line="36" column="52" />
         <mark key="^" line="36" column="52" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" timestamp="1466954738571">
-        <mark key="[" line="360" column="123" />
-        <mark key="]" line="361" column="38" />
-        <mark key="^" line="361" column="38" />
-        <mark key="." line="361" column="38" />
+      <file name="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" timestamp="1466956207624">
+        <mark key="[" line="334" column="0" />
+        <mark key="]" line="334" column="0" />
+        <mark key="." line="334" column="0" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/bamToBigwig/bam_to_bigwig.xml" timestamp="1466198401412">
         <mark key="[" line="3" column="48" />
@@ -39,11 +38,10 @@
         <mark key="^" line="13" column="73" />
         <mark key="." line="13" column="73" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/admin.py" timestamp="1466904658230">
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="49" />
-        <mark key="^" line="80" column="49" />
-        <mark key="." line="80" column="49" />
+      <file name="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/admin.py" timestamp="1466956186191">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1466214295125">
         <mark key="'" line="223" column="36" />
@@ -61,9 +59,9 @@
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/serializers.py" timestamp="1466905701111">
         <mark key="'" line="18" column="26" />
-        <mark key="]" line="695" column="0" />
-        <mark key="^" line="695" column="0" />
-        <mark key="." line="695" column="0" />
+        <mark key="]" line="703" column="0" />
+        <mark key="^" line="703" column="0" />
+        <mark key="." line="703" column="0" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/subtools.py" timestamp="1466489303771">
         <mark key="[" line="135" column="0" />
@@ -230,11 +228,11 @@
         <mark key="^" line="23" column="23" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/views.py" timestamp="1466902405280">
-        <mark key="'" line="474" column="6" />
-        <mark key="[" line="466" column="0" />
-        <mark key="]" line="467" column="0" />
-        <mark key="." line="467" column="0" />
-        <mark key="^" line="467" column="0" />
+        <mark key="'" line="482" column="6" />
+        <mark key="[" line="474" column="0" />
+        <mark key="]" line="475" column="0" />
+        <mark key="." line="475" column="0" />
+        <mark key="^" line="475" column="0" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/blastXmlToPsl/blastXmlToPsl.xml" timestamp="1465253216065">
         <mark key="[" line="16" column="0" />
@@ -360,10 +358,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjIyBUT0RPOiBDYWxsIGFuIGFwaSB0byBnZXQgdGhlIGxvY2F0aW9uIGNvbXBsZXRlZCBiYXNlZCBvbiBsaW5rCg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBlOTNkZWFkLi4uIEFkZCB0aGUgbmV3IG9iamVjdCBsb2NhdGlvbgo=</text>
       </register>
       <register name="-" type="4">
-        <text>save()</text>
+        <text encoding="base64">IEg=</text>
       </register>
       <register name="/" type="4">
         <text>ApplicationVi</text>
@@ -372,34 +370,34 @@
         <text>infrastructure_regex_patter</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIyBUT0RPOiBDYWxsIGFuIGFwaSB0byBnZXQgdGhlIGxvY2F0aW9uIGNvbXBsZXRlZCBiYXNlZCBvbiBsaW5rCg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBlOTNkZWFkLi4uIEFkZCB0aGUgbmV3IG9iamVjdCBsb2NhdGlvbgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIDMuIElmIHRoZSBQdWJsaWNTZXJ2aWNlIGRvZXMgbm90IGhhdmUgYSBMb2NhdGlvbiA9PiBDcmVhdGUgYSBuZXcgTG9jYXRpb24K</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIDIuIFBTIGhhcyBMb2NhdGlvbiBhbmQgYWxyZWFkeSBhIGxvbmdpdHVkZSAvIGxhdGl0dWRlID0+IFJlcGxhY2UgYnkgYSBuZXcgTG9jYXRpb24K</text>
+        <text encoding="base64">PDw8PDw8PEVBRAogICAgZGVmIHNhdmUoc2VsZiwgKmFyZ3MsICoqa3dhcmdzKToKICAgICAgICB0cnk6CiAgICAgICAgICAgIG9iaiA9IExvY2F0aW9uLm9iamVjdHMuZ2V0KGxhdGl0dWRlPXNlbGYubGF0aXR1ZGUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxvbmdpdHVkZT1zZWxmLmxvbmdpdHVkZSkKICAgICAgICBleGNlcHQgTG9jYXRpb24uRG9lc05vdEV4aXN0OgogICAgICAgICAgICBvYmogPSBMb2NhdGlvbihsYXRpdHVkZT1zZWxmLmxhdGl0dWRlLAogICAgICAgICAgICAgICAgICAgICAgICAgICBsb25naXR1ZGU9c2VsZi5sb25naXR1ZGUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvdW50cnk9c2VsZi5jb3VudHJ5KQogICAgICAgICAgICBzdXBlcihMb2NhdGlvbiwgc2VsZikuc2F2ZSgqYXJncywgKiprd2FyZ3MpCgoK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIGFuZCBsb24vbGF0LCB1bmxlc3MgaXQgYWxyZWFkeSBleGlzdHMK</text>
+      <register name="4" type="4">
+        <text encoding="base64">IEg=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIGJ1dCBubyBsb25naXR1ZGUgLyBsYXRpdHVkZSA9PiBSZXBsYWNlIGJ5IGEgbmV3IExvY2F0aW9uIG9iamVjdCB3aXRoIHRoZSBjb3VudHJ5Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBlOTNkZWFkLi4uIEFkZCB0aGUgbmV3IG9iamVjdCBsb2NhdGlvbgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IE11bHRpcGxlIGNhc2VzIGhlcmU6IDEuIElmIHRoZSBQdWJsaWNTZXJ2aWNlIGFscmVhZHkgaGFzIGEgTG9jYXRpb24K</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyZXNwb25zZS5qc29uKCkpCg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiTG9jYXRpb24gb2JqZWN0IGlzOiB7MH0iLCBzZWxmLmxvY2F0aW9uKQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiA5Yzc3YWJhMTQ5NTZhMDhlMTgxNGZiZmY1MWFiNzM0ZjkyYTVjZjEzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxvY2F0aW9uID0gTG9jYXRpb24ub2JqZWN0cy5nZXRfb3JfY3JlYXRlKGxvbmdpdHVkZT1qc29uX2dlb2xvY1sibG9uIl0sCg==</text>
+        <text encoding="base64">Cj09PT09PT0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
