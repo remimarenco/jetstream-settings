@@ -15,11 +15,6 @@
         <mark key="." line="36" column="52" />
         <mark key="^" line="36" column="52" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" timestamp="1466956207624">
-        <mark key="[" line="334" column="0" />
-        <mark key="]" line="334" column="0" />
-        <mark key="." line="334" column="0" />
-      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/bamToBigwig/bam_to_bigwig.xml" timestamp="1466198401412">
         <mark key="[" line="3" column="48" />
         <mark key="]" line="3" column="49" />
@@ -38,11 +33,6 @@
         <mark key="^" line="13" column="73" />
         <mark key="." line="13" column="73" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/admin.py" timestamp="1466956186191">
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="67" column="0" />
-      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1466214295125">
         <mark key="'" line="223" column="36" />
         <mark key="[" line="46" column="66" />
@@ -59,9 +49,6 @@
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/serializers.py" timestamp="1466905701111">
         <mark key="'" line="18" column="26" />
-        <mark key="]" line="703" column="0" />
-        <mark key="^" line="703" column="0" />
-        <mark key="." line="703" column="0" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/subtools.py" timestamp="1466489303771">
         <mark key="[" line="135" column="0" />
@@ -141,10 +128,10 @@
         <mark key="." line="21" column="81" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/urls.py" timestamp="1466903881923">
-        <mark key="[" line="129" column="8" />
-        <mark key="]" line="129" column="38" />
-        <mark key="." line="129" column="38" />
-        <mark key="^" line="129" column="38" />
+        <mark key="[" line="38" column="8" />
+        <mark key="]" line="38" column="38" />
+        <mark key="." line="38" column="38" />
+        <mark key="^" line="38" column="38" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/.shed.yml" timestamp="1463749038911">
         <mark key="[" line="14" column="0" />
@@ -228,11 +215,7 @@
         <mark key="^" line="23" column="23" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/views.py" timestamp="1466902405280">
-        <mark key="'" line="482" column="6" />
-        <mark key="[" line="474" column="0" />
-        <mark key="]" line="475" column="0" />
-        <mark key="." line="475" column="0" />
-        <mark key="^" line="475" column="0" />
+        <mark key="'" line="474" column="6" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/blastXmlToPsl/blastXmlToPsl.xml" timestamp="1465253216065">
         <mark key="[" line="16" column="0" />
@@ -240,11 +223,10 @@
         <mark key="." line="16" column="7" />
         <mark key="^" line="16" column="7" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/cloudlaunch/settings.py" timestamp="1466896604265">
-        <mark key="[" line="71" column="5" />
-        <mark key="]" line="71" column="20" />
-        <mark key="." line="71" column="20" />
-        <mark key="^" line="71" column="20" />
+      <file name="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/cloudlaunch/settings.py" timestamp="1466963080793">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bed.py" timestamp="1466213294780">
         <mark key="'" line="62" column="26" />
@@ -358,7 +340,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBlOTNkZWFkLi4uIEFkZCB0aGUgbmV3IG9iamVjdCBsb2NhdGlvbgo=</text>
+        <text encoding="base64">ICAgICdkamFuZ28uY29udHJpYi5zdGF0aWNmaWxlcycK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IEg=</text>
@@ -370,34 +352,34 @@
         <text>infrastructure_regex_patter</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBlOTNkZWFkLi4uIEFkZCB0aGUgbmV3IG9iamVjdCBsb2NhdGlvbgo=</text>
+        <text encoding="base64">ICAgICdkamFuZ28uY29udHJpYi5zdGF0aWNmaWxlcycK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PEVBRAogICAgZGVmIHNhdmUoc2VsZiwgKmFyZ3MsICoqa3dhcmdzKToKICAgICAgICB0cnk6CiAgICAgICAgICAgIG9iaiA9IExvY2F0aW9uLm9iamVjdHMuZ2V0KGxhdGl0dWRlPXNlbGYubGF0aXR1ZGUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxvbmdpdHVkZT1zZWxmLmxvbmdpdHVkZSkKICAgICAgICBleGNlcHQgTG9jYXRpb24uRG9lc05vdEV4aXN0OgogICAgICAgICAgICBvYmogPSBMb2NhdGlvbihsYXRpdHVkZT1zZWxmLmxhdGl0dWRlLAogICAgICAgICAgICAgICAgICAgICAgICAgICBsb25naXR1ZGU9c2VsZi5sb25naXR1ZGUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvdW50cnk9c2VsZi5jb3VudHJ5KQogICAgICAgICAgICBzdXBlcihMb2NhdGlvbiwgc2VsZikuc2F2ZSgqYXJncywgKiprd2FyZ3MpCgoK</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">IEg=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Pj4+Pj4+PiBlOTNkZWFkLi4uIEFkZCB0aGUgbmV3IG9iamVjdCBsb2NhdGlvbgo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="3" type="2">
         <text encoding="base64">PT09PT09PQo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">PDw8PDw8PEVBRAogICAgZGVmIHNhdmUoc2VsZiwgKmFyZ3MsICoqa3dhcmdzKToKICAgICAgICB0cnk6CiAgICAgICAgICAgIG9iaiA9IExvY2F0aW9uLm9iamVjdHMuZ2V0KGxhdGl0dWRlPXNlbGYubGF0aXR1ZGUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxvbmdpdHVkZT1zZWxmLmxvbmdpdHVkZSkKICAgICAgICBleGNlcHQgTG9jYXRpb24uRG9lc05vdEV4aXN0OgogICAgICAgICAgICBvYmogPSBMb2NhdGlvbihsYXRpdHVkZT1zZWxmLmxhdGl0dWRlLAogICAgICAgICAgICAgICAgICAgICAgICAgICBsb25naXR1ZGU9c2VsZi5sb25naXR1ZGUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvdW50cnk9c2VsZi5jb3VudHJ5KQogICAgICAgICAgICBzdXBlcihMb2NhdGlvbiwgc2VsZikuc2F2ZSgqYXJncywgKiprd2FyZ3MpCgoK</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">IEg=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBlOTNkZWFkLi4uIEFkZCB0aGUgbmV3IG9iamVjdCBsb2NhdGlvbgo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Pj4+Pj4+PiA5Yzc3YWJhMTQ5NTZhMDhlMTgxNGZiZmY1MWFiNzM0ZjkyYTVjZjEzCg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cj09PT09PT0K</text>
+        <text encoding="base64">Pj4+Pj4+PiA5Yzc3YWJhMTQ5NTZhMDhlMTgxNGZiZmY1MWFiNzM0ZjkyYTVjZjEzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
