@@ -18,6 +18,12 @@
       <file name="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" timestamp="1466970234731">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/cloudlaunch-ui/tsconfig.json" timestamp="1466984165413">
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="2" column="17" />
+        <mark key="^" line="2" column="17" />
+        <mark key="." line="2" column="17" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/bamToBigwig/bam_to_bigwig.xml" timestamp="1466198401412">
         <mark key="[" line="3" column="48" />
         <mark key="]" line="3" column="49" />
@@ -36,14 +42,11 @@
         <mark key="^" line="13" column="73" />
         <mark key="." line="13" column="73" />
       </file>
-      <file name="/a.dummy" timestamp="1466981641959">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/tests.py" timestamp="1466981729733">
-        <mark key="[" line="148" column="23" />
-        <mark key="]" line="148" column="23" />
-        <mark key="^" line="163" column="25" />
-        <mark key="." line="148" column="23" />
+      <file name="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/tests.py" timestamp="1466984560774">
+        <mark key="[" line="158" column="54" />
+        <mark key="]" line="158" column="53" />
+        <mark key="^" line="158" column="53" />
+        <mark key="." line="158" column="53" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1466214295125">
         <mark key="'" line="223" column="36" />
@@ -139,11 +142,11 @@
         <mark key="^" line="16" column="66" />
         <mark key="." line="21" column="81" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/urls.py" timestamp="1466981699264">
-        <mark key="[" line="129" column="75" />
-        <mark key="]" line="130" column="40" />
-        <mark key="^" line="130" column="40" />
-        <mark key="." line="130" column="40" />
+      <file name="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/urls.py" timestamp="1466983961562">
+        <mark key="[" line="38" column="67" />
+        <mark key="]" line="38" column="78" />
+        <mark key="^" line="38" column="78" />
+        <mark key="." line="38" column="78" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/.shed.yml" timestamp="1463749038911">
         <mark key="[" line="14" column="0" />
@@ -226,7 +229,7 @@
         <mark key="." line="23" column="23" />
         <mark key="^" line="23" column="23" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/views.py" timestamp="1466981618383">
+      <file name="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/views.py" timestamp="1466983420970">
         <mark key="'" line="482" column="6" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/blastXmlToPsl/blastXmlToPsl.xml" timestamp="1465253216065">
@@ -352,10 +355,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>application-list</text>
+        <text>application</text>
       </register>
       <register name="-" type="4">
-        <text>application-list</text>
+        <text>application</text>
       </register>
       <register name="/" type="4">
         <text>ApplicationVi</text>
@@ -364,34 +367,34 @@
         <text>infrastructure_regex_patter</text>
       </register>
       <register name="1" type="4">
-        <text>application-list</text>
+        <text>application</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>client</text>
+        <text>application-list</text>
       </register>
       <register name="3" type="4">
-        <text>sponsor_data</text>
+        <text>client</text>
       </register>
       <register name="4" type="4">
-        <text>SPONSOR_DATA</text>
+        <text>sponsor_data</text>
       </register>
       <register name="5" type="4">
-        <text>app_data</text>
+        <text>SPONSOR_DATA</text>
       </register>
       <register name="6" type="4">
+        <text>app_data</text>
+      </register>
+      <register name="7" type="4">
         <text>application(</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICdkamFuZ28uY29udHJpYi5zdGF0aWNmaWxlcycK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBlOTNkZWFkLi4uIEFkZCB0aGUgbmV3IG9iamVjdCBsb2NhdGlvbgo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBlOTNkZWFkLi4uIEFkZCB0aGUgbmV3IG9iamVjdCBsb2NhdGlvbgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
