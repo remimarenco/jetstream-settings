@@ -15,12 +15,12 @@
         <mark key="." line="36" column="52" />
         <mark key="^" line="36" column="52" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" timestamp="1466946491410">
-        <mark key="'" line="8" column="47" />
-        <mark key="[" line="337" column="72" />
-        <mark key="]" line="315" column="8" />
-        <mark key="^" line="337" column="71" />
-        <mark key="." line="315" column="8" />
+      <file name="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" timestamp="1466948191285">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="349" column="47" />
+        <mark key="]" line="349" column="55" />
+        <mark key="^" line="349" column="55" />
+        <mark key="." line="349" column="55" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/bamToBigwig/bam_to_bigwig.xml" timestamp="1466198401412">
         <mark key="[" line="3" column="48" />
@@ -258,7 +258,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2318" column="19" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
       <jump line="2314" column="56" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
       <jump line="2313" column="19" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
       <jump line="2308" column="47" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/model/__init__.py" />
@@ -347,7 +346,6 @@
       <jump line="108" column="15" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" />
       <jump line="107" column="18" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" />
       <jump line="119" column="4" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" />
       <jump line="292" column="4" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" />
       <jump line="21" column="48" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/views.py" />
       <jump line="464" column="6" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/views.py" />
@@ -358,13 +356,15 @@
       <jump line="417" column="33" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/serializers.py" />
       <jump line="19" column="47" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/serializers.py" />
       <jump line="18" column="26" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/serializers.py" />
+      <jump line="9" column="14" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>response</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>response</text>
       </register>
       <register name="/" type="4">
         <text>ApplicationVi</text>
@@ -373,35 +373,34 @@
         <text>infrastructure_regex_patter</text>
       </register>
       <register name="1" type="4">
-        <text>s</text>
+        <text>response</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">IGZvciBnZW9sb2NhdGlvbl9hcGkgaW4gcmVzcG9uc2UuanNvbigpOg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>location</text>
       </register>
       <register name="4" type="4">
-        <text>force_insert=False, force_update=False, using=None,
-             update_fields=None</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHVybChwdWJsaWNfc2VydmljZXNfcmVnZXhfcGF0dGVybiwgaW5jbHVkZShwdWJsaWNfc2VydmljZXNfcm91dGVyLikpCg==</text>
+      <register name="5" type="4">
+        <text>#</text>
       </register>
       <register name="6" type="4">
-        <text>(</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="7" type="4">
-        <text>.</text>
+        <text>#</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>'freegeoip.net/'</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvdW50cnkgPSBDb3VudHJ5RmllbGQoY291bnRyeV9kaWN0PVRydWUpCg==</text>
+      <register name="9" type="4">
+        <text>s</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
