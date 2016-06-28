@@ -74,6 +74,7 @@
   <component name="PyTestFrameworkService">
     <option name="SDK_TO_PYTEST">
       <map>
+        <entry key="/Library/Frameworks/Python.framework/Versions/3.5/bin/python3.5" value="false" />
         <entry key="$USER_HOME$/Google_Drive/Dev/galaxy_env/bin/python" value="false" />
         <entry key="$USER_HOME$/Google_Drive/Dev/launcher/venv/bin/python3.5" value="false" />
         <entry key="$USER_HOME$/Google_Drive/Dev/planemo_remi_env/bin/python" value="false" />
@@ -83,6 +84,7 @@
     </option>
     <option name="SDK_TO_NOSETEST">
       <map>
+        <entry key="/Library/Frameworks/Python.framework/Versions/3.5/bin/python3.5" value="false" />
         <entry key="$USER_HOME$/Google_Drive/Dev/galaxy_env/bin/python" value="true" />
         <entry key="$USER_HOME$/Google_Drive/Dev/launcher/venv/bin/python3.5" value="false" />
         <entry key="$USER_HOME$/Google_Drive/Dev/planemo_remi_env/bin/python" value="false" />
@@ -92,6 +94,7 @@
     </option>
     <option name="SDK_TO_ATTEST">
       <map>
+        <entry key="/Library/Frameworks/Python.framework/Versions/3.5/bin/python3.5" value="false" />
         <entry key="$USER_HOME$/Google_Drive/Dev/galaxy_env/bin/python" value="false" />
         <entry key="$USER_HOME$/Google_Drive/Dev/launcher/venv/bin/python3.5" value="false" />
         <entry key="$USER_HOME$/Google_Drive/Dev/planemo_remi_env/bin/python" value="false" />

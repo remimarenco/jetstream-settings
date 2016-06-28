@@ -15,8 +15,8 @@
         <mark key="." line="36" column="52" />
         <mark key="^" line="36" column="52" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" timestamp="1466970234731">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" timestamp="1466986208518">
+        <mark key="'" line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/cloudlaunch-ui/tsconfig.json" timestamp="1466984165413">
         <mark key="[" line="2" column="18" />
@@ -30,11 +30,11 @@
         <mark key="^" line="27" column="49" />
         <mark key="." line="3" column="49" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/pslToBed/pslToBed.xml" timestamp="1466189637021">
-        <mark key="[" line="7" column="16" />
-        <mark key="]" line="7" column="16" />
-        <mark key="." line="7" column="16" />
-        <mark key="^" line="7" column="16" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/pslToBed/pslToBed.xml" timestamp="1467128684938">
+        <mark key="[" line="8" column="8" />
+        <mark key="]" line="8" column="7" />
+        <mark key="." line="8" column="7" />
+        <mark key="^" line="8" column="7" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Datatype.py" timestamp="1466212879892">
         <mark key="[" line="13" column="76" />
@@ -42,18 +42,18 @@
         <mark key="^" line="13" column="73" />
         <mark key="." line="13" column="73" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/tests.py" timestamp="1466984560774">
-        <mark key="[" line="158" column="54" />
-        <mark key="]" line="158" column="53" />
-        <mark key="^" line="158" column="53" />
-        <mark key="." line="158" column="53" />
+      <file name="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/tests.py" timestamp="1466988987181">
+        <mark key="[" line="184" column="37" />
+        <mark key="]" line="184" column="37" />
+        <mark key="." line="184" column="37" />
+        <mark key="^" line="184" column="37" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1466214295125">
-        <mark key="'" line="223" column="36" />
-        <mark key="[" line="46" column="66" />
-        <mark key="]" line="46" column="69" />
-        <mark key="^" line="46" column="69" />
-        <mark key="." line="46" column="69" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1467055206600">
+        <mark key="'" line="189" column="36" />
+        <mark key="[" line="179" column="40" />
+        <mark key="]" line="178" column="54" />
+        <mark key="^" line="178" column="54" />
+        <mark key="." line="178" column="54" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/todo.md" timestamp="1465930227366">
         <mark key="'" line="12" column="0" />
@@ -142,11 +142,12 @@
         <mark key="^" line="16" column="66" />
         <mark key="." line="21" column="81" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/urls.py" timestamp="1466983961562">
-        <mark key="[" line="38" column="67" />
-        <mark key="]" line="38" column="78" />
-        <mark key="^" line="38" column="78" />
-        <mark key="." line="38" column="78" />
+      <file name="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/urls.py" timestamp="1466989054444">
+        <mark key="'" line="38" column="66" />
+        <mark key="[" line="129" column="74" />
+        <mark key="]" line="38" column="66" />
+        <mark key="^" line="38" column="66" />
+        <mark key="." line="38" column="66" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/.shed.yml" timestamp="1463749038911">
         <mark key="[" line="14" column="0" />
@@ -252,9 +253,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="8" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/AugustusProcess.py" />
-      <jump line="7" column="4" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/AugustusProcess.py" />
-      <jump line="7" column="4" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bed.py" />
       <jump line="63" column="4" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" />
       <jump line="65" column="22" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" />
       <jump line="51" column="22" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" />
@@ -352,49 +350,52 @@
       <jump line="318" column="26" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" />
       <jump line="362" column="21" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" />
+      <jump line="384" column="88" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" />
+      <jump line="38" column="66" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/urls.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>application</text>
+        <text>$__tool_directory__/</text>
       </register>
       <register name="-" type="4">
-        <text>application</text>
+        <text>$__tool_directory__/</text>
       </register>
       <register name="/" type="4">
         <text>ApplicationVi</text>
       </register>
-      <register name="0" type="4">
-        <text>infrastructure_regex_patter</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKFB1YmxpY1NlcnZpY2VUZXN0cy5vYmplY3RzLmdldCgpLm5hbWUsICdHYWxheHkgTWFpbicpCg==</text>
       </register>
       <register name="1" type="4">
-        <text>application</text>
+        <text>$__tool_directory__/</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>application-list</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBjaG1vZCAreCAkX190b29sX2RpcmVjdG9yeV9fL3BzbFRvQmVkCg==</text>
       </register>
       <register name="3" type="4">
-        <text>client</text>
+        <text encoding="base64">ICAgICAgICA8dGVzdD4KICAgICAgICAgICAgPHBhcmFtIG5hbWU9IkZhc3RhX0ZpbGUiIHZhbHVlPSJkYmlhMy5mYSIvPgogICAgICAgICAgICA8cmVwZWF0IG5hbWU9ImZvcm1hdCI+CiAgICAgICAgICAgICAgICA8Y29uZGl0aW9uYWwgbmFtZT0iZm9ybWF0Q2hvaWNlIj4KICAgICAgICAgICAgICAgICAgICA8cGFyYW0gbmFtZT0iZm9ybWF0X3NlbGVjdCIgdmFsdWU9ImdmZjMiLz4KICAgICAgICAgICAgICAgICAgICA8cGFyYW0gbmFtZT0iR0ZGMyIgdmFsdWU9ImF1Z3VzdHVzRGJpYTMuZ2ZmMyIvPgogICAgICAgICAgICAgICAgPC9jb25kaXRpb25hbD4KICAgICAgICAgICAgPC9yZXBlYXQ+CiAgICAgICAgICAgIDxyZXBlYXQgbmFtZT0iZm9ybWF0Ij4KICAgICAgICAgICAgICAgIDxwYXJhbSBuYW1lPSJCRURfc2ltcGxlX3JlcGVhdHMiIHZhbHVlPSJkYmlhM190cmZCaWdfdW5zb3J0ZWQuYmVkIi8+CiAgICAgICAgICAgICAgICA8IS0tIFRPRE86IEFzayB3aHkgdGhlIHRlc3RzIGFyZSBub3QgcGFzc2luZyB3aXRoIHRoaXMgeG1sOgogICAgICAgICAgICAgICAgICAgICBFcnJvciBjcmVhdGluZyBhIGpvYiBmb3IgdGhlc2UgdG9vbCBpbnB1dHMgLSBFcnJvciBleGVjdXRpbmcgdG9vbDogJ05vbmVUeXBlJyBvYmplY3QgaGFzIG5vIGF0dHJpYnV0ZSAnY3VycmVudF9oaXN0b3J5JwogICAgICAgICAgICAgICAgPGNvbmRpdGlvbmFsIG5hbWU9ImZvcm1hdENob2ljZSI+CiAgICAgICAgICAgICAgICAgICAgPHBhcmFtIG5hbWU9ImZvcm1hdF9zZWxlY3QiIHZhbHVlPSJiZWQiLz4KICAgICAgICAgICAgICAgICAgICA8Y29uZGl0aW9uYWwgbmFtZT0iYmVkQ2hvaWNlIj4KICAgICAgICAgICAgICAgICAgICAgICAgPHBhcmFtIG5hbWU9ImJlZF9zZWxlY3QiIHZhbHVlPSJiZWRfc2ltcGxlX3JlcGVhdHNfb3B0aW9uIi8+CiAgICAgICAgICAgICAgICAgICAgICAgIDxwYXJhbSBuYW1lPSJCRURfc2ltcGxlX3JlcGVhdHMiIHZhbHVlPSJkYmlhM190cmZCaWdfdW5zb3J0ZWQuYmVkIi8+CiAgICAgICAgICAgICAgICAgICAgPC9jb25kaXRpb25hbD4KICAgICAgICAgICAgICAgIDwvY29uZGl0aW9uYWw+CiAgICAgICAgICAgICAgICAtLT4KICAgICAgICAgICAgPC9yZXBlYXQ+CgogICAgICAgICAgICA8b3V0cHV0IG5hbWU9Im91dHB1dCI+CiAgICAgICAgICAgICAgICA8YXNzZXJ0X2NvbnRlbnRzPgogICAgICAgICAgICAgICAgICAgIDxoYXNfdGV4dCB0ZXh0PSJteUh1YiIvPgogICAgICAgICAgICAgICAgPC9hc3NlcnRfY29udGVudHM+CiAgICAgICAgICAgICAgICA8YXNzZXJ0X2NvbnRlbnRzPgogICAgICAgICAgICAgICAgICAgIDxoYXNfdGV4dCB0ZXh0PSJkYmlhM190cmZCaWcuYmIiLz4KICAgICAgICAgICAgICAgIDwvYXNzZXJ0X2NvbnRlbnRzPgogICAgICAgICAgICAgICAgPGFzc2VydF9jb250ZW50cz4KICAgICAgICAgICAgICAgICAgICA8aGFzX3RleHQgdGV4dD0iU0FPRE9BaWkgcXd3cW9kOTI5MjEiLz4KICAgICAgICAgICAgICAgIDwvYXNzZXJ0X2NvbnRlbnRzPgogICAgICAgICAgICA8L291dHB1dD4KICAgICAgICA8L3Rlc3Q+</text>
       </register>
       <register name="4" type="4">
-        <text>sponsor_data</text>
+        <text>augustusDbia3</text>
       </register>
       <register name="5" type="4">
-        <text>SPONSOR_DATA</text>
+        <text>gff3</text>
       </register>
-      <register name="6" type="4">
-        <text>app_data</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="4">
-        <text>application(</text>
+        <text encoding="base64">PHRlc3Q+CiAgICAgICAgICAgIDxwYXJhbSBuYW1lPSJGYXN0YV9GaWxlIiB2YWx1ZT0iZGJpYTMuZmEiLz4KICAgICAgICAgICAgPHBhcmFtIG5hbWU9IkdGRjMiIHZhbHVlPSJhdWd1c3R1c0RiaWEzLmdmZjMiLz4KICAgICAgICAgICAgPG91dHB1dCBuYW1lPSJvdXRwdXQiIGZpbGU9ImF1Z3VzdHVzT3V0cHV0Lmh0bWwiIGxpbmVzX2RpZmY9IjIiPgogICAgICAgICAgICAgICAgPGV4dHJhX2ZpbGVzIHR5cGU9ImRpcmVjdG9yeSIgdmFsdWU9Im15SHViIi8+CiAgICAgICAgICAgICAgICA8ZXh0cmFfZmlsZXMgdHlwZT0iZmlsZSIgbmFtZT0ibXlIdWIvZGJpYTMvdHJhY2tzL2F1Z3VzdHVzRGJpYTMuYmIiIHZhbHVlPSJhdWd1c3R1c0RiaWEzLmJiIi8+CiAgICAgICAgICAgIDwvb3V0cHV0PgogICAgICAgIDwvdGVzdD4=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICdkamFuZ28uY29udHJpYi5zdGF0aWNmaWxlcycK</text>
+      <register name="8" type="4">
+        <text>_create_sponsor(PublicServiceTests.SPONSOR_DATA)</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBlOTNkZWFkLi4uIEFkZCB0aGUgbmV3IG9iamVjdCBsb2NhdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICB0b3RvID0gUHVibGljU2VydmljZVRlc3RzLlNQT05TT1JfREEK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
