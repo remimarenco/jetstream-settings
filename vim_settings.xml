@@ -9,33 +9,6 @@
         <mark key="." line="0" column="26" />
         <mark key="^" line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/trfbig/tool_dependencies.xml" timestamp="1467165480062">
-        <mark key="[" line="36" column="49" />
-        <mark key="]" line="36" column="52" />
-        <mark key="." line="36" column="52" />
-        <mark key="^" line="36" column="52" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" timestamp="1466986208518">
-        <mark key="'" line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/cloudlaunch-ui/tsconfig.json" timestamp="1466984165413">
-        <mark key="[" line="2" column="18" />
-        <mark key="]" line="2" column="17" />
-        <mark key="^" line="2" column="17" />
-        <mark key="." line="2" column="17" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/bamToBigwig/bam_to_bigwig.xml" timestamp="1466198401412">
-        <mark key="[" line="3" column="48" />
-        <mark key="]" line="3" column="49" />
-        <mark key="^" line="27" column="49" />
-        <mark key="." line="3" column="49" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/pslToBed/pslToBed.xml" timestamp="1467128684938">
-        <mark key="[" line="8" column="8" />
-        <mark key="]" line="8" column="7" />
-        <mark key="." line="8" column="7" />
-        <mark key="^" line="8" column="7" />
-      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Datatype.py" timestamp="1466212879892">
         <mark key="[" line="13" column="76" />
         <mark key="]" line="13" column="73" />
@@ -48,34 +21,6 @@
         <mark key="." line="184" column="37" />
         <mark key="^" line="184" column="37" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1467055206600">
-        <mark key="'" line="189" column="36" />
-        <mark key="[" line="179" column="40" />
-        <mark key="]" line="178" column="54" />
-        <mark key="^" line="178" column="54" />
-        <mark key="." line="178" column="54" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/todo.md" timestamp="1465930227366">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="29" column="47" />
-        <mark key="^" line="4" column="14" />
-        <mark key="." line="26" column="0" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/serializers.py" timestamp="1466905701111">
-        <mark key="'" line="18" column="26" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/subtools.py" timestamp="1466489303771">
-        <mark key="[" line="135" column="0" />
-        <mark key="]" line="135" column="0" />
-        <mark key="." line="135" column="0" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/TrackDb.py" timestamp="1466213346722">
-        <mark key="[" line="15" column="42" />
-        <mark key="]" line="16" column="31" />
-        <mark key="^" line="16" column="31" />
-        <mark key="." line="16" column="31" />
-      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/BigWig.py" timestamp="1466212976835">
         <mark key="'" line="50" column="8" />
         <mark key="[" line="22" column="24" />
@@ -83,58 +28,17 @@
         <mark key="." line="22" column="34" />
         <mark key="^" line="22" column="34" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/forms.py" timestamp="1466875789134">
-        <mark key="[" line="5" column="29" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/display_applications/ucsc/trackHub.xml" timestamp="1466211928664">
-        <mark key="[" line="3" column="104" />
-        <mark key="]" line="3" column="103" />
-        <mark key="." line="3" column="103" />
-        <mark key="^" line="3" column="103" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Gff3.py" timestamp="1466779746843">
-        <mark key="'" line="23" column="13" />
-        <mark key="[" line="23" column="28" />
-        <mark key="]" line="23" column="47" />
-        <mark key="." line="23" column="47" />
-        <mark key="^" line="23" column="47" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/tool_dependencies.xml" timestamp="1465426810812">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="93" column="17" />
-        <mark key="." line="12" column="6" />
-        <mark key="^" line="12" column="6" />
+      <file name="$USER_HOME$/Google_Drive/Dev/cloudlaunch-ui/app/main.ts" timestamp="1467171923265">
+        <mark key="[" line="7" column="29" />
+        <mark key="]" line="7" column="53" />
+        <mark key="." line="7" column="53" />
+        <mark key="^" line="7" column="53" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubaDataType/huba.xml" timestamp="1463187667364">
         <mark key="[" line="0" column="13" />
         <mark key="]" line="0" column="25" />
         <mark key="." line="0" column="25" />
         <mark key="^" line="0" column="25" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_bjorn/scripts/communication/template/communication.html" timestamp="1465138203248">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="474" column="71" />
-        <mark key="]" line="474" column="95" />
-        <mark key="^" line="474" column="95" />
-        <mark key="." line="474" column="95" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubaDataType/trackhub.xml" timestamp="1463192344261">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="129" />
-        <mark key="." line="3" column="45" />
-        <mark key="^" line="3" column="45" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/drf_helpers.py" timestamp="1466875994032">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bam.py" timestamp="1466456379816">
-        <mark key="[" line="22" column="35" />
-        <mark key="]" line="22" column="34" />
-        <mark key="." line="22" column="34" />
-        <mark key="^" line="22" column="34" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/README.md" timestamp="1466777317948">
         <mark key="[" line="21" column="81" />
@@ -167,17 +71,163 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/test-data/add_datatype/datatypes_conf.xml" timestamp="1462563060424">
-        <mark key="[" line="444" column="0" />
-        <mark key="]" line="444" column="1" />
-        <mark key="." line="444" column="1" />
-        <mark key="^" line="444" column="1" />
+      <file name="$USER_HOME$/Google_Drive/Dev/cloudlaunch-ui/app/components/public-appliances-maps.component.css" timestamp="1467172153814">
+        <mark key="[" line="1" column="18" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/BedSimpleRepeats.py" timestamp="1466212982697">
         <mark key="[" line="21" column="24" />
         <mark key="]" line="21" column="23" />
         <mark key="^" line="21" column="23" />
         <mark key="." line="21" column="23" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_bjorn/scripts/communication/communication_server.py" timestamp="1466272456982">
+        <mark key="[" line="34" column="76" />
+        <mark key="]" line="35" column="17" />
+        <mark key="." line="35" column="17" />
+        <mark key="^" line="35" column="17" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/views.py" timestamp="1466983420970">
+        <mark key="'" line="482" column="6" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/cloudlaunch-ui/app/components/public-appliances.component.html" timestamp="1467172967045">
+        <mark key="[" line="13" column="86" />
+        <mark key="]" line="13" column="89" />
+        <mark key="." line="13" column="89" />
+        <mark key="^" line="13" column="89" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/cloudlaunch-ui/app/components/public-appliances-maps.component.html" timestamp="1467172700750">
+        <mark key="[" line="6" column="32" />
+        <mark key="]" line="6" column="31" />
+        <mark key="^" line="6" column="31" />
+        <mark key="." line="6" column="31" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bed.py" timestamp="1466213294780">
+        <mark key="'" line="62" column="26" />
+        <mark key="[" line="29" column="29" />
+        <mark key="]" line="29" column="45" />
+        <mark key="^" line="29" column="28" />
+        <mark key="." line="29" column="29" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/trfbig/tool_dependencies.xml" timestamp="1467165480062">
+        <mark key="[" line="36" column="49" />
+        <mark key="]" line="36" column="52" />
+        <mark key="." line="36" column="52" />
+        <mark key="^" line="36" column="52" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" timestamp="1466986208518">
+        <mark key="'" line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/cloudlaunch-ui/tsconfig.json" timestamp="1466984165413">
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="2" column="17" />
+        <mark key="^" line="2" column="17" />
+        <mark key="." line="2" column="17" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/bamToBigwig/bam_to_bigwig.xml" timestamp="1466198401412">
+        <mark key="[" line="3" column="48" />
+        <mark key="]" line="3" column="49" />
+        <mark key="^" line="27" column="49" />
+        <mark key="." line="3" column="49" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/pslToBed/pslToBed.xml" timestamp="1467128684938">
+        <mark key="[" line="8" column="8" />
+        <mark key="]" line="8" column="7" />
+        <mark key="." line="8" column="7" />
+        <mark key="^" line="8" column="7" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1467055206600">
+        <mark key="'" line="189" column="36" />
+        <mark key="[" line="179" column="40" />
+        <mark key="]" line="178" column="54" />
+        <mark key="^" line="178" column="54" />
+        <mark key="." line="178" column="54" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/todo.md" timestamp="1465930227366">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="29" column="47" />
+        <mark key="^" line="4" column="14" />
+        <mark key="." line="26" column="0" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/serializers.py" timestamp="1466905701111">
+        <mark key="'" line="18" column="26" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/TrackDb.py" timestamp="1466213346722">
+        <mark key="[" line="15" column="42" />
+        <mark key="]" line="16" column="31" />
+        <mark key="^" line="16" column="31" />
+        <mark key="." line="16" column="31" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/cloudlaunch-ui/systemjs.config.js" timestamp="1467170642464">
+        <mark key="[" line="11" column="29" />
+        <mark key="]" line="11" column="40" />
+        <mark key="." line="11" column="40" />
+        <mark key="^" line="11" column="40" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/cloudlaunch-ui/app/components/public-appliances-maps.component.ts" timestamp="1467172322776">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/display_applications/ucsc/trackHub.xml" timestamp="1466211928664">
+        <mark key="[" line="3" column="104" />
+        <mark key="]" line="3" column="103" />
+        <mark key="." line="3" column="103" />
+        <mark key="^" line="3" column="103" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Gff3.py" timestamp="1466779746843">
+        <mark key="'" line="23" column="13" />
+        <mark key="[" line="23" column="28" />
+        <mark key="]" line="23" column="47" />
+        <mark key="." line="23" column="47" />
+        <mark key="^" line="23" column="47" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/tool_dependencies.xml" timestamp="1465426810812">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="93" column="17" />
+        <mark key="." line="12" column="6" />
+        <mark key="^" line="12" column="6" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_bjorn/scripts/communication/template/communication.html" timestamp="1465138203248">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="474" column="71" />
+        <mark key="]" line="474" column="95" />
+        <mark key="^" line="474" column="95" />
+        <mark key="." line="474" column="95" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubaDataType/trackhub.xml" timestamp="1463192344261">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="129" />
+        <mark key="." line="3" column="45" />
+        <mark key="^" line="3" column="45" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bam.py" timestamp="1466456379816">
+        <mark key="[" line="22" column="35" />
+        <mark key="]" line="22" column="34" />
+        <mark key="." line="22" column="34" />
+        <mark key="^" line="22" column="34" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/cloudlaunch-ui/.gitignore" timestamp="1467171395620">
+        <mark key="[" line="65" column="8" />
+        <mark key="]" line="68" column="24" />
+        <mark key="^" line="68" column="24" />
+        <mark key="." line="68" column="24" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/test-data/add_datatype/datatypes_conf.xml" timestamp="1462563060424">
+        <mark key="[" line="444" column="0" />
+        <mark key="]" line="444" column="1" />
+        <mark key="." line="444" column="1" />
+        <mark key="^" line="444" column="1" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/cloudlaunch-ui/app/models/public_service.ts" timestamp="1467172828787">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="26" column="9" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/bamToBigwig/tool_dependencies.xml" timestamp="1465426784513">
         <mark key="[" line="6" column="42" />
@@ -191,20 +241,11 @@
         <mark key="^" line="41" column="52" />
         <mark key="." line="41" column="52" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/templates/trackDb/layout.txt" timestamp="1466213518076">
-        <mark key="[" line="9" column="32" />
-      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/TrackHub.py" timestamp="1466212235487">
         <mark key="[" line="16" column="38" />
         <mark key="]" line="17" column="42" />
         <mark key="." line="17" column="42" />
         <mark key="^" line="17" column="42" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_bjorn/scripts/communication/communication_server.py" timestamp="1466272456982">
-        <mark key="[" line="34" column="76" />
-        <mark key="]" line="35" column="17" />
-        <mark key="." line="35" column="17" />
-        <mark key="^" line="35" column="17" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" timestamp="1466212296878">
         <mark key="[" line="144" column="0" />
@@ -212,16 +253,11 @@
         <mark key="^" line="140" column="80" />
         <mark key="." line="144" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/client/galaxy/style/less/base.less" timestamp="1466429330841">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/cloudlaunch-ui/app/components/public-appliances.component.ts" timestamp="1467167052488">
-        <mark key="[" line="12" column="40" />
-        <mark key="]" line="12" column="38" />
-        <mark key="^" line="12" column="38" />
-        <mark key="." line="12" column="38" />
+      <file name="$USER_HOME$/Google_Drive/Dev/cloudlaunch-ui/app/components/public-appliances.component.ts" timestamp="1467170967092">
+        <mark key="[" line="12" column="60" />
+        <mark key="]" line="12" column="60" />
+        <mark key="^" line="12" column="60" />
+        <mark key="." line="12" column="60" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Track.py" timestamp="1464291588140">
         <mark key="[" line="9" column="0" />
@@ -236,32 +272,22 @@
         <mark key="." line="23" column="23" />
         <mark key="^" line="23" column="23" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/views.py" timestamp="1466983420970">
-        <mark key="'" line="482" column="6" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/cloudlaunch-ui/app/components/public-appliances.component.html" timestamp="1467167600857">
-        <mark key="[" line="10" column="103" />
-        <mark key="]" line="10" column="103" />
-        <mark key="^" line="10" column="103" />
-        <mark key="." line="10" column="103" />
-      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/blastXmlToPsl/blastXmlToPsl.xml" timestamp="1465253216065">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="7" />
         <mark key="." line="16" column="7" />
         <mark key="^" line="16" column="7" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/cloudlaunch/settings.py" timestamp="1466963080793">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
+      <file name="$USER_HOME$/Google_Drive/Dev/cloudlaunch-ui/app/angular-cli-build.js" timestamp="1467170233276">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="9" column="1" />
+        <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bed.py" timestamp="1466213294780">
-        <mark key="'" line="62" column="26" />
-        <mark key="[" line="29" column="29" />
-        <mark key="]" line="29" column="45" />
-        <mark key="^" line="29" column="28" />
-        <mark key="." line="29" column="29" />
+      <file name="$USER_HOME$/Google_Drive/Dev/cloudlaunch-ui/package.json" timestamp="1467168988238">
+        <mark key="[" line="22" column="29" />
+        <mark key="]" line="22" column="29" />
+        <mark key="." line="22" column="29" />
       </file>
     </filemarks>
     <jumps>
@@ -368,46 +394,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>m</text>
+        <text>{{</text>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>{{</text>
       </register>
       <register name="/" type="4">
         <text>ApplicationVi</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKFB1YmxpY1NlcnZpY2VUZXN0cy5vYmplY3RzLmdldCgpLm5hbWUsICdHYWxheHkgTWFpbicpCg==</text>
+        <text encoding="base64">PGRpdiBjbGFzcz0ibGlzdC1ncm91cCI+Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>m</text>
+        <text>{{</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>$__tool_directory__/</text>
+        <text>country</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjaG1vZCAreCAkX190b29sX2RpcmVjdG9yeV9fL3BzbFRvQmVkCg==</text>
+        <text encoding="base64">ICBsb2NhdGlvbjogc3RyaW5nOwo=</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICA8dGVzdD4KICAgICAgICAgICAgPHBhcmFtIG5hbWU9IkZhc3RhX0ZpbGUiIHZhbHVlPSJkYmlhMy5mYSIvPgogICAgICAgICAgICA8cmVwZWF0IG5hbWU9ImZvcm1hdCI+CiAgICAgICAgICAgICAgICA8Y29uZGl0aW9uYWwgbmFtZT0iZm9ybWF0Q2hvaWNlIj4KICAgICAgICAgICAgICAgICAgICA8cGFyYW0gbmFtZT0iZm9ybWF0X3NlbGVjdCIgdmFsdWU9ImdmZjMiLz4KICAgICAgICAgICAgICAgICAgICA8cGFyYW0gbmFtZT0iR0ZGMyIgdmFsdWU9ImF1Z3VzdHVzRGJpYTMuZ2ZmMyIvPgogICAgICAgICAgICAgICAgPC9jb25kaXRpb25hbD4KICAgICAgICAgICAgPC9yZXBlYXQ+CiAgICAgICAgICAgIDxyZXBlYXQgbmFtZT0iZm9ybWF0Ij4KICAgICAgICAgICAgICAgIDxwYXJhbSBuYW1lPSJCRURfc2ltcGxlX3JlcGVhdHMiIHZhbHVlPSJkYmlhM190cmZCaWdfdW5zb3J0ZWQuYmVkIi8+CiAgICAgICAgICAgICAgICA8IS0tIFRPRE86IEFzayB3aHkgdGhlIHRlc3RzIGFyZSBub3QgcGFzc2luZyB3aXRoIHRoaXMgeG1sOgogICAgICAgICAgICAgICAgICAgICBFcnJvciBjcmVhdGluZyBhIGpvYiBmb3IgdGhlc2UgdG9vbCBpbnB1dHMgLSBFcnJvciBleGVjdXRpbmcgdG9vbDogJ05vbmVUeXBlJyBvYmplY3QgaGFzIG5vIGF0dHJpYnV0ZSAnY3VycmVudF9oaXN0b3J5JwogICAgICAgICAgICAgICAgPGNvbmRpdGlvbmFsIG5hbWU9ImZvcm1hdENob2ljZSI+CiAgICAgICAgICAgICAgICAgICAgPHBhcmFtIG5hbWU9ImZvcm1hdF9zZWxlY3QiIHZhbHVlPSJiZWQiLz4KICAgICAgICAgICAgICAgICAgICA8Y29uZGl0aW9uYWwgbmFtZT0iYmVkQ2hvaWNlIj4KICAgICAgICAgICAgICAgICAgICAgICAgPHBhcmFtIG5hbWU9ImJlZF9zZWxlY3QiIHZhbHVlPSJiZWRfc2ltcGxlX3JlcGVhdHNfb3B0aW9uIi8+CiAgICAgICAgICAgICAgICAgICAgICAgIDxwYXJhbSBuYW1lPSJCRURfc2ltcGxlX3JlcGVhdHMiIHZhbHVlPSJkYmlhM190cmZCaWdfdW5zb3J0ZWQuYmVkIi8+CiAgICAgICAgICAgICAgICAgICAgPC9jb25kaXRpb25hbD4KICAgICAgICAgICAgICAgIDwvY29uZGl0aW9uYWw+CiAgICAgICAgICAgICAgICAtLT4KICAgICAgICAgICAgPC9yZXBlYXQ+CgogICAgICAgICAgICA8b3V0cHV0IG5hbWU9Im91dHB1dCI+CiAgICAgICAgICAgICAgICA8YXNzZXJ0X2NvbnRlbnRzPgogICAgICAgICAgICAgICAgICAgIDxoYXNfdGV4dCB0ZXh0PSJteUh1YiIvPgogICAgICAgICAgICAgICAgPC9hc3NlcnRfY29udGVudHM+CiAgICAgICAgICAgICAgICA8YXNzZXJ0X2NvbnRlbnRzPgogICAgICAgICAgICAgICAgICAgIDxoYXNfdGV4dCB0ZXh0PSJkYmlhM190cmZCaWcuYmIiLz4KICAgICAgICAgICAgICAgIDwvYXNzZXJ0X2NvbnRlbnRzPgogICAgICAgICAgICAgICAgPGFzc2VydF9jb250ZW50cz4KICAgICAgICAgICAgICAgICAgICA8aGFzX3RleHQgdGV4dD0iU0FPRE9BaWkgcXd3cW9kOTI5MjEiLz4KICAgICAgICAgICAgICAgIDwvYXNzZXJ0X2NvbnRlbnRzPgogICAgICAgICAgICA8L291dHB1dD4KICAgICAgICA8L3Rlc3Q+</text>
+        <text>country</text>
       </register>
       <register name="5" type="4">
-        <text>augustusDbia3</text>
+        <text>Country</text>
       </register>
       <register name="6" type="4">
-        <text>gff3</text>
+        <text>Country</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">PGRpdiBjbGFzcz0iY29sLW1kLTEyIj4KICAgIDxwdWJsaWMtYXBwbGlhbmNlcy1tYXBzPjwvcHVibGljLWFwcGxpYW5jZXMtbWFwcz4KPC9kaXY+Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">PHRlc3Q+CiAgICAgICAgICAgIDxwYXJhbSBuYW1lPSJGYXN0YV9GaWxlIiB2YWx1ZT0iZGJpYTMuZmEiLz4KICAgICAgICAgICAgPHBhcmFtIG5hbWU9IkdGRjMiIHZhbHVlPSJhdWd1c3R1c0RiaWEzLmdmZjMiLz4KICAgICAgICAgICAgPG91dHB1dCBuYW1lPSJvdXRwdXQiIGZpbGU9ImF1Z3VzdHVzT3V0cHV0Lmh0bWwiIGxpbmVzX2RpZmY9IjIiPgogICAgICAgICAgICAgICAgPGV4dHJhX2ZpbGVzIHR5cGU9ImRpcmVjdG9yeSIgdmFsdWU9Im15SHViIi8+CiAgICAgICAgICAgICAgICA8ZXh0cmFfZmlsZXMgdHlwZT0iZmlsZSIgbmFtZT0ibXlIdWIvZGJpYTMvdHJhY2tzL2F1Z3VzdHVzRGJpYTMuYmIiIHZhbHVlPSJhdWd1c3R1c0RiaWEzLmJiIi8+CiAgICAgICAgICAgIDwvb3V0cHV0PgogICAgICAgIDwvdGVzdD4=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIC8vIHRpdGxlOnN0cmluZyA9ICdNeSBmaXJzdCBhbmd1bGFyMi1nb29nbGUtbWFwcyBwcm9qZWN0JzsK</text>
       </register>
-      <register name="9" type="4">
-        <text>_create_sponsor(PublicServiceTests.SPONSOR_DATA)</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImNvbC1tZC0xMiI+CiAgICAgICAgPHB1YmxpYy1hcHBsaWFuY2VzLW1hcHM+PC9wdWJsaWMtYXBwbGlhbmNlcy1tYXBzPgogICAgPC9kaXY+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -464,8 +490,8 @@
         <entry>ww</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>q</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
