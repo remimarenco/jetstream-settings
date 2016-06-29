@@ -120,8 +120,12 @@
         <mark key="." line="36" column="52" />
         <mark key="^" line="36" column="52" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" timestamp="1467177254606">
+      <file name="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" timestamp="1467179963057">
         <mark key="'" line="13" column="0" />
+        <mark key="[" line="325" column="56" />
+        <mark key="]" line="384" column="67" />
+        <mark key="." line="384" column="67" />
+        <mark key="^" line="384" column="67" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/cloudlaunch-ui/tsconfig.json" timestamp="1466984165413">
         <mark key="[" line="2" column="18" />
@@ -155,12 +159,9 @@
         <mark key="^" line="4" column="14" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/serializers.py" timestamp="1467177039091">
+      <file name="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/serializers.py" timestamp="1467179979189">
         <mark key="'" line="18" column="26" />
-        <mark key="[" line="714" column="34" />
-        <mark key="]" line="714" column="47" />
-        <mark key="^" line="714" column="47" />
-        <mark key="." line="714" column="47" />
+        <mark key="[" line="735" column="70" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/cloudlaunch/settings_local.py" timestamp="1467176634728">
         <mark key="[" line="23" column="1" />
@@ -407,8 +408,8 @@
       <jump line="38" column="66" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/urls.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>name</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>name</text>
@@ -419,35 +420,35 @@
       <register name="0" type="2">
         <text encoding="base64">CTxkaXYgKm5nRm9yPSJsZXQgc3ZjIG9mIHB1YmxpY19zZXJ2aWNlcyIgY2xhc3M9ImNvbC1tZC00IGxpc3QtZ3JvdXAiPgo=</text>
       </register>
-      <register name="1" type="4">
-        <text>name</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>name</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc3VwZXIoTG9jYXRpb24sIHNlbGYpLnNhdmUoKmFyZ3MsICoqa3dhcmdzKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChqc29uX2dlb2xvYykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgY291bnRyeT1zZWxmLmNvdW50cnkpCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>n</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgbG9uZ2l0dWRlPXNlbGYubG9uZ2l0dWRlLAo=</text>
       </register>
-      <register name="5" type="4">
-        <text>o</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgb2JqID0gTG9jYXRpb24obGF0aXR1ZGU9c2VsZi5sYXRpdHVkZSwK</text>
       </register>
-      <register name="6" type="4">
-        <text>i</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBleGNlcHQgTG9jYXRpb24uRG9lc05vdEV4aXN0Ogo=</text>
       </register>
-      <register name="7" type="4">
-        <text>t</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbG9uZ2l0dWRlPXNlbGYubG9uZ2l0dWRlKQo=</text>
       </register>
-      <register name="8" type="4">
-        <text>a</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgb2JqID0gTG9jYXRpb24ub2JqZWN0cy5nZXQobGF0aXR1ZGU9c2VsZi5sYXRpdHVkZSwK</text>
       </register>
-      <register name="9" type="4">
-        <text>c</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
