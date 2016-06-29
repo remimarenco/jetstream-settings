@@ -101,11 +101,11 @@
         <mark key="." line="13" column="89" />
         <mark key="^" line="13" column="89" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/cloudlaunch-ui/app/components/public-appliances-maps.component.html" timestamp="1467175465633">
-        <mark key="[" line="6" column="20" />
-        <mark key="]" line="6" column="92" />
-        <mark key="." line="6" column="92" />
-        <mark key="^" line="6" column="92" />
+      <file name="$USER_HOME$/Google_Drive/Dev/cloudlaunch-ui/app/components/public-appliances-maps.component.html" timestamp="1467182073890">
+        <mark key="[" line="6" column="101" />
+        <mark key="]" line="6" column="101" />
+        <mark key="." line="6" column="101" />
+        <mark key="^" line="6" column="101" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bed.py" timestamp="1466213294780">
         <mark key="'" line="62" column="26" />
@@ -120,12 +120,12 @@
         <mark key="." line="36" column="52" />
         <mark key="^" line="36" column="52" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" timestamp="1467179963057">
+      <file name="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" timestamp="1467182249891">
         <mark key="'" line="13" column="0" />
-        <mark key="[" line="325" column="56" />
-        <mark key="]" line="384" column="67" />
-        <mark key="." line="384" column="67" />
+        <mark key="[" line="386" column="0" />
+        <mark key="]" line="386" column="0" />
         <mark key="^" line="384" column="67" />
+        <mark key="." line="386" column="0" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/cloudlaunch-ui/tsconfig.json" timestamp="1466984165413">
         <mark key="[" line="2" column="18" />
@@ -159,7 +159,7 @@
         <mark key="^" line="4" column="14" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/serializers.py" timestamp="1467179979189">
+      <file name="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/serializers.py" timestamp="1467182399864">
         <mark key="'" line="18" column="26" />
         <mark key="[" line="735" column="70" />
       </file>
@@ -181,11 +181,11 @@
         <mark key="." line="11" column="40" />
         <mark key="^" line="11" column="40" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/cloudlaunch-ui/app/components/public-appliances-maps.component.ts" timestamp="1467181178111">
-        <mark key="[" line="1" column="65" />
-        <mark key="]" line="2" column="54" />
-        <mark key="^" line="2" column="54" />
-        <mark key="." line="2" column="54" />
+      <file name="$USER_HOME$/Google_Drive/Dev/cloudlaunch-ui/app/components/public-appliances-maps.component.ts" timestamp="1467182439687">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="40" column="114" />
+        <mark key="^" line="40" column="114" />
+        <mark key="." line="40" column="114" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/display_applications/ucsc/trackHub.xml" timestamp="1466211928664">
         <mark key="[" line="3" column="104" />
@@ -409,10 +409,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIF07Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text>city</text>
       </register>
       <register name="/" type="4">
         <text>ApplicationVi</text>
@@ -421,34 +421,34 @@
         <text encoding="base64">CTxkaXYgKm5nRm9yPSJsZXQgc3ZjIG9mIHB1YmxpY19zZXJ2aWNlcyIgY2xhc3M9ImNvbC1tZC00IGxpc3QtZ3JvdXAiPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIF07Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3VwZXIoTG9jYXRpb24sIHNlbGYpLnNhdmUoKmFyZ3MsICoqa3dhcmdzKQo=</text>
+        <text encoding="base64">ICAgICAgICAic3R5bGVycyI6IFt7InZpc2liaWxpdHkiOiAib24ifSwKICAgICAgICAgICAgeyJzYXR1cmF0aW9uIjogLTEzfSwKICAgICAgICAgICAgeyJsaWdodG5lc3MiOiAtMTd9LAogICAgICAgICAgICB7Imh1ZSI6ICIjZmY2ZTAwIn0KICAgICAgICBdCiAgICAgICAgfSwKICAgICAgICB7CiAgICAgICAgICAgICJmZWF0dXJlVHlwZSI6ICJ3YXRlciIsCiAgICAgICAgICAgICJzdHlsZXJzIjogW3sidmlzaWJpbGl0eSI6ICJvbiJ9LAogICAgICAgICAgICAgICAgeyJsaWdodG5lc3MiOiAxMDB9CiAgICAgICAgICAgIF0KICAgICAgICB9LAogICAgICAgIHsKICAgICAgICAgICAgImZlYXR1cmVUeXBlIjogInBvaSIsCiAgICAgICAgICAgICJzdHlsZXJzIjogW3sibGlnaHRuZXNzIjogMzl9LAogICAgICAgICAgICAgICAgeyJzYXR1cmF0aW9uIjogLTQzfSwKICAgICAgICAgICAgICAgIHsidmlzaWJpbGl0eSI6ICJvbiJ9CiAgICAgICAgICAgIF0KICAgICAgICB9LAogICAgICAgIHsKICAgICAgICAgICAgImVsZW1lbnRUeXBlIjogImdlb21ldHJ5IiwKICAgICAgICAgICAgImZlYXR1cmVUeXBlIjogInJvYWRzIiwKICAgICAgICAgICAgInN0eWxlcnMiOiBbeyJ2aXNpYmlsaXR5IjogIm9uIn0sCiAgICAgICAgICAgICAgICB7ImxpZ2h0bmVzcyI6IDMwfQogICAgICAgICAgICBdCiAgICAgICAgfSwKICAgICAgICB7CiAgICAgICAgICAgICJlbGVtZW50VHlwZSI6ICJsYWJlbHMiLAogICAgICAgICAgICAic3R5bGVycyI6IFt7ImxpZ2h0bmVzcyI6IDM1fV0KICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgY291bnRyeT1zZWxmLmNvdW50cnkpCg==</text>
+        <text encoding="base64">ICAgICAgICBbewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgbG9uZ2l0dWRlPXNlbGYubG9uZ2l0dWRlLAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLmxvY2F0aW9uLikK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb2JqID0gTG9jYXRpb24obGF0aXR1ZGU9c2VsZi5sYXRpdHVkZSwK</text>
+      <register name="5" type="4">
+        <text>city</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQgTG9jYXRpb24uRG9lc05vdEV4aXN0Ogo=</text>
+      <register name="6" type="4">
+        <text>s</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbG9uZ2l0dWRlPXNlbGYubG9uZ2l0dWRlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb2JqID0gTG9jYXRpb24ub2JqZWN0cy5nZXQobGF0aXR1ZGU9c2VsZi5sYXRpdHVkZSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3VwZXIoTG9jYXRpb24sIHNlbGYpLnNhdmUoKmFyZ3MsICoqa3dhcmdzKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgY291bnRyeT1zZWxmLmNvdW50cnkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
