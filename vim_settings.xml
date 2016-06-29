@@ -95,11 +95,11 @@
         <mark key="." line="35" column="17" />
         <mark key="^" line="35" column="17" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/cloudlaunch-ui/app/components/public-appliances.component.html" timestamp="1467175577771">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="73" />
-        <mark key="." line="2" column="65" />
-        <mark key="^" line="2" column="65" />
+      <file name="$USER_HOME$/Google_Drive/Dev/cloudlaunch-ui/app/components/public-appliances.component.html" timestamp="1467177985537">
+        <mark key="[" line="13" column="86" />
+        <mark key="]" line="13" column="89" />
+        <mark key="." line="13" column="89" />
+        <mark key="^" line="13" column="89" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/cloudlaunch-ui/app/components/public-appliances-maps.component.html" timestamp="1467175465633">
         <mark key="[" line="6" column="20" />
@@ -241,11 +241,11 @@
         <mark key="." line="444" column="1" />
         <mark key="^" line="444" column="1" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/cloudlaunch-ui/app/models/public_service.ts" timestamp="1467173021112">
-        <mark key="[" line="9" column="19" />
-        <mark key="]" line="10" column="14" />
-        <mark key="." line="10" column="14" />
-        <mark key="^" line="10" column="14" />
+      <file name="$USER_HOME$/Google_Drive/Dev/cloudlaunch-ui/app/models/public_service.ts" timestamp="1467177961453">
+        <mark key="[" line="10" column="2" />
+        <mark key="]" line="10" column="5" />
+        <mark key="." line="10" column="5" />
+        <mark key="^" line="10" column="5" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/bamToBigwig/tool_dependencies.xml" timestamp="1465426784513">
         <mark key="[" line="6" column="42" />
@@ -411,11 +411,11 @@
       <jump line="38" column="66" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/urls.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChqc29uX2dlb2xvYykK</text>
+      <register name="&quot;" type="4">
+        <text>name</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>name</text>
       </register>
       <register name="/" type="4">
         <text>ApplicationVi</text>
@@ -423,35 +423,35 @@
       <register name="0" type="2">
         <text encoding="base64">CTxkaXYgKm5nRm9yPSJsZXQgc3ZjIG9mIHB1YmxpY19zZXJ2aWNlcyIgY2xhc3M9ImNvbC1tZC00IGxpc3QtZ3JvdXAiPgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChqc29uX2dlb2xvYykK</text>
+      <register name="1" type="4">
+        <text>name</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>n</text>
+        <text>name</text>
       </register>
-      <register name="3" type="4">
-        <text>o</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChqc29uX2dlb2xvYykK</text>
       </register>
       <register name="4" type="4">
-        <text>i</text>
+        <text>n</text>
       </register>
       <register name="5" type="4">
-        <text>t</text>
+        <text>o</text>
       </register>
       <register name="6" type="4">
-        <text>a</text>
-      </register>
-      <register name="7" type="4">
-        <text>c</text>
-      </register>
-      <register name="8" type="4">
         <text>i</text>
       </register>
+      <register name="7" type="4">
+        <text>t</text>
+      </register>
+      <register name="8" type="4">
+        <text>a</text>
+      </register>
       <register name="9" type="4">
-        <text>l</text>
+        <text>c</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
