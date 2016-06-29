@@ -32,6 +32,9 @@
         <mark key="]" line="135" column="0" />
         <mark key="." line="135" column="0" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/forms.py" timestamp="1466875789134">
+        <mark key="[" line="5" column="29" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/cloudlaunch-ui/app/main.ts" timestamp="1467184377204">
         <mark key="[" line="7" column="29" />
         <mark key="]" line="7" column="53" />
@@ -91,11 +94,20 @@
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/cloudlaunch-ui/app/components/public-appliances.component.html" timestamp="1467214128178">
+        <mark key="[" line="13" column="59" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/cloudlaunch-ui/app/components/public-appliances-maps.component.html" timestamp="1467187057521">
         <mark key="[" line="23" column="88" />
         <mark key="]" line="23" column="88" />
         <mark key="." line="23" column="88" />
         <mark key="^" line="23" column="88" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/cloudlaunch-ui/app/components/public-appliances.component.css" timestamp="1467214209057">
+        <mark key="[" line="18" column="1" />
+        <mark key="]" line="21" column="20" />
+        <mark key="^" line="21" column="20" />
+        <mark key="." line="21" column="20" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/trfbig/tool_dependencies.xml" timestamp="1467165480062">
         <mark key="[" line="36" column="49" />
@@ -207,6 +219,9 @@
         <mark key="]" line="41" column="52" />
         <mark key="^" line="41" column="52" />
         <mark key="." line="41" column="52" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/templates/trackDb/layout.txt" timestamp="1466213518076">
+        <mark key="[" line="9" column="32" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/TrackHub.py" timestamp="1466212235487">
         <mark key="[" line="16" column="38" />
