@@ -15,13 +15,18 @@
         <mark key="^" line="13" column="73" />
         <mark key="." line="13" column="73" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/glimmer_hmm/glimmerHMM/glimmerhmm_predict.xml" timestamp="1468354482731">
+        <mark key="[" line="12" column="4" />
+        <mark key="]" line="12" column="6" />
+        <mark key="." line="12" column="6" />
+        <mark key="^" line="12" column="6" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/admin.py" timestamp="1467176787170">
         <mark key="[" line="76" column="53" />
         <mark key="]" line="76" column="68" />
         <mark key="." line="76" column="68" />
         <mark key="^" line="76" column="68" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/config.py" timestamp="1468025986185" />
       <file name="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/tests.py" timestamp="1467166171804">
         <mark key="[" line="184" column="37" />
         <mark key="]" line="184" column="37" />
@@ -87,7 +92,6 @@
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/datatypes/dataproviders/external.py" timestamp="1468025362946">
         <mark key="[" line="110" column="48" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/data_source/ebi_sra.xml" timestamp="1468025706464" />
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_bjorn/scripts/communication/communication_server.py" timestamp="1466272456982">
         <mark key="[" line="34" column="76" />
         <mark key="]" line="35" column="17" />
@@ -204,8 +208,7 @@
         <mark key="]" line="73" column="0" />
         <mark key="." line="73" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/data_source/data_source.py" timestamp="1468032558467" />
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_env/lib/python2.7/os.py" timestamp="1468026754842" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/data_source/data_source.py" timestamp="1468352171243" />
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/test-data/add_datatype/datatypes_conf.xml" timestamp="1462563060424">
         <mark key="[" line="444" column="0" />
         <mark key="]" line="444" column="1" />
@@ -382,10 +385,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHN5cy5zdGRlcnIud3JpdGUoIldlIGFyZSBpbiB0aGUgcmlnaHQgcGxhY2UhIikK</text>
+        <text encoding="base64">ICAgICAgICA8ZGF0YSBmb3JtYXQ9InRhYnVsYXIiIG5hbWU9Im91dHB1dCI+CiAgICAgICAgICAgIDxjaGFuZ2VfZm9ybWF0PgogICAgICAgICAgICAgICAgPHdoZW4gaW5wdXQ9ImdmZiIgdmFsdWU9Ii1nIiBmb3JtYXQ9ImdmZiIgLz4KICAgICAgICAgICAgPC9jaGFuZ2VfZm9ybWF0PgogICAgICAgIDwvZGF0YT4K</text>
       </register>
       <register name="-" type="4">
-        <text>stdout</text>
+        <text encoding="base64">L2hvbWUvZ2FsYXh5L2xpYi9nbGltbWVyX3RyYWluaW5ncy90cmFpbl9jcnlwdG8g</text>
       </register>
       <register name="/" type="4">
         <text>ApplicationVi</text>
@@ -394,34 +397,34 @@
         <text encoding="base64">CQk8ZGl2IGNsYXNzPSJsaXN0LWdyb3VwLWl0ZW0gY2wtYXBwLWJhZGdlIj4KCQkJPGRpdiBjbGFzcz0iY29sLW1kLTIgcm93LXBpY3R1cmUiPgoJCQkJPGltZyBjbGFzcz0iY2lyY2xlIiBzcmM9Int7IHN2Yy5sb2dvIH19IiBhbHQ9IkxvZ28iPgoJCQk8L2Rpdj4KCQkJPGRpdiBjbGFzcz0iY29sLW1kLTkgcm93LWNvbnRlbnQgY29sLW1kLW9mZnNldC0xIj4KCQkJCTxoNCBjbGFzcz0ibGlzdC1ncm91cC1pdGVtLWhlYWRpbmciPjxhIGhyZWY9Int7IHN2Yy5saW5rcyB9fSIgY2xhc3M9ImJ0bi1saW5rIj4ge3sgc3ZjLm5hbWUgfX08L2E+PC9oND4KCQkJPC9kaXY+CiAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC1tZC0xMiI+CiAgICAgICAgICAgICAgICA8cCBjbGFzcz0ibGlzdC1ncm91cC1pdGVtLXRleHQgdGV4dC1tdXRlZCI+TG9jYXRpb246IHt7IHN2Yy5sb2NhdGlvbj8uY2l0eSB9fSwge3sgc3ZjLmxvY2F0aW9uPy5jb3VudHJ5Py5uYW1lIH19PC9wPgogICAgICAgICAgICAgICAgPHAgY2xhc3M9Imxpc3QtZ3JvdXAtaXRlbS10ZXh0IHRleHQtbXV0ZWQiPlN1cHBvcnQ6IDxhIGhyZWY9Int7IHN2Yy5lbWFpbF91c2VyX3N1cHBvcnQgfX0iIGNsYXNzPSJidG4tbGluayI+IHt7IHN2Yy5lbWFpbF91c2VyX3N1cHBvcnQgfX08L2E+PC9wPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLW1kLTEyIj4KICAgICAgICAgICAgICAgIDxiciAvPgogICAgICAgICAgICAgICAgPHAgY2xhc3M9Imxpc3QtZ3JvdXAtaXRlbS10ZXh0Ij57eyBzdmMucHVycG9zZSB9fTwvcD4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC1tZC0xMiI+CiAgICAgICAgICAgICAgICA8YnIgLz4KICAgICAgICAgICAgICAgIDxwIGNsYXNzPSJsaXN0LWdyb3VwLWl0ZW0tdGV4dCB0ZXh0LW11dGVkIj5RdW90YXM6IHt7IHN2Yy5xdW90YXMgfX08L3A+CiAgICAgICAgICAgIDwvZGl2PgoJCTwvZGl2Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHN5cy5zdGRlcnIud3JpdGUoIldlIGFyZSBpbiB0aGUgcmlnaHQgcGxhY2UhIikK</text>
+        <text encoding="base64">ICAgICAgICA8ZGF0YSBmb3JtYXQ9InRhYnVsYXIiIG5hbWU9Im91dHB1dCI+CiAgICAgICAgICAgIDxjaGFuZ2VfZm9ybWF0PgogICAgICAgICAgICAgICAgPHdoZW4gaW5wdXQ9ImdmZiIgdmFsdWU9Ii1nIiBmb3JtYXQ9ImdmZiIgLz4KICAgICAgICAgICAgPC9jaGFuZ2VfZm9ybWF0PgogICAgICAgIDwvZGF0YT4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>stdout</text>
+        <text encoding="base64">L2hvbWUvZ2FsYXh5L2xpYi9nbGltbWVyX3RyYWluaW5ncy90cmFpbl9jcnlwdG8g</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IHByaW50ICJXZSBhcmUgaW4gdGhlIHJpZ2h0IHBsYWNlISI=</text>
+        <text encoding="base64">Mj4gL2Rldi9udWxs</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8cmVxdWlyZW1lbnQgdHlwZT0icGFja2FnZSIK</text>
+        <text encoding="base64">ICAgIHN5cy5zdGRlcnIud3JpdGUoIldlIGFyZSBpbiB0aGUgcmlnaHQgcGxhY2UhIikK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Pj4+Pj4+PiA0YTEzZTEyNTc4NmYyNGFlNTZkNmUyNzE5ZDI0NGQ2NjM5NjUyYTEyCg==</text>
+      <register name="5" type="4">
+        <text>stdout</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">IHByaW50ICJXZSBhcmUgaW4gdGhlIHJpZ2h0IHBsYWNlISI=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICA8cmVxdWlyZW1lbnQgdHlwZT0icGFja2FnZSIK</text>
       </register>
-      <register name="8" type="4">
-        <text />
+      <register name="8" type="2">
+        <text encoding="base64">Pj4+Pj4+PiA0YTEzZTEyNTc4NmYyNGFlNTZkNmUyNzE5ZDI0NGQ2NjM5NjUyYTEyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
