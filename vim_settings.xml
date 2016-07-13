@@ -15,7 +15,7 @@
         <mark key="^" line="13" column="73" />
         <mark key="." line="13" column="73" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/glimmer_hmm/glimmerHMM/glimmerhmm_predict.xml" timestamp="1468378072975">
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/glimmer_hmm/glimmerHMM/glimmerhmm_predict.xml" timestamp="1468396773120">
         <mark key="[" line="14" column="8" />
         <mark key="]" line="14" column="80" />
         <mark key="^" line="14" column="80" />
@@ -37,6 +37,12 @@
         <mark key="[" line="135" column="0" />
         <mark key="]" line="135" column="0" />
         <mark key="." line="135" column="0" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/glimmer_hmm/readme.md" timestamp="1468398253787">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="2" />
+        <mark key="." line="37" column="2" />
+        <mark key="^" line="37" column="2" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/forms.py" timestamp="1466875789134">
         <mark key="[" line="5" column="29" />
@@ -71,6 +77,12 @@
         <mark key="." line="25" column="23" />
         <mark key="^" line="25" column="23" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/glimmer_hmm/README.md" timestamp="1468398826774">
+        <mark key="[" line="39" column="83" />
+        <mark key="]" line="55" column="0" />
+        <mark key="^" line="55" column="0" />
+        <mark key="." line="55" column="0" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/scripts/slideshow/style.css" timestamp="1462588576322">
         <mark key="[" line="8" column="3" />
         <mark key="]" line="8" column="0" />
@@ -92,6 +104,12 @@
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/datatypes/dataproviders/external.py" timestamp="1468025362946">
         <mark key="[" line="110" column="48" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/glimmer_hmm/readme.txt" timestamp="1468397441214">
+        <mark key="[" line="47" column="18" />
+        <mark key="]" line="47" column="44" />
+        <mark key="." line="47" column="44" />
+        <mark key="^" line="47" column="44" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_bjorn/scripts/communication/communication_server.py" timestamp="1466272456982">
         <mark key="[" line="34" column="76" />
         <mark key="]" line="35" column="17" />
@@ -102,6 +120,12 @@
         <mark key="[" line="49" column="0" />
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/glimmer_hmm/glimmer_hmm.loc.sample" timestamp="1468397608692">
+        <mark key="[" line="8" column="1" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/cloudlaunch-ui/app/components/public-appliances.component.html" timestamp="1467214128178">
         <mark key="[" line="13" column="59" />
@@ -208,7 +232,6 @@
         <mark key="]" line="73" column="0" />
         <mark key="." line="73" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/data_source/data_source.py" timestamp="1468352171243" />
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/test-data/add_datatype/datatypes_conf.xml" timestamp="1462563060424">
         <mark key="[" line="444" column="0" />
         <mark key="]" line="444" column="1" />
@@ -385,10 +408,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>So</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>So</text>
       </register>
       <register name="/" type="4">
         <text>ApplicationVi</text>
@@ -397,34 +420,34 @@
         <text encoding="base64">CQk8ZGl2IGNsYXNzPSJsaXN0LWdyb3VwLWl0ZW0gY2wtYXBwLWJhZGdlIj4KCQkJPGRpdiBjbGFzcz0iY29sLW1kLTIgcm93LXBpY3R1cmUiPgoJCQkJPGltZyBjbGFzcz0iY2lyY2xlIiBzcmM9Int7IHN2Yy5sb2dvIH19IiBhbHQ9IkxvZ28iPgoJCQk8L2Rpdj4KCQkJPGRpdiBjbGFzcz0iY29sLW1kLTkgcm93LWNvbnRlbnQgY29sLW1kLW9mZnNldC0xIj4KCQkJCTxoNCBjbGFzcz0ibGlzdC1ncm91cC1pdGVtLWhlYWRpbmciPjxhIGhyZWY9Int7IHN2Yy5saW5rcyB9fSIgY2xhc3M9ImJ0bi1saW5rIj4ge3sgc3ZjLm5hbWUgfX08L2E+PC9oND4KCQkJPC9kaXY+CiAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC1tZC0xMiI+CiAgICAgICAgICAgICAgICA8cCBjbGFzcz0ibGlzdC1ncm91cC1pdGVtLXRleHQgdGV4dC1tdXRlZCI+TG9jYXRpb246IHt7IHN2Yy5sb2NhdGlvbj8uY2l0eSB9fSwge3sgc3ZjLmxvY2F0aW9uPy5jb3VudHJ5Py5uYW1lIH19PC9wPgogICAgICAgICAgICAgICAgPHAgY2xhc3M9Imxpc3QtZ3JvdXAtaXRlbS10ZXh0IHRleHQtbXV0ZWQiPlN1cHBvcnQ6IDxhIGhyZWY9Int7IHN2Yy5lbWFpbF91c2VyX3N1cHBvcnQgfX0iIGNsYXNzPSJidG4tbGluayI+IHt7IHN2Yy5lbWFpbF91c2VyX3N1cHBvcnQgfX08L2E+PC9wPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLW1kLTEyIj4KICAgICAgICAgICAgICAgIDxiciAvPgogICAgICAgICAgICAgICAgPHAgY2xhc3M9Imxpc3QtZ3JvdXAtaXRlbS10ZXh0Ij57eyBzdmMucHVycG9zZSB9fTwvcD4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC1tZC0xMiI+CiAgICAgICAgICAgICAgICA8YnIgLz4KICAgICAgICAgICAgICAgIDxwIGNsYXNzPSJsaXN0LWdyb3VwLWl0ZW0tdGV4dCB0ZXh0LW11dGVkIj5RdW90YXM6IHt7IHN2Yy5xdW90YXMgfX08L3A+CiAgICAgICAgICAgIDwvZGl2PgoJCTwvZGl2Pgo=</text>
       </register>
       <register name="1" type="4">
-        <text>.</text>
+        <text>So</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>s</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>e</text>
+      <register name="3" type="2">
+        <text encoding="base64">emVicmFmaXNoCVplYnJhZmlzaAkvaG9tZS9nYWxheHkvRGV2L2RhdGEvZ2xpbW1lcl9obW0vdHJhaW5lZF9kaXIvemVicmFmaXNoCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>c</text>
+      <register name="4" type="2">
+        <text encoding="base64">cmljZQlSaWNlCS9ob21lL2dhbGF4eS9EZXYvZGF0YS9nbGltbWVyX2htbS90cmFpbmVkX2Rpci9yaWNlCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>i</text>
+      <register name="5" type="2">
+        <text encoding="base64">YXJhYmlkb3BzaXMJQXJhYmlkb3BzaXMJL2hvbWUvZ2FsYXh5L0Rldi9kYXRhL2dsaW1tZXJfaG1tL3RyYWluZWRfZGlyL2FyYWJpZG9wc2lzCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>d</text>
+      <register name="6" type="2">
+        <text encoding="base64">Y2VsZWdhbnMJQ2VsZWdhbnMJL2hvbWUvZ2FsYXh5L0Rldi9kYXRhL2dsaW1tZXJfaG1tL3RyYWluZWRfZGlyL0NlbGVnYW5zCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>n</text>
+      <register name="7" type="2">
+        <text encoding="base64">aHVtYW4JSHVtYW4JL2hvbWUvZ2FsYXh5L0Rldi9kYXRhL2dsaW1tZXJfaG1tL3RyYWluZWRfZGlyL2h1bWFuCg==</text>
       </register>
       <register name="8" type="4">
-        <text>i</text>
+        <text>/home/galaxy/Dev/data/glimmer_hmm/</text>
       </register>
       <register name="9" type="4">
-        <text>/home/galaxy/Dev/tmp/GlimmerHMM/trained_dir/human/Train0-43</text>
+        <text>/home/galaxy/Dev/data/glimmer_hmm/</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
