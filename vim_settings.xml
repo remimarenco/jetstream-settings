@@ -170,10 +170,10 @@
         <mark key="." line="8" column="7" />
         <mark key="^" line="8" column="7" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1468516427836">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1468522407512">
+        <mark key="[" line="23" column="41" />
+        <mark key="]" line="23" column="41" />
+        <mark key="." line="23" column="41" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/serializers.py" timestamp="1467182399864">
         <mark key="'" line="18" column="26" />
