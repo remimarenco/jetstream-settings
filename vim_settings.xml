@@ -290,11 +290,11 @@
         <mark key="^" line="9" column="14" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/multi_fasta_glimmerhmm/multi_glimmer.sh" timestamp="1468648204333">
-        <mark key="[" line="45" column="28" />
-        <mark key="]" line="45" column="33" />
-        <mark key="^" line="45" column="33" />
-        <mark key="." line="45" column="33" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/multi_fasta_glimmerhmm/multi_glimmer.sh" timestamp="1468649742082">
+        <mark key="[" line="24" column="10" />
+        <mark key="]" line="24" column="10" />
+        <mark key="^" line="24" column="42" />
+        <mark key="." line="24" column="10" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/test-data/add_datatype/datatypes_conf.xml" timestamp="1462563060424">
         <mark key="[" line="444" column="0" />
@@ -473,10 +473,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>contig_content</text>
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>contig_content</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>arrayCall</text>
@@ -485,34 +485,34 @@
         <text encoding="base64">ZGVmIG1haW4oYXJndik6Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>contig_content</text>
+        <text>(</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIDwvcmVxdWlyZW1lbnRzPgo=</text>
+      <register name="2" type="4">
+        <text>)</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8cmVxdWlyZW1lbnQgdHlwZT0icGFja2FnZSIgdmVyc2lvbj0iMS4yIj5zYW10b29sczwvcmVxdWlyZW1lbnQ+Cg==</text>
+      <register name="3" type="4">
+        <text>'</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIDxyZXF1aXJlbWVudHM+Cg==</text>
+      <register name="4" type="4">
+        <text>'</text>
       </register>
       <register name="5" type="4">
-        <text>contig_content</text>
+        <text>1</text>
       </register>
       <register name="6" type="4">
-        <text>contig_content</text>
+        <text>:</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>0</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ZXhpdCAwCg==</text>
+      <register name="8" type="4">
+        <text>:</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>function</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -568,8 +568,8 @@
         <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>s</entry>
-        <entry>W</entry>
         <entry>wq</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
