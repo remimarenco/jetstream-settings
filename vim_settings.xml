@@ -137,6 +137,11 @@
         <mark key="." line="8" column="121" />
         <mark key="^" line="8" column="121" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/multi_fasta_glimmerhmm/multi_glimmer.py" timestamp="1468690030651">
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="0" column="15" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/glimmer_hmm/readme.txt" timestamp="1468397441214">
         <mark key="[" line="47" column="18" />
         <mark key="]" line="47" column="44" />
@@ -280,10 +285,6 @@
         <mark key="]" line="73" column="0" />
         <mark key="." line="73" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/trfbig/trfBig.xml" timestamp="1468532384595">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="70" />
-      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/multi_fasta_glimmer_hmm/glimmerhmm.xml" timestamp="1468633456609">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -328,11 +329,11 @@
         <mark key="." line="17" column="42" />
         <mark key="^" line="17" column="42" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" timestamp="1468621911793">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="15" />
-        <mark key="^" line="10" column="20" />
-        <mark key="." line="10" column="20" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" timestamp="1468690589599">
+        <mark key="[" line="10" column="6" />
+        <mark key="]" line="10" column="3" />
+        <mark key="^" line="10" column="3" />
+        <mark key="." line="10" column="3" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Track.py" timestamp="1464291588140">
         <mark key="[" line="9" column="0" />
@@ -472,7 +473,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGFyZ3BhcnNlCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">Jz4n</text>
@@ -481,7 +482,7 @@
         <text encoding="base64">XDxpZlw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVmIG1haW4oYXJndik6Cg==</text>
+        <text encoding="base64">aW1wb3J0IGFyZ3BhcnNlCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
