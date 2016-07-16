@@ -216,11 +216,11 @@
         <mark key="]" line="23" column="41" />
         <mark key="." line="23" column="41" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/multi_fasta_glimmerhmm/glimmerhmm.xml" timestamp="1468637205657">
-        <mark key="[" line="0" column="73" />
-        <mark key="]" line="0" column="74" />
-        <mark key="^" line="5" column="37" />
-        <mark key="." line="0" column="74" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/multi_fasta_glimmerhmm/glimmerhmm.xml" timestamp="1468648098683">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="2" column="37" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/cloudlaunch/settings_local.py" timestamp="1467176634728">
         <mark key="[" line="23" column="1" />
@@ -290,11 +290,11 @@
         <mark key="^" line="9" column="14" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/multi_fasta_glimmerhmm/multi_glimmer.sh" timestamp="1468645188391">
-        <mark key="[" line="24" column="48" />
-        <mark key="]" line="24" column="47" />
-        <mark key="." line="24" column="47" />
-        <mark key="^" line="24" column="47" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/multi_fasta_glimmerhmm/multi_glimmer.sh" timestamp="1468648204333">
+        <mark key="[" line="45" column="28" />
+        <mark key="]" line="45" column="33" />
+        <mark key="^" line="45" column="33" />
+        <mark key="." line="45" column="33" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/test-data/add_datatype/datatypes_conf.xml" timestamp="1462563060424">
         <mark key="[" line="444" column="0" />
@@ -472,11 +472,11 @@
       <jump line="38" column="66" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/urls.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>contig_content</text>
       </register>
       <register name="-" type="4">
-        <text>https://github.com/bgruening/galaxytools/tree/master/tools/glimmer_hmm</text>
+        <text>contig_content</text>
       </register>
       <register name="/" type="4">
         <text>arrayCall</text>
@@ -484,35 +484,35 @@
       <register name="0" type="2">
         <text encoding="base64">ZGVmIG1haW4oYXJndik6Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>contig_content</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAtLS0tLQo=</text>
+        <text encoding="base64">ICAgIDwvcmVxdWlyZW1lbnRzPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8cmVxdWlyZW1lbnQgdHlwZT0icGFja2FnZSIgdmVyc2lvbj0iMS4yIj5zYW10b29sczwvcmVxdWlyZW1lbnQ+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIDxyZXF1aXJlbWVudHM+Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">MS4gQWRkIHRoZSAqZ2xpbW1lcl9obW1fdHJhaW5lZF9kaXIqIGRhdGEgdGFibGUgdG8gYHRvb2xfZGF0YV90YWJsZV9jb25mLnhtbGAgaW4gYCRHQUxBWFlfUk9PVC9jb25maWcvYDoK</text>
+      <register name="5" type="4">
+        <text>contig_content</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGBgYAo=</text>
+      <register name="6" type="4">
+        <text>contig_content</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGBgYHhtbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YGBgCg==</text>
+        <text encoding="base64">ZXhpdCAwCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YGBgeG1sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -564,12 +564,12 @@
         <entry>%s/arrayCall/array_call/gc</entry>
         <entry encoding="base64">JzwsJz5x</entry>
         <entry>Q</entry>
-        <entry>wq</entry>
         <entry>ww</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>s</entry>
         <entry>W</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
