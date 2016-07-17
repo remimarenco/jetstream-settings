@@ -222,11 +222,11 @@
         <mark key="]" line="23" column="41" />
         <mark key="." line="23" column="41" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/multi_fasta_glimmerhmm/glimmerhmm.xml" timestamp="1468790039971">
-        <mark key="[" line="3" column="8" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="2" column="37" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/multi_fasta_glimmerhmm/glimmerhmm.xml" timestamp="1468792134997">
+        <mark key="[" line="4" column="13" />
+        <mark key="]" line="4" column="14" />
+        <mark key="^" line="4" column="14" />
+        <mark key="." line="4" column="14" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/cloudlaunch/settings_local.py" timestamp="1467176634728">
         <mark key="[" line="23" column="1" />
@@ -473,11 +473,11 @@
       <jump line="35" column="5" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/multi_fasta_glimmerhmm/multi_glimmer.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
+      <register name="&quot;" type="4">
+        <text />
       </register>
       <register name="-" type="4">
-        <text>sys.argv</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZlw+</text>
@@ -485,35 +485,35 @@
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IGFyZ3BhcnNlCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
+      <register name="1" type="4">
+        <text />
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>sys.argv</text>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
       </register>
       <register name="3" type="4">
-        <text />
+        <text>sys.argv</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+        <text />
       </register>
       <register name="5" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="6" type="4">
         <text>\</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IHRlbXBmaWxlCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IHJlCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHRlbXBfb3V0cHV0X2dsaW1tZXIgPSAidGVtcF9vdXRwdXRfZ2xpbW1lciIK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRlbXBfb3V0cHV0X2dsaW1tZXIgPSAidGVtcF9vdXRwdXRfZ2xpbW1lciIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
