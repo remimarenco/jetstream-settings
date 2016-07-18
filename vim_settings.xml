@@ -321,16 +321,17 @@
         <mark key="^" line="41" column="52" />
         <mark key="." line="41" column="52" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/templates/trackDb/layout.txt" timestamp="1466213518076">
-        <mark key="[" line="9" column="32" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/templates/trackDb/layout.txt" timestamp="1468861787441">
+        <mark key="[" line="2" column="4" />
+        <mark key="]" line="2" column="8" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/TrackHub.py" timestamp="1466212235487">
-        <mark key="[" line="16" column="38" />
-        <mark key="]" line="17" column="42" />
-        <mark key="." line="17" column="42" />
-        <mark key="^" line="17" column="42" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/TrackHub.py" timestamp="1468861805224">
+        <mark key="[" line="57" column="50" />
+        <mark key="]" line="57" column="46" />
+        <mark key="^" line="57" column="40" />
+        <mark key="." line="57" column="41" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" timestamp="1468859490826">
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" timestamp="1468860177448">
         <mark key="[" line="158" column="95" />
         <mark key="]" line="159" column="11" />
         <mark key="." line="159" column="11" />
@@ -474,7 +475,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>inputs_data[key][&quot;name&quot;] = inputs_data[key][&quot;name&quot;]</text>
+        <text>track</text>
       </register>
       <register name="-" type="4">
         <text>inputs_data[key][&quot;name&quot;] = inputs_data[key][&quot;name&quot;]</text>
@@ -482,20 +483,20 @@
       <register name="/" type="4">
         <text encoding="base64">XDxpZlw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBpbnB1dHNfZGF0YVtrZXldWyJuYW1lIl0K</text>
+      <register name="0" type="4">
+        <text>track</text>
       </register>
-      <register name="1" type="4">
-        <text>inputs_data[key][&quot;name&quot;] = inputs_data[key][&quot;name&quot;]</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIyBCeSBkZWZhdWx0LCB3ZSBzaG91bGQgbm90IAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlX25hbWUgPSBpbnB1dHNfZGF0YVtrZXldWyJuYW1lIl0K</text>
+      <register name="2" type="4">
+        <text>inputs_data[key][&quot;name&quot;] = inputs_data[key][&quot;name&quot;]</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBpbnB1dHNfZGF0YVtrZXldWyJuYW1lIl0K</text>
+        <text encoding="base64">ICAgICAgICBmaWxlX25hbWUgPSBpbnB1dHNfZGF0YVtrZXldWyJuYW1lIl0K</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCBpbnB1dHNfZGF0YVtrZXldWyJuYW1lIl0K</text>
@@ -503,17 +504,17 @@
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCBpbnB1dHNfZGF0YVtrZXldWyJuYW1lIl0K</text>
       </register>
-      <register name="6" type="4">
-        <text>.</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCBpbnB1dHNfZGF0YVtrZXldWyJuYW1lIl0K</text>
       </register>
       <register name="7" type="4">
-        <text>file_nam</text>
+        <text>.</text>
       </register>
       <register name="8" type="4">
-        <text>file_name</text>
+        <text>file_nam</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlX25hbWUgPSBpbnB1dHNfZGF0YVtrZXldWyJuYW1lIl0K</text>
+      <register name="9" type="4">
+        <text>file_name</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
