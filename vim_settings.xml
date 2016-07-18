@@ -325,11 +325,11 @@
         <mark key="[" line="2" column="4" />
         <mark key="]" line="2" column="8" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/TrackHub.py" timestamp="1468862413644">
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/TrackHub.py" timestamp="1468871649158">
         <mark key="[" line="57" column="50" />
-        <mark key="]" line="57" column="46" />
-        <mark key="^" line="57" column="40" />
-        <mark key="." line="57" column="41" />
+        <mark key="]" line="58" column="24" />
+        <mark key="^" line="58" column="24" />
+        <mark key="." line="58" column="24" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" timestamp="1468860177448">
         <mark key="[" line="158" column="95" />
