@@ -330,11 +330,11 @@
         <mark key="." line="17" column="42" />
         <mark key="^" line="17" column="42" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" timestamp="1468690589599">
-        <mark key="[" line="10" column="6" />
-        <mark key="]" line="10" column="3" />
-        <mark key="^" line="10" column="3" />
-        <mark key="." line="10" column="3" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" timestamp="1468859490826">
+        <mark key="[" line="158" column="95" />
+        <mark key="]" line="159" column="11" />
+        <mark key="." line="159" column="11" />
+        <mark key="^" line="159" column="11" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Track.py" timestamp="1464291588140">
         <mark key="[" line="9" column="0" />
@@ -474,46 +474,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>inputs_data[key][&quot;name&quot;] = inputs_data[key][&quot;name&quot;]</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>inputs_data[key][&quot;name&quot;] = inputs_data[key][&quot;name&quot;]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZlw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGFyZ3BhcnNlCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCBpbnB1dHNfZGF0YVtrZXldWyJuYW1lIl0K</text>
       </register>
       <register name="1" type="4">
-        <text />
+        <text>inputs_data[key][&quot;name&quot;] = inputs_data[key][&quot;name&quot;]</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
+        <text encoding="base64">ICAgICAgICBmaWxlX25hbWUgPSBpbnB1dHNfZGF0YVtrZXldWyJuYW1lIl0K</text>
       </register>
-      <register name="3" type="4">
-        <text>sys.argv</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCBpbnB1dHNfZGF0YVtrZXldWyJuYW1lIl0K</text>
       </register>
-      <register name="4" type="4">
-        <text />
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCBpbnB1dHNfZGF0YVtrZXldWyJuYW1lIl0K</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCBpbnB1dHNfZGF0YVtrZXldWyJuYW1lIl0K</text>
       </register>
       <register name="6" type="4">
-        <text>\</text>
+        <text>.</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHRlbXBmaWxlCg==</text>
+      <register name="7" type="4">
+        <text>file_nam</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHJlCg==</text>
+      <register name="8" type="4">
+        <text>file_name</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRlbXBfb3V0cHV0X2dsaW1tZXIgPSAidGVtcF9vdXRwdXRfZ2xpbW1lciIK</text>
+        <text encoding="base64">ICAgICAgICBmaWxlX25hbWUgPSBpbnB1dHNfZGF0YVtrZXldWyJuYW1lIl0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
