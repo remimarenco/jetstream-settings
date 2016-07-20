@@ -326,12 +326,14 @@
         <mark key="[" line="2" column="4" />
         <mark key="]" line="2" column="8" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/TrackHub.py" timestamp="1468956996915" />
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" timestamp="1468956857907">
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="." line="78" column="0" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/TrackHub.py" timestamp="1468973343695">
+        <mark key="'" line="4" column="7" />
+        <mark key="[" line="28" column="89" />
+        <mark key="]" line="28" column="105" />
+        <mark key="^" line="28" column="105" />
+        <mark key="." line="28" column="105" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" timestamp="1468956857907" />
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Track.py" timestamp="1464291588140">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -368,8 +370,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="22" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" />
-      <jump line="51" column="22" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" />
       <jump line="28" column="24" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bed.py" />
       <jump line="12" column="71" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bed.py" />
       <jump line="20" column="22" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/BedSimpleRepeats.py" />
@@ -468,6 +468,8 @@
       <jump line="13" column="0" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" />
       <jump line="38" column="66" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/urls.py" />
       <jump line="35" column="5" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/multi_fasta_glimmerhmm/multi_glimmer.sh" />
+      <jump line="159" column="41" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/TrackHub.py" />
+      <jump line="4" column="7" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/TrackHub.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -477,7 +479,7 @@
         <text>self.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpZlw+</text>
+        <text>zip</text>
       </register>
       <register name="0" type="4">
         <text>track</text>
@@ -513,21 +515,20 @@
         <text>inputs_data[key][&quot;name&quot;] = inputs_data[key][&quot;name&quot;]</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpZlw+</last-search>
+      <last-search>zip</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpZlw+</last-pattern>
+      <last-pattern>zip</last-pattern>
       <last-replace>array_call</last-replace>
       <last-substitute>arrayCall</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>trackHub</entry>
         <entry encoding="base64">XDxzb3J0ZWRCYW1cPg==</entry>
         <entry>template</entry>
         <entry>Up</entry>
@@ -547,6 +548,7 @@
         <entry>arrayCall</entry>
         <entry encoding="base64">XDxyZWZlcmVuY2VfZmFzdGFcPg==</entry>
         <entry encoding="base64">XDxpZlw+</entry>
+        <entry>zip</entry>
       </history-search>
       <history-cmd>
         <entry>s/tool_list/toto</entry>
@@ -566,9 +568,9 @@
         <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>s</entry>
-        <entry>wq</entry>
         <entry>W</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
