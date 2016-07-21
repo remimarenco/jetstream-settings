@@ -9,11 +9,12 @@
         <mark key="." line="0" column="26" />
         <mark key="^" line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Datatype.py" timestamp="1469075005853">
-        <mark key="[" line="46" column="78" />
-        <mark key="]" line="46" column="91" />
-        <mark key="." line="46" column="91" />
-        <mark key="^" line="46" column="91" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Datatype.py" timestamp="1469077819216">
+        <mark key="'" line="53" column="8" />
+        <mark key="[" line="69" column="50" />
+        <mark key="]" line="61" column="47" />
+        <mark key="^" line="61" column="47" />
+        <mark key="." line="61" column="47" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/glimmer_hmm/glimmerHMM/glimmerhmm_predict.xml" timestamp="1468621396991">
         <mark key="[" line="6" column="29" />
@@ -47,7 +48,7 @@
         <mark key="^" line="5" column="79" />
         <mark key="." line="5" column="79" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/subtools.py" timestamp="1468959689092">
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/subtools.py" timestamp="1469077642245">
         <mark key="[" line="135" column="0" />
         <mark key="]" line="135" column="0" />
         <mark key="." line="135" column="0" />
@@ -58,7 +59,7 @@
         <mark key="." line="37" column="2" />
         <mark key="^" line="37" column="2" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/BigWig.py" timestamp="1469072108222">
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/BigWig.py" timestamp="1469075930422">
         <mark key="[" line="12" column="17" />
         <mark key="]" line="12" column="52" />
         <mark key="." line="12" column="52" />
@@ -199,10 +200,10 @@
         <mark key="." line="11" column="61" />
         <mark key="^" line="11" column="61" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bed.py" timestamp="1469072055905">
-        <mark key="[" line="13" column="17" />
-        <mark key="]" line="13" column="56" />
-        <mark key="." line="13" column="56" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bed.py" timestamp="1469076215426">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
         <mark key="^" line="13" column="56" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/cloudlaunch-ui/app/components/public-appliances.component.css" timestamp="1467221492836">
@@ -290,11 +291,11 @@
         <mark key="^" line="51" column="23" />
         <mark key="." line="51" column="23" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Gff3.py" timestamp="1469071950880">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="36" />
-        <mark key="." line="14" column="36" />
-        <mark key="^" line="14" column="36" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Gff3.py" timestamp="1469077479022">
+        <mark key="[" line="46" column="53" />
+        <mark key="]" line="46" column="57" />
+        <mark key="." line="46" column="57" />
+        <mark key="^" line="46" column="57" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubaDataType/trackhub.xml" timestamp="1463192344261">
         <mark key="[" line="3" column="0" />
@@ -357,9 +358,12 @@
         <mark key="[" line="2" column="4" />
         <mark key="]" line="2" column="8" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/TrackHub.py" timestamp="1469075178542">
-        <mark key="'" line="28" column="41" />
-        <mark key="[" line="36" column="92" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/TrackHub.py" timestamp="1469076382210">
+        <mark key="'" line="31" column="41" />
+        <mark key="[" line="45" column="49" />
+        <mark key="]" line="45" column="48" />
+        <mark key="^" line="45" column="48" />
+        <mark key="." line="45" column="48" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" timestamp="1469073633969">
         <mark key="'" line="81" column="74" />
@@ -409,7 +413,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="8" filename="$USER_HOME$/Google_Drive/Dev/galaxy_bjorn/scripts/communication_server.py" />
       <jump line="13" column="8" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/tool_dependencies.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/tool_dependencies.xml" />
       <jump line="17" column="3" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/blastXmlToPsl/blastXmlToPsl.xml" />
@@ -509,13 +512,14 @@
       <jump line="12" column="23" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/TrackHub.py" />
       <jump line="29" column="41" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/TrackHub.py" />
       <jump line="81" column="74" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" />
+      <jump line="53" column="8" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Datatype.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnJvb3RBc3NlbWJseUh1YiA9IHNlbGYuX19jcmVhdGVBc3NlbWJseUh1Yl9fKGV4dHJhX2ZpbGVzX3BhdGg9ZXh0cmFfZmlsZXNfcGF0aCkK</text>
+        <text encoding="base64">ICAgICAgICBjaHJvbVNpemVzRmlsZSA9IHRlbXBmaWxlLk5hbWVkVGVtcG9yYXJ5RmlsZShidWZzaXplPTAsIHN1ZmZpeD0iLmNocm9tLnNpemVzIikK</text>
       </register>
       <register name="-" type="4">
-        <text>suffixTwoBit</text>
+        <text>twoBitInfoFile</text>
       </register>
       <register name="/" type="4">
         <text>inputFasta</text>
@@ -524,34 +528,34 @@
         <text>input_fasta_file_name</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnJvb3RBc3NlbWJseUh1YiA9IHNlbGYuX19jcmVhdGVBc3NlbWJseUh1Yl9fKGV4dHJhX2ZpbGVzX3BhdGg9ZXh0cmFfZmlsZXNfcGF0aCkK</text>
+        <text encoding="base64">ICAgICAgICBjaHJvbVNpemVzRmlsZSA9IHRlbXBmaWxlLk5hbWVkVGVtcG9yYXJ5RmlsZShidWZzaXplPTAsIHN1ZmZpeD0iLmNocm9tLnNpemVzIikK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>suffixTwoBit</text>
+        <text>twoBitInfoFile</text>
       </register>
-      <register name="3" type="4">
-        <text>baseNameFasta</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBEYXRhdHlwZS50d29CaXRJbmZvRmlsZSA9IHR3b0JpdEluZm9GaWxlCg==</text>
       </register>
       <register name="4" type="4">
-        <text>reference_genome.name</text>
+        <text>self</text>
       </register>
-      <register name="5" type="4">
-        <text>reference_genome</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBjaHJvbVNpemVzRmlsZSA9IHRlbXBmaWxlLk5hbWVkVGVtcG9yYXJ5RmlsZShidWZzaXplPTAsIHN1ZmZpeD0iLmNocm9tLnNpemVzIikK</text>
       </register>
-      <register name="6" type="4">
-        <text>name</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAjIFRoZW4gd2UgZ2V0IHRoZSBvdXRwdXQgdG8gZ2VuZXJhdGUgdGhlIGNocm9tU2l6ZXMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdWJ0b29scy5zb3J0Q2hyb21TaXplcyhzZWxmLnR3b0JpdEluZm9GaWxlLm5hbWUsIGNocm9tU2l6ZXNGaWxlLm5hbWUpCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>`p`</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIENvbnN0cnVjdGlvbiBvZiB0aGUgYXJib3Jlc2NlbmNlCg==</text>
+      <register name="9" type="4">
+        <text>Datatype.twoBitInfoFile</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
