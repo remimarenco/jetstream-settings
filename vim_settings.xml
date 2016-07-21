@@ -313,9 +313,12 @@
         <mark key="[" line="2" column="4" />
         <mark key="]" line="2" column="8" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/TrackHub.py" timestamp="1469064768515">
-        <mark key="'" line="39" column="12" />
-        <mark key="^" line="199" column="78" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/TrackHub.py" timestamp="1469065997681">
+        <mark key="'" line="38" column="12" />
+        <mark key="[" line="35" column="58" />
+        <mark key="]" line="35" column="57" />
+        <mark key="^" line="35" column="57" />
+        <mark key="." line="35" column="57" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" timestamp="1469047034443">
         <mark key="[" line="142" column="6" />
@@ -460,11 +463,11 @@
       <jump line="11" column="50" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/templates/display.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBncm91cHNUeHRGaWxlLndyaXRlKGh0bWxNYWtvUmVuZGVyZWQpCg==</text>
+      <register name="&quot;" type="4">
+        <text>toolDirectory=tool_directory</text>
       </register>
       <register name="-" type="4">
-        <text>toolDirectory</text>
+        <text>toolDirectory=tool_directory</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWxhdGl2ZV9maWxlX3BhdGhcPg==</text>
@@ -472,35 +475,35 @@
       <register name="0" type="4">
         <text>trackHub_structure</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBncm91cHNUeHRGaWxlLndyaXRlKGh0bWxNYWtvUmVuZGVyZWQpCg==</text>
+      <register name="1" type="4">
+        <text>toolDirectory=tool_directory</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>toolDirectory</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIyBncm91cHNUeHRGaWxlLndyaXRlKGh0bWxNYWtvUmVuZGVyZWQpCg==</text>
       </register>
       <register name="3" type="4">
         <text>toolDirectory</text>
       </register>
       <register name="4" type="4">
-        <text>Directory</text>
+        <text>toolDirectory</text>
       </register>
       <register name="5" type="4">
-        <text>toolDirectory</text>
+        <text>Directory</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBodWJIdG1sRmlsZS53cml0ZShodG1sUHlzdGFjaGVkKQo=</text>
+      <register name="6" type="4">
+        <text>toolDirectory</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyAgICAgJ1NwZWNpZUZ1bGxOYW1lJzogJ0Ryb3NvcGhpbGEgYmlhcm1pcGVzJ30pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBodWJIdG1sRmlsZS53cml0ZShodG1sUHlzdGFjaGVkKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBXcml0ZSB0aGUgY29udGVudCBvZiB0aGUgZmlsZSBnZW5vbWVzLnR4dAogICAgICAgICAgICAjIGh0bWxQeXN0YWNoZWQgPSByZW5kZXJlci5yZW5kZXJfbmFtZSgKICAgICAgICAgICAgIyAgICAgImxheW91dCIsCiAgICAgICAgICAgICMgICAgIHsnc3BlY2llJzogJ0RiaWEnLAogICAgICAgICAgICAjICAgICAndG9vbFVzZWQnOiAnQXVndXN0dXMnLAogICAgICAgICAgICAjICAgICAnbmNiaVNwZWNpZVVybCc6ICdodHRwOi8vd3d3Lm5jYmkubmxtLm5paC5nb3YvZ2Vub21lLzM0OTknLAogICAgICAgICAgICAjICAgICAnZ2Vub21lSUQnOiAnMzQ5OScsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyAgICAgJ1NwZWNpZUZ1bGxOYW1lJzogJ0Ryb3NvcGhpbGEgYmlhcm1pcGVzJ30pCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>toolDirectory</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIyBXcml0ZSB0aGUgY29udGVudCBvZiB0aGUgZmlsZSBnZW5vbWVzLnR4dAogICAgICAgICAgICAjIGh0bWxQeXN0YWNoZWQgPSByZW5kZXJlci5yZW5kZXJfbmFtZSgKICAgICAgICAgICAgIyAgICAgImxheW91dCIsCiAgICAgICAgICAgICMgICAgIHsnc3BlY2llJzogJ0RiaWEnLAogICAgICAgICAgICAjICAgICAndG9vbFVzZWQnOiAnQXVndXN0dXMnLAogICAgICAgICAgICAjICAgICAnbmNiaVNwZWNpZVVybCc6ICdodHRwOi8vd3d3Lm5jYmkubmxtLm5paC5nb3YvZ2Vub21lLzM0OTknLAogICAgICAgICAgICAjICAgICAnZ2Vub21lSUQnOiAnMzQ5OScsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
