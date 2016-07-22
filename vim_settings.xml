@@ -347,6 +347,13 @@
         <mark key="^" line="82" column="54" />
         <mark key="." line="82" column="54" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/regtools_junctions_extract/regtools_junctions_extract.xml" timestamp="1469214999126" />
+      <file name="$USER_HOME$/Google_Drive/Dev/regtools_junctions_extract/tool_dependencies.xml" timestamp="1469214960876">
+        <mark key="[" line="2" column="45" />
+        <mark key="]" line="2" column="43" />
+        <mark key="^" line="2" column="26" />
+        <mark key="." line="2" column="43" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Track.py" timestamp="1464291588140">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -476,10 +483,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>]</text>
+        <text>gff3ToGenePred</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>gff3ToGenePred</text>
       </register>
       <register name="/" type="4">
         <text>genome</text>
@@ -488,34 +495,34 @@
         <text>input_fasta_file_name</text>
       </register>
       <register name="1" type="4">
-        <text>]</text>
+        <text>gff3ToGenePred</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>[</text>
+        <text>]</text>
       </register>
       <register name="3" type="4">
-        <text />
+        <text>[</text>
       </register>
       <register name="4" type="4">
-        <text>e</text>
+        <text />
       </register>
       <register name="5" type="4">
+        <text>e</text>
+      </register>
+      <register name="6" type="4">
         <text>March 2013 Drosophilia biarmipes unplaced genomic scaffold</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIG9wdGlvbmFsPSJmYWxzZSIK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>unknown</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>args.</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmdlbm9tZV9uYW1lID0gImRiaWEzIgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
