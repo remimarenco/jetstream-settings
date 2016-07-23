@@ -385,6 +385,9 @@
         <mark key="^" line="9" column="1" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/bedclip/bedclip.xml" timestamp="1469237546989">
+        <mark key="[" line="7" column="22" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="187" column="43" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" />
@@ -489,8 +492,8 @@
       <jump line="24" column="59" filename="$USER_HOME$/Google_Drive/Dev/multi_fasta_glimmerhmm/multi_glimmer.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>build</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBUT0RPOiBGaWxsIGluIGNvbW1hbmQgdGVtcGxhdGUuCg==</text>
       </register>
       <register name="-" type="4">
         <text>build</text>
@@ -501,35 +504,35 @@
       <register name="0" type="4">
         <text>E</text>
       </register>
-      <register name="1" type="4">
-        <text>build</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBUT0RPOiBGaWxsIGluIGNvbW1hbmQgdGVtcGxhdGUuCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
+      <register name="2" type="4">
+        <text>build</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxhY3Rpb24gdHlwZT0iY2hhbmdlX2RpcmVjdG9yeSI+YnVpbGQ8L2FjdGlvbj4K</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text />
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>ge</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxhY3Rpb24gdHlwZT0iY2hhbmdlX2RpcmVjdG9yeSI+cmVndG9vbHM8L2FjdGlvbj4K</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>f</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>&quot;https://toolshed.g2.bx.psu.edu&quot;</text>
       </register>
-      <register name="8" type="4">
-        <text>toolshed=</text>
-      </register>
       <register name="9" type="4">
-        <text>&quot;hangeset_revision=&quot;</text>
+        <text>toolshed=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
