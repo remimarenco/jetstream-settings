@@ -385,11 +385,10 @@
         <mark key="^" line="9" column="1" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/bedclip/bedclip.xml" timestamp="1469249948438">
-        <mark key="[" line="21" column="22" />
-        <mark key="]" line="21" column="22" />
-        <mark key="^" line="21" column="22" />
-        <mark key="." line="21" column="22" />
+      <file name="$USER_HOME$/Google_Drive/Dev/bedclip/bedclip.xml" timestamp="1469251254641">
+        <mark key="[" line="12" column="33" />
+        <mark key="]" line="12" column="34" />
+        <mark key="." line="12" column="34" />
       </file>
     </filemarks>
     <jumps>
@@ -495,8 +494,8 @@
       <jump line="24" column="59" filename="$USER_HOME$/Google_Drive/Dev/multi_fasta_glimmerhmm/multi_glimmer.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>stdout</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>stdout</text>
@@ -507,35 +506,35 @@
       <register name="0" type="4">
         <text>E</text>
       </register>
-      <register name="1" type="4">
-        <text>stdout</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>two_bit_ref_genom</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBybSBjaHJvbS5zaXplczsK</text>
       </register>
-      <register name="3" type="4">
-        <text>e</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBybSB0d29fYml0X3JlZl9nZW5vbWU7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>#</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>#</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBta2ZpZm8gY2hyb20uc2l6ZXM7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>#</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBta2ZpZm8gdHdvX2JpdF9yZWZfZ2Vub21lOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text />
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICM=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBybSBjaHJvbS5zaXplczsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PD94bWwgdmVyc2lvIjEuMCI/Pgo=</text>
+        <text encoding="base64">ICAgICAgICBybSB0d29fYml0X3JlZl9nZW5vbWU7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
