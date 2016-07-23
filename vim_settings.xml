@@ -385,11 +385,11 @@
         <mark key="^" line="9" column="1" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/bedclip/bedclip.xml" timestamp="1469240454202">
-        <mark key="[" line="25" column="26" />
-        <mark key="]" line="25" column="36" />
-        <mark key="." line="25" column="36" />
-        <mark key="^" line="25" column="36" />
+      <file name="$USER_HOME$/Google_Drive/Dev/bedclip/bedclip.xml" timestamp="1469241496284">
+        <mark key="[" line="0" column="25" />
+        <mark key="]" line="0" column="31" />
+        <mark key="." line="0" column="31" />
+        <mark key="^" line="0" column="31" />
       </file>
     </filemarks>
     <jumps>
@@ -496,10 +496,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>input</text>
+        <text>Remove lines from bed file that refer to off-chromosome places</text>
       </register>
       <register name="-" type="4">
-        <text>input</text>
+        <text>Remove lines from bed file that refer to off-chromosome places</text>
       </register>
       <register name="/" type="4">
         <text>arrayCall</text>
@@ -508,34 +508,34 @@
         <text>E</text>
       </register>
       <register name="1" type="4">
-        <text>input</text>
+        <text>Remove lines from bed file that refer to off-chromosome places</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>chrom</text>
-      </register>
-      <register name="3" type="4">
-        <text>input2</text>
-      </register>
-      <register name="4" type="4">
-        <text>input1</text>
-      </register>
-      <register name="5" type="4">
         <text>input</text>
       </register>
-      <register name="6" type="4">
-        <text>output1</text>
+      <register name="3" type="4">
+        <text>chrom</text>
       </register>
-      <register name="7" type="4">
+      <register name="4" type="4">
+        <text>input2</text>
+      </register>
+      <register name="5" type="4">
         <text>input1</text>
       </register>
+      <register name="6" type="4">
+        <text>input</text>
+      </register>
+      <register name="7" type="4">
+        <text>output1</text>
+      </register>
       <register name="8" type="4">
-        <text>0.1.0</text>
+        <text>input1</text>
       </register>
       <register name="9" type="4">
-        <text>bedclip</text>
+        <text>0.1.0</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
