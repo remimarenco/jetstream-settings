@@ -385,8 +385,11 @@
         <mark key="^" line="9" column="1" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/bedclip/bedclip.xml" timestamp="1469237546989">
-        <mark key="[" line="7" column="22" />
+      <file name="$USER_HOME$/Google_Drive/Dev/bedclip/bedclip.xml" timestamp="1469240454202">
+        <mark key="[" line="25" column="26" />
+        <mark key="]" line="25" column="36" />
+        <mark key="." line="25" column="36" />
+        <mark key="^" line="25" column="36" />
       </file>
     </filemarks>
     <jumps>
@@ -492,11 +495,11 @@
       <jump line="24" column="59" filename="$USER_HOME$/Google_Drive/Dev/multi_fasta_glimmerhmm/multi_glimmer.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPOiBGaWxsIGluIGNvbW1hbmQgdGVtcGxhdGUuCg==</text>
+      <register name="&quot;" type="4">
+        <text>input</text>
       </register>
       <register name="-" type="4">
-        <text>build</text>
+        <text>input</text>
       </register>
       <register name="/" type="4">
         <text>arrayCall</text>
@@ -504,35 +507,35 @@
       <register name="0" type="4">
         <text>E</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPOiBGaWxsIGluIGNvbW1hbmQgdGVtcGxhdGUuCg==</text>
+      <register name="1" type="4">
+        <text>input</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>build</text>
+        <text>chrom</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhY3Rpb24gdHlwZT0iY2hhbmdlX2RpcmVjdG9yeSI+YnVpbGQ8L2FjdGlvbj4K</text>
+      <register name="3" type="4">
+        <text>input2</text>
       </register>
       <register name="4" type="4">
-        <text />
+        <text>input1</text>
       </register>
       <register name="5" type="4">
-        <text>ge</text>
+        <text>input</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhY3Rpb24gdHlwZT0iY2hhbmdlX2RpcmVjdG9yeSI+cmVndG9vbHM8L2FjdGlvbj4K</text>
+      <register name="6" type="4">
+        <text>output1</text>
       </register>
       <register name="7" type="4">
-        <text>f</text>
+        <text>input1</text>
       </register>
       <register name="8" type="4">
-        <text>&quot;https://toolshed.g2.bx.psu.edu&quot;</text>
+        <text>0.1.0</text>
       </register>
       <register name="9" type="4">
-        <text>toolshed=</text>
+        <text>bedclip</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
