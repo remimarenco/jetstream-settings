@@ -227,6 +227,12 @@
         <mark key="." line="2" column="50" />
         <mark key="^" line="2" column="40" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1469490010551">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="14" column="64" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/multi_fasta_glimmerhmm/glimmerhmm.xml" timestamp="1468792134997">
         <mark key="[" line="4" column="13" />
         <mark key="]" line="4" column="14" />
@@ -269,7 +275,7 @@
         <mark key="." line="3" column="103" />
         <mark key="^" line="3" column="103" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/tool_dependencies.xml" timestamp="1468515191133">
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/tool_dependencies.xml" timestamp="1469489654962">
         <mark key="[" line="51" column="24" />
         <mark key="]" line="51" column="23" />
         <mark key="^" line="51" column="23" />
@@ -482,46 +488,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAidHdvQml0RmlsZSBuYW1lOiAiICsgdHdvQml0RmlsZS5uYW1lCg==</text>
+        <text encoding="base64">ICAgICAgICA8cmVxdWlyZW1lbnQgdHlwZT0icGFja2FnZSIgdmVyc2lvbj0iMzEyIj51Y3NjX3Rvb2xzPC9yZXF1aXJlbWVudD4KICAgICAgICA8cmVxdWlyZW1lbnQgdHlwZT0icGFja2FnZSIgdmVyc2lvbj0iMC4wLjEiPmdmZjNUb0dlbmVQcmVkPC9yZXF1aXJlbWVudD4KICAgICAgICA8cmVxdWlyZW1lbnQgdHlwZT0icGFja2FnZSIgdmVyc2lvbj0iMC4wLjEiPmd0ZlRvR2VuZVByZWQ8L3JlcXVpcmVtZW50PgogICAgICAgIDxyZXF1aXJlbWVudCB0eXBlPSJwYWNrYWdlIiB2ZXJzaW9uPSIwLjAuMSI+Z2VuZVByZWRUb0JlZDwvcmVxdWlyZW1lbnQ+CiAgICAgICAgPHJlcXVpcmVtZW50IHR5cGU9InBhY2thZ2UiIHZlcnNpb249IjEuMiI+c2FtdG9vbHM8L3JlcXVpcmVtZW50Pgo=</text>
       </register>
       <register name="-" type="4">
-        <text>.name</text>
+        <text>genepredtobed</text>
       </register>
       <register name="/" type="4">
         <text>arrayCall</text>
       </register>
-      <register name="0" type="4">
-        <text>E</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICA8cmVxdWlyZW1lbnQgdHlwZT0icGFja2FnZSIgdmVyc2lvbj0iMzMyIj51Y3NjLWJlZHRvYmlnYmVkPC9yZXF1aXJlbWVudD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAidHdvQml0RmlsZSBuYW1lOiAiICsgdHdvQml0RmlsZS5uYW1lCg==</text>
+        <text encoding="base64">ICAgICAgICA8cmVxdWlyZW1lbnQgdHlwZT0icGFja2FnZSIgdmVyc2lvbj0iMzEyIj51Y3NjX3Rvb2xzPC9yZXF1aXJlbWVudD4KICAgICAgICA8cmVxdWlyZW1lbnQgdHlwZT0icGFja2FnZSIgdmVyc2lvbj0iMC4wLjEiPmdmZjNUb0dlbmVQcmVkPC9yZXF1aXJlbWVudD4KICAgICAgICA8cmVxdWlyZW1lbnQgdHlwZT0icGFja2FnZSIgdmVyc2lvbj0iMC4wLjEiPmd0ZlRvR2VuZVByZWQ8L3JlcXVpcmVtZW50PgogICAgICAgIDxyZXF1aXJlbWVudCB0eXBlPSJwYWNrYWdlIiB2ZXJzaW9uPSIwLjAuMSI+Z2VuZVByZWRUb0JlZDwvcmVxdWlyZW1lbnQ+CiAgICAgICAgPHJlcXVpcmVtZW50IHR5cGU9InBhY2thZ2UiIHZlcnNpb249IjEuMiI+c2FtdG9vbHM8L3JlcXVpcmVtZW50Pgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAiUmVmZXJlbmNlIGdlbm9tZSBwYXRoOiAiICsgc2VsZi5yZWZlcmVuY2VfZ2Vub21lLmZhbHNlX3BhdGgK</text>
+      <register name="2" type="4">
+        <text>genepredtobed</text>
       </register>
-      <register name="3" type="4">
-        <text>.name</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICA8cmVxdWlyZW1lbnQgdHlwZT0icGFja2FnZSIgdmVyc2lvbj0iMzMyIj51Y3NjLWdlbmVwcmVkdG9iZWQ8L3JlcXVpcmVtZW50Pgo=</text>
       </register>
       <register name="4" type="4">
-        <text>.name</text>
+        <text>bedtobigbed</text>
       </register>
       <register name="5" type="4">
-        <text>twoBitName</text>
+        <text>genepredtobed</text>
       </register>
       <register name="6" type="4">
-        <text>print reference_genome.false_path</text>
+        <text>324</text>
       </register>
       <register name="7" type="4">
-        <text>array_inputs_reference_genome[&quot;false_path&quot;]</text>
+        <text>genepredtobed</text>
       </register>
-      <register name="8" type="4">
-        <text>d</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICA8cmVxdWlyZW1lbnQgdHlwZT0icGFja2FnZSIgdmVyc2lvbj0iMzI0Ij51Y3NjLWdlbmVwcmVkdG9iZWQ8L3JlcXVpcmVtZW50Pgo=</text>
       </register>
-      <register name="9" type="4">
-        <text>class</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCAidHdvQml0RmlsZSBuYW1lOiAiICsgdHdvQml0RmlsZS5uYW1lCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
