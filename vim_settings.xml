@@ -329,14 +329,13 @@
         <mark key="^" line="41" column="52" />
         <mark key="." line="41" column="52" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/TrackHub.py" timestamp="1469464882381">
-        <mark key="'" line="144" column="8" />
-        <mark key="[" line="110" column="72" />
-        <mark key="]" line="110" column="76" />
-        <mark key="." line="110" column="76" />
-        <mark key="^" line="110" column="76" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/TrackHub.py" timestamp="1469487909725">
+        <mark key="'" line="142" column="8" />
+        <mark key="[" line="108" column="0" />
+        <mark key="]" line="108" column="0" />
+        <mark key="^" line="108" column="76" />
+        <mark key="." line="108" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" timestamp="1469464014342" />
       <file name="$USER_HOME$/Google_Drive/Dev/regtools_junctions_extract/regtools_junctions_extract.xml" timestamp="1469216917978">
         <mark key="[" line="1" column="17" />
         <mark key="]" line="1" column="17" />
@@ -482,8 +481,8 @@
       <jump line="24" column="59" filename="$USER_HOME$/Google_Drive/Dev/multi_fasta_glimmerhmm/multi_glimmer.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.name</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCAidHdvQml0RmlsZSBuYW1lOiAiICsgdHdvQml0RmlsZS5uYW1lCg==</text>
       </register>
       <register name="-" type="4">
         <text>.name</text>
@@ -494,35 +493,35 @@
       <register name="0" type="4">
         <text>E</text>
       </register>
-      <register name="1" type="4">
-        <text>.name</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCAidHdvQml0RmlsZSBuYW1lOiAiICsgdHdvQml0RmlsZS5uYW1lCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>.name</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCAiUmVmZXJlbmNlIGdlbm9tZSBwYXRoOiAiICsgc2VsZi5yZWZlcmVuY2VfZ2Vub21lLmZhbHNlX3BhdGgK</text>
       </register>
       <register name="3" type="4">
-        <text>twoBitName</text>
+        <text>.name</text>
       </register>
       <register name="4" type="4">
-        <text>print reference_genome.false_path</text>
+        <text>.name</text>
       </register>
       <register name="5" type="4">
-        <text>array_inputs_reference_genome[&quot;false_path&quot;]</text>
+        <text>twoBitName</text>
       </register>
       <register name="6" type="4">
-        <text>d</text>
+        <text>print reference_genome.false_path</text>
       </register>
       <register name="7" type="4">
+        <text>array_inputs_reference_genome[&quot;false_path&quot;]</text>
+      </register>
+      <register name="8" type="4">
+        <text>d</text>
+      </register>
+      <register name="9" type="4">
         <text>class</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICMgVE9ETzogQWRkIGFycmF5IGZvciBlYWNoIGlucHV0IGJlY2F1c2Ugd2UgY2FuIGFkZCBtdWx0aXBsZSAtYiBmb3IgZXhhbXBsZSArIGZpbHRlciB0aGUgZGF0YSBhc3NvY2lhdGVkCg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
