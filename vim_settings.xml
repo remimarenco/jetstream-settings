@@ -343,11 +343,11 @@
         <mark key="." line="186" column="49" />
         <mark key="^" line="186" column="49" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" timestamp="1469092338673">
-        <mark key="[" line="82" column="18" />
-        <mark key="]" line="82" column="54" />
-        <mark key="^" line="82" column="54" />
-        <mark key="." line="82" column="54" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" timestamp="1469415798284">
+        <mark key="[" line="90" column="84" />
+        <mark key="]" line="93" column="89" />
+        <mark key="^" line="93" column="89" />
+        <mark key="." line="93" column="89" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/regtools_junctions_extract/regtools_junctions_extract.xml" timestamp="1469216917978">
         <mark key="[" line="1" column="17" />
@@ -495,7 +495,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgVE9ETzogQWRkIGFycmF5IGZvciBlYWNoIGlucHV0IGJlY2F1c2Ugd2UgY2FuIGFkZCBtdWx0aXBsZSAtYiBmb3IgZXhhbXBsZSArIGZpbHRlciB0aGUgZGF0YSBhc3NvY2lhdGVkCg==</text>
       </register>
       <register name="-" type="4">
         <text>stdout</text>
@@ -507,34 +507,34 @@
         <text>E</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgVE9ETzogQWRkIGFycmF5IGZvciBlYWNoIGlucHV0IGJlY2F1c2Ugd2UgY2FuIGFkZCBtdWx0aXBsZSAtYiBmb3IgZXhhbXBsZSArIGZpbHRlciB0aGUgZGF0YSBhc3NvY2lhdGVkCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBybSBjaHJvbS5zaXplczsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBybSB0d29fYml0X3JlZl9nZW5vbWU7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBta2ZpZm8gY2hyb20uc2l6ZXM7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBta2ZpZm8gdHdvX2JpdF9yZWZfZ2Vub21lOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBybSBjaHJvbS5zaXplczsK</text>
       </register>
-      <register name="9" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBybSB0d29fYml0X3JlZl9nZW5vbWU7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBta2ZpZm8gY2hyb20uc2l6ZXM7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBta2ZpZm8gdHdvX2JpdF9yZWZfZ2Vub21lOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBybSBjaHJvbS5zaXplczsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
