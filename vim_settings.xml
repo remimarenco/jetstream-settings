@@ -299,12 +299,6 @@
         <mark key="." line="5" column="17" />
         <mark key="^" line="5" column="17" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bam.py" timestamp="1469072036346">
-        <mark key="[" line="17" column="17" />
-        <mark key="]" line="17" column="17" />
-        <mark key="^" line="17" column="53" />
-        <mark key="." line="17" column="17" />
-      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/multi_fasta_glimmer_hmm/glimmerhmm.xml" timestamp="1468633456609">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -335,12 +329,12 @@
         <mark key="^" line="41" column="52" />
         <mark key="." line="41" column="52" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/TrackHub.py" timestamp="1469487909725">
-        <mark key="'" line="142" column="8" />
-        <mark key="[" line="108" column="0" />
-        <mark key="]" line="108" column="0" />
-        <mark key="^" line="108" column="76" />
-        <mark key="." line="108" column="0" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/TrackHub.py" timestamp="1469491277773">
+        <mark key="'" line="100" column="0" />
+        <mark key="[" line="210" column="36" />
+        <mark key="]" line="210" column="46" />
+        <mark key="." line="210" column="46" />
+        <mark key="^" line="210" column="46" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/regtools_junctions_extract/regtools_junctions_extract.xml" timestamp="1469216917978">
         <mark key="[" line="1" column="17" />
@@ -385,10 +379,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="187" column="43" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" />
-      <jump line="2" column="36" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" />
-      <jump line="38" column="36" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" />
-      <jump line="39" column="44" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" />
       <jump line="40" column="34" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" />
       <jump line="55" column="25" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" />
       <jump line="60" column="29" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" />
@@ -485,58 +475,62 @@
       <jump line="141" column="18" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/TrackHub.py" />
       <jump line="142" column="8" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/TrackHub.py" />
       <jump line="24" column="59" filename="$USER_HOME$/Google_Drive/Dev/multi_fasta_glimmerhmm/multi_glimmer.py" />
+      <jump line="94" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/TrackHub.py" />
+      <jump line="95" column="12" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/TrackHub.py" />
+      <jump line="98" column="28" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/TrackHub.py" />
+      <jump line="100" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/TrackHub.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8cmVxdWlyZW1lbnQgdHlwZT0icGFja2FnZSIgdmVyc2lvbj0iMzEyIj51Y3NjX3Rvb2xzPC9yZXF1aXJlbWVudD4KICAgICAgICA8cmVxdWlyZW1lbnQgdHlwZT0icGFja2FnZSIgdmVyc2lvbj0iMC4wLjEiPmdmZjNUb0dlbmVQcmVkPC9yZXF1aXJlbWVudD4KICAgICAgICA8cmVxdWlyZW1lbnQgdHlwZT0icGFja2FnZSIgdmVyc2lvbj0iMC4wLjEiPmd0ZlRvR2VuZVByZWQ8L3JlcXVpcmVtZW50PgogICAgICAgIDxyZXF1aXJlbWVudCB0eXBlPSJwYWNrYWdlIiB2ZXJzaW9uPSIwLjAuMSI+Z2VuZVByZWRUb0JlZDwvcmVxdWlyZW1lbnQ+CiAgICAgICAgPHJlcXVpcmVtZW50IHR5cGU9InBhY2thZ2UiIHZlcnNpb249IjEuMiI+c2FtdG9vbHM8L3JlcXVpcmVtZW50Pgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmJhbV9uYW1lID0gc2VsZi5kYXRhX2JhbVsibmFtZSJdCg==</text>
       </register>
       <register name="-" type="4">
-        <text>genepredtobed</text>
+        <text>genome_name + '.html'</text>
       </register>
       <register name="/" type="4">
-        <text>arrayCall</text>
+        <text>dbia.hmtl</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8cmVxdWlyZW1lbnQgdHlwZT0icGFja2FnZSIgdmVyc2lvbj0iMzMyIj51Y3NjLWJlZHRvYmlnYmVkPC9yZXF1aXJlbWVudD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8cmVxdWlyZW1lbnQgdHlwZT0icGFja2FnZSIgdmVyc2lvbj0iMzEyIj51Y3NjX3Rvb2xzPC9yZXF1aXJlbWVudD4KICAgICAgICA8cmVxdWlyZW1lbnQgdHlwZT0icGFja2FnZSIgdmVyc2lvbj0iMC4wLjEiPmdmZjNUb0dlbmVQcmVkPC9yZXF1aXJlbWVudD4KICAgICAgICA8cmVxdWlyZW1lbnQgdHlwZT0icGFja2FnZSIgdmVyc2lvbj0iMC4wLjEiPmd0ZlRvR2VuZVByZWQ8L3JlcXVpcmVtZW50PgogICAgICAgIDxyZXF1aXJlbWVudCB0eXBlPSJwYWNrYWdlIiB2ZXJzaW9uPSIwLjAuMSI+Z2VuZVByZWRUb0JlZDwvcmVxdWlyZW1lbnQ+CiAgICAgICAgPHJlcXVpcmVtZW50IHR5cGU9InBhY2thZ2UiIHZlcnNpb249IjEuMiI+c2FtdG9vbHM8L3JlcXVpcmVtZW50Pgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmJhbV9uYW1lID0gc2VsZi5kYXRhX2JhbVsibmFtZSJdCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>genepredtobed</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBub3Qgc2VsZi5kYXRhX2JhbVsibmFtZSJdCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8cmVxdWlyZW1lbnQgdHlwZT0icGFja2FnZSIgdmVyc2lvbj0iMzMyIj51Y3NjLWdlbmVwcmVkdG9iZWQ8L3JlcXVpcmVtZW50Pgo=</text>
+      <register name="3" type="4">
+        <text>genome_name + '.html'</text>
       </register>
-      <register name="4" type="4">
-        <text>bedtobigbed</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLnNwZWNpZV9odG1sID0gc2VsZi5nZW5vbWVfbmFtZSArICIuaHRtbCIK</text>
       </register>
-      <register name="5" type="4">
-        <text>genepredtobed</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmCg==</text>
       </register>
       <register name="6" type="4">
-        <text>324</text>
+        <text>dbia</text>
       </register>
       <register name="7" type="4">
-        <text>genepredtobed</text>
+        <text>'dbia</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8cmVxdWlyZW1lbnQgdHlwZT0icGFja2FnZSIgdmVyc2lvbj0iMzI0Ij51Y3NjLWdlbmVwcmVkdG9iZWQ8L3JlcXVpcmVtZW50Pgo=</text>
+        <text encoding="base64">ICAgICAgICAjIFRPRE86IENoYW5nZSB0aGUgbmFtZSBhbmQgZ2V0IGl0IGRlcGVuZGluZyBvbiB0aGUgc3BlY2llCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAidHdvQml0RmlsZSBuYW1lOiAiICsgdHdvQml0RmlsZS5uYW1lCg==</text>
+      <register name="9" type="4">
+        <text>self</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>genome</last-search>
+      <last-search>dbia.hmtl</last-search>
       <last-offset />
-      <last-pattern>arrayCall</last-pattern>
+      <last-pattern>dbia.hmtl</last-pattern>
       <last-replace>array_call</last-replace>
       <last-substitute>arrayCall</last-substitute>
       <last-dir>1</last-dir>
@@ -544,10 +538,6 @@
     </search>
     <history>
       <history-search>
-        <entry>User</entry>
-        <entry>ForeignKey(User</entry>
-        <entry>ApplicationDep</entry>
-        <entry>nblank</entry>
         <entry>Application</entry>
         <entry encoding="base64">XDxzbHVnXD4=</entry>
         <entry>Public</entry>
@@ -564,6 +554,10 @@
         <entry>twoBitPath</entry>
         <entry>genome</entry>
         <entry>arrayCall</entry>
+        <entry>html</entry>
+        <entry>.html</entry>
+        <entry>self.specie</entry>
+        <entry>dbia.hmtl</entry>
       </history-search>
       <history-cmd>
         <entry>s/tool_list/toto</entry>
