@@ -53,7 +53,6 @@
         <mark key="." line="37" column="2" />
         <mark key="^" line="37" column="2" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/datatypes/tracks.py" timestamp="1469496407903" />
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/BigWig.py" timestamp="1469075930422">
         <mark key="[" line="12" column="17" />
         <mark key="]" line="12" column="52" />
@@ -319,7 +318,6 @@
         <mark key="^" line="41" column="52" />
         <mark key="." line="41" column="52" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/trf_simpleRepeat.as" timestamp="1469493168105" />
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/TrackHub.py" timestamp="1469491277773">
         <mark key="'" line="100" column="0" />
         <mark key="[" line="210" column="36" />
@@ -327,19 +325,18 @@
         <mark key="." line="210" column="46" />
         <mark key="^" line="210" column="46" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/__init__.py" timestamp="1469508617711">
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/__init__.py" timestamp="1469549901722">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="11" column="17" />
-        <mark key="." line="12" column="0" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" timestamp="1469513475972">
-        <mark key="'" line="27" column="114" />
-        <mark key="[" line="227" column="30" />
-        <mark key="]" line="230" column="11" />
-        <mark key="^" line="230" column="11" />
-        <mark key="." line="230" column="11" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" timestamp="1469557851026">
+        <mark key="'" line="204" column="21" />
+        <mark key="[" line="237" column="0" />
+        <mark key="]" line="237" column="0" />
+        <mark key="." line="237" column="0" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/regtools_junctions_extract/regtools_junctions_extract.xml" timestamp="1469216917978">
         <mark key="[" line="1" column="17" />
@@ -384,11 +381,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="25" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" />
-      <jump line="78" column="25" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" />
-      <jump line="222" column="36" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" />
-      <jump line="140" column="8" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" />
-      <jump line="11" column="17" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" />
       <jump line="142" column="4" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" />
       <jump line="4" column="28" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" />
       <jump line="196" column="18" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" />
@@ -484,58 +476,63 @@
       <jump line="41" column="30" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/subtools.py" />
       <jump line="101" column="41" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" />
       <jump line="27" column="114" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" />
+      <jump line="149" column="4" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" />
+      <jump line="189" column="4" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" />
+      <jump line="212" column="18" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" />
+      <jump line="259" column="4" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" />
+      <jump line="204" column="21" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBPCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>e)</text>
+        <text>or log_stderr</text>
       </register>
       <register name="/" type="4">
-        <text>bedTo</text>
+        <text>logging.getlogger</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGxvZ191c2VyID0gbG9nZ2luZy5TdHJlYW1IYW5kbGVyKHN5cy5zdGRvdXQpCg==</text>
+        <text encoding="base64">ICAgICMgc3Rkb3V0IGZvciBJTkZPIC8gV0FSTiAvIEVSUk9SIC8gQ1JJVElDQUwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBPCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>e)</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICMgc3RkZXJyCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>t</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGxvZ2dpbmcuZ2V0TG9nZ2VyKCkuYWRkSGFuZGxlcihsb2dfZXJyb3IpCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>\</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>\</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGxvZ19lcnJvciA9IGxvZ2dpbmcuU3RyZWFtSGFuZGxlcihzeXMuc3RkZXJyKQogICAgbG9nX2Vycm9yLnNldExldmVsKGxvZ2dpbmcuRVJST1IpCiAgICBsb2dfZXJyb3JfZm9ybWF0ID0gJyUobWVzc2FnZSlzJwoKICAgIGZvcm1hdHRlcl9lcnJvciA9IGxvZ2dpbmcuRm9ybWF0dGVyKGxvZ19lcnJvcl9mb3JtYXQpCgogICAgbG9nX2Vycm9yLnNldEZvcm1hdHRlcihmb3JtYXR0ZXJfZXJyb3IpCg==</text>
       </register>
       <register name="7" type="4">
-        <text>t</text>
+        <text>or log_stderr</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2luZy5kZWJ1ZyhlcnJvcikK</text>
+      <register name="8" type="4">
+        <text>, log_stderr=None</text>
       </register>
       <register name="9" type="4">
-        <text>message</text>
+        <text>or log_stderr</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>bedTo</last-search>
+      <last-search>logging.getlogger</last-search>
       <last-offset />
-      <last-pattern>bedTo</last-pattern>
+      <last-pattern>logging.getlogger</last-pattern>
       <last-replace>array_call</last-replace>
       <last-substitute>arrayCall</last-substitute>
       <last-dir>1</last-dir>
@@ -543,8 +540,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzbHVnXD4=</entry>
-        <entry>Public</entry>
         <entry>ApplicationVi</entry>
         <entry encoding="base64">XDxyZWZlcmVuY2VfZmFzdGFcPg==</entry>
         <entry encoding="base64">XDxpZlw+</entry>
@@ -563,9 +558,10 @@
         <entry>self.specie</entry>
         <entry>dbia.hmtl</entry>
         <entry>bedTo</entry>
+        <entry>loggin.</entry>
+        <entry>logging.getlogger</entry>
       </history-search>
       <history-cmd>
-        <entry>s/tool_list/toto/gi</entry>
         <entry>s/tool_list/toto/gc</entry>
         <entry>vimgrep</entry>
         <entry>q!</entry>
@@ -581,8 +577,9 @@
         <entry>q</entry>
         <entry>wq</entry>
         <entry>s</entry>
-        <entry>e</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>e</entry>
+        <entry>d</entry>
         <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
