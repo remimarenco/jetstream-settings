@@ -28,9 +28,6 @@
         <mark key="." line="76" column="68" />
         <mark key="^" line="76" column="68" />
       </file>
-      <file name="/a.dummy" timestamp="1469069952781">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/tests.py" timestamp="1467166171804">
         <mark key="[" line="184" column="37" />
         <mark key="]" line="184" column="37" />
@@ -43,11 +40,11 @@
         <mark key="^" line="5" column="79" />
         <mark key="." line="5" column="79" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/subtools.py" timestamp="1469084746622">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-        <mark key="^" line="49" column="58" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/subtools.py" timestamp="1469500238432">
+        <mark key="'" line="73" column="4" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/glimmer_hmm/readme.md" timestamp="1468398253787">
         <mark key="[" line="37" column="0" />
@@ -55,14 +52,12 @@
         <mark key="." line="37" column="2" />
         <mark key="^" line="37" column="2" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/datatypes/tracks.py" timestamp="1469496407903" />
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/BigWig.py" timestamp="1469075930422">
         <mark key="[" line="12" column="17" />
         <mark key="]" line="12" column="52" />
         <mark key="." line="12" column="52" />
         <mark key="^" line="12" column="52" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/forms.py" timestamp="1466875789134">
-        <mark key="[" line="5" column="29" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/cloudlaunch-ui/app/main.ts" timestamp="1467184377204">
         <mark key="[" line="7" column="29" />
@@ -125,14 +120,11 @@
         <mark key="^" line="39" column="5" />
         <mark key="." line="39" column="5" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/BedSimpleRepeats.py" timestamp="1469087406040">
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/BedSimpleRepeats.py" timestamp="1469493120289">
         <mark key="[" line="31" column="53" />
         <mark key="]" line="31" column="57" />
         <mark key="^" line="31" column="57" />
         <mark key="." line="31" column="57" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/datatypes/dataproviders/external.py" timestamp="1468025362946">
-        <mark key="[" line="110" column="48" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/blastXmlToPsl/tool_dependencies.xml" timestamp="1468533221446">
         <mark key="[" line="7" column="123" />
@@ -169,9 +161,6 @@
         <mark key="]" line="8" column="0" />
         <mark key="^" line="8" column="0" />
         <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/cloudlaunch-ui/app/components/public-appliances.component.html" timestamp="1467214128178">
-        <mark key="[" line="13" column="59" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/cloudlaunch-ui/app/components/public-appliances-maps.component.html" timestamp="1467187057521">
         <mark key="[" line="23" column="88" />
@@ -227,11 +216,11 @@
         <mark key="." line="2" column="50" />
         <mark key="^" line="2" column="40" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1469490010551">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="14" column="64" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1469499306350">
+        <mark key="[" line="199" column="60" />
+        <mark key="]" line="199" column="64" />
+        <mark key="^" line="199" column="64" />
+        <mark key="." line="199" column="64" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/multi_fasta_glimmerhmm/glimmerhmm.xml" timestamp="1468792134997">
         <mark key="[" line="4" column="13" />
@@ -329,12 +318,22 @@
         <mark key="^" line="41" column="52" />
         <mark key="." line="41" column="52" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/trf_simpleRepeat.as" timestamp="1469493168105" />
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/TrackHub.py" timestamp="1469491277773">
         <mark key="'" line="100" column="0" />
         <mark key="[" line="210" column="36" />
         <mark key="]" line="210" column="46" />
         <mark key="." line="210" column="46" />
         <mark key="^" line="210" column="46" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/__init__.py" timestamp="1469495677058">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="10" column="52" />
+        <mark key="^" line="10" column="52" />
+        <mark key="." line="10" column="52" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" timestamp="1469498560541">
+        <mark key="[" line="86" column="37" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/regtools_junctions_extract/regtools_junctions_extract.xml" timestamp="1469216917978">
         <mark key="[" line="1" column="17" />
@@ -379,7 +378,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="34" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" />
       <jump line="55" column="25" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" />
       <jump line="60" column="29" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" />
       <jump line="64" column="29" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" />
@@ -479,58 +477,148 @@
       <jump line="95" column="12" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/TrackHub.py" />
       <jump line="98" column="28" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/TrackHub.py" />
       <jump line="100" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/TrackHub.py" />
+      <jump line="73" column="4" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/subtools.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmJhbV9uYW1lID0gc2VsZi5kYXRhX2JhbVsibmFtZSJdCg==</text>
+      <register name="&quot;" type="4">
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>genome_name + '.html'</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
-        <text>dbia.hmtl</text>
+        <text>bedTo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8cmVxdWlyZW1lbnQgdHlwZT0icGFja2FnZSIgdmVyc2lvbj0iMzMyIj51Y3NjLWJlZHRvYmlnYmVkPC9yZXF1aXJlbWVudD4K</text>
+        <text encoding="base64">ICAgIGxvZ2dpbmcuZGVidWcoImNocm9tX3NpemVzX2ZpbGVfbmFtZTogezB9IikK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmJhbV9uYW1lID0gc2VsZi5kYXRhX2JhbVsibmFtZSJdCg==</text>
+      <register name="1" type="4">
+        <text>false</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3Qgc2VsZi5kYXRhX2JhbVsibmFtZSJdCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="4">
-        <text>genome_name + '.html'</text>
+        <text>chrom_sizes_file_name</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNwZWNpZV9odG1sID0gc2VsZi5nZW5vbWVfbmFtZSArICIuaHRtbCIK</text>
+        <text encoding="base64">ICAgICMgLmxvZyBjb25maWd1cmF0aW9uCiAgICBsb2dnaW5nX2ZpbGVfcGF0aCA9IG9zLnBhdGguam9pbihleHRyYV9maWxlc19wYXRoLCAnaGFjLmxvZycpCiAgICBsb2dnaW5nLmJhc2ljQ29uZmlnKGZpbGVuYW1lPWxvZ2dpbmdfZmlsZV9wYXRoLCBsZXZlbD1sb2dnaW5nX2xldmVsKQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmCg==</text>
+      <register name="5" type="4">
+        <text>%(</text>
       </register>
       <register name="6" type="4">
-        <text>dbia</text>
+        <text>%(asctime)s - %(name)s - %(levelname)s - %(</text>
       </register>
       <register name="7" type="4">
-        <text>'dbia</text>
+        <text>%(asctime)s - %(name)s - %(leve</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IENoYW5nZSB0aGUgbmFtZSBhbmQgZ2V0IGl0IGRlcGVuZGluZyBvbiB0aGUgc3BlY2llCg==</text>
+      <register name="8" type="4">
+        <text>rogram test arguments:
+hubArchiveCreator.py -g test-data/augustusDbia3.gff3 -f test-data/dbia3.fa -d . -u ./tools -o output.html
+&quot;&quot;&quot;
+
+import argparse
+import collections
+import json
+import logging
+import os
+import sys
+
+# Internal dependencies
+from Bam import Bam
+from BedSimpleRepeats import BedSimpleRepeats
+from Bed import Bed
+from BigWig import BigWig
+from util.Fasta import Fasta
+from Gff3 import Gff3
+from Gtf import Gtf
+from TrackHub import TrackHub
+
+# TODO: Verify each subprocessed dependency is accessible [gff3ToGenePred, genePredToBed, twoBitInfo, faToTwoBit, bedToBigBed, sort
+
+
+def main(argv):
+    # Command Line parsing init
+    parser = argparse.ArgumentParser(description='Create a foo.txt inside the given folder.')
+
+    # Reference genome mandatory
+    parser.add_argument('-f', '--fasta', help='Fasta file of the reference genome')
+
+    # GFF3 Management
+    parser.add_argument('--gff3', action='append', help='GFF3 format')
+
+    # GTF Management
+    parser.add_argument('--gtf', action='append', help='GTF format')
+
+    # Bed4+12 (TrfBig)
+    parser.add_argument('--bedSimpleRepeats', action='append', help='Bed4+12 format, using simpleRepeats.as')
+
+    # Generic Bed (Blastx transformed to bed)
+    parser.add_argument('--bed', action='append', help='Bed generic format')
+
+    # BigWig Management
+    parser.add_argument('--bigwig', action='append', help='BigWig format')
+
+    # Bam Management
+    parser.add_argument('--bam', action='append', help='Bam format')
+
+    # TODO: Check if the running directory can have issues if we run the tool outside
+    parser.add_argument('-d', '--directory',
+                        help='Running tool directory, where to find the templates. Default is running directory')
+    parser.add_argument('-u', '--ucsc_tools_path',
+                        help='Directory where to find the executables needed to run this tool')
+    parser.add_argument('-e', '--extra_files_path',
+                        help='Name, in galaxy, of the output folder. Where you would want to build the Track Hub Archive')
+    parser.add_argument('-o', '--output', help='Name of the HTML summarizing the content of the Track Hub Archive')
+
+    parser.add_argument('-j', '--data_json', help='Json containing the metadata of the inputs')
+
+    parser.add_argument('--user_email', help='Email of the user who launched the Hub Archive Creation')
+
+    parser.add_argument('--genome_name', help='UCSC Genome Browser assembly ID')
+
+    parser.add_argument('--debug_mode', action='store_true', help='Allow more details about the errors')
+
+    # Begin init variables
+
+    toolDirectory = '.'
+    extra_files_path = '.'
+
+    # Get the args passed in parameter
+    args = parser.parse_args()
+
+    extra_files_path = args.extra_files_path
+    toolDirectory = args.directory
+
+    #### Logging management ####
+    logging_level = logging.WARNING
+    if args.debug_mode is True:
+        logging_level = logging.DEBUG
+
+    # .log configuration
+    logging_file_path = os.path.join(extra_files_path, 'hac.log')
+    logging.basicConfig(filename=logging_file_path, level=logging_level)
+
+    # stdout configuration
+    ch = logging.StreamHandler(sys.stdout)
+    ch.setLevel(logging.WARNING)
+    formatter = logging.Formatter('</text>
       </register>
       <register name="9" type="4">
-        <text>self</text>
+        <text>DEBUG</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>dbia.hmtl</last-search>
+      <last-search>bedTo</last-search>
       <last-offset />
-      <last-pattern>dbia.hmtl</last-pattern>
+      <last-pattern>bedTo</last-pattern>
       <last-replace>array_call</last-replace>
       <last-substitute>arrayCall</last-substitute>
       <last-dir>1</last-dir>
@@ -538,7 +626,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Application</entry>
         <entry encoding="base64">XDxzbHVnXD4=</entry>
         <entry>Public</entry>
         <entry>ApplicationVi</entry>
@@ -558,9 +645,9 @@
         <entry>.html</entry>
         <entry>self.specie</entry>
         <entry>dbia.hmtl</entry>
+        <entry>bedTo</entry>
       </history-search>
       <history-cmd>
-        <entry>s/tool_list/toto</entry>
         <entry>s/tool_list/toto/gi</entry>
         <entry>s/tool_list/toto/gc</entry>
         <entry>vimgrep</entry>
@@ -578,6 +665,7 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>wq</entry>
         <entry>s</entry>
+        <entry>e</entry>
         <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
