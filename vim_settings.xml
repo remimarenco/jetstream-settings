@@ -40,12 +40,12 @@
         <mark key="^" line="5" column="79" />
         <mark key="." line="5" column="79" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/subtools.py" timestamp="1469511568650">
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/subtools.py" timestamp="1469512875085">
         <mark key="'" line="41" column="30" />
-        <mark key="[" line="56" column="18" />
-        <mark key="]" line="56" column="18" />
-        <mark key="." line="56" column="18" />
-        <mark key="^" line="56" column="18" />
+        <mark key="[" line="59" column="22" />
+        <mark key="]" line="59" column="29" />
+        <mark key="." line="59" column="29" />
+        <mark key="^" line="59" column="29" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/glimmer_hmm/readme.md" timestamp="1468398253787">
         <mark key="[" line="37" column="0" />
@@ -334,9 +334,12 @@
         <mark key="^" line="11" column="17" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" timestamp="1469512258363">
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" timestamp="1469513475972">
         <mark key="'" line="27" column="114" />
-        <mark key="[" line="120" column="45" />
+        <mark key="[" line="227" column="30" />
+        <mark key="]" line="230" column="11" />
+        <mark key="^" line="230" column="11" />
+        <mark key="." line="230" column="11" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/regtools_junctions_extract/regtools_junctions_extract.xml" timestamp="1469216917978">
         <mark key="[" line="1" column="17" />
@@ -483,11 +486,11 @@
       <jump line="27" column="114" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>t</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBPCg==</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>e)</text>
       </register>
       <register name="/" type="4">
         <text>bedTo</text>
@@ -495,35 +498,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGxvZ191c2VyID0gbG9nZ2luZy5TdHJlYW1IYW5kbGVyKHN5cy5zdGRvdXQpCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>t</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBPCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>\</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="4">
-        <text>\</text>
+        <text>e)</text>
       </register>
       <register name="4" type="4">
         <text>t</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2luZy5kZWJ1ZyhlcnJvcikK</text>
+      <register name="5" type="4">
+        <text>\</text>
       </register>
       <register name="6" type="4">
-        <text>message</text>
+        <text>\</text>
       </register>
       <register name="7" type="4">
-        <text>error</text>
+        <text>t</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2luZy5kZWJ1ZyhlcnJvcikK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlID0gc3lzLmV4Y19pbmZvKClbMF0K</text>
+      <register name="9" type="4">
+        <text>message</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
