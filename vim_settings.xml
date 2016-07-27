@@ -49,12 +49,12 @@
         <mark key="." line="37" column="2" />
         <mark key="^" line="37" column="2" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/BigWig.py" timestamp="1469628044349">
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/BigWig.py" timestamp="1469630489164">
         <mark key="'" line="35" column="40" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="55" />
+        <mark key="[" line="31" column="69" />
+        <mark key="]" line="31" column="70" />
         <mark key="^" line="54" column="53" />
-        <mark key="." line="54" column="53" />
+        <mark key="." line="31" column="70" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/cloudlaunch-ui/app/main.ts" timestamp="1467184377204">
         <mark key="[" line="7" column="29" />
