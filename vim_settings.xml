@@ -9,12 +9,12 @@
         <mark key="." line="0" column="26" />
         <mark key="^" line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Datatype.py" timestamp="1469582665236">
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Datatype.py" timestamp="1469585318792">
         <mark key="'" line="56" column="8" />
-        <mark key="[" line="87" column="13" />
-        <mark key="]" line="87" column="14" />
-        <mark key="^" line="87" column="14" />
-        <mark key="." line="87" column="14" />
+        <mark key="[" line="100" column="35" />
+        <mark key="]" line="100" column="41" />
+        <mark key="^" line="100" column="41" />
+        <mark key="." line="100" column="41" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/glimmer_hmm/glimmerHMM/glimmerhmm_predict.xml" timestamp="1468621396991">
         <mark key="[" line="6" column="29" />
@@ -27,6 +27,9 @@
         <mark key="]" line="76" column="68" />
         <mark key="." line="76" column="68" />
         <mark key="^" line="76" column="68" />
+      </file>
+      <file name="/a.dummy" timestamp="1469584776957">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/tests.py" timestamp="1467166171804">
         <mark key="[" line="184" column="37" />
@@ -46,11 +49,12 @@
         <mark key="." line="37" column="2" />
         <mark key="^" line="37" column="2" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/BigWig.py" timestamp="1469578199149">
-        <mark key="[" line="21" column="8" />
-        <mark key="]" line="21" column="9" />
-        <mark key="." line="21" column="9" />
-        <mark key="^" line="21" column="8" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/BigWig.py" timestamp="1469585755208">
+        <mark key="'" line="35" column="40" />
+        <mark key="[" line="33" column="36" />
+        <mark key="]" line="33" column="51" />
+        <mark key="^" line="33" column="51" />
+        <mark key="." line="33" column="51" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/cloudlaunch-ui/app/main.ts" timestamp="1467184377204">
         <mark key="[" line="7" column="29" />
@@ -113,11 +117,11 @@
         <mark key="^" line="39" column="5" />
         <mark key="." line="39" column="5" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/BedSimpleRepeats.py" timestamp="1469578186733">
-        <mark key="[" line="53" column="8" />
-        <mark key="]" line="53" column="8" />
-        <mark key="^" line="53" column="8" />
-        <mark key="." line="53" column="8" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/BedSimpleRepeats.py" timestamp="1469585695006">
+        <mark key="[" line="38" column="84" />
+        <mark key="]" line="38" column="87" />
+        <mark key="." line="38" column="87" />
+        <mark key="^" line="38" column="87" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/blastXmlToPsl/tool_dependencies.xml" timestamp="1468533221446">
         <mark key="[" line="7" column="123" />
@@ -173,11 +177,11 @@
         <mark key="." line="11" column="61" />
         <mark key="^" line="11" column="61" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bed.py" timestamp="1469578177541">
-        <mark key="[" line="57" column="8" />
-        <mark key="]" line="57" column="8" />
-        <mark key="^" line="57" column="8" />
-        <mark key="." line="57" column="8" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bed.py" timestamp="1469585517450">
+        <mark key="[" line="40" column="77" />
+        <mark key="]" line="40" column="77" />
+        <mark key="^" line="40" column="77" />
+        <mark key="." line="40" column="77" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/cloudlaunch-ui/app/components/public-appliances.component.css" timestamp="1467221492836">
         <mark key="[" line="18" column="1" />
@@ -227,7 +231,7 @@
         <mark key="^" line="25" column="11" />
         <mark key="." line="25" column="11" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/TrackDb.py" timestamp="1466213346722">
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/TrackDb.py" timestamp="1469585352084">
         <mark key="[" line="15" column="42" />
         <mark key="]" line="16" column="31" />
         <mark key="^" line="16" column="31" />
@@ -263,11 +267,12 @@
         <mark key="^" line="51" column="23" />
         <mark key="." line="51" column="23" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Gff3.py" timestamp="1469578765307">
-        <mark key="[" line="66" column="8" />
-        <mark key="]" line="66" column="8" />
-        <mark key="." line="66" column="8" />
-        <mark key="^" line="66" column="8" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Gff3.py" timestamp="1469585217682">
+        <mark key="'" line="54" column="40" />
+        <mark key="[" line="48" column="33" />
+        <mark key="]" line="51" column="59" />
+        <mark key="." line="51" column="59" />
+        <mark key="^" line="51" column="59" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubaDataType/trackhub.xml" timestamp="1463192344261">
         <mark key="[" line="3" column="0" />
@@ -281,11 +286,11 @@
         <mark key="." line="5" column="17" />
         <mark key="^" line="5" column="17" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bam.py" timestamp="1469581237646">
-        <mark key="[" line="34" column="8" />
-        <mark key="]" line="34" column="8" />
-        <mark key="." line="34" column="8" />
-        <mark key="^" line="34" column="8" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bam.py" timestamp="1469584544470">
+        <mark key="[" line="48" column="25" />
+        <mark key="]" line="49" column="24" />
+        <mark key="^" line="49" column="24" />
+        <mark key="." line="49" column="24" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/multi_fasta_glimmer_hmm/glimmerhmm.xml" timestamp="1468633456609">
         <mark key="[" line="10" column="0" />
@@ -317,6 +322,7 @@
         <mark key="^" line="41" column="52" />
         <mark key="." line="41" column="52" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/templates/trackDb/layout.txt" timestamp="1469585336725" />
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/TrackHub.py" timestamp="1469491277773">
         <mark key="'" line="100" column="0" />
         <mark key="[" line="210" column="36" />
@@ -343,12 +349,12 @@
         <mark key="^" line="5" column="50" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Gtf.py" timestamp="1469578783826">
-        <mark key="'" line="23" column="8" />
-        <mark key="[" line="64" column="8" />
-        <mark key="]" line="64" column="8" />
-        <mark key="^" line="64" column="8" />
-        <mark key="." line="64" column="8" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Gtf.py" timestamp="1469585089420">
+        <mark key="'" line="52" column="8" />
+        <mark key="[" line="51" column="36" />
+        <mark key="]" line="43" column="25" />
+        <mark key="." line="43" column="25" />
+        <mark key="^" line="43" column="25" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/blastXmlToPsl/blastXmlToPsl.xml" timestamp="1468532745401">
         <mark key="[" line="17" column="24" />
@@ -369,9 +375,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="28" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" />
-      <jump line="196" column="18" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" />
-      <jump line="150" column="63" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" />
       <jump line="48" column="8" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/BigWig.py" />
       <jump line="34" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Gtf.py" />
       <jump line="17" column="9" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bed.py" />
@@ -469,13 +472,16 @@
       <jump line="259" column="4" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" />
       <jump line="204" column="21" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" />
       <jump line="23" column="8" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Gtf.py" />
+      <jump line="52" column="8" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Gtf.py" />
+      <jump line="54" column="40" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Gff3.py" />
+      <jump line="35" column="40" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/BigWig.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>long_label</text>
+        <text>myBigBedFilePath</text>
       </register>
       <register name="-" type="4">
-        <text>long_label</text>
+        <text>myBigBedFilePath</text>
       </register>
       <register name="/" type="4">
         <text>logging.getlogger</text>
@@ -484,34 +490,34 @@
         <text encoding="base64">ICAgICMgc3Rkb3V0IGZvciBJTkZPIC8gV0FSTiAvIEVSUk9SIC8gQ1JJVElDQUwK</text>
       </register>
       <register name="1" type="4">
-        <text>long_label</text>
+        <text>myBigBedFilePath</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>long_label</text>
+        <text>dense</text>
       </register>
       <register name="3" type="4">
-        <text />
+        <text>bigBed 4 +</text>
       </register>
       <register name="4" type="4">
-        <text>trackDataURL</text>
+        <text>name_bed_simple_repeats</text>
       </register>
       <register name="5" type="4">
-        <text>trackDataURL,</text>
+        <text>name_bed_generic</text>
       </register>
       <register name="6" type="4">
-        <text>t</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="7" type="4">
-        <text>trackDb</text>
+        <text>12 +</text>
       </register>
       <register name="8" type="4">
-        <text>bam_index_file_path</text>
+        <text>name_gff3</text>
       </register>
       <register name="9" type="4">
-        <text>self.priority</text>
+        <text>bam_index_file_path</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
