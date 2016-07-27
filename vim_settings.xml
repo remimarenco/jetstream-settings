@@ -9,12 +9,12 @@
         <mark key="." line="0" column="26" />
         <mark key="^" line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Datatype.py" timestamp="1469571317536">
-        <mark key="'" line="54" column="8" />
-        <mark key="[" line="52" column="42" />
-        <mark key="]" line="53" column="49" />
-        <mark key="^" line="53" column="49" />
-        <mark key="." line="53" column="49" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Datatype.py" timestamp="1469582665236">
+        <mark key="'" line="56" column="8" />
+        <mark key="[" line="87" column="13" />
+        <mark key="]" line="87" column="14" />
+        <mark key="^" line="87" column="14" />
+        <mark key="." line="87" column="14" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/glimmer_hmm/glimmerHMM/glimmerhmm_predict.xml" timestamp="1468621396991">
         <mark key="[" line="6" column="29" />
@@ -209,11 +209,11 @@
         <mark key="." line="2" column="50" />
         <mark key="^" line="2" column="40" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1469499306350">
-        <mark key="[" line="199" column="60" />
-        <mark key="]" line="199" column="64" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1469581383036">
+        <mark key="[" line="0" column="69" />
+        <mark key="]" line="0" column="70" />
         <mark key="^" line="199" column="64" />
-        <mark key="." line="199" column="64" />
+        <mark key="." line="0" column="70" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/multi_fasta_glimmerhmm/glimmerhmm.xml" timestamp="1468792134997">
         <mark key="[" line="4" column="13" />
@@ -281,7 +281,7 @@
         <mark key="." line="5" column="17" />
         <mark key="^" line="5" column="17" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bam.py" timestamp="1469578212269">
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bam.py" timestamp="1469581237646">
         <mark key="[" line="34" column="8" />
         <mark key="]" line="34" column="8" />
         <mark key="." line="34" column="8" />
@@ -324,7 +324,7 @@
         <mark key="." line="210" column="46" />
         <mark key="^" line="210" column="46" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" timestamp="1469567922428" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" timestamp="1469582574575" />
       <file name="$USER_HOME$/Google_Drive/Dev/regtools_junctions_extract/regtools_junctions_extract.xml" timestamp="1469216917978">
         <mark key="[" line="1" column="17" />
         <mark key="]" line="1" column="17" />
@@ -471,11 +471,11 @@
       <jump line="23" column="8" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Gtf.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiLSAlcyBjcmVhdGVkIGluICVzIiAlICh0cmFja05hbWUsIG15QmlnQmVkRmlsZVBhdGgpKQo=</text>
+      <register name="&quot;" type="4">
+        <text>long_label</text>
       </register>
       <register name="-" type="4">
-        <text>or log_stderr</text>
+        <text>long_label</text>
       </register>
       <register name="/" type="4">
         <text>logging.getlogger</text>
@@ -483,35 +483,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICMgc3Rkb3V0IGZvciBJTkZPIC8gV0FSTiAvIEVSUk9SIC8gQ1JJVElDQUwK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiLSAlcyBjcmVhdGVkIGluICVzIiAlICh0cmFja05hbWUsIG15QmlnQmVkRmlsZVBhdGgpKQo=</text>
+      <register name="1" type="4">
+        <text>long_label</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>long_label</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiLSAlcyBjcmVhdGVkIGluICVzIiAlIChzZWxmLmluZGV4X2JhbSwgYmFtX2luZGV4X2ZpbGVfcGF0aCkpCg==</text>
+      <register name="3" type="4">
+        <text />
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiLSAlcyBjcmVhdGVkIGluICVzIiAlIChzZWxmLm5hbWVfYmFtLCBiYW1fZmlsZV9wYXRoKSkK</text>
+      <register name="4" type="4">
+        <text>trackDataURL</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>trackDataURL,</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>t</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICMgc3RkZXJyCg==</text>
+      <register name="7" type="4">
+        <text>trackDb</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGxvZ2dpbmcuZ2V0TG9nZ2VyKCkuYWRkSGFuZGxlcihsb2dfZXJyb3IpCg==</text>
+      <register name="8" type="4">
+        <text>bam_index_file_path</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>self.priority</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
