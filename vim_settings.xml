@@ -28,9 +28,6 @@
         <mark key="." line="76" column="68" />
         <mark key="^" line="76" column="68" />
       </file>
-      <file name="/a.dummy" timestamp="1469584776957">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/tests.py" timestamp="1467166171804">
         <mark key="[" line="184" column="37" />
         <mark key="]" line="184" column="37" />
@@ -315,13 +312,13 @@
         <mark key="." line="6" column="41" />
         <mark key="^" line="6" column="41" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/client/galaxy/scripts/mvc/upload/default/default-view.js" timestamp="1469731088912" />
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubaDataType/tracks_partial.py" timestamp="1464998751242">
         <mark key="[" line="41" column="52" />
         <mark key="]" line="41" column="52" />
         <mark key="^" line="41" column="52" />
         <mark key="." line="41" column="52" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/templates/trackDb/layout.txt" timestamp="1469585336725" />
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/TrackHub.py" timestamp="1469491277773">
         <mark key="'" line="100" column="0" />
         <mark key="[" line="210" column="36" />
