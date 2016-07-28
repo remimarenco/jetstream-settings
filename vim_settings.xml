@@ -191,7 +191,7 @@
         <mark key="." line="2" column="50" />
         <mark key="^" line="2" column="40" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1469737959823">
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1469739303872">
         <mark key="[" line="0" column="69" />
         <mark key="]" line="0" column="70" />
         <mark key="." line="0" column="70" />
@@ -237,12 +237,6 @@
         <mark key="]" line="3" column="103" />
         <mark key="." line="3" column="103" />
         <mark key="^" line="3" column="103" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/tool_dependencies.xml" timestamp="1469489654962">
-        <mark key="[" line="51" column="24" />
-        <mark key="]" line="51" column="23" />
-        <mark key="^" line="51" column="23" />
-        <mark key="." line="51" column="23" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubaDataType/trackhub.xml" timestamp="1463192344261">
         <mark key="[" line="3" column="0" />
