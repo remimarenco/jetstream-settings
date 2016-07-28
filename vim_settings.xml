@@ -46,13 +46,6 @@
         <mark key="." line="37" column="2" />
         <mark key="^" line="37" column="2" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/BigWig.py" timestamp="1469630489164">
-        <mark key="'" line="35" column="40" />
-        <mark key="[" line="31" column="69" />
-        <mark key="]" line="31" column="70" />
-        <mark key="^" line="54" column="53" />
-        <mark key="." line="31" column="70" />
-      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/cloudlaunch-ui/app/main.ts" timestamp="1467184377204">
         <mark key="[" line="7" column="29" />
         <mark key="]" line="7" column="53" />
@@ -114,12 +107,6 @@
         <mark key="^" line="39" column="5" />
         <mark key="." line="39" column="5" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/BedSimpleRepeats.py" timestamp="1469628020006">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="79" />
-        <mark key="." line="59" column="77" />
-        <mark key="^" line="59" column="77" />
-      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/blastXmlToPsl/tool_dependencies.xml" timestamp="1468533221446">
         <mark key="[" line="7" column="123" />
         <mark key="]" line="8" column="121" />
@@ -174,11 +161,6 @@
         <mark key="." line="11" column="61" />
         <mark key="^" line="11" column="61" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bed.py" timestamp="1469627976817">
-        <mark key="]" line="63" column="55" />
-        <mark key="^" line="63" column="55" />
-        <mark key="." line="63" column="55" />
-      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/cloudlaunch-ui/app/components/public-appliances.component.css" timestamp="1467221492836">
         <mark key="[" line="18" column="1" />
         <mark key="]" line="21" column="20" />
@@ -209,10 +191,9 @@
         <mark key="." line="2" column="50" />
         <mark key="^" line="2" column="40" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1469587526780">
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1469737959823">
         <mark key="[" line="0" column="69" />
         <mark key="]" line="0" column="70" />
-        <mark key="^" line="199" column="64" />
         <mark key="." line="0" column="70" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/multi_fasta_glimmerhmm/glimmerhmm.xml" timestamp="1468792134997">
@@ -262,13 +243,6 @@
         <mark key="]" line="51" column="23" />
         <mark key="^" line="51" column="23" />
         <mark key="." line="51" column="23" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Gff3.py" timestamp="1469628071244">
-        <mark key="'" line="54" column="40" />
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="51" />
-        <mark key="." line="71" column="49" />
-        <mark key="^" line="71" column="49" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubaDataType/trackhub.xml" timestamp="1463192344261">
         <mark key="[" line="3" column="0" />
@@ -326,12 +300,6 @@
         <mark key="." line="210" column="46" />
         <mark key="^" line="210" column="46" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" timestamp="1469628275779">
-        <mark key="[" line="145" column="26" />
-        <mark key="]" line="145" column="80" />
-        <mark key="^" line="145" column="80" />
-        <mark key="." line="145" column="80" />
-      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/regtools_junctions_extract/regtools_junctions_extract.xml" timestamp="1469216917978">
         <mark key="[" line="1" column="17" />
         <mark key="]" line="1" column="17" />
@@ -349,13 +317,6 @@
         <mark key="]" line="9" column="0" />
         <mark key="^" line="5" column="50" />
         <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Gtf.py" timestamp="1469628083180">
-        <mark key="'" line="52" column="8" />
-        <mark key="[" line="69" column="40" />
-        <mark key="]" line="69" column="47" />
-        <mark key="^" line="69" column="47" />
-        <mark key="." line="69" column="47" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/blastXmlToPsl/blastXmlToPsl.xml" timestamp="1468532745401">
         <mark key="[" line="17" column="24" />
