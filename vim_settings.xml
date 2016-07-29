@@ -280,10 +280,10 @@
         <mark key="." line="6" column="41" />
         <mark key="^" line="6" column="41" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/client/galaxy/scripts/mvc/upload/default/default-view.js" timestamp="1469731088912" />
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubaDataType/tracks_partial.py" timestamp="1464998751242">
-        <mark key="[" line="41" column="52" />
-        <mark key="]" line="41" column="52" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubaDataType/tracks_partial.py" timestamp="1469818339319">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="55" column="19" />
         <mark key="^" line="41" column="52" />
         <mark key="." line="41" column="52" />
       </file>
@@ -299,6 +299,12 @@
         <mark key="]" line="1" column="17" />
         <mark key="^" line="16" column="7" />
         <mark key="." line="16" column="7" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" timestamp="1469818883154">
+        <mark key="[" line="274" column="25" />
+        <mark key="]" line="274" column="25" />
+        <mark key="^" line="274" column="25" />
+        <mark key="." line="274" column="25" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/regtools_junctions_extract/tool_dependencies.xml" timestamp="1469247796899">
         <mark key="[" line="17" column="45" />
@@ -331,9 +337,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="8" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/BigWig.py" />
-      <jump line="34" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Gtf.py" />
-      <jump line="17" column="9" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bed.py" />
       <jump line="29" column="13" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bed.py" />
       <jump line="62" column="26" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Bed.py" />
       <jump line="68" column="26" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Gff3.py" />
@@ -431,10 +434,13 @@
       <jump line="52" column="8" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Gtf.py" />
       <jump line="54" column="40" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Gff3.py" />
       <jump line="35" column="40" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/BigWig.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubaDataType/tracks_partial.py" />
+      <jump line="55" column="8" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubaDataType/tracks_partial.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubaDataType/tracks_partial.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>name_gff3</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y2xhc3MgVUNTQ1RyYWNrSHViKCBIdG1sICk6CiAgICAiIiIKICAgIGRlcml2ZWQgY2xhc3MgZm9yIEJpb0MgZGF0YSBzdHJ1Y3R1cmVzIGluIEdhbGF4eQogICAgIiIiCgogICAgZmlsZV9leHQgPSAndHJhY2todWInCiAgICBjb21wb3NpdGVfdHlwZSA9ICdhdXRvX3ByaW1hcnlfZmlsZScKCiAgICBkZWYgX19pbml0X18oIHNlbGYsICoqa3dkICk6CiAgICAgICAgSHRtbC5fX2luaXRfXyggc2VsZiwgKiprd2QgKQoKICAgIGRlZiBnZW5lcmF0ZV9wcmltYXJ5X2ZpbGUoIHNlbGYsIGRhdGFzZXQ9Tm9uZSApOgogICAgICAgICIiIgogICAgICAgIFRoaXMgaXMgY2FsbGVkIG9ubHkgYXQgdXBsb2FkIHRvIHdyaXRlIHRoZSBodG1sIGZpbGUKICAgICAgICBjYW5ub3QgcmVuYW1lIHRoZSBkYXRhc2V0cyBoZXJlIC0gdGhleSBjb21lIHdpdGggdGhlIGRlZmF1bHQgdW5mb3J0dW5hdGVseQogICAgICAgICIiIgogICAgICAgIHJ2YWwgPSBbCiAgICAgICAgICAgICc8aHRtbD48aGVhZD48dGl0bGU+RmlsZXMgZm9yIENvbXBvc2l0ZSBEYXRhc2V0ICglcyk8L3RpdGxlPjwvaGVhZD48cC8+XAogICAgICAgICAgICBUaGlzIGNvbXBvc2l0ZSBkYXRhc2V0IGlzIGNvbXBvc2VkIG9mIHRoZSBmb2xsb3dpbmcgZmlsZXM6PHAvPjx1bD4nICUgKAogICAgICAgICAgICAgICAgc2VsZi5maWxlX2V4dCldCiAgICAgICAgZm9yIGNvbXBvc2l0ZV9uYW1lLCBjb21wb3NpdGVfZmlsZSBpbiBzZWxmLmdldF9jb21wb3NpdGVfZmlsZXMoZGF0YXNldD1kYXRhc2V0KS5pdGVyaXRlbXMoKToKICAgICAgICAgICAgb3B0X3RleHQgPSAnJwogICAgICAgICAgICBpZiBjb21wb3NpdGVfZmlsZS5vcHRpb25hbDoKICAgICAgICAgICAgICAgIG9wdF90ZXh0ID0gJyAob3B0aW9uYWwpJwogICAgICAgICAgICBydmFsLmFwcGVuZCgnPGxpPjxhIGhyZWY9IiVzIj4lczwvYT4lcycgJSAoY29tcG9zaXRlX25hbWUsIGNvbXBvc2l0ZV9uYW1lLCBvcHRfdGV4dCkpCiAgICAgICAgcnZhbC5hcHBlbmQoJzwvdWw+PC9odG1sPicpCiAgICAgICAgcmV0dXJuICJcbiIuam9pbihydmFsKQoKICAgIGRlZiBzZXRfcGVlayggc2VsZiwgZGF0YXNldCwgaXNfbXVsdGlfYnl0ZT1GYWxzZSApOgogICAgICAgIGlmIG5vdCBkYXRhc2V0LmRhdGFzZXQucHVyZ2VkOgogICAgICAgICAgICBkYXRhc2V0LnBlZWsgPSAiVHJhY2sgSHViIHN0cnVjdHVyZTogVmlzdWFsaXphdGlvbiBpbiBVQ1NDIFRyYWNrIEh1YiIKICAgICAgICBlbHNlOgogICAgICAgICAgICBkYXRhc2V0LnBlZWsgPSAnZmlsZSBkb2VzIG5vdCBleGlzdCcKICAgICAgICAgICAgZGF0YXNldC5ibHVyYiA9ICdmaWxlIHB1cmdlZCBmcm9tIGRpc2snCgogICAgZGVmIGRpc3BsYXlfcGVlayggc2VsZiwgZGF0YXNldCApOgogICAgICAgIHRyeToKICAgICAgICAgICAgcmV0dXJuIGRhdGFzZXQucGVlawogICAgICAgIGV4Y2VwdDoKICAgICAgICAgICAgcmV0dXJuICJUcmFjayBIdWIgc3RydWN0dXJlOiBWaXN1YWxpemF0aW9uIGluIFVDU0MgVHJhY2sgSHViIgoKICAgIGRlZiBzbmlmZiggc2VsZiwgZmlsZW5hbWUgKToKICAgICAgICByZXR1cm4gRmFsc2UK</text>
       </register>
       <register name="-" type="4">
         <text>name_gff3</text>
@@ -443,7 +449,7 @@
         <text>logging.getlogger</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiLSBHZmYzICVzIGNyZWF0ZWQiICUgc2VsZi5uYW1lX2dmZjMpCg==</text>
+        <text encoding="base64">Y2xhc3MgVUNTQ1RyYWNrSHViKCBIdG1sICk6CiAgICAiIiIKICAgIGRlcml2ZWQgY2xhc3MgZm9yIEJpb0MgZGF0YSBzdHJ1Y3R1cmVzIGluIEdhbGF4eQogICAgIiIiCgogICAgZmlsZV9leHQgPSAndHJhY2todWInCiAgICBjb21wb3NpdGVfdHlwZSA9ICdhdXRvX3ByaW1hcnlfZmlsZScKCiAgICBkZWYgX19pbml0X18oIHNlbGYsICoqa3dkICk6CiAgICAgICAgSHRtbC5fX2luaXRfXyggc2VsZiwgKiprd2QgKQoKICAgIGRlZiBnZW5lcmF0ZV9wcmltYXJ5X2ZpbGUoIHNlbGYsIGRhdGFzZXQ9Tm9uZSApOgogICAgICAgICIiIgogICAgICAgIFRoaXMgaXMgY2FsbGVkIG9ubHkgYXQgdXBsb2FkIHRvIHdyaXRlIHRoZSBodG1sIGZpbGUKICAgICAgICBjYW5ub3QgcmVuYW1lIHRoZSBkYXRhc2V0cyBoZXJlIC0gdGhleSBjb21lIHdpdGggdGhlIGRlZmF1bHQgdW5mb3J0dW5hdGVseQogICAgICAgICIiIgogICAgICAgIHJ2YWwgPSBbCiAgICAgICAgICAgICc8aHRtbD48aGVhZD48dGl0bGU+RmlsZXMgZm9yIENvbXBvc2l0ZSBEYXRhc2V0ICglcyk8L3RpdGxlPjwvaGVhZD48cC8+XAogICAgICAgICAgICBUaGlzIGNvbXBvc2l0ZSBkYXRhc2V0IGlzIGNvbXBvc2VkIG9mIHRoZSBmb2xsb3dpbmcgZmlsZXM6PHAvPjx1bD4nICUgKAogICAgICAgICAgICAgICAgc2VsZi5maWxlX2V4dCldCiAgICAgICAgZm9yIGNvbXBvc2l0ZV9uYW1lLCBjb21wb3NpdGVfZmlsZSBpbiBzZWxmLmdldF9jb21wb3NpdGVfZmlsZXMoZGF0YXNldD1kYXRhc2V0KS5pdGVyaXRlbXMoKToKICAgICAgICAgICAgb3B0X3RleHQgPSAnJwogICAgICAgICAgICBpZiBjb21wb3NpdGVfZmlsZS5vcHRpb25hbDoKICAgICAgICAgICAgICAgIG9wdF90ZXh0ID0gJyAob3B0aW9uYWwpJwogICAgICAgICAgICBydmFsLmFwcGVuZCgnPGxpPjxhIGhyZWY9IiVzIj4lczwvYT4lcycgJSAoY29tcG9zaXRlX25hbWUsIGNvbXBvc2l0ZV9uYW1lLCBvcHRfdGV4dCkpCiAgICAgICAgcnZhbC5hcHBlbmQoJzwvdWw+PC9odG1sPicpCiAgICAgICAgcmV0dXJuICJcbiIuam9pbihydmFsKQoKICAgIGRlZiBzZXRfcGVlayggc2VsZiwgZGF0YXNldCwgaXNfbXVsdGlfYnl0ZT1GYWxzZSApOgogICAgICAgIGlmIG5vdCBkYXRhc2V0LmRhdGFzZXQucHVyZ2VkOgogICAgICAgICAgICBkYXRhc2V0LnBlZWsgPSAiVHJhY2sgSHViIHN0cnVjdHVyZTogVmlzdWFsaXphdGlvbiBpbiBVQ1NDIFRyYWNrIEh1YiIKICAgICAgICBlbHNlOgogICAgICAgICAgICBkYXRhc2V0LnBlZWsgPSAnZmlsZSBkb2VzIG5vdCBleGlzdCcKICAgICAgICAgICAgZGF0YXNldC5ibHVyYiA9ICdmaWxlIHB1cmdlZCBmcm9tIGRpc2snCgogICAgZGVmIGRpc3BsYXlfcGVlayggc2VsZiwgZGF0YXNldCApOgogICAgICAgIHRyeToKICAgICAgICAgICAgcmV0dXJuIGRhdGFzZXQucGVlawogICAgICAgIGV4Y2VwdDoKICAgICAgICAgICAgcmV0dXJuICJUcmFjayBIdWIgc3RydWN0dXJlOiBWaXN1YWxpemF0aW9uIGluIFVDU0MgVHJhY2sgSHViIgoKICAgIGRlZiBzbmlmZiggc2VsZiwgZmlsZW5hbWUgKToKICAgICAgICByZXR1cm4gRmFsc2UK</text>
       </register>
       <register name="1" type="4">
         <text>name_gff3</text>
