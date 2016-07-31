@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '/Users/remi/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/tool_dependencies.xml'" />
-    <option name="defaultScopeName" value="File '/Users/remi/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/tool_dependencies.xml'" />
-    <option name="SEARCH_SCOPE" value="File '/Users/remi/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/tool_dependencies.xml'" />
+    <option name="customScope" value="File '/Users/remi/Google_Drive/Dev/BioInfo Learning/Rosalind/identifying_unknown_dna_quickly.py'" />
+    <option name="defaultScopeName" value="File '/Users/remi/Google_Drive/Dev/BioInfo Learning/Rosalind/identifying_unknown_dna_quickly.py'" />
+    <option name="SEARCH_SCOPE" value="File '/Users/remi/Google_Drive/Dev/BioInfo Learning/Rosalind/identifying_unknown_dna_quickly.py'" />
   </component>
 </application>
