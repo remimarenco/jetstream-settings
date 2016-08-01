@@ -3,6 +3,7 @@
     <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping pattern="install_linux_binaries" type="Bash" />
+      <mapping pattern="sample" type="PLAIN_TEXT" />
       <mapping ext="bb" type="PLAIN_TEXT" />
       <mapping ext="fastqsanger" type="PLAIN_TEXT" />
       <mapping ext="sample" type="XML" />
