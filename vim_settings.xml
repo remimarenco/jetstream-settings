@@ -9,6 +9,9 @@
         <mark key="." line="0" column="26" />
         <mark key="^" line="0" column="24" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/translating_rna_into_proteins/rosalind_prot.txt" timestamp="1470025922480">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Datatype.py" timestamp="1469585318792">
         <mark key="'" line="56" column="8" />
         <mark key="[" line="100" column="35" />
@@ -36,6 +39,12 @@
         <mark key="]" line="184" column="37" />
         <mark key="." line="184" column="37" />
         <mark key="^" line="184" column="37" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/translating_rna_into_proteins/sample" timestamp="1470026430910">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="50" />
+        <mark key="." line="0" column="50" />
+        <mark key="^" line="0" column="50" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/multi_fasta_glimmerhmm/.shed.yml" timestamp="1468635565225">
         <mark key="[" line="5" column="22" />
@@ -80,11 +89,11 @@
         <mark key="^" line="4" column="8" />
         <mark key="." line="4" column="8" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/translating_rna_into_proteins/translating_rna_into_protein.py" timestamp="1470025050010">
-        <mark key="[" line="88" column="49" />
-        <mark key="]" line="88" column="47" />
-        <mark key="^" line="88" column="47" />
-        <mark key="." line="88" column="47" />
+      <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/translating_rna_into_proteins/translating_rna_into_protein.py" timestamp="1470027198616">
+        <mark key="[" line="66" column="27" />
+        <mark key="]" line="66" column="28" />
+        <mark key="^" line="98" column="61" />
+        <mark key="." line="66" column="28" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/README.md" timestamp="1466777317948">
         <mark key="[" line="21" column="81" />
@@ -273,6 +282,9 @@
         <mark key="]" line="7" column="20" />
         <mark key="^" line="7" column="20" />
         <mark key="." line="7" column="20" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/translating_rna_into_proteins/rosalind_prot_3.txt" timestamp="1470026965086">
+        <mark key="[" line="0" column="9523" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/display_applications/ucsc/trackHub.xml" timestamp="1466211928664">
         <mark key="[" line="3" column="104" />
@@ -488,10 +500,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>current_amino_acid</text>
+        <text>level</text>
       </register>
       <register name="-" type="4">
-        <text>current_amino_acid</text>
+        <text>level</text>
       </register>
       <register name="/" type="4">
         <text>logging.getlogger</text>
@@ -500,34 +512,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIG5iX251Y2xlb3RpZGUgPSAwCiAgICAgICAgICAgICAgICBuYl9nYyA9IDAK</text>
       </register>
       <register name="1" type="4">
-        <text>current_amino_acid</text>
+        <text>level</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>p</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGxvZ2dpbmcuaW5mbygnQmxhJykK</text>
       </register>
       <register name="3" type="4">
-        <text>None</text>
+        <text>info</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmCg==</text>
+        <text encoding="base64">QVVHR0NDQVVHR0NHQ0NDQUdBQUNVR0FHQVVDQUFVQUdVQUNDQ0dVQVVVQUFDR0dHVUdBCg==</text>
       </register>
       <register name="5" type="4">
-        <text>nucleotide</text>
+        <text>Bye</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJuYV9maWxlX3BhdGgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWsK</text>
       </register>
-      <register name="7" type="8">
-        <text encoding="base64">CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCg==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCgnQ29kb246IHswfScuZm9ybWF0KGN1cnJlbnRfY29kb24pLCAnQW1pbm8gYWNpZDogezB9Jy5mb3JtYXQoYW1pbm9fYWNpZCkpCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>higher_gc_number is not None and \</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQoJ0NvZG9uOiB7MH0nLmZvcm1hdChjdXJyZW50X2NvZG9uKSkK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludChoaWdoZXJfZ2Nfc2VxX2lkLCBoaWdoZXJfZ2NfbnVtYmVyKQo=</text>
+      <register name="9" type="4">
+        <text>nucleotide</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -582,9 +594,9 @@
         <entry>s</entry>
         <entry>e</entry>
         <entry>d</entry>
-        <entry>W</entry>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
