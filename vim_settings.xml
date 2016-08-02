@@ -60,10 +60,11 @@
         <mark key="^" line="43" column="31" />
         <mark key="." line="43" column="31" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/subtools.py" timestamp="1470096170120">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/subtools.py" timestamp="1470103684347">
+        <mark key="[" line="64" column="26" />
+        <mark key="]" line="64" column="25" />
+        <mark key="^" line="64" column="25" />
+        <mark key="." line="64" column="25" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/identifying_unknown_dna_quickly/translating_rna_into_proteins/sample" timestamp="1470022719122">
         <mark key="[" line="0" column="51" />
@@ -101,10 +102,11 @@
         <mark key="^" line="7" column="4" />
         <mark key="." line="7" column="4" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/Filters.py" timestamp="1470096234854">
-        <mark key="[" line="5" column="23" />
-        <mark key="]" line="5" column="23" />
-        <mark key="." line="5" column="23" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/Filters.py" timestamp="1470102709165">
+        <mark key="[" line="7" column="30" />
+        <mark key="]" line="8" column="15" />
+        <mark key="." line="8" column="15" />
+        <mark key="^" line="8" column="15" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/README.md" timestamp="1466777317948">
         <mark key="[" line="21" column="81" />
@@ -368,11 +370,11 @@
         <mark key="^" line="16" column="7" />
         <mark key="." line="16" column="7" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" timestamp="1470095979931">
-        <mark key="[" line="233" column="0" />
-        <mark key="]" line="233" column="41" />
-        <mark key="." line="233" column="41" />
-        <mark key="^" line="233" column="41" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" timestamp="1470097707147">
+        <mark key="[" line="231" column="24" />
+        <mark key="]" line="231" column="48" />
+        <mark key="." line="231" column="48" />
+        <mark key="^" line="231" column="48" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/regtools_junctions_extract/tool_dependencies.xml" timestamp="1469247796899">
         <mark key="[" line="17" column="45" />
@@ -513,11 +515,11 @@
       <jump line="37" column="20" filename="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/identifying_unknown_dna_quickly/identifying_unknown_dna_quickly.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2luZy5nZXRMb2dnZXIocmVjb3JkLm5hbWUpLmxvZyhyZWNvcmQubGV2ZWxubywgcmVjb3JkLmdldE1lc3NhZ2UoKSkK</text>
+      <register name="&quot;" type="4">
+        <text>message</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>message</text>
       </register>
       <register name="/" type="4">
         <text>arrayCall</text>
@@ -525,35 +527,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCJGb3IgdGhlIGFtaW5vIGFjaWQgezB9LCB0aGVyZSBhcmUgezF9IHBvc3NpYmlsaXRpZXMiLlwKICAgICAgICAgICAgICAgICAgICAgIGZvcm1hdChhbWlub19hY2lkLCBwb3NzaWJpbGl0aWVzX2NvdW50ZXJbYW1pbm9fYWNpZF0pKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2luZy5nZXRMb2dnZXIocmVjb3JkLm5hbWUpLmxvZyhyZWNvcmQubGV2ZWxubywgcmVjb3JkLmdldE1lc3NhZ2UoKSkK</text>
+      <register name="1" type="4">
+        <text>message</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text />
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtZXNzYWdlID0gJ1xuJy5qb2luKG1lc3NhZ2UsICJUcmFjZWJhY2sgZGUgbCdlbmZhbnQ6ICIpCg==</text>
+        <text encoding="base64">ICAgICAgICBtZXNzYWdlID0gJ1xuJy5qb2luKChtZXNzYWdlLCAiSXRzIGVycm9yIG1lc3NhZ2UgaXM6IHswfSIuZm9ybWF0KHAuZXJyb3IpKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZvcm1hdHRlci5mb3JtYXRFeGNlcHRpb24oTm9uZSkK</text>
+        <text encoding="base64">ICAgICAgICBtZXNzYWdlID0gIlRoZSBzdWJwcm9jZXNzIHswfSBoYXMgcmV0dXJuZWQgdGhlIGVycm9yOiB7MX0uIi5mb3JtYXQocC5jbWQsIHAucmV0dXJuX2NvZGUpCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>log_format</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICNsb2dnaW5nLmluZm8oIi0tLS0tLS0tezB9Ii5mb3JtYXQobWludXNfdG9fYWRkKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxvZ19mb3JtYXQgPSAnJShtZXNnZSlzJwo=</text>
+        <text encoding="base64">ICAgICNtaW51c190b19hZGQgPSAnJy5qb2luKCctJyBmb3IgeCBpbiByYW5nZShsZW4oY21kKSkpCg==</text>
       </register>
-      <register name="7" type="4">
-        <text />
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgI3JhaXNlIEV4Y2VwdGlvbihlcnJvcikK</text>
       </register>
-      <register name="8" type="4">
-        <text>sa</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgI2xvZ2dpbmcuZXJyb3IobWVzc2FnZSkK</text>
       </register>
-      <register name="9" type="4">
-        <text>error</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbWVzc2FnZSA9ICdcbicuam9pbigobWVzc2FnZSwgIkl0cyBlcnJvciBtZXNzYWdlIGlzOiB7MH0iLmZvcm1hdChlcnJvcikpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -608,8 +610,8 @@
         <entry>e</entry>
         <entry>d</entry>
         <entry>wq</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>s</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
