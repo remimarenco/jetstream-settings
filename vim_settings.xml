@@ -341,7 +341,12 @@
         <mark key="." line="444" column="1" />
         <mark key="^" line="444" column="1" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/datatypes/binary.py" timestamp="1470178604766" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/datatypes/binary.py" timestamp="1470181034325">
+        <mark key="[" line="220" column="29" />
+        <mark key="]" line="221" column="25" />
+        <mark key="." line="221" column="25" />
+        <mark key="^" line="221" column="25" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/cloudlaunch-ui/app/models/public_service.ts" timestamp="1467180930125">
         <mark key="[" line="10" column="2" />
         <mark key="]" line="10" column="5" />
@@ -523,10 +528,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>recursive_dead(current_month - 1, nb_months_alive)</text>
+        <text>it</text>
       </register>
       <register name="-" type="4">
-        <text>recursive_dead(current_month - 1, nb_months_alive)</text>
+        <text>it</text>
       </register>
       <register name="/" type="4">
         <text>arrayCall</text>
@@ -535,34 +540,34 @@
         <text encoding="base64">ICAgICAgICBwcmludCgiR2V0IG5iIHJhYmJpdHMgYXQgezB9IG1vbnRoIi5mb3JtYXQocmVjdXJzaXZlX2RlYWQoY3VycmVudF9tb250aCAtIG5iX21vbnRoc19hbGl2ZSwgbmJfbW9udGhzX2FsaXZlKSkpCg==</text>
       </register>
       <register name="1" type="4">
-        <text>recursive_dead(current_month - 1, nb_months_alive)</text>
+        <text>it</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>rabbit_fibo_result_tuple</text>
+        <text>.communicate()</text>
       </register>
       <register name="3" type="4">
-        <text>recursive_dead(nb_months, nb_months_alive)</text>
+        <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRvdGFsX3dpdGhfZGVhZHNfdGhpc19tb250aCA9IDAK</text>
+        <text encoding="base64">ICAgICAgICAjIHNhbXRvb2xzIHByb3ZpZGVkIGEgdmVyc2lvbiBmbGFnIHRvIG1ha2UgdGhpcyBtdWNoIHNpbXBsZXI/Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>-</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAjIERldGVybWluZSB0aGUgdmVyc2lvbiBvZiBzYW10b29scyBiZWluZyB1c2VkLiAgV291bGRuJ3QgaXQgYmUgbmljZSBpZgo=</text>
       </register>
       <register name="6" type="4">
-        <text>nb_dead_just_before</text>
+        <text>recursive_dead(current_month - 1, nb_months_alive)</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChuYl9kZWFkX3RoaXNfbW9udGgpCg==</text>
+      <register name="7" type="4">
+        <text>rabbit_fibo_result_tuple</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5iX21vbnRoc19hbGl2ZSksIGN1cnJlbnRfbW9udGgpKQo=</text>
+      <register name="8" type="4">
+        <text>recursive_dead(nb_months, nb_months_alive)</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlY3Vyc2l2ZV9kZWFkKGN1cnJlbnRfbW9udGggLSAobmJfbW9udGhzX2FsaXZlIC0gMSksCg==</text>
+        <text encoding="base64">ICAgIHRvdGFsX3dpdGhfZGVhZHNfdGhpc19tb250aCA9IDAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
