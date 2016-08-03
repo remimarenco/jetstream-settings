@@ -341,11 +341,9 @@
         <mark key="." line="444" column="1" />
         <mark key="^" line="444" column="1" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/datatypes/binary.py" timestamp="1470181763553">
-        <mark key="[" line="220" column="29" />
-        <mark key="]" line="221" column="25" />
-        <mark key="." line="221" column="25" />
-        <mark key="^" line="221" column="25" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/datatypes/binary.py" timestamp="1470184146054">
+        <mark key="[" line="205" column="0" />
+        <mark key="]" line="206" column="69" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/cloudlaunch-ui/app/models/public_service.ts" timestamp="1467180930125">
         <mark key="[" line="10" column="2" />
@@ -364,11 +362,8 @@
         <mark key="]" line="1" column="23" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/mortal_fibonacci_rabbits/mortal_fibonacci_rabbits.py" timestamp="1470161911378">
-        <mark key="[" line="20" column="3" />
-        <mark key="]" line="22" column="67" />
-        <mark key="^" line="22" column="67" />
-        <mark key="." line="22" column="67" />
+      <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/mortal_fibonacci_rabbits/mortal_fibonacci_rabbits.py" timestamp="1470265953330">
+        <mark key="[" line="49" column="90" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/__init__.py" timestamp="1470090333445">
         <mark key="[" line="13" column="17" />
@@ -528,46 +523,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>it</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>it</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>arrayCall</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiR2V0IG5iIHJhYmJpdHMgYXQgezB9IG1vbnRoIi5mb3JtYXQocmVjdXJzaXZlX2RlYWQoY3VycmVudF9tb250aCAtIG5iX21vbnRoc19hbGl2ZSwgbmJfbW9udGhzX2FsaXZlKSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIERldGVybWluZSB0aGUgdmVyc2lvbiBvZiBzYW10b29scyBiZWluZyB1c2VkLiAgV291bGRuJ3QgaXQgYmUgbmljZSBpZgogICAgICAgICMgc2FtdG9vbHMgcHJvdmlkZWQgYSB2ZXJzaW9uIGZsYWcgdG8gbWFrZSB0aGlzIG11Y2ggc2ltcGxlcj8K</text>
       </register>
       <register name="1" type="4">
-        <text>it</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>.communicate()</text>
+        <text>-</text>
       </register>
       <register name="3" type="4">
-        <text />
+        <text>1</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNhbXRvb2xzIHByb3ZpZGVkIGEgdmVyc2lvbiBmbGFnIHRvIG1ha2UgdGhpcyBtdWNoIHNpbXBsZXI/Cg==</text>
+      <register name="4" type="4">
+        <text>)</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIERldGVybWluZSB0aGUgdmVyc2lvbiBvZiBzYW10b29scyBiZWluZyB1c2VkLiAgV291bGRuJ3QgaXQgYmUgbmljZSBpZgo=</text>
+        <text encoding="base64">ICAgICAgICBkaWN0X3JhYmJpdHNfcGVyX21vbnRoW2N1cnJlbnRfbW9udGggLV0K</text>
       </register>
       <register name="6" type="4">
-        <text>recursive_dead(current_month - 1, nb_months_alive)</text>
+        <text>dict_rabbits_per_month.get(current_month):</text>
       </register>
-      <register name="7" type="4">
-        <text>rabbit_fibo_result_tuple</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZGljdF9yYWJiaXRzX3Blcl9tb250aAo=</text>
       </register>
-      <register name="8" type="4">
-        <text>recursive_dead(nb_months, nb_months_alive)</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRvdGFsX3dpdGhfZGVhZHNfdGhpc19tb250aCA9IDAK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gMCwgMAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
