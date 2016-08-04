@@ -362,8 +362,11 @@
         <mark key="]" line="1" column="23" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/mortal_fibonacci_rabbits/mortal_fibonacci_rabbits.py" timestamp="1470265953330">
-        <mark key="[" line="49" column="90" />
+      <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/mortal_fibonacci_rabbits/mortal_fibonacci_rabbits.py" timestamp="1470268594858">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
+        <mark key="^" line="77" column="72" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/__init__.py" timestamp="1470090333445">
         <mark key="[" line="13" column="17" />
@@ -522,47 +525,47 @@
       <jump line="37" column="20" filename="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/identifying_unknown_dna_quickly/identifying_unknown_dna_quickly.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>new_born_this_month</text>
       </register>
       <register name="/" type="4">
         <text>arrayCall</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAjIERldGVybWluZSB0aGUgdmVyc2lvbiBvZiBzYW10b29scyBiZWluZyB1c2VkLiAgV291bGRuJ3QgaXQgYmUgbmljZSBpZgogICAgICAgICMgc2FtdG9vbHMgcHJvdmlkZWQgYSB2ZXJzaW9uIGZsYWcgdG8gbWFrZSB0aGlzIG11Y2ggc2ltcGxlcj8K</text>
+        <text encoding="base64">ICAgIHRvdGFsX3dpdGhfZGVhZHNfdGhpc19tb250aCA9IHRvdGFsX3dpdGhvdXRfZGVhZHMgLSBuYl9kZWFkX3RoaXNfbW9udGgK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>-</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIG5iX25ld19ib3JuID0gcmVjdXJzaXZlX2RlYWQoY3VycmVudF9tb250aCAtIDIsIG5iX21vbnRoc19hbGl2ZSlbMV0K</text>
       </register>
-      <register name="3" type="4">
-        <text>1</text>
-      </register>
-      <register name="4" type="4">
-        <text>)</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkaWN0X3JhYmJpdHNfcGVyX21vbnRoW2N1cnJlbnRfbW9udGggLV0K</text>
-      </register>
-      <register name="6" type="4">
-        <text>dict_rabbits_per_month.get(current_month):</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZGljdF9yYWJiaXRzX3Blcl9tb250aAo=</text>
-      </register>
-      <register name="8" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHByaW50KCJNb250aCB7MH0iKQo=</text>
+      </register>
+      <register name="5" type="4">
+        <text>new_born_this_month</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIG5ld19ib3JuX3RoaXNfbW9udGggPSB0b3RhbF93aXRoX2RlYWRzX3RoaXNfbW9udGggLSBuYl9uZXdfYm9ybgo=</text>
+      </register>
+      <register name="8" type="4">
+        <text>total_without_deads -</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gMCwgMAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
