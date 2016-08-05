@@ -33,7 +33,7 @@
         <mark key="." line="76" column="68" />
         <mark key="^" line="76" column="68" />
       </file>
-      <file name="/a.dummy" timestamp="1470178434727">
+      <file name="/a.dummy" timestamp="1470417479941">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/tests.py" timestamp="1467166171804">
@@ -294,6 +294,12 @@
         <mark key="." line="7" column="62" />
         <mark key="^" line="7" column="62" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy-kickstart/config.py" timestamp="1470416995650">
+        <mark key="[" line="1" column="3" />
+        <mark key="]" line="2" column="9" />
+        <mark key="^" line="2" column="9" />
+        <mark key="." line="2" column="9" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/cloudlaunch-ui/app/components/public-appliances-maps.component.ts" timestamp="1467187068763">
         <mark key="[" line="7" column="17" />
         <mark key="]" line="7" column="20" />
@@ -378,10 +384,17 @@
         <mark key="^" line="14" column="16" />
         <mark key="." line="14" column="16" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy-kickstart/upload_datasets_to_galaxy.py" timestamp="1470415948553">
-        <mark key="]" line="2" column="41" />
-        <mark key="." line="2" column="41" />
-        <mark key="^" line="2" column="41" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy-kickstart/upload_datasets_to_galaxy.py" timestamp="1470419436916">
+        <mark key="[" line="23" column="92" />
+        <mark key="]" line="21" column="35" />
+        <mark key="^" line="21" column="35" />
+        <mark key="." line="21" column="35" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy-kickstart/config.ini" timestamp="1470419189098">
+        <mark key="[" line="2" column="10" />
+        <mark key="]" line="2" column="43" />
+        <mark key="^" line="2" column="43" />
+        <mark key="." line="2" column="43" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/regtools_junctions_extract/regtools_junctions_extract.xml" timestamp="1469216917978">
         <mark key="[" line="1" column="17" />
@@ -541,10 +554,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGJpb2JsZW5kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>args</text>
+        <text>[</text>
       </register>
       <register name="/" type="4">
         <text>arrayCall</text>
@@ -553,34 +566,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxwYXJhbSBuYW1lPSJkZWJ1Z19tb2RlIiB0eXBlPSJib29sZWFuIgogICAgICAgICAgICAgICAgICAgICAgIGxhYmVsPSJBY3RpdmF0ZSBkZWJ1ZyBtb2RlIiBjaGVja2VkPSJmYWxzZSIKICAgICAgICAgICAgICAgICAgICAgICB0cnVldmFsdWU9Ii0tZGVidWdfbW9kZSIgZmFsc2V2YWx1ZT0iIj4KICAgICAgICAgICAgICAgICAgICA8aGVscD4KICAgICAgICAgICAgICAgICAgICAgICAgVXNlIHRoaXMgb3B0aW9uIGlmIHlvdSBhcmUgYSBHLU9uUmFtcCBkZXZlbG9wZXIKICAgICAgICAgICAgICAgICAgICA8L2hlbHA+CiAgICAgICAgICAgICAgICA8L3BhcmFtPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGJpb2JsZW5kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGJpb2JsZW5kCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGdhbGF4eV9jb25maWdbJ3VybCddKQo=</text>
       </register>
       <register name="3" type="4">
-        <text>args</text>
+        <text>[</text>
       </register>
       <register name="4" type="4">
-        <text>)</text>
+        <text>]</text>
       </register>
       <register name="5" type="4">
-        <text>(</text>
+        <text>'http</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L2hlbHA+Cg==</text>
+      <register name="6" type="4">
+        <text>'</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgT3B0aW9uIGJ5IGRlZmF1bHQK</text>
+      <register name="7" type="4">
+        <text>galaxy_config['api-key']</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aGVscD4K</text>
+      <register name="8" type="4">
+        <text>galaxy_config['url']</text>
       </register>
       <register name="9" type="4">
-        <text>Use this option if you are a G-OnRamp developer</text>
+        <text>g</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
