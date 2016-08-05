@@ -378,6 +378,11 @@
         <mark key="^" line="14" column="16" />
         <mark key="." line="14" column="16" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy-kickstart/upload_datasets_to_galaxy.py" timestamp="1470415948553">
+        <mark key="]" line="2" column="41" />
+        <mark key="." line="2" column="41" />
+        <mark key="^" line="2" column="41" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/regtools_junctions_extract/regtools_junctions_extract.xml" timestamp="1469216917978">
         <mark key="[" line="1" column="17" />
         <mark key="]" line="1" column="17" />
@@ -536,10 +541,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L2hlbHA+Cg==</text>
+        <text encoding="base64">aW1wb3J0IGJpb2JsZW5kCg==</text>
       </register>
       <register name="-" type="4">
-        <text>Use this option if you are a G-OnRamp developer</text>
+        <text>args</text>
       </register>
       <register name="/" type="4">
         <text>arrayCall</text>
@@ -548,34 +553,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxwYXJhbSBuYW1lPSJkZWJ1Z19tb2RlIiB0eXBlPSJib29sZWFuIgogICAgICAgICAgICAgICAgICAgICAgIGxhYmVsPSJBY3RpdmF0ZSBkZWJ1ZyBtb2RlIiBjaGVja2VkPSJmYWxzZSIKICAgICAgICAgICAgICAgICAgICAgICB0cnVldmFsdWU9Ii0tZGVidWdfbW9kZSIgZmFsc2V2YWx1ZT0iIj4KICAgICAgICAgICAgICAgICAgICA8aGVscD4KICAgICAgICAgICAgICAgICAgICAgICAgVXNlIHRoaXMgb3B0aW9uIGlmIHlvdSBhcmUgYSBHLU9uUmFtcCBkZXZlbG9wZXIKICAgICAgICAgICAgICAgICAgICA8L2hlbHA+CiAgICAgICAgICAgICAgICA8L3BhcmFtPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L2hlbHA+Cg==</text>
+        <text encoding="base64">aW1wb3J0IGJpb2JsZW5kCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgT3B0aW9uIGJ5IGRlZmF1bHQK</text>
+        <text encoding="base64">aW1wb3J0IGJpb2JsZW5kCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aGVscD4K</text>
+      <register name="3" type="4">
+        <text>args</text>
       </register>
       <register name="4" type="4">
-        <text>Use this option if you are a G-OnRamp developer</text>
+        <text>)</text>
       </register>
       <register name="5" type="4">
-        <text>truevalue</text>
+        <text>(</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBsYWJlbD0iQWN0aXZhdGUgZGVidWcgbW9kZSIgY2hlY2tlZD0iZmFsc2UiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L2hlbHA+Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>boolean</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgT3B0aW9uIGJ5IGRlZmF1bHQK</text>
       </register>
-      <register name="8" type="4">
-        <text>--</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aGVscD4K</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvcGFyYW0+Cg==</text>
+      <register name="9" type="4">
+        <text>Use this option if you are a G-OnRamp developer</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
