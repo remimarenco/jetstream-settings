@@ -258,11 +258,6 @@
       <file name="/Python Console" timestamp="1469930356390">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.xml" timestamp="1470176695531">
-        <mark key="[" line="0" column="69" />
-        <mark key="]" line="0" column="70" />
-        <mark key="." line="0" column="70" />
-      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/identifying_unknown_dna_quickly.py" timestamp="1469929878657">
         <mark key="[" line="5" column="10" />
         <mark key="]" line="5" column="10" />
@@ -540,47 +535,47 @@
       <jump line="37" column="20" filename="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/identifying_unknown_dna_quickly/identifying_unknown_dna_quickly.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>sortedBedFile</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L2hlbHA+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>sortedBedFile</text>
+        <text>Use this option if you are a G-OnRamp developer</text>
       </register>
       <register name="/" type="4">
         <text>arrayCall</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRvX3NxbF9vcHRpb24gPSAiJXMlcyIgJSAoJy1hcz0nLCBvcy5wYXRoLmpvaW4oc2VsZi50b29sX2RpcmVjdG9yeSwgJ3RyZl9zaW1wbGVSZXBlYXQuYXMnKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxwYXJhbSBuYW1lPSJkZWJ1Z19tb2RlIiB0eXBlPSJib29sZWFuIgogICAgICAgICAgICAgICAgICAgICAgIGxhYmVsPSJBY3RpdmF0ZSBkZWJ1ZyBtb2RlIiBjaGVja2VkPSJmYWxzZSIKICAgICAgICAgICAgICAgICAgICAgICB0cnVldmFsdWU9Ii0tZGVidWdfbW9kZSIgZmFsc2V2YWx1ZT0iIj4KICAgICAgICAgICAgICAgICAgICA8aGVscD4KICAgICAgICAgICAgICAgICAgICAgICAgVXNlIHRoaXMgb3B0aW9uIGlmIHlvdSBhcmUgYSBHLU9uUmFtcCBkZXZlbG9wZXIKICAgICAgICAgICAgICAgICAgICA8L2hlbHA+CiAgICAgICAgICAgICAgICA8L3BhcmFtPgo=</text>
       </register>
-      <register name="1" type="4">
-        <text>sortedBedFile</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L2hlbHA+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>sortedBedFile</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgT3B0aW9uIGJ5IGRlZmF1bHQK</text>
       </register>
-      <register name="3" type="4">
-        <text>unsortedBedFile</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aGVscD4K</text>
       </register>
       <register name="4" type="4">
-        <text>sortedBedFile</text>
+        <text>Use this option if you are a G-OnRamp developer</text>
       </register>
       <register name="5" type="4">
-        <text>unsortedBedFile</text>
+        <text>truevalue</text>
       </register>
-      <register name="6" type="4">
-        <text>+</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBsYWJlbD0iQWN0aXZhdGUgZGVidWcgbW9kZSIgY2hlY2tlZD0iZmFsc2UiCg==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+        <text>boolean</text>
       </register>
       <register name="8" type="4">
-        <text>2</text>
+        <text>--</text>
       </register>
-      <register name="9" type="4">
-        <text>1</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvcGFyYW0+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
