@@ -125,6 +125,12 @@
         <mark key="." line="11" column="34" />
         <mark key="^" line="11" column="34" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy-kickstart/config.ini.sample" timestamp="1470421819097">
+        <mark key="[" line="2" column="16" />
+        <mark key="]" line="2" column="15" />
+        <mark key="." line="2" column="15" />
+        <mark key="^" line="2" column="15" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/datatypes/hubAssembly.py" timestamp="1463236422489">
         <mark key="[" line="25" column="16" />
         <mark key="]" line="25" column="23" />
@@ -384,17 +390,15 @@
         <mark key="^" line="14" column="16" />
         <mark key="." line="14" column="16" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy-kickstart/upload_datasets_to_galaxy.py" timestamp="1470419436916">
-        <mark key="[" line="23" column="92" />
-        <mark key="]" line="21" column="35" />
-        <mark key="^" line="21" column="35" />
-        <mark key="." line="21" column="35" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy-kickstart/upload_datasets_to_galaxy.py" timestamp="1470424549295">
+        <mark key="[" line="52" column="13" />
+        <mark key="m" line="46" column="4" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy-kickstart/config.ini" timestamp="1470419189098">
-        <mark key="[" line="2" column="10" />
-        <mark key="]" line="2" column="43" />
-        <mark key="^" line="2" column="43" />
-        <mark key="." line="2" column="43" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy-kickstart/config.ini" timestamp="1470422732981">
+        <mark key="[" line="1" column="7" />
+        <mark key="]" line="2" column="41" />
+        <mark key="^" line="2" column="41" />
+        <mark key="." line="2" column="41" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/regtools_junctions_extract/regtools_junctions_extract.xml" timestamp="1469216917978">
         <mark key="[" line="1" column="17" />
@@ -553,47 +557,47 @@
       <jump line="37" column="20" filename="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/identifying_unknown_dna_quickly/identifying_unknown_dna_quickly.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>file</text>
       </register>
       <register name="-" type="4">
-        <text>[</text>
+        <text>file</text>
       </register>
       <register name="/" type="4">
         <text>arrayCall</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxwYXJhbSBuYW1lPSJkZWJ1Z19tb2RlIiB0eXBlPSJib29sZWFuIgogICAgICAgICAgICAgICAgICAgICAgIGxhYmVsPSJBY3RpdmF0ZSBkZWJ1ZyBtb2RlIiBjaGVja2VkPSJmYWxzZSIKICAgICAgICAgICAgICAgICAgICAgICB0cnVldmFsdWU9Ii0tZGVidWdfbW9kZSIgZmFsc2V2YWx1ZT0iIj4KICAgICAgICAgICAgICAgICAgICA8aGVscD4KICAgICAgICAgICAgICAgICAgICAgICAgVXNlIHRoaXMgb3B0aW9uIGlmIHlvdSBhcmUgYSBHLU9uUmFtcCBkZXZlbG9wZXIKICAgICAgICAgICAgICAgICAgICA8L2hlbHA+CiAgICAgICAgICAgICAgICA8L3BhcmFtPgo=</text>
+        <text encoding="base64">W0dhbGF4eV0KdXJsID0gImh0dHA6Ly8xMjcuMC4wLjE6ODA4MCIKYXBpLWtleSA9ICI1ZThjYzU3NDg5MjJjNTk4YzFhYTZlYzllNjA1NzgwZiIK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>file</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KGdhbGF4eV9jb25maWdbJ3VybCddKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KGNvbmZpZy5nZXQoJ0dhbGF4eScsICd1cmwnKSkK</text>
       </register>
       <register name="3" type="4">
-        <text>[</text>
+        <text>#</text>
       </register>
-      <register name="4" type="4">
-        <text>]</text>
+      <register name="4" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
-      <register name="5" type="4">
-        <text>'http</text>
+      <register name="5" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBhYTNhODJhM2YyNzc4YjZhODZkZTU1NzljODVkODUwOTk1NzMzMGY0Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>'</text>
+      <register name="6" type="2">
+        <text encoding="base64">ZnJvbSBiaW9ibGVuZC5nYWxheHkgaW1wb3J0IEdhbGF4eUluc3RhbmNlCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>galaxy_config['api-key']</text>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbmZpZ3BhcnNlcgo=</text>
       </register>
-      <register name="8" type="4">
-        <text>galaxy_config['url']</text>
+      <register name="8" type="2">
+        <text encoding="base64">ZGQK</text>
       </register>
-      <register name="9" type="4">
-        <text>g</text>
+      <register name="9" type="2">
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -649,8 +653,8 @@
         <entry>d</entry>
         <entry>wq</entry>
         <entry>s</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>W</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
