@@ -60,11 +60,10 @@
         <mark key="^" line="43" column="31" />
         <mark key="." line="43" column="31" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/subtools.py" timestamp="1470103684347">
-        <mark key="[" line="64" column="26" />
-        <mark key="]" line="64" column="25" />
-        <mark key="^" line="64" column="25" />
-        <mark key="." line="64" column="25" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/subtools.py" timestamp="1470357291824">
+        <mark key="[" line="139" column="0" />
+        <mark key="]" line="139" column="0" />
+        <mark key="." line="139" column="0" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/identifying_unknown_dna_quickly/translating_rna_into_proteins/sample" timestamp="1470022719122">
         <mark key="[" line="0" column="51" />
@@ -155,6 +154,10 @@
         <mark key="]" line="39" column="5" />
         <mark key="^" line="39" column="5" />
         <mark key="." line="39" column="5" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/BedSimpleRepeats.py" timestamp="1470357378757">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="101" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/blastXmlToPsl/tool_dependencies.xml" timestamp="1468533221446">
         <mark key="[" line="7" column="123" />
@@ -311,6 +314,12 @@
         <mark key="." line="3" column="103" />
         <mark key="^" line="3" column="103" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Gff3.py" timestamp="1470357703710">
+        <mark key="[" line="58" column="75" />
+        <mark key="]" line="58" column="75" />
+        <mark key="." line="58" column="75" />
+        <mark key="^" line="53" column="47" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubaDataType/trackhub.xml" timestamp="1463192344261">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="129" />
@@ -403,6 +412,12 @@
         <mark key="]" line="7" column="60" />
         <mark key="^" line="7" column="60" />
         <mark key="." line="7" column="60" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Gtf.py" timestamp="1470357858799">
+        <mark key="[" line="45" column="33" />
+        <mark key="]" line="45" column="52" />
+        <mark key="." line="45" column="52" />
+        <mark key="^" line="45" column="52" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/blastXmlToPsl/blastXmlToPsl.xml" timestamp="1468532745401">
         <mark key="[" line="17" column="24" />
@@ -525,47 +540,47 @@
       <jump line="37" column="20" filename="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/identifying_unknown_dna_quickly/identifying_unknown_dna_quickly.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>sortedBedFile</text>
       </register>
       <register name="-" type="4">
-        <text>nb_new_born</text>
+        <text>sortedBedFile</text>
       </register>
       <register name="/" type="4">
         <text>arrayCall</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRvdGFsX3dpdGhfZGVhZHNfdGhpc19tb250aCA9IHRvdGFsX3dpdGhvdXRfZGVhZHMgLSBuYl9kZWFkX3RoaXNfbW9udGgK</text>
+        <text encoding="base64">ICAgICAgICBhdXRvX3NxbF9vcHRpb24gPSAiJXMlcyIgJSAoJy1hcz0nLCBvcy5wYXRoLmpvaW4oc2VsZi50b29sX2RpcmVjdG9yeSwgJ3RyZl9zaW1wbGVSZXBlYXQuYXMnKSkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>sortedBedFile</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZWN1cnNpdmVfZGVhZChjdXJyZW50X21vbnRoIC0gMiwgbmJfbW9udGhzX2FsaXZlKQo=</text>
+      <register name="2" type="4">
+        <text>sortedBedFile</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHRvdGFsID0gcmVjdXJzaXZlX2RlYWQoY3VycmVudF9tb250aCAtIDEsIG5iX21vbnRoc19hbGl2ZSkgKyBcCg==</text>
+      <register name="3" type="4">
+        <text>unsortedBedFile</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIHJlY3Vyc2l2ZV9kZWFkKCkK</text>
+      <register name="4" type="4">
+        <text>sortedBedFile</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHRvdGFsID0gMAo=</text>
+      <register name="5" type="4">
+        <text>unsortedBedFile</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICMgV2UgbmVlZCB0byBrZWVwIHRyYWNrIG9mIHJhYmJpdHMgYWdlIHRvIGtub3cgaWYgdGhleSBhcmUgZ29pbmcgdG8gZGllIHRvZGF5IG9yIG5vdAo=</text>
+      <register name="6" type="4">
+        <text>+</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>2</text>
       </register>
       <register name="9" type="4">
-        <text>nb_new_born</text>
+        <text>1</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
