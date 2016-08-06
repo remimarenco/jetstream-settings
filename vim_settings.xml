@@ -239,11 +239,11 @@
         <mark key="^" line="21" column="20" />
         <mark key="." line="21" column="20" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/trfbig/tool_dependencies.xml" timestamp="1468532490100">
-        <mark key="[" line="36" column="49" />
-        <mark key="]" line="36" column="48" />
-        <mark key="." line="36" column="48" />
-        <mark key="^" line="36" column="48" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/trfbig/tool_dependencies.xml" timestamp="1470517427640">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="16" />
+        <mark key="." line="54" column="16" />
+        <mark key="^" line="37" column="49" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/cloudlaunch-ui/tsconfig.json" timestamp="1467185448813">
         <mark key="[" line="2" column="17" />
@@ -284,7 +284,6 @@
         <mark key="^" line="4" column="14" />
         <mark key="." line="4" column="14" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/mortal_fibonacci_rabbits/rosalind_fibd.txt" timestamp="1470453520440" />
       <file name="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/cloudlaunch/settings_local.py" timestamp="1467176634728">
         <mark key="[" line="23" column="1" />
         <mark key="]" line="25" column="11" />
@@ -354,11 +353,12 @@
         <mark key="^" line="71" column="20" />
         <mark key="." line="71" column="20" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/mendel_s_first_law/mendel_s_first_law.py" timestamp="1470493082695">
-        <mark key="[" line="13" column="34" />
-        <mark key="]" line="22" column="63" />
-        <mark key="^" line="22" column="63" />
-        <mark key="." line="22" column="63" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/trfbig/trfBig.xml" timestamp="1470517220371" />
+      <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/mendel_s_first_law/mendel_s_first_law.py" timestamp="1470500910721">
+        <mark key="[" line="52" column="87" />
+        <mark key="]" line="52" column="43" />
+        <mark key="^" line="52" column="43" />
+        <mark key="." line="52" column="43" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/multi_fasta_glimmer_hmm/glimmerhmm.xml" timestamp="1468633456609">
         <mark key="[" line="10" column="0" />
@@ -405,7 +405,7 @@
         <mark key="^" line="14" column="16" />
         <mark key="." line="14" column="16" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy-kickstart/upload_datasets_to_galaxy.py" timestamp="1470425151554">
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy-kickstart/upload_datasets_to_galaxy.py" timestamp="1470516808377">
         <mark key="[" line="51" column="13" />
         <mark key="m" line="46" column="4" />
       </file>
@@ -572,47 +572,47 @@
       <jump line="12" column="0" filename="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/counting_point_mutations/counting_point_mutations.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>counting_point_mutations</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvYWN0aW9ucz4K</text>
       </register>
       <register name="-" type="4">
-        <text>counting_point_mutations</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text>arrayCall</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">W0dhbGF4eV0KdXJsID0gImh0dHA6Ly8xMjcuMC4wLjE6ODA4MCIKYXBpLWtleSA9ICI1ZThjYzU3NDg5MjJjNTk4YzFhYTZlYzllNjA1NzgwZiIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YWN0aW9uIHR5cGU9Im1vdmVfZmlsZSIgcmVuYW1lX3RvPSJ0cmYiPgogICAgICAgICAgICAgICAgICAgICAgICA8c291cmNlPnRyZjQwN2IubWFjb3M2NDwvc291cmNlPgogICAgICAgICAgICAgICAgICAgICAgICA8ZGVzdGluYXRpb24+JElOU1RBTExfRElSL2JpbjwvZGVzdGluYXRpb24+CiAgICAgICAgICAgICAgICAgICAgPC9hY3Rpb24+CiAgICAgICAgICAgICAgICAgICAgPGFjdGlvbiB0eXBlPSJtb3ZlX2ZpbGUiIHJlbmFtZV90bz0idHJmIj4KICAgICAgICAgICAgICAgICAgICAgICAgPHNvdXJjZT50cmY0MDdiLmxpbnV4NjQ8L3NvdXJjZT4KICAgICAgICAgICAgICAgICAgICAgICAgPGRlc3RpbmF0aW9uPiRJTlNUQUxMX0RJUi9iaW48L2Rlc3RpbmF0aW9uPgogICAgICAgICAgICAgICAgICAgIDwvYWN0aW9uPgo=</text>
       </register>
-      <register name="1" type="4">
-        <text>counting_point_mutations</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvYWN0aW9ucz4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBjb3VudGluZ19wb2ludF9tdXRhdGlvbnMgaW1wb3J0IGNvdW50aW5nX3BvaW50X211dGF0aW9ucwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhY3Rpb25zPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L2FjdGlvbj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGRlc3RpbmF0aW9uPiRJTlNUQUxMX0RJUi9iaW48L2Rlc3RpbmF0aW9uPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHN0cmluZ19vbmUgPSBhcmdzLnN0cmluZ19vbmUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHNvdXJjZT50cmY0MDdiLm1hY29zNjQ8L3NvdXJjZT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHN0cmluZ190d28gPSBhcmdzLnN0cmluZ190d28K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YWN0aW9uIHR5cGU9Im1vdmVfZmlsZSIgcmVuYW1lX3RvPSJ0cmYiPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L2FjdGlvbj4K</text>
       </register>
-      <register name="8" type="4">
-        <text>,</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGRlc3RpbmF0aW9uPiRJTlNUQUxMX0RJUi9iaW48L2Rlc3RpbmF0aW9uPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KHN0cmluZ09uZSwgc3RyaW5nVHdvKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHNvdXJjZT50cmY0MDdiLmxpbnV4NjQ8L3NvdXJjZT4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -669,8 +669,8 @@
         <entry>wq</entry>
         <entry>s</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
