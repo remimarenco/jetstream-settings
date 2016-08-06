@@ -195,6 +195,14 @@
         <mark key="." line="35" column="17" />
         <mark key="^" line="35" column="17" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/counting_point_mutations/counting_point_mutations.py" timestamp="1470455087753">
+        <mark key="a" line="2" column="27" />
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="22" column="33" />
+        <mark key="." line="24" column="0" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/glimmer_hmm/glimmer_hmm.loc.sample" timestamp="1468529628200">
         <mark key="[" line="8" column="1" />
         <mark key="]" line="8" column="0" />
@@ -276,6 +284,7 @@
         <mark key="^" line="4" column="14" />
         <mark key="." line="4" column="14" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/mortal_fibonacci_rabbits/rosalind_fibd.txt" timestamp="1470453520440" />
       <file name="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/cloudlaunch/settings_local.py" timestamp="1467176634728">
         <mark key="[" line="23" column="1" />
         <mark key="]" line="25" column="11" />
@@ -424,11 +433,11 @@
         <mark key="^" line="5" column="50" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/main.py" timestamp="1470156600564">
-        <mark key="[" line="7" column="36" />
-        <mark key="]" line="7" column="60" />
-        <mark key="^" line="7" column="60" />
-        <mark key="." line="7" column="60" />
+      <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/main.py" timestamp="1470454357230">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="8" column="26" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Gtf.py" timestamp="1470357858799">
         <mark key="[" line="45" column="33" />
@@ -455,7 +464,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="26" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Gff3.py" />
       <jump line="23" column="13" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Gff3.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/add_datatype.py" />
       <jump line="48" column="33" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/add_datatype.py" />
@@ -555,13 +563,14 @@
       <jump line="13" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubaDataType/tracks_partial.py" />
       <jump line="21" column="11" filename="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/identifying_unknown_dna_quickly/identifying_unknown_dna_quickly.py" />
       <jump line="37" column="20" filename="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/identifying_unknown_dna_quickly/identifying_unknown_dna_quickly.py" />
+      <jump line="12" column="0" filename="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/counting_point_mutations/counting_point_mutations.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>file</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>file</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>arrayCall</text>
@@ -569,35 +578,35 @@
       <register name="0" type="2">
         <text encoding="base64">W0dhbGF4eV0KdXJsID0gImh0dHA6Ly8xMjcuMC4wLjE6ODA4MCIKYXBpLWtleSA9ICI1ZThjYzU3NDg5MjJjNTk4YzFhYTZlYzllNjA1NzgwZiIK</text>
       </register>
-      <register name="1" type="4">
-        <text>file</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KGNvbmZpZy5nZXQoJ0dhbGF4eScsICd1cmwnKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>#</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHN0cmluZ19vbmUgPSBhcmdzLnN0cmluZ19vbmUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgIHN0cmluZ190d28gPSBhcmdzLnN0cmluZ190d28K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBhYTNhODJhM2YyNzc4YjZhODZkZTU1NzljODVkODUwOTk1NzMzMGY0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBiaW9ibGVuZC5nYWxheHkgaW1wb3J0IEdhbGF4eUluc3RhbmNlCg==</text>
+      <register name="6" type="4">
+        <text>,</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbmZpZ3BhcnNlcgo=</text>
+        <text encoding="base64">ICAgIHByaW50KHN0cmluZ09uZSwgc3RyaW5nVHdvKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">ZnJvbSBtb3J0YWxfZmlib25hY2NpX3JhYmJpdHMgaW1wb3J0IG1vcnRhbF9maWJvbmFjY2lfcmFiYml0cwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ZnJvbSB0cmFuc2xhdGluZ19ybmFfaW50b19wcm90ZWlucyBpbXBvcnQgdHJhbnNsYXRpbmdfcm5hX2ludG9fcHJvdGVpbgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -653,8 +662,8 @@
         <entry>d</entry>
         <entry>wq</entry>
         <entry>s</entry>
-        <entry>W</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
