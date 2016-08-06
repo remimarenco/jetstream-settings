@@ -354,11 +354,11 @@
         <mark key="^" line="71" column="20" />
         <mark key="." line="71" column="20" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/mendel_s_first_law/mendel_s_first_law.py" timestamp="1470491729509">
+      <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/mendel_s_first_law/mendel_s_first_law.py" timestamp="1470493082695">
         <mark key="[" line="13" column="34" />
-        <mark key="]" line="26" column="23" />
-        <mark key="^" line="26" column="23" />
-        <mark key="." line="26" column="23" />
+        <mark key="]" line="22" column="63" />
+        <mark key="^" line="22" column="63" />
+        <mark key="." line="22" column="63" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/multi_fasta_glimmer_hmm/glimmerhmm.xml" timestamp="1468633456609">
         <mark key="[" line="10" column="0" />
@@ -439,11 +439,11 @@
         <mark key="^" line="5" column="50" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/main.py" timestamp="1470454357230">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="8" column="26" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/main.py" timestamp="1470492876880">
+        <mark key="[" line="8" column="3" />
+        <mark key="]" line="8" column="20" />
+        <mark key="^" line="8" column="20" />
+        <mark key="." line="8" column="20" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Gtf.py" timestamp="1470357858799">
         <mark key="[" line="45" column="33" />
@@ -572,11 +572,11 @@
       <jump line="12" column="0" filename="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/counting_point_mutations/counting_point_mutations.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>counting_point_mutations</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>counting_point_mutations</text>
       </register>
       <register name="/" type="4">
         <text>arrayCall</text>
@@ -584,35 +584,35 @@
       <register name="0" type="2">
         <text encoding="base64">W0dhbGF4eV0KdXJsID0gImh0dHA6Ly8xMjcuMC4wLjE6ODA4MCIKYXBpLWtleSA9ICI1ZThjYzU3NDg5MjJjNTk4YzFhYTZlYzllNjA1NzgwZiIK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>counting_point_mutations</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBjb3VudGluZ19wb2ludF9tdXRhdGlvbnMgaW1wb3J0IGNvdW50aW5nX3BvaW50X211dGF0aW9ucwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHN0cmluZ19vbmUgPSBhcmdzLnN0cmluZ19vbmUK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHN0cmluZ190d28gPSBhcmdzLnN0cmluZ190d28K</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>,</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHN0cmluZ19vbmUgPSBhcmdzLnN0cmluZ19vbmUK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHN0cmluZ190d28gPSBhcmdzLnN0cmluZ190d28K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KHN0cmluZ09uZSwgc3RyaW5nVHdvKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBtb3J0YWxfZmlib25hY2NpX3JhYmJpdHMgaW1wb3J0IG1vcnRhbF9maWJvbmFjY2lfcmFiYml0cwo=</text>
+      <register name="8" type="4">
+        <text>,</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSB0cmFuc2xhdGluZ19ybmFfaW50b19wcm90ZWlucyBpbXBvcnQgdHJhbnNsYXRpbmdfcm5hX2ludG9fcHJvdGVpbgo=</text>
+        <text encoding="base64">ICAgIHByaW50KHN0cmluZ09uZSwgc3RyaW5nVHdvKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -669,8 +669,8 @@
         <entry>wq</entry>
         <entry>s</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
