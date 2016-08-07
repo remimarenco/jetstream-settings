@@ -42,11 +42,17 @@
         <mark key="." line="0" column="50" />
         <mark key="^" line="0" column="50" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy-kickstart/utils/__init__.py" timestamp="1470552807620" />
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/multi_fasta_glimmerhmm/.shed.yml" timestamp="1468635565225">
         <mark key="[" line="5" column="22" />
         <mark key="]" line="5" column="79" />
         <mark key="^" line="5" column="79" />
         <mark key="." line="5" column="79" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy-kickstart/utils/delete_all_libraries.py" timestamp="1470553996957">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy-kickstart/bioblend_lib/galaxy/libraries/__init__.py" timestamp="1470545799889">
         <mark key="[" line="53" column="49" />
@@ -170,6 +176,11 @@
         <mark key="]" line="8" column="121" />
         <mark key="." line="8" column="121" />
         <mark key="^" line="8" column="121" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy-kickstart/__init__.py" timestamp="1470553640266">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/multi_fasta_glimmerhmm/multi_glimmer.py" timestamp="1468794899383">
         <mark key="[" line="55" column="38" />
@@ -418,14 +429,14 @@
         <mark key="^" line="14" column="16" />
         <mark key="." line="14" column="16" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy-kickstart/upload_datasets_to_galaxy.py" timestamp="1470546289346">
-        <mark key="[" line="41" column="24" />
-        <mark key="m" line="51" column="4" />
-        <mark key="]" line="41" column="23" />
-        <mark key="^" line="41" column="23" />
-        <mark key="." line="41" column="23" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy-kickstart/upload_datasets_to_galaxy.py" timestamp="1470551650679">
+        <mark key="'" line="55" column="0" />
+        <mark key="[" line="24" column="0" />
+        <mark key="m" line="49" column="4" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy-kickstart/config.ini" timestamp="1470422732981">
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy-kickstart/config.ini" timestamp="1470548338560">
         <mark key="[" line="1" column="7" />
         <mark key="]" line="2" column="41" />
         <mark key="^" line="2" column="41" />
@@ -486,12 +497,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="159" column="19" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" />
-      <jump line="294" column="28" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" />
-      <jump line="302" column="4" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" />
-      <jump line="303" column="36" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" />
-      <jump line="549" column="0" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/serializers.py" />
-      <jump line="278" column="31" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" />
       <jump line="706" column="8" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/serializers.py" />
       <jump line="530" column="23" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/serializers.py" />
       <jump line="538" column="23" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/serializers.py" />
@@ -586,49 +591,55 @@
       <jump line="101" column="64" filename="$USER_HOME$/Google_Drive/Dev/galaxy-kickstart/bioblend_lib/galaxy/client.py" />
       <jump line="137" column="38" filename="$USER_HOME$/Google_Drive/Dev/galaxy-kickstart/bioblend_lib/galaxy/client.py" />
       <jump line="153" column="64" filename="$USER_HOME$/Google_Drive/Dev/galaxy-kickstart/bioblend_lib/galaxy/client.py" />
+      <jump line="44" column="32" filename="$USER_HOME$/Google_Drive/Dev/galaxy-kickstart/upload_datasets_to_galaxy.py" />
+      <jump line="47" column="58" filename="$USER_HOME$/Google_Drive/Dev/galaxy-kickstart/upload_datasets_to_galaxy.py" />
+      <jump line="65" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy-kickstart/upload_datasets_to_galaxy.py" />
+      <jump line="23" column="30" filename="$USER_HOME$/Google_Drive/Dev/galaxy-kickstart/utils/delete_all_libraries.py" />
+      <jump line="5" column="15" filename="$USER_HOME$/Google_Drive/Dev/galaxy-kickstart/utils/delete_all_libraries.py" />
+      <jump line="14" column="17" filename="$USER_HOME$/Google_Drive/Dev/galaxy-kickstart/utils/delete_all_libraries.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>pass</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaW50KF9fcGFja2FnZV9fKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>pass</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>delete</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYvcHl0aG9uMwppbXBvcnQgYXJncGFyc2UKaW1wb3J0IGNvbmZpZ3BhcnNlcgoKaW1wb3J0IG9zCmZyb20gYmlvYmxlbmQuZ2FsYXh5IGltcG9ydCBHYWxheHlJbnN0YW5jZQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>pass</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHByaW50KF9fcGFja2FnZV9fKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KFtsaWJbJ2RlbGV0ZWQnXSBmb3IgbGliIGluIGxpYnNdKQo=</text>
+        <text encoding="base64">ICAgIF9fcGFja2FnZV9fLnRvdG8uYmxhCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGxpYnMgPSBnaS5saWJyYXJpZXMuZ2V0X2xpYnJhcmllcygpCg==</text>
+      <register name="3" type="4">
+        <text>s</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KCctLS0tLS0tLS0tLS0tLS0tLS0nKQo=</text>
+      <register name="4" type="4">
+        <text>l</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICMgZGVsZXRlIHZyYWltZW50Cg==</text>
+      <register name="5" type="4">
+        <text>i</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KFtnaS5saWJyYXJpZXMuZGVsZXRlX2xpYnJhcnkobGliWydpZCddKSBmb3IgbGliIGluIGxpYnNfZGVsZXRlZF0pCg==</text>
+      <register name="6" type="4">
+        <text>t</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KGxpYnNfZGVsZXRlZCkK</text>
+      <register name="7" type="4">
+        <text>u</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICMgVE9ETzogTWFrZSBhIGxvb3Agd2hpY2ggZXhlY3V0ZSB0aGUgZm9sbG93aW5nLCBmb3IgZWFjaCBkaXJlY3RvcnkgZm91bmQK</text>
+      <register name="8" type="4">
+        <text>.</text>
       </register>
-      <register name="9" type="4">
-        <text>True</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHByaW50KCJIZWxsbyEiKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
