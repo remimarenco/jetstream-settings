@@ -27,9 +27,6 @@
         <mark key="." line="76" column="68" />
         <mark key="^" line="76" column="68" />
       </file>
-      <file name="/a.dummy" timestamp="1470566279310">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/tests.py" timestamp="1467166171804">
         <mark key="[" line="184" column="37" />
         <mark key="]" line="184" column="37" />
@@ -156,6 +153,9 @@
         <mark key="." line="2" column="15" />
         <mark key="^" line="2" column="15" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_kickstart/utils/delete.py" timestamp="1470575576178">
+        <mark key="[" line="20" column="14" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/datatypes/hubAssembly.py" timestamp="1463236422489">
         <mark key="[" line="25" column="16" />
         <mark key="]" line="25" column="23" />
@@ -186,11 +186,11 @@
         <mark key="^" line="39" column="5" />
         <mark key="." line="39" column="5" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_kickstart/utils/upload.py" timestamp="1470570960642">
-        <mark key="[" line="69" column="93" />
-        <mark key="]" line="66" column="75" />
-        <mark key="^" line="66" column="75" />
-        <mark key="." line="66" column="75" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_kickstart/utils/upload.py" timestamp="1470575764115">
+        <mark key="[" line="80" column="48" />
+        <mark key="]" line="50" column="58" />
+        <mark key="." line="50" column="58" />
+        <mark key="^" line="50" column="58" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/blastXmlToPsl/tool_dependencies.xml" timestamp="1468533221446">
         <mark key="[" line="7" column="123" />
@@ -487,7 +487,11 @@
         <mark key="^" line="17" column="48" />
         <mark key="." line="17" column="48" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_kickstart/main.py" timestamp="1470570943677" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_kickstart/main.py" timestamp="1470572982472">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="4" />
+        <mark key="." line="49" column="4" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Track.py" timestamp="1464291588140">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -525,9 +529,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="108" column="15" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" />
-      <jump line="107" column="18" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" />
-      <jump line="119" column="4" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" />
       <jump line="292" column="4" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" />
       <jump line="21" column="48" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/views.py" />
       <jump line="464" column="6" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/views.py" />
@@ -625,49 +626,52 @@
       <jump line="11" column="29" filename="$USER_HOME$/Google_Drive/Dev/galaxy-kickstart/galaxy-kickstart.py" />
       <jump line="10" column="56" filename="$USER_HOME$/Google_Drive/Dev/galaxy-kickstart/galaxy-kickstart.py" />
       <jump line="6" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy-kickstart/upload_datasets_to_galaxy.py" />
+      <jump line="58" column="41" filename="$USER_HOME$/Google_Drive/Dev/galaxy_kickstart/utils/upload.py" />
+      <jump line="53" column="24" filename="$USER_HOME$/Google_Drive/Dev/galaxy_kickstart/utils/upload.py" />
+      <jump line="63" column="61" filename="$USER_HOME$/Google_Drive/Dev/galaxy_kickstart/utils/upload.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGluIHRoZSBEYXRhIExpYnJhcnk=</text>
+        <text>gi.libraries.get_libraries()</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGluIHRoZSBEYXRhIExpYnJhcnk=</text>
+        <text>gi.libraries.get_libraries()</text>
       </register>
       <register name="/" type="4">
         <text>delete</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIHByaW50KCJQbGVhc2Ugc2VlIHRoZSBvcHRpb24gdG8gY2FsbCB0aGlzIHNjcmlwdCBmcm9tIHRoZSBtYWluIHByb2dyYW0uIFF1aXRpbmcuLi4iKQogICAgc3lzLmV4aXQoLTEpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQoInswfSBpcyBub3QgYSBjb21wcmVzc2VkIGZhc3RxIi5mb3JtYXQoZmlsZS5uYW1lKSkK</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IGluIHRoZSBEYXRhIExpYnJhcnk=</text>
+        <text>gi.libraries.get_libraries()</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXNzCg==</text>
+      <register name="2" type="4">
+        <text>following</text>
       </register>
-      <register name="3" type="4">
-        <text>s_name</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCgiQURERUQ6IHswfSBpcyBhIGNvbXByZXNzZWQgZmFzdHEiLmZvcm1hdChmaWxlLm5hbWUpKQo=</text>
       </register>
       <register name="4" type="4">
-        <text>print(args)</text>
+        <text>not</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KGFyZ3MpCg==</text>
+      <register name="5" type="4">
+        <text>name</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIiIiOnR5cGUgOiBsaXN0W29zLkRpckVudHJ5XSIiIgo=</text>
       </register>
-      <register name="7" type="4">
-        <text />
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWFqc2QgPSBvcy5zY2FuZGlyKCd0b3RvJykKCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIiIiOnR5cGUgOiBvcy5EaXJFbnRyeSIiIgo=</text>
       </register>
-      <register name="9" type="4">
-        <text>upload_datasets_to_galaxy</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWFqc2QuCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
