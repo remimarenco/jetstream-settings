@@ -15,12 +15,6 @@
       <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/translating_rna_into_proteins/rosalind_prot.txt" timestamp="1470025922480">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Datatype.py" timestamp="1470090507164">
-        <mark key="'" line="55" column="8" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/glimmer_hmm/glimmerHMM/glimmerhmm_predict.xml" timestamp="1468621396991">
         <mark key="[" line="6" column="29" />
         <mark key="]" line="8" column="30" />
@@ -233,6 +227,12 @@
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/trfbig/.shed.yml" timestamp="1470541446267">
+        <mark key="[" line="4" column="8" />
+        <mark key="]" line="4" column="10" />
+        <mark key="." line="4" column="10" />
+        <mark key="^" line="4" column="10" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/cloudlaunch-ui/app/components/public-appliances.component.css" timestamp="1467221492836">
         <mark key="[" line="18" column="1" />
         <mark key="]" line="21" column="20" />
@@ -409,9 +409,12 @@
         <mark key="^" line="14" column="16" />
         <mark key="." line="14" column="16" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy-kickstart/upload_datasets_to_galaxy.py" timestamp="1470516808377">
-        <mark key="[" line="51" column="13" />
-        <mark key="m" line="46" column="4" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy-kickstart/upload_datasets_to_galaxy.py" timestamp="1470542393197">
+        <mark key="[" line="28" column="71" />
+        <mark key="m" line="49" column="4" />
+        <mark key="]" line="0" column="14" />
+        <mark key="^" line="0" column="14" />
+        <mark key="." line="0" column="14" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy-kickstart/config.ini" timestamp="1470422732981">
         <mark key="[" line="1" column="7" />
@@ -576,11 +579,11 @@
       <jump line="12" column="0" filename="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/counting_point_mutations/counting_point_mutations.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tPHJlcXVpcmVtZW50IHR5cGU9InBhY2thZ2UiIHZlcnNpb249IjEuMCI+dHJmQmlnPC9yZXF1aXJlbWVudD4tLT4K</text>
+      <register name="&quot;" type="4">
+        <text>i</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>arrayCall</text>
@@ -588,35 +591,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YWN0aW9uIHR5cGU9ImRvd25sb2FkX2JpbmFyeSIgdGFyZ2V0X2RpcmVjdG9yeT0iYmluIj4KICAgICAgICAgICAgICAgICAgICAgICAgPHVybF90ZW1wbGF0ZT5odHRwczovL3RhbmRlbS5idS5lZHUvdHJmL2Rvd25sb2Fkcy90cmY0MDdiLmxpbnV4NjQ8L3VybF90ZW1wbGF0ZT4KICAgICAgICAgICAgICAgICAgICA8L2FjdGlvbj4K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tPHJlcXVpcmVtZW50IHR5cGU9InBhY2thZ2UiIHZlcnNpb249IjEuMCI+dHJmQmlnPC9yZXF1aXJlbWVudD4tLT4K</text>
+      <register name="1" type="4">
+        <text>i</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
+      <register name="2" type="4">
+        <text>m</text>
+      </register>
+      <register name="3" type="4">
+        <text>e</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICA8IS0tPHJlcXVpcmVtZW50IHR5cGU9InBhY2thZ2UiIHZlcnNpb249IjEuMCI+dHJmQmlnPC9yZXF1aXJlbWVudD4tLT4K</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8cmVxdWlyZW1lbnQgdHlwZT0icGFja2FnZSIgdmVyc2lvbj0iNC4wNyI+dHJmPC9yZXF1aXJlbWVudD4K</text>
-      </register>
-      <register name="4" type="4">
-        <text />
-      </register>
-      <register name="5" type="4">
-        <text>b</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICA8IS0tPHJlcXVpcmVtZW50IHR5cGU9InBhY2thZ2UiIHZlcnNpb249IjEuMCI+dHJmQmlnPC9yZXF1aXJlbWVudD4tLT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8cmVxdWlyZW1lbnQgdHlwZT0icGFja2FnZSIgdmVyc2lvbj0iMzMyIj51Y3NjLXRyZmJpZzwvcmVxdWlyZW1lbnQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8cmVxdWlyZW1lbnQgdHlwZT0icGFja2FnZSIgdmVyc2lvbj0iNC4wNyI+dHJmPC9yZXF1aXJlbWVudD4K</text>
       </register>
       <register name="7" type="4">
-        <text>INSTALL_DIR</text>
+        <text />
       </register>
       <register name="8" type="4">
-        <text>TMP_WORK_DIR</text>
+        <text>b</text>
       </register>
-      <register name="9" type="4">
-        <text>$I</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICA8cmVxdWlyZW1lbnQgdHlwZT0icGFja2FnZSIgdmVyc2lvbj0iMzMyIj51Y3NjLXRyZmJpZzwvcmVxdWlyZW1lbnQ+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
