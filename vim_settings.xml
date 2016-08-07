@@ -48,6 +48,12 @@
         <mark key="^" line="5" column="79" />
         <mark key="." line="5" column="79" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy-kickstart/bioblend_lib/galaxy/libraries/__init__.py" timestamp="1470545799889">
+        <mark key="[" line="53" column="49" />
+        <mark key="]" line="53" column="62" />
+        <mark key="^" line="53" column="62" />
+        <mark key="." line="53" column="62" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/identifying_unknown_dna_quickly/identifying_unknown_dna_quickly.py" timestamp="1469935265070">
         <mark key="[" line="41" column="39" />
         <mark key="]" line="43" column="31" />
@@ -314,6 +320,9 @@
         <mark key="^" line="2" column="9" />
         <mark key="." line="2" column="9" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy-kickstart/bioblend_lib/galaxy/client.py" timestamp="1470545784847">
+        <mark key="'" line="153" column="64" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/cloudlaunch-ui/app/components/public-appliances-maps.component.ts" timestamp="1467187068763">
         <mark key="[" line="7" column="17" />
         <mark key="]" line="7" column="20" />
@@ -409,12 +418,12 @@
         <mark key="^" line="14" column="16" />
         <mark key="." line="14" column="16" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy-kickstart/upload_datasets_to_galaxy.py" timestamp="1470542393197">
-        <mark key="[" line="28" column="71" />
-        <mark key="m" line="49" column="4" />
-        <mark key="]" line="0" column="14" />
-        <mark key="^" line="0" column="14" />
-        <mark key="." line="0" column="14" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy-kickstart/upload_datasets_to_galaxy.py" timestamp="1470546289346">
+        <mark key="[" line="41" column="24" />
+        <mark key="m" line="51" column="4" />
+        <mark key="]" line="41" column="23" />
+        <mark key="^" line="41" column="23" />
+        <mark key="." line="41" column="23" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy-kickstart/config.ini" timestamp="1470422732981">
         <mark key="[" line="1" column="7" />
@@ -477,12 +486,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="13" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Gff3.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/add_datatype.py" />
-      <jump line="48" column="33" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/add_datatype.py" />
-      <jump line="59" column="20" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/add_datatype.py" />
-      <jump line="67" column="20" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/add_datatype.py" />
-      <jump line="289" column="47" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" />
       <jump line="159" column="19" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" />
       <jump line="294" column="28" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" />
       <jump line="302" column="4" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" />
@@ -577,58 +580,64 @@
       <jump line="21" column="11" filename="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/identifying_unknown_dna_quickly/identifying_unknown_dna_quickly.py" />
       <jump line="37" column="20" filename="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/identifying_unknown_dna_quickly/identifying_unknown_dna_quickly.py" />
       <jump line="12" column="0" filename="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/counting_point_mutations/counting_point_mutations.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Google_Drive/Dev/galaxy-kickstart/bioblend_lib/galaxy/client.py" />
+      <jump line="88" column="28" filename="$USER_HOME$/Google_Drive/Dev/galaxy-kickstart/bioblend_lib/galaxy/client.py" />
+      <jump line="91" column="59" filename="$USER_HOME$/Google_Drive/Dev/galaxy-kickstart/bioblend_lib/galaxy/client.py" />
+      <jump line="101" column="64" filename="$USER_HOME$/Google_Drive/Dev/galaxy-kickstart/bioblend_lib/galaxy/client.py" />
+      <jump line="137" column="38" filename="$USER_HOME$/Google_Drive/Dev/galaxy-kickstart/bioblend_lib/galaxy/client.py" />
+      <jump line="153" column="64" filename="$USER_HOME$/Google_Drive/Dev/galaxy-kickstart/bioblend_lib/galaxy/client.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>i</text>
+        <text>pass</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>pass</text>
       </register>
       <register name="/" type="4">
-        <text>arrayCall</text>
+        <text>delete</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YWN0aW9uIHR5cGU9ImRvd25sb2FkX2JpbmFyeSIgdGFyZ2V0X2RpcmVjdG9yeT0iYmluIj4KICAgICAgICAgICAgICAgICAgICAgICAgPHVybF90ZW1wbGF0ZT5odHRwczovL3RhbmRlbS5idS5lZHUvdHJmL2Rvd25sb2Fkcy90cmY0MDdiLmxpbnV4NjQ8L3VybF90ZW1wbGF0ZT4KICAgICAgICAgICAgICAgICAgICA8L2FjdGlvbj4K</text>
+      <register name="0" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="1" type="4">
-        <text>i</text>
+        <text>pass</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>m</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHByaW50KFtsaWJbJ2RlbGV0ZWQnXSBmb3IgbGliIGluIGxpYnNdKQo=</text>
       </register>
-      <register name="3" type="4">
-        <text>e</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGxpYnMgPSBnaS5saWJyYXJpZXMuZ2V0X2xpYnJhcmllcygpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tPHJlcXVpcmVtZW50IHR5cGU9InBhY2thZ2UiIHZlcnNpb249IjEuMCI+dHJmQmlnPC9yZXF1aXJlbWVudD4tLT4K</text>
+        <text encoding="base64">ICAgIHByaW50KCctLS0tLS0tLS0tLS0tLS0tLS0nKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tPHJlcXVpcmVtZW50IHR5cGU9InBhY2thZ2UiIHZlcnNpb249IjEuMCI+dHJmQmlnPC9yZXF1aXJlbWVudD4tLT4K</text>
+        <text encoding="base64">ICAgICMgZGVsZXRlIHZyYWltZW50Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8cmVxdWlyZW1lbnQgdHlwZT0icGFja2FnZSIgdmVyc2lvbj0iNC4wNyI+dHJmPC9yZXF1aXJlbWVudD4K</text>
+        <text encoding="base64">ICAgIHByaW50KFtnaS5saWJyYXJpZXMuZGVsZXRlX2xpYnJhcnkobGliWydpZCddKSBmb3IgbGliIGluIGxpYnNfZGVsZXRlZF0pCg==</text>
       </register>
-      <register name="7" type="4">
-        <text />
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHByaW50KGxpYnNfZGVsZXRlZCkK</text>
       </register>
-      <register name="8" type="4">
-        <text>b</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICMgVE9ETzogTWFrZSBhIGxvb3Agd2hpY2ggZXhlY3V0ZSB0aGUgZm9sbG93aW5nLCBmb3IgZWFjaCBkaXJlY3RvcnkgZm91bmQK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8cmVxdWlyZW1lbnQgdHlwZT0icGFja2FnZSIgdmVyc2lvbj0iMzMyIj51Y3NjLXRyZmJpZzwvcmVxdWlyZW1lbnQ+Cg==</text>
+      <register name="9" type="4">
+        <text>True</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>logging.getlogger</last-search>
+      <last-search>delete</last-search>
       <last-offset />
-      <last-pattern>arrayCall</last-pattern>
+      <last-pattern>delete</last-pattern>
       <last-replace>array_call</last-replace>
       <last-substitute>arrayCall</last-substitute>
       <last-dir>1</last-dir>
@@ -636,7 +645,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ApplicationVi</entry>
         <entry encoding="base64">XDxyZWZlcmVuY2VfZmFzdGFcPg==</entry>
         <entry encoding="base64">XDxpZlw+</entry>
         <entry>zip</entry>
@@ -656,6 +664,7 @@
         <entry>loggin.</entry>
         <entry>logging.getlogger</entry>
         <entry>arrayCall</entry>
+        <entry>delete</entry>
       </history-search>
       <history-cmd>
         <entry>s/tool_list/toto/gc</entry>
@@ -674,9 +683,9 @@
         <entry>d</entry>
         <entry>wq</entry>
         <entry>s</entry>
-        <entry>W</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>q</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
