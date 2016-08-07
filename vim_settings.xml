@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/start_script.py" timestamp="1470560358715">
+      <file name="/start_script.py" timestamp="1470564536195">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubaDataType/datatypes_conf.xml" timestamp="1463190999499">
@@ -27,7 +27,7 @@
         <mark key="." line="76" column="68" />
         <mark key="^" line="76" column="68" />
       </file>
-      <file name="/a.dummy" timestamp="1470417479941">
+      <file name="/a.dummy" timestamp="1470566279310">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/tests.py" timestamp="1467166171804">
@@ -47,18 +47,24 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_kickstart/upload_datasets_to_galaxy.py" timestamp="1470566182100">
+        <mark key="[" line="16" column="6" />
+        <mark key="]" line="16" column="23" />
+        <mark key="." line="16" column="23" />
+        <mark key="^" line="16" column="23" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/multi_fasta_glimmerhmm/.shed.yml" timestamp="1468635565225">
         <mark key="[" line="5" column="22" />
         <mark key="]" line="5" column="79" />
         <mark key="^" line="5" column="79" />
         <mark key="." line="5" column="79" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy-kickstart/utils/delete_all_libraries.py" timestamp="1470556161667">
-        <mark key="'" line="20" column="7" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="22" column="15" />
-        <mark key="^" line="3" column="18" />
-        <mark key="." line="3" column="18" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy-kickstart/utils/delete_all_libraries.py" timestamp="1470562323363">
+        <mark key="'" line="18" column="7" />
+        <mark key="[" line="11" column="9" />
+        <mark key="]" line="11" column="20" />
+        <mark key="." line="11" column="20" />
+        <mark key="^" line="11" column="20" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy-kickstart/bioblend_lib/galaxy/libraries/__init__.py" timestamp="1470545799889">
         <mark key="[" line="53" column="49" />
@@ -107,12 +113,12 @@
         <mark key="." line="0" column="25" />
         <mark key="^" line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy-kickstart/galaxy-kickstart.py" timestamp="1470559018704">
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy-kickstart/galaxy-kickstart.py" timestamp="1470562285383">
         <mark key="'" line="10" column="56" />
-        <mark key="[" line="22" column="61" />
-        <mark key="]" line="22" column="61" />
-        <mark key="^" line="22" column="61" />
-        <mark key="." line="22" column="61" />
+        <mark key="[" line="27" column="56" />
+        <mark key="]" line="27" column="56" />
+        <mark key="^" line="27" column="57" />
+        <mark key="." line="27" column="56" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/translating_rna_into_proteins/translating_rna_into_protein.py" timestamp="1470067938751">
         <mark key="[" line="7" column="7" />
@@ -180,6 +186,11 @@
         <mark key="^" line="39" column="5" />
         <mark key="." line="39" column="5" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_kickstart/utils/upload.py" timestamp="1470569461531">
+        <mark key="]" line="60" column="22" />
+        <mark key="." line="60" column="22" />
+        <mark key="^" line="60" column="22" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/blastXmlToPsl/tool_dependencies.xml" timestamp="1468533221446">
         <mark key="[" line="7" column="123" />
         <mark key="]" line="8" column="121" />
@@ -215,14 +226,6 @@
         <mark key="]" line="35" column="17" />
         <mark key="." line="35" column="17" />
         <mark key="^" line="35" column="17" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/counting_point_mutations/counting_point_mutations.py" timestamp="1470455087753">
-        <mark key="a" line="2" column="27" />
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="^" line="22" column="33" />
-        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/glimmer_hmm/glimmer_hmm.loc.sample" timestamp="1468529628200">
         <mark key="[" line="8" column="1" />
@@ -298,6 +301,12 @@
       </file>
       <file name="/Python Console" timestamp="1469930356390">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_kickstart/utils/delete_all_libraries.py" timestamp="1470566132037">
+        <mark key="[" line="6" column="6" />
+        <mark key="]" line="6" column="8" />
+        <mark key="." line="6" column="8" />
+        <mark key="^" line="6" column="8" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxyKickstart/upload_datasets_to_galaxy.py" timestamp="1470559408641">
         <mark key="[" line="6" column="0" />
@@ -393,6 +402,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_kickstart/__init__.py" timestamp="1470565274292">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/mendel_s_first_law/mendel_s_first_law.py" timestamp="1470500910721">
         <mark key="[" line="52" column="87" />
         <mark key="]" line="52" column="43" />
@@ -440,12 +454,12 @@
         <mark key="^" line="14" column="16" />
         <mark key="." line="14" column="16" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy-kickstart/upload_datasets_to_galaxy.py" timestamp="1470560529621">
-        <mark key="[" line="15" column="0" />
-        <mark key="m" line="30" column="4" />
-        <mark key="]" line="16" column="11" />
-        <mark key="^" line="16" column="11" />
-        <mark key="." line="16" column="11" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy-kickstart/upload_datasets_to_galaxy.py" timestamp="1470562638205">
+        <mark key="[" line="4" column="0" />
+        <mark key="m" line="27" column="4" />
+        <mark key="]" line="5" column="22" />
+        <mark key="^" line="5" column="22" />
+        <mark key="." line="5" column="22" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy-kickstart/config.ini" timestamp="1470548338560">
         <mark key="[" line="1" column="7" />
@@ -471,6 +485,7 @@
         <mark key="^" line="17" column="48" />
         <mark key="." line="17" column="48" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_kickstart/main.py" timestamp="1470567964918" />
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Track.py" timestamp="1464291588140">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -611,10 +626,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Z2kgPSA=</text>
+        <text encoding="base64">IGluIHRoZSBEYXRhIExpYnJhcnk=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Z2kgPSA=</text>
+        <text encoding="base64">IGluIHRoZSBEYXRhIExpYnJhcnk=</text>
       </register>
       <register name="/" type="4">
         <text>delete</text>
@@ -623,34 +638,34 @@
         <text encoding="base64">aWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIHByaW50KCJQbGVhc2Ugc2VlIHRoZSBvcHRpb24gdG8gY2FsbCB0aGlzIHNjcmlwdCBmcm9tIHRoZSBtYWluIHByb2dyYW0uIFF1aXRpbmcuLi4iKQogICAgc3lzLmV4aXQoLTEpCg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">Z2kgPSA=</text>
+        <text encoding="base64">IGluIHRoZSBEYXRhIExpYnJhcnk=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>b</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXNzCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGFyZ3BhcnNlCg==</text>
+      <register name="3" type="4">
+        <text>s_name</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+        <text>print(args)</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHByaW50KGFyZ3MpCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>m</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoKQo=</text>
       </register>
       <register name="7" type="4">
-        <text>o</text>
+        <text />
       </register>
       <register name="8" type="4">
-        <text>r</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="9" type="4">
-        <text>f</text>
+        <text>upload_datasets_to_galaxy</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -705,8 +720,8 @@
         <entry>d</entry>
         <entry>wq</entry>
         <entry>s</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>q</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
