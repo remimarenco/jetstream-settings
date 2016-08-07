@@ -239,7 +239,7 @@
         <mark key="^" line="21" column="20" />
         <mark key="." line="21" column="20" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/trfbig/tool_dependencies.xml" timestamp="1470537111560">
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/trfbig/tool_dependencies.xml" timestamp="1470539023859">
         <mark key="[" line="40" column="33" />
         <mark key="]" line="40" column="44" />
         <mark key="." line="40" column="44" />
@@ -353,11 +353,10 @@
         <mark key="^" line="71" column="20" />
         <mark key="." line="71" column="20" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/trfbig/trfBig.xml" timestamp="1470536857666">
-        <mark key="[" line="4" column="46" />
-        <mark key="]" line="4" column="47" />
-        <mark key="^" line="4" column="47" />
-        <mark key="." line="4" column="47" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/trfbig/trfBig.xml" timestamp="1470539387605">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/mendel_s_first_law/mendel_s_first_law.py" timestamp="1470500910721">
         <mark key="[" line="52" column="87" />
@@ -577,11 +576,11 @@
       <jump line="12" column="0" filename="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/counting_point_mutations/counting_point_mutations.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>INSTALL_DIR</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8IS0tPHJlcXVpcmVtZW50IHR5cGU9InBhY2thZ2UiIHZlcnNpb249IjEuMCI+dHJmQmlnPC9yZXF1aXJlbWVudD4tLT4K</text>
       </register>
       <register name="-" type="4">
-        <text>INSTALL_DIR</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>arrayCall</text>
@@ -589,35 +588,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YWN0aW9uIHR5cGU9ImRvd25sb2FkX2JpbmFyeSIgdGFyZ2V0X2RpcmVjdG9yeT0iYmluIj4KICAgICAgICAgICAgICAgICAgICAgICAgPHVybF90ZW1wbGF0ZT5odHRwczovL3RhbmRlbS5idS5lZHUvdHJmL2Rvd25sb2Fkcy90cmY0MDdiLmxpbnV4NjQ8L3VybF90ZW1wbGF0ZT4KICAgICAgICAgICAgICAgICAgICA8L2FjdGlvbj4K</text>
       </register>
-      <register name="1" type="4">
-        <text>INSTALL_DIR</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICA8IS0tPHJlcXVpcmVtZW50IHR5cGU9InBhY2thZ2UiIHZlcnNpb249IjEuMCI+dHJmQmlnPC9yZXF1aXJlbWVudD4tLT4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>TMP_WORK_DIR</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICA8IS0tPHJlcXVpcmVtZW50IHR5cGU9InBhY2thZ2UiIHZlcnNpb249IjEuMCI+dHJmQmlnPC9yZXF1aXJlbWVudD4tLT4K</text>
       </register>
-      <register name="3" type="4">
-        <text>$I</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICA8cmVxdWlyZW1lbnQgdHlwZT0icGFja2FnZSIgdmVyc2lvbj0iNC4wNyI+dHJmPC9yZXF1aXJlbWVudD4K</text>
       </register>
       <register name="4" type="4">
-        <text>INSTALL_DIR</text>
+        <text />
       </register>
       <register name="5" type="4">
-        <text>INSTALL_DIR</text>
+        <text>b</text>
       </register>
-      <register name="6" type="4">
-        <text>INSTALL_DIR</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICA8cmVxdWlyZW1lbnQgdHlwZT0icGFja2FnZSIgdmVyc2lvbj0iMzMyIj51Y3NjLXRyZmJpZzwvcmVxdWlyZW1lbnQ+Cg==</text>
       </register>
       <register name="7" type="4">
         <text>INSTALL_DIR</text>
       </register>
       <register name="8" type="4">
-        <text>4</text>
+        <text>TMP_WORK_DIR</text>
       </register>
       <register name="9" type="4">
-        <text>2</text>
+        <text>$I</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
