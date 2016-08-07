@@ -239,11 +239,11 @@
         <mark key="^" line="21" column="20" />
         <mark key="." line="21" column="20" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/trfbig/tool_dependencies.xml" timestamp="1470530035947">
-        <mark key="[" line="41" column="28" />
-        <mark key="]" line="41" column="28" />
-        <mark key="." line="41" column="28" />
-        <mark key="^" line="32" column="45" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/trfbig/tool_dependencies.xml" timestamp="1470537111560">
+        <mark key="[" line="40" column="33" />
+        <mark key="]" line="40" column="44" />
+        <mark key="." line="40" column="44" />
+        <mark key="^" line="40" column="44" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/cloudlaunch-ui/tsconfig.json" timestamp="1467185448813">
         <mark key="[" line="2" column="17" />
@@ -353,7 +353,12 @@
         <mark key="^" line="71" column="20" />
         <mark key="." line="71" column="20" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/trfbig/trfBig.xml" timestamp="1470530049295" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/trfbig/trfBig.xml" timestamp="1470536857666">
+        <mark key="[" line="4" column="46" />
+        <mark key="]" line="4" column="47" />
+        <mark key="^" line="4" column="47" />
+        <mark key="." line="4" column="47" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/mendel_s_first_law/mendel_s_first_law.py" timestamp="1470500910721">
         <mark key="[" line="52" column="87" />
         <mark key="]" line="52" column="43" />
@@ -572,47 +577,47 @@
       <jump line="12" column="0" filename="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/counting_point_mutations/counting_point_mutations.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8IS0tIDxhY3Rpb24gdHlwZT0ic2hlbGxfY29tbWFuZCI+bXYgJFRNUF9XT1JLX0RJUi90cmY0MDdiLm1hY29zNjQgJElOU1RBTExfRElSL2Jpbi90cmY8L2FjdGlvbj4gLS0+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>INSTALL_DIR</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>INSTALL_DIR</text>
       </register>
       <register name="/" type="4">
         <text>arrayCall</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YWN0aW9uIHR5cGU9InNoZWxsX2NvbW1hbmQiPm12IHRyZjQwN2IubWFjb3M2NCB0cmY8L2FjdGlvbj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YWN0aW9uIHR5cGU9ImRvd25sb2FkX2JpbmFyeSIgdGFyZ2V0X2RpcmVjdG9yeT0iYmluIj4KICAgICAgICAgICAgICAgICAgICAgICAgPHVybF90ZW1wbGF0ZT5odHRwczovL3RhbmRlbS5idS5lZHUvdHJmL2Rvd25sb2Fkcy90cmY0MDdiLmxpbnV4NjQ8L3VybF90ZW1wbGF0ZT4KICAgICAgICAgICAgICAgICAgICA8L2FjdGlvbj4K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8IS0tIDxhY3Rpb24gdHlwZT0ic2hlbGxfY29tbWFuZCI+bXYgJFRNUF9XT1JLX0RJUi90cmY0MDdiLm1hY29zNjQgJElOU1RBTExfRElSL2Jpbi90cmY8L2FjdGlvbj4gLS0+Cg==</text>
+      <register name="1" type="4">
+        <text>INSTALL_DIR</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YWN0aW9uIHR5cGU9InNoZWxsX2NvbW1hbmQiPm12ICRUTVBfV09SS19ESVIvdHJmNDA3Yi5saW51eDY0ICRJTlNUQUxMX0RJUi9iaW4vdHJmPC9hY3Rpb24+Cg==</text>
+      <register name="2" type="4">
+        <text>TMP_WORK_DIR</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8IS0tIERvZXMgbm90IHdvcmsgb3IgbWlzdWVkCg==</text>
+      <register name="3" type="4">
+        <text>$I</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAtLQo=</text>
+      <register name="4" type="4">
+        <text>INSTALL_DIR</text>
       </register>
       <register name="5" type="4">
-        <text />
+        <text>INSTALL_DIR</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>INSTALL_DIR</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8IS0tIERvZXMgbm90IHdvcmsgb3IgbWlzdXNlZAo=</text>
+      <register name="7" type="4">
+        <text>INSTALL_DIR</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAtLT4K</text>
+      <register name="8" type="4">
+        <text>4</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8IS0tIERvZXMgbm90IHdvcmsgb3IgbWlzdWVkCg==</text>
+      <register name="9" type="4">
+        <text>2</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -663,13 +668,13 @@
         <entry encoding="base64">JzwsJz5x</entry>
         <entry>Q</entry>
         <entry>ww</entry>
-        <entry>q</entry>
         <entry>e</entry>
         <entry>d</entry>
         <entry>wq</entry>
         <entry>s</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>W</entry>
+        <entry encoding="base64">JzwsJz53</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
