@@ -186,10 +186,11 @@
         <mark key="^" line="39" column="5" />
         <mark key="." line="39" column="5" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_kickstart/utils/upload.py" timestamp="1470569461531">
-        <mark key="]" line="60" column="22" />
-        <mark key="." line="60" column="22" />
-        <mark key="^" line="60" column="22" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_kickstart/utils/upload.py" timestamp="1470570960642">
+        <mark key="[" line="69" column="93" />
+        <mark key="]" line="66" column="75" />
+        <mark key="^" line="66" column="75" />
+        <mark key="." line="66" column="75" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/blastXmlToPsl/tool_dependencies.xml" timestamp="1468533221446">
         <mark key="[" line="7" column="123" />
@@ -419,6 +420,7 @@
         <mark key="^" line="9" column="14" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_kickstart/config.ini" timestamp="1470570830129" />
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/test-data/add_datatype/datatypes_conf.xml" timestamp="1462563060424">
         <mark key="[" line="444" column="0" />
         <mark key="]" line="444" column="1" />
@@ -485,7 +487,7 @@
         <mark key="^" line="17" column="48" />
         <mark key="." line="17" column="48" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_kickstart/main.py" timestamp="1470567964918" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_kickstart/main.py" timestamp="1470570943677" />
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Track.py" timestamp="1464291588140">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
