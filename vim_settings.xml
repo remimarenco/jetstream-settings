@@ -186,11 +186,10 @@
         <mark key="^" line="39" column="5" />
         <mark key="." line="39" column="5" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_kickstart/utils/upload.py" timestamp="1470575764115">
-        <mark key="[" line="80" column="48" />
-        <mark key="]" line="50" column="58" />
-        <mark key="." line="50" column="58" />
-        <mark key="^" line="50" column="58" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_kickstart/utils/upload.py" timestamp="1470577201086">
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="93" column="0" />
+        <mark key="." line="93" column="0" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/blastXmlToPsl/tool_dependencies.xml" timestamp="1468533221446">
         <mark key="[" line="7" column="123" />
@@ -631,8 +630,8 @@
       <jump line="63" column="61" filename="$USER_HOME$/Google_Drive/Dev/galaxy_kickstart/utils/upload.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>gi.libraries.get_libraries()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>gi.libraries.get_libraries()</text>
@@ -643,35 +642,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQoInswfSBpcyBub3QgYSBjb21wcmVzc2VkIGZhc3RxIi5mb3JtYXQoZmlsZS5uYW1lKSkK</text>
       </register>
-      <register name="1" type="4">
-        <text>gi.libraries.get_libraries()</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>following</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCgiQURERUQ6IHswfSBpcyBhIGNvbXByZXNzZWQgZmFzdHEiLmZvcm1hdChmaWxlLm5hbWUpKQo=</text>
+        <text encoding="base64">ICAgICMgVE9ETzogQ2hlY2sgdGhlIGxpYnJhcnkgZG9lcyBhbHJlYWR5IGV4aXN0CiAgICAjIENyZWF0ZSB0aGUgbGlicmFyeSB3aXRoIHRoZSBuYW1lIGVxdWFsIHRvIHRoZSBmb2xkZXIgbmFtZQogICAgIyBhbmQgZGVzY3JpcHRpb24gJ0xpYnJhcnknICsgZm9sZGVyX25hbWUKICAgICIiIgoKICAgICMgVXBsb2FkIHRoZSBkYXRhIGluIHRoZSBsaWJyYXJ5IGp1c3QgY3JlYXRlZAogICAgYWxsX2Z1bGxfcGF0aF9zdHJpbmcgPSAnJwogICAgZm9yIGZpbGUgaW4gb3MubGlzdGRpcihwYXRoX3RvX2Zhc3RxX2ZvbGRlcl90ZXN0KToKICAgICAgICBmdWxsX3BhdGhfZmlsZSA9IG9zLnBhdGguam9pbihwYXRoX3RvX2Zhc3RxX2ZvbGRlcl90ZXN0LCBmaWxlKQogICAgICAgIGFsbF9mdWxsX3BhdGhfc3RyaW5nID0gJ1xuJy5qb2luKFthbGxfZnVsbF9wYXRoX3N0cmluZywgZnVsbF9wYXRoX2ZpbGVdKQoKICAgIGxpc3Rfb2ZfZmlsZXMgPSAnXG4nLmpvaW4ob3MucGF0aC5qb2luKG9zLmxpc3RkaXIocGF0aF90b19mYXN0cV9mb2xkZXJfdGVzdCkpKQogICAgdW5rbm93X3JldHVybiA9IGdpLmxpYnJhcmllcy51cGxvYWRfZnJvbV9nYWxheHlfZmlsZXN5c3RlbSgKICAgICAgICAgICAgbGlicmFyeV9pZD1kaWN0X2xpYnJhcnlfdGVzdC5nZXQoJ2lkJyksCiAgICAgICAgICAgIGZpbGVzeXN0ZW1fcGF0aHM9bGlzdF9vZl9maWxlcywKICAgICAgICAgICAgZmlsZV90eXBlPSdhdXRvJywKICAgICAgICAgICAgbGlua19kYXRhX29ubHk9J2xpbmtfdG9fZmlsZXMnLAogICAgICAgICAgICApCgogICAgcHJpbnQodW5rbm93X3JldHVybikKICAgICMgVE9ETzogQ2hlY2sgaWYgbm8gbmV3IGZpbGVzLCBlbHNlIHVwbG9hZCB0aGVtCiAgICAjIHByaW50KCJBbHJlYWR5IHRoZXJlISBTa2lwcGluZyB7MH0iLmZvcm1hdChuYW1lX2ZvbGRlcl90ZXN0KSkKICAgICIiIgogICAgI3ByaW50KGdpLmhpc3Rvcmllcy5nZXRfaGlzdG9yaWVzKCkpCg==</text>
       </register>
       <register name="4" type="4">
-        <text>not</text>
+        <text>gi.libraries.get_libraries()</text>
       </register>
       <register name="5" type="4">
-        <text>name</text>
+        <text>following</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIiIiOnR5cGUgOiBsaXN0W29zLkRpckVudHJ5XSIiIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCgiQURERUQ6IHswfSBpcyBhIGNvbXByZXNzZWQgZmFzdHEiLmZvcm1hdChmaWxlLm5hbWUpKQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWFqc2QgPSBvcy5zY2FuZGlyKCd0b3RvJykKCg==</text>
+      <register name="7" type="4">
+        <text>not</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIiIiOnR5cGUgOiBvcy5EaXJFbnRyeSIiIgo=</text>
+      <register name="8" type="4">
+        <text>name</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWFqc2QuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIiIiOnR5cGUgOiBsaXN0W29zLkRpckVudHJ5XSIiIgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
