@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="install_linux_binaries" type="Bash" />
       <mapping pattern="sample" type="PLAIN_TEXT" />
+      <mapping pattern="test_dna" type="PLAIN_TEXT" />
       <mapping pattern="test_input" type="PLAIN_TEXT" />
       <mapping ext="bb" type="PLAIN_TEXT" />
       <mapping ext="fastqsanger" type="PLAIN_TEXT" />

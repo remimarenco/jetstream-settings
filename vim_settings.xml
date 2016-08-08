@@ -21,40 +21,17 @@
         <mark key="^" line="8" column="30" />
         <mark key="." line="8" column="30" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/admin.py" timestamp="1467176787170">
-        <mark key="[" line="76" column="53" />
-        <mark key="]" line="76" column="68" />
-        <mark key="." line="76" column="68" />
-        <mark key="^" line="76" column="68" />
-      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/tests.py" timestamp="1467166171804">
         <mark key="[" line="184" column="37" />
         <mark key="]" line="184" column="37" />
         <mark key="." line="184" column="37" />
         <mark key="^" line="184" column="37" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/translating_rna_into_proteins/sample" timestamp="1470026430910">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="50" />
-        <mark key="." line="0" column="50" />
-        <mark key="^" line="0" column="50" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy-kickstart/utils/__init__.py" timestamp="1470555229374">
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_kickstart/upload_datasets_to_galaxy.py" timestamp="1470566182100">
         <mark key="[" line="16" column="6" />
         <mark key="]" line="16" column="23" />
         <mark key="." line="16" column="23" />
         <mark key="^" line="16" column="23" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/multi_fasta_glimmerhmm/.shed.yml" timestamp="1468635565225">
-        <mark key="[" line="5" column="22" />
-        <mark key="]" line="5" column="79" />
-        <mark key="^" line="5" column="79" />
-        <mark key="." line="5" column="79" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy-kickstart/utils/delete_all_libraries.py" timestamp="1470562323363">
         <mark key="'" line="18" column="7" />
@@ -75,11 +52,6 @@
         <mark key="^" line="43" column="31" />
         <mark key="." line="43" column="31" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/subtools.py" timestamp="1470357291824">
-        <mark key="[" line="139" column="0" />
-        <mark key="]" line="139" column="0" />
-        <mark key="." line="139" column="0" />
-      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/identifying_unknown_dna_quickly/translating_rna_into_proteins/sample" timestamp="1470022719122">
         <mark key="[" line="0" column="51" />
         <mark key="]" line="0" column="50" />
@@ -98,18 +70,6 @@
         <mark key="^" line="27" column="41" />
         <mark key="." line="27" column="41" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/cloudlaunch-ui/app/main.ts" timestamp="1467184377204">
-        <mark key="[" line="7" column="29" />
-        <mark key="]" line="7" column="53" />
-        <mark key="." line="7" column="53" />
-        <mark key="^" line="7" column="53" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubaDataType/huba.xml" timestamp="1463187667364">
-        <mark key="[" line="0" column="13" />
-        <mark key="]" line="0" column="25" />
-        <mark key="." line="0" column="25" />
-        <mark key="^" line="0" column="25" />
-      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy-kickstart/galaxy-kickstart.py" timestamp="1470562285383">
         <mark key="'" line="10" column="56" />
         <mark key="[" line="27" column="56" />
@@ -117,41 +77,11 @@
         <mark key="^" line="27" column="57" />
         <mark key="." line="27" column="56" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/translating_rna_into_proteins/translating_rna_into_protein.py" timestamp="1470067938751">
-        <mark key="[" line="7" column="7" />
-        <mark key="]" line="7" column="4" />
-        <mark key="^" line="7" column="4" />
-        <mark key="." line="7" column="4" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/Filters.py" timestamp="1470102709165">
-        <mark key="[" line="7" column="30" />
-        <mark key="]" line="8" column="15" />
-        <mark key="." line="8" column="15" />
-        <mark key="^" line="8" column="15" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/README.md" timestamp="1466777317948">
-        <mark key="[" line="21" column="81" />
-        <mark key="]" line="21" column="81" />
-        <mark key="^" line="16" column="66" />
-        <mark key="." line="21" column="81" />
-      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/.shed.yml" timestamp="1469095043053">
         <mark key="[" line="3" column="8" />
         <mark key="]" line="3" column="8" />
         <mark key="^" line="3" column="8" />
         <mark key="." line="3" column="8" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/identifying_unknown_dna_quickly/test_identifying_unknown_dna_quickly.py" timestamp="1469930552721">
-        <mark key="[" line="11" column="34" />
-        <mark key="]" line="11" column="34" />
-        <mark key="." line="11" column="34" />
-        <mark key="^" line="11" column="34" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy-kickstart/config.ini.sample" timestamp="1470421819097">
-        <mark key="[" line="2" column="16" />
-        <mark key="]" line="2" column="15" />
-        <mark key="." line="2" column="15" />
-        <mark key="^" line="2" column="15" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_kickstart/utils/delete.py" timestamp="1470575576178">
         <mark key="[" line="20" column="14" />
@@ -168,46 +98,16 @@
         <mark key="^" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/scripts/slideshow/style.css" timestamp="1462588576322">
-        <mark key="[" line="8" column="3" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/cloudlaunch-ui/app/components/public-appliances-maps.component.css" timestamp="1467175474795">
-        <mark key="[" line="1" column="15" />
-        <mark key="]" line="1" column="16" />
-        <mark key="^" line="1" column="16" />
-        <mark key="." line="1" column="16" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/multi_fasta_glimmer_hmm/muli_glimmer.sh" timestamp="1468633591832">
-        <mark key="[" line="37" column="31" />
-        <mark key="]" line="39" column="5" />
-        <mark key="^" line="39" column="5" />
-        <mark key="." line="39" column="5" />
-      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_kickstart/utils/upload.py" timestamp="1470577201086">
         <mark key="[" line="93" column="0" />
         <mark key="]" line="93" column="0" />
         <mark key="." line="93" column="0" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/blastXmlToPsl/tool_dependencies.xml" timestamp="1468533221446">
-        <mark key="[" line="7" column="123" />
-        <mark key="]" line="8" column="121" />
-        <mark key="." line="8" column="121" />
-        <mark key="^" line="8" column="121" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy-kickstart/__init__.py" timestamp="1470560404082">
         <mark key="[" line="1" column="5" />
         <mark key="]" line="1" column="4" />
         <mark key="." line="1" column="4" />
         <mark key="^" line="1" column="4" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/multi_fasta_glimmerhmm/multi_glimmer.py" timestamp="1468794899383">
-        <mark key="[" line="55" column="38" />
-        <mark key="]" line="56" column="91" />
-        <mark key="." line="56" column="91" />
-        <mark key="^" line="56" column="91" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/Fasta.py" timestamp="1469093351274">
         <mark key="[" line="11" column="24" />
@@ -221,41 +121,11 @@
         <mark key="." line="47" column="44" />
         <mark key="^" line="47" column="44" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_bjorn/scripts/communication/communication_server.py" timestamp="1466272456982">
-        <mark key="[" line="34" column="76" />
-        <mark key="]" line="35" column="17" />
-        <mark key="." line="35" column="17" />
-        <mark key="^" line="35" column="17" />
-      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/glimmer_hmm/glimmer_hmm.loc.sample" timestamp="1468529628200">
         <mark key="[" line="8" column="1" />
         <mark key="]" line="8" column="0" />
         <mark key="^" line="8" column="0" />
         <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/cloudlaunch-ui/app/components/public-appliances-maps.component.html" timestamp="1467187057521">
-        <mark key="[" line="23" column="88" />
-        <mark key="]" line="23" column="88" />
-        <mark key="." line="23" column="88" />
-        <mark key="^" line="23" column="88" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/multi_fasta_glimmer_hmm/test.sh" timestamp="1468633049104">
-        <mark key="[" line="26" column="10" />
-        <mark key="]" line="26" column="16" />
-        <mark key="^" line="26" column="16" />
-        <mark key="." line="26" column="16" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/pslToBed/tool_dependencies.xml" timestamp="1468533813040">
-        <mark key="[" line="11" column="54" />
-        <mark key="]" line="11" column="61" />
-        <mark key="." line="11" column="61" />
-        <mark key="^" line="11" column="61" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/sample" timestamp="1470068320059">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="1" />
-        <mark key="^" line="0" column="1" />
-        <mark key="." line="0" column="1" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/trfbig/.shed.yml" timestamp="1470541446267">
         <mark key="[" line="4" column="8" />
@@ -281,12 +151,6 @@
         <mark key="." line="2" column="26" />
         <mark key="^" line="2" column="26" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/identifying_unknown_dna_quickly/translating_rna_into_proteins/translating_rna_into_protein.py" timestamp="1470022823724">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/bamToBigwig/bam_to_bigwig.xml" timestamp="1468538210613">
         <mark key="[" line="3" column="48" />
         <mark key="]" line="3" column="49" />
@@ -302,12 +166,6 @@
       <file name="/Python Console" timestamp="1469930356390">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_kickstart/utils/delete_all_libraries.py" timestamp="1470566132037">
-        <mark key="[" line="6" column="6" />
-        <mark key="]" line="6" column="8" />
-        <mark key="." line="6" column="8" />
-        <mark key="^" line="6" column="8" />
-      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxyKickstart/upload_datasets_to_galaxy.py" timestamp="1470559408641">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -320,17 +178,262 @@
         <mark key="^" line="50" column="63" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/identifying_unknown_dna_quickly.py" timestamp="1469929878657">
-        <mark key="[" line="5" column="10" />
-        <mark key="]" line="5" column="10" />
-        <mark key="^" line="5" column="10" />
-        <mark key="." line="5" column="10" />
-      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/finding_a_motif_in_dna/test_input" timestamp="1470623135510">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="3" />
         <mark key="^" line="1" column="3" />
         <mark key="." line="1" column="3" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy-kickstart/config.py" timestamp="1470416995650">
+        <mark key="[" line="1" column="3" />
+        <mark key="]" line="2" column="9" />
+        <mark key="^" line="2" column="9" />
+        <mark key="." line="2" column="9" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/cloudlaunch-ui/app/components/public-appliances-maps.component.ts" timestamp="1467187068763">
+        <mark key="[" line="7" column="17" />
+        <mark key="]" line="7" column="20" />
+        <mark key="^" line="7" column="20" />
+        <mark key="." line="7" column="20" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/translating_rna_into_proteins/rosalind_prot_3.txt" timestamp="1470026965086">
+        <mark key="[" line="0" column="9523" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/locating_restriction_sites/rosalind_revp.txt" timestamp="1470686352018">
+        <mark key="[" line="0" column="60" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/locating_restriction_sites/locating_restriction_sites.py" timestamp="1470686732575">
+        <mark key="[" line="107" column="20" />
+        <mark key="]" line="107" column="20" />
+        <mark key="." line="107" column="20" />
+        <mark key="^" line="107" column="20" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/multi_fasta_glimmer_hmm/glimmerhmm.xml" timestamp="1468633456609">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="9" column="14" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/test-data/add_datatype/datatypes_conf.xml" timestamp="1462563060424">
+        <mark key="[" line="444" column="0" />
+        <mark key="]" line="444" column="1" />
+        <mark key="." line="444" column="1" />
+        <mark key="^" line="444" column="1" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/cloudlaunch-ui/app/models/public_service.ts" timestamp="1467180930125">
+        <mark key="[" line="10" column="2" />
+        <mark key="]" line="10" column="5" />
+        <mark key="." line="10" column="5" />
+        <mark key="^" line="10" column="5" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/bamToBigwig/tool_dependencies.xml" timestamp="1465426784513">
+        <mark key="[" line="6" column="42" />
+        <mark key="]" line="6" column="41" />
+        <mark key="." line="6" column="41" />
+        <mark key="^" line="6" column="41" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/mortal_fibonacci_rabbits/mortal_fibonacci_rabbits.py" timestamp="1470326747759">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="39" column="63" />
+        <mark key="^" line="39" column="63" />
+        <mark key="." line="39" column="63" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/__init__.py" timestamp="1470090333445">
+        <mark key="[" line="13" column="17" />
+        <mark key="]" line="14" column="16" />
+        <mark key="^" line="14" column="16" />
+        <mark key="." line="14" column="16" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy-kickstart/config.ini" timestamp="1470548338560">
+        <mark key="[" line="1" column="7" />
+        <mark key="]" line="2" column="41" />
+        <mark key="^" line="2" column="41" />
+        <mark key="." line="2" column="41" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" timestamp="1470097707147">
+        <mark key="[" line="231" column="24" />
+        <mark key="]" line="231" column="48" />
+        <mark key="." line="231" column="48" />
+        <mark key="^" line="231" column="48" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/regtools_junctions_extract/tool_dependencies.xml" timestamp="1469247796899">
+        <mark key="[" line="17" column="45" />
+        <mark key="]" line="17" column="48" />
+        <mark key="^" line="17" column="48" />
+        <mark key="." line="17" column="48" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_kickstart/main.py" timestamp="1470572982472">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="4" />
+        <mark key="." line="49" column="4" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/main.py" timestamp="1470679414479">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="6" column="28" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Gtf.py" timestamp="1470357858799">
+        <mark key="[" line="45" column="33" />
+        <mark key="]" line="45" column="52" />
+        <mark key="." line="45" column="52" />
+        <mark key="^" line="45" column="52" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/bedclip/bedclip.xml" timestamp="1469251254641">
+        <mark key="[" line="12" column="33" />
+        <mark key="]" line="12" column="34" />
+        <mark key="." line="12" column="34" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/admin.py" timestamp="1467176787170">
+        <mark key="[" line="76" column="53" />
+        <mark key="]" line="76" column="68" />
+        <mark key="." line="76" column="68" />
+        <mark key="^" line="76" column="68" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/translating_rna_into_proteins/sample" timestamp="1470026430910">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="50" />
+        <mark key="." line="0" column="50" />
+        <mark key="^" line="0" column="50" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/multi_fasta_glimmerhmm/.shed.yml" timestamp="1468635565225">
+        <mark key="[" line="5" column="22" />
+        <mark key="]" line="5" column="79" />
+        <mark key="^" line="5" column="79" />
+        <mark key="." line="5" column="79" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/subtools.py" timestamp="1470357291824">
+        <mark key="[" line="139" column="0" />
+        <mark key="]" line="139" column="0" />
+        <mark key="." line="139" column="0" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/cloudlaunch-ui/app/main.ts" timestamp="1467184377204">
+        <mark key="[" line="7" column="29" />
+        <mark key="]" line="7" column="53" />
+        <mark key="." line="7" column="53" />
+        <mark key="^" line="7" column="53" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/locating_restriction_sites/test_dna" timestamp="1470682852117">
+        <mark key="[" line="1" column="25" />
+        <mark key="]" line="1" column="24" />
+        <mark key="^" line="1" column="24" />
+        <mark key="." line="1" column="24" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubaDataType/huba.xml" timestamp="1463187667364">
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="0" column="25" />
+        <mark key="." line="0" column="25" />
+        <mark key="^" line="0" column="25" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/translating_rna_into_proteins/translating_rna_into_protein.py" timestamp="1470067938751">
+        <mark key="[" line="7" column="7" />
+        <mark key="]" line="7" column="4" />
+        <mark key="^" line="7" column="4" />
+        <mark key="." line="7" column="4" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/Filters.py" timestamp="1470102709165">
+        <mark key="[" line="7" column="30" />
+        <mark key="]" line="8" column="15" />
+        <mark key="." line="8" column="15" />
+        <mark key="^" line="8" column="15" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/README.md" timestamp="1466777317948">
+        <mark key="[" line="21" column="81" />
+        <mark key="]" line="21" column="81" />
+        <mark key="^" line="16" column="66" />
+        <mark key="." line="21" column="81" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/identifying_unknown_dna_quickly/test_identifying_unknown_dna_quickly.py" timestamp="1469930552721">
+        <mark key="[" line="11" column="34" />
+        <mark key="]" line="11" column="34" />
+        <mark key="." line="11" column="34" />
+        <mark key="^" line="11" column="34" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy-kickstart/config.ini.sample" timestamp="1470421819097">
+        <mark key="[" line="2" column="16" />
+        <mark key="]" line="2" column="15" />
+        <mark key="." line="2" column="15" />
+        <mark key="^" line="2" column="15" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/scripts/slideshow/style.css" timestamp="1462588576322">
+        <mark key="[" line="8" column="3" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/cloudlaunch-ui/app/components/public-appliances-maps.component.css" timestamp="1467175474795">
+        <mark key="[" line="1" column="15" />
+        <mark key="]" line="1" column="16" />
+        <mark key="^" line="1" column="16" />
+        <mark key="." line="1" column="16" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/multi_fasta_glimmer_hmm/muli_glimmer.sh" timestamp="1468633591832">
+        <mark key="[" line="37" column="31" />
+        <mark key="]" line="39" column="5" />
+        <mark key="^" line="39" column="5" />
+        <mark key="." line="39" column="5" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/blastXmlToPsl/tool_dependencies.xml" timestamp="1468533221446">
+        <mark key="[" line="7" column="123" />
+        <mark key="]" line="8" column="121" />
+        <mark key="." line="8" column="121" />
+        <mark key="^" line="8" column="121" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/multi_fasta_glimmerhmm/multi_glimmer.py" timestamp="1468794899383">
+        <mark key="[" line="55" column="38" />
+        <mark key="]" line="56" column="91" />
+        <mark key="." line="56" column="91" />
+        <mark key="^" line="56" column="91" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_bjorn/scripts/communication/communication_server.py" timestamp="1466272456982">
+        <mark key="[" line="34" column="76" />
+        <mark key="]" line="35" column="17" />
+        <mark key="." line="35" column="17" />
+        <mark key="^" line="35" column="17" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/cloudlaunch-ui/app/components/public-appliances-maps.component.html" timestamp="1467187057521">
+        <mark key="[" line="23" column="88" />
+        <mark key="]" line="23" column="88" />
+        <mark key="." line="23" column="88" />
+        <mark key="^" line="23" column="88" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/multi_fasta_glimmer_hmm/test.sh" timestamp="1468633049104">
+        <mark key="[" line="26" column="10" />
+        <mark key="]" line="26" column="16" />
+        <mark key="^" line="26" column="16" />
+        <mark key="." line="26" column="16" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/pslToBed/tool_dependencies.xml" timestamp="1468533813040">
+        <mark key="[" line="11" column="54" />
+        <mark key="]" line="11" column="61" />
+        <mark key="." line="11" column="61" />
+        <mark key="^" line="11" column="61" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/sample" timestamp="1470068320059">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="1" />
+        <mark key="^" line="0" column="1" />
+        <mark key="." line="0" column="1" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/identifying_unknown_dna_quickly/translating_rna_into_proteins/translating_rna_into_protein.py" timestamp="1470022823724">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_kickstart/utils/delete_all_libraries.py" timestamp="1470566132037">
+        <mark key="[" line="6" column="6" />
+        <mark key="]" line="6" column="8" />
+        <mark key="." line="6" column="8" />
+        <mark key="^" line="6" column="8" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/identifying_unknown_dna_quickly.py" timestamp="1469929878657">
+        <mark key="[" line="5" column="10" />
+        <mark key="]" line="5" column="10" />
+        <mark key="^" line="5" column="10" />
+        <mark key="." line="5" column="10" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/multi_fasta_glimmerhmm/glimmerhmm.xml" timestamp="1468792134997">
         <mark key="[" line="4" column="13" />
@@ -361,21 +464,6 @@
         <mark key="]" line="7" column="62" />
         <mark key="." line="7" column="62" />
         <mark key="^" line="7" column="62" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy-kickstart/config.py" timestamp="1470416995650">
-        <mark key="[" line="1" column="3" />
-        <mark key="]" line="2" column="9" />
-        <mark key="^" line="2" column="9" />
-        <mark key="." line="2" column="9" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/cloudlaunch-ui/app/components/public-appliances-maps.component.ts" timestamp="1467187068763">
-        <mark key="[" line="7" column="17" />
-        <mark key="]" line="7" column="20" />
-        <mark key="^" line="7" column="20" />
-        <mark key="." line="7" column="20" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/translating_rna_into_proteins/rosalind_prot_3.txt" timestamp="1470026965086">
-        <mark key="[" line="0" column="9523" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/display_applications/ucsc/trackHub.xml" timestamp="1466211928664">
         <mark key="[" line="3" column="104" />
@@ -417,58 +505,16 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/locating_restriction_sites/locating_restriction_sites.py" timestamp="1470680715315">
-        <mark key="[" line="31" column="7" />
-        <mark key="]" line="32" column="52" />
-        <mark key="^" line="32" column="52" />
-        <mark key="." line="32" column="52" />
-      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/mendel_s_first_law/mendel_s_first_law.py" timestamp="1470500910721">
         <mark key="[" line="52" column="87" />
         <mark key="]" line="52" column="43" />
         <mark key="^" line="52" column="43" />
         <mark key="." line="52" column="43" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/multi_fasta_glimmer_hmm/glimmerhmm.xml" timestamp="1468633456609">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="9" column="14" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/test-data/add_datatype/datatypes_conf.xml" timestamp="1462563060424">
-        <mark key="[" line="444" column="0" />
-        <mark key="]" line="444" column="1" />
-        <mark key="." line="444" column="1" />
-        <mark key="^" line="444" column="1" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/cloudlaunch-ui/app/models/public_service.ts" timestamp="1467180930125">
-        <mark key="[" line="10" column="2" />
-        <mark key="]" line="10" column="5" />
-        <mark key="." line="10" column="5" />
-        <mark key="^" line="10" column="5" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/bamToBigwig/tool_dependencies.xml" timestamp="1465426784513">
-        <mark key="[" line="6" column="42" />
-        <mark key="]" line="6" column="41" />
-        <mark key="." line="6" column="41" />
-        <mark key="^" line="6" column="41" />
-      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/utils/rna_codon_table.py" timestamp="1470069666232">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="23" />
         <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/mortal_fibonacci_rabbits/mortal_fibonacci_rabbits.py" timestamp="1470326747759">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="39" column="63" />
-        <mark key="^" line="39" column="63" />
-        <mark key="." line="39" column="63" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/__init__.py" timestamp="1470090333445">
-        <mark key="[" line="13" column="17" />
-        <mark key="]" line="14" column="16" />
-        <mark key="^" line="14" column="16" />
-        <mark key="." line="14" column="16" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy-kickstart/upload_datasets_to_galaxy.py" timestamp="1470562638205">
         <mark key="[" line="4" column="0" />
@@ -477,52 +523,17 @@
         <mark key="^" line="5" column="22" />
         <mark key="." line="5" column="22" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy-kickstart/config.ini" timestamp="1470548338560">
-        <mark key="[" line="1" column="7" />
-        <mark key="]" line="2" column="41" />
-        <mark key="^" line="2" column="41" />
-        <mark key="." line="2" column="41" />
-      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/regtools_junctions_extract/regtools_junctions_extract.xml" timestamp="1469216917978">
         <mark key="[" line="1" column="17" />
         <mark key="]" line="1" column="17" />
         <mark key="^" line="16" column="7" />
         <mark key="." line="16" column="7" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubArchiveCreator.py" timestamp="1470097707147">
-        <mark key="[" line="231" column="24" />
-        <mark key="]" line="231" column="48" />
-        <mark key="." line="231" column="48" />
-        <mark key="^" line="231" column="48" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/regtools_junctions_extract/tool_dependencies.xml" timestamp="1469247796899">
-        <mark key="[" line="17" column="45" />
-        <mark key="]" line="17" column="48" />
-        <mark key="^" line="17" column="48" />
-        <mark key="." line="17" column="48" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_kickstart/main.py" timestamp="1470572982472">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="4" />
-        <mark key="." line="49" column="4" />
-      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Track.py" timestamp="1464291588140">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="^" line="5" column="50" />
         <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/main.py" timestamp="1470679414479">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="6" column="28" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Gtf.py" timestamp="1470357858799">
-        <mark key="[" line="45" column="33" />
-        <mark key="]" line="45" column="52" />
-        <mark key="." line="45" column="52" />
-        <mark key="^" line="45" column="52" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/blastXmlToPsl/blastXmlToPsl.xml" timestamp="1468532745401">
         <mark key="[" line="17" column="24" />
@@ -543,14 +554,8 @@
         <mark key="^" line="1" column="8" />
         <mark key="." line="1" column="8" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/bedclip/bedclip.xml" timestamp="1469251254641">
-        <mark key="[" line="12" column="33" />
-        <mark key="]" line="12" column="34" />
-        <mark key="." line="12" column="34" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="47" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" />
       <jump line="696" column="22" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/serializers.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/serializers.py" />
       <jump line="417" column="33" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/serializers.py" />
@@ -650,66 +655,66 @@
       <jump line="14" column="21" filename="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/finding_a_motif_in_dna/finding_a_motif_in_dna.py" />
       <jump line="1" column="8" filename="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/finding_a_motif_in_dna/rosalind_subs.txt" />
       <jump line="0" column="0" filename="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/finding_a_motif_in_dna/rosalind_subs.txt" />
+      <jump line="103" column="15" filename="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/locating_restriction_sites/locating_restriction_sites.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>complemen</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">PlJvc2FsaW5kXzg4OTUK</text>
       </register>
       <register name="-" type="4">
-        <text>complemen</text>
+        <text>str</text>
       </register>
       <register name="/" type="4">
-        <text>AGTCGCAAG</text>
+        <text encoding="base64">XDxub3RcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQoInswfSBpcyBub3QgYSBjb21wcmVzc2VkIGZhc3RxIi5mb3JtYXQoZmlsZS5uYW1lKSkK</text>
       </register>
-      <register name="1" type="4">
-        <text>complemen</text>
+      <register name="1" type="2">
+        <text encoding="base64">PlJvc2FsaW5kXzg4OTUK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>u</text>
+        <text>str</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>e</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
+      <register name="4" type="4">
+        <text>l</text>
       </register>
       <register name="5" type="4">
-        <text>locating_restriction_sites</text>
+        <text>p</text>
       </register>
       <register name="6" type="4">
-        <text>locating</text>
+        <text>u</text>
       </register>
       <register name="7" type="4">
-        <text>finding_a_motif_in_dna</text>
+        <text>t</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBmaW5kaW5nX2FfbW90aWZfaW5fZG5hIGltcG9ydCBmaW5kaW5nX2FfbW90aWZfaW5fZG5hCg==</text>
+      <register name="8" type="4">
+        <text>_</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBpID09IDU1OgogICAgICAgICAgICBpbXBvcnQgcGRiOwogICAgICAgICAgICBwZGIuc2V0X3RyYWNlKCkK</text>
+      <register name="9" type="4">
+        <text>n</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>AGTCGCAAG</last-search>
+      <last-search encoding="base64">XDxub3RcPg==</last-search>
       <last-offset />
-      <last-pattern>AGTCGCAAG</last-pattern>
+      <last-pattern encoding="base64">XDxub3RcPg==</last-pattern>
       <last-replace>array_call</last-replace>
       <last-substitute>arrayCall</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpZlw+</entry>
         <entry>zip</entry>
         <entry>root</entry>
         <entry encoding="base64">XDxyZWxhdGl2ZV9maWxlX3BhdGhcPg==</entry>
@@ -729,6 +734,7 @@
         <entry>arrayCall</entry>
         <entry>delete</entry>
         <entry>AGTCGCAAG</entry>
+        <entry encoding="base64">XDxub3RcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>s/tool_list/toto/gc</entry>
@@ -747,8 +753,8 @@
         <entry>d</entry>
         <entry>wq</entry>
         <entry>s</entry>
-        <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>q</entry>
         <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
