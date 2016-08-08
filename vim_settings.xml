@@ -417,6 +417,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/locating_restriction_sites/locating_restriction_sites.py" timestamp="1470679679748">
+        <mark key="]" line="3" column="34" />
+        <mark key="^" line="3" column="34" />
+        <mark key="." line="3" column="34" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/mendel_s_first_law/mendel_s_first_law.py" timestamp="1470500910721">
         <mark key="[" line="52" column="87" />
         <mark key="]" line="52" column="43" />
@@ -506,11 +511,11 @@
         <mark key="^" line="5" column="50" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/main.py" timestamp="1470619288411">
-        <mark key="[" line="8" column="3" />
-        <mark key="]" line="8" column="24" />
-        <mark key="^" line="8" column="24" />
-        <mark key="." line="8" column="24" />
+      <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/main.py" timestamp="1470679414479">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="6" column="28" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Gtf.py" timestamp="1470357858799">
         <mark key="[" line="45" column="33" />
@@ -646,11 +651,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/finding_a_motif_in_dna/rosalind_subs.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBpID09IDU1OgogICAgICAgICAgICBpbXBvcnQgcGRiOwogICAgICAgICAgICBwZGIuc2V0X3RyYWNlKCkK</text>
+      <register name="&quot;" type="4">
+        <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>u</text>
       </register>
       <register name="/" type="4">
         <text>AGTCGCAAG</text>
@@ -658,35 +663,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQoInswfSBpcyBub3QgYSBjb21wcmVzc2VkIGZhc3RxIi5mb3JtYXQoZmlsZS5uYW1lKSkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBpID09IDU1OgogICAgICAgICAgICBpbXBvcnQgcGRiOwogICAgICAgICAgICBwZGIuc2V0X3RyYWNlKCkK</text>
+      <register name="1" type="4">
+        <text>u</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>)</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>os</text>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
       </register>
       <register name="4" type="4">
-        <text>==</text>
+        <text>locating_restriction_sites</text>
       </register>
       <register name="5" type="4">
-        <text>==</text>
+        <text>locating</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHN1YiA9IGFyZ3Muc3ViCg==</text>
+      <register name="6" type="4">
+        <text>finding_a_motif_in_dna</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJlZiA9IGFyZ3MucmVmCg==</text>
+        <text encoding="base64">ZnJvbSBmaW5kaW5nX2FfbW90aWZfaW5fZG5hIGltcG9ydCBmaW5kaW5nX2FfbW90aWZfaW5fZG5hCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgbGluZSBpbiBmOgo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBpID09IDU1OgogICAgICAgICAgICBpbXBvcnQgcGRiOwogICAgICAgICAgICBwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="9" type="4">
-        <text>ref</text>
+        <text>)</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
