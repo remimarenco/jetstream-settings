@@ -417,10 +417,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/locating_restriction_sites/locating_restriction_sites.py" timestamp="1470679679748">
-        <mark key="]" line="3" column="34" />
-        <mark key="^" line="3" column="34" />
-        <mark key="." line="3" column="34" />
+      <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/locating_restriction_sites/locating_restriction_sites.py" timestamp="1470680715315">
+        <mark key="[" line="31" column="7" />
+        <mark key="]" line="32" column="52" />
+        <mark key="^" line="32" column="52" />
+        <mark key="." line="32" column="52" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/mendel_s_first_law/mendel_s_first_law.py" timestamp="1470500910721">
         <mark key="[" line="52" column="87" />
@@ -652,10 +653,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>u</text>
+        <text>complemen</text>
       </register>
       <register name="-" type="4">
-        <text>u</text>
+        <text>complemen</text>
       </register>
       <register name="/" type="4">
         <text>AGTCGCAAG</text>
@@ -664,34 +665,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQoInswfSBpcyBub3QgYSBjb21wcmVzc2VkIGZhc3RxIi5mb3JtYXQoZmlsZS5uYW1lKSkK</text>
       </register>
       <register name="1" type="4">
-        <text>u</text>
+        <text>complemen</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>u</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">aW1wb3J0IHN5cwo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>locating_restriction_sites</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>locating</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>finding_a_motif_in_dna</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ZnJvbSBmaW5kaW5nX2FfbW90aWZfaW5fZG5hIGltcG9ydCBmaW5kaW5nX2FfbW90aWZfaW5fZG5hCg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBpZiBpID09IDU1OgogICAgICAgICAgICBpbXBvcnQgcGRiOwogICAgICAgICAgICBwZGIuc2V0X3RyYWNlKCkK</text>
-      </register>
-      <register name="9" type="4">
-        <text>)</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
