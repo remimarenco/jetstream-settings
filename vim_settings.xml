@@ -6,6 +6,11 @@
       <file name="/start_script.py" timestamp="1470564536195">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/hub_assembly/Gtf.py" timestamp="1470930092414">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubaDataType/datatypes_conf.xml" timestamp="1463190999499">
         <mark key="[" line="0" column="25" />
         <mark key="]" line="0" column="26" />
@@ -341,6 +346,13 @@
         <mark key="." line="0" column="25" />
         <mark key="^" line="0" column="25" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/hub_assembly/Gff3.py" timestamp="1470930074670">
+        <mark key="'" line="41" column="43" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="^" line="58" column="24" />
+        <mark key="." line="27" column="0" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/translating_rna_into_proteins/translating_rna_into_protein.py" timestamp="1470067938751">
         <mark key="[" line="7" column="7" />
         <mark key="]" line="7" column="4" />
@@ -583,7 +595,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="26" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/serializers.py" />
       <jump line="9" column="14" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" />
       <jump line="10" column="32" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" />
       <jump line="312" column="33" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" />
@@ -683,49 +694,50 @@
       <jump line="1" column="13" filename="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/consensus_and_profile/consensus_and_profile.py" />
       <jump line="72" column="0" filename="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/consensus_and_profile/consensus_and_profile.py" />
       <jump line="43" column="12" filename="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/calculating_expected_offspring/calculating_expected_offspring.py" />
+      <jump line="45" column="43" filename="$USER_HOME$/Google_Drive/Dev/hub_assembly/Gff3.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>replace(' ', '')</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>replace(' ', '')</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwwXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8cmVxdWlyZW1lbnQgdHlwZT0icGFja2FnZSIgdmVyc2lvbj0iMzI0Ij51Y3NjLWdlbmVwcmVkdG9iZWQ8L3JlcXVpcmVtZW50Pgo=</text>
+        <text encoding="base64">ICAgICAgICBhdXRvX3NxbF9vcHRpb24gPSAiJXMlcyIgJSAoJy1hcz0nLCBvcy5wYXRoLmpvaW4oc2VsZi50b29sX2RpcmVjdG9yeSwgJ2JpZ0dlbmVQcmVkLmFzJykpCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>replace(' ', '')</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBwZGI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIHN1YnRvb2xzLmdlbmVQcmVkVG9CZWQoZ2VuZVByZWRGaWxlLm5hbWUsIHVuc29ydGVkQmVkRmlsZS5uYW1lKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">ICAgICAgICAjICBnZW5lUHJlZFRvQmVkIHByb2Nlc3NpbmcK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiOwo=</text>
+        <text encoding="base64">ICAgICAgICAjIFRPRE86IENoYW5nZSB0aGUgbmFtZSBvZiB0aGUgYmIsIHRvIHRvb2wgKyBnZW5vbWUgKyBwb3NzaWJsZSBhZGRpbmcgaWYgbXVsdGlwbGUgKyAgLmJiCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIFRPRE86IFJlZmFjdG9yIGludG8gYW5vdGhlciBDbGFzcyB0byBtYW5hZ2UgdGhlIHR3b0JpdEluZm8gYW5kIENocm9tU2l6ZXMgKHNhbWUgcHJvY2VzcyBhcyBpbiBHdGYucHkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxpc3RfaW5kaWNhdG9yX3JhbmRvbV92YXJpYWJsZSA9ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAjIFRPRE86IENoYW5nZSB0aGUgbmFtZSBvZiB0aGUgYmIsIHRvIHRvb2wgKyBnZW5vbWUgKyBwb3NzaWJsZSBhZGRpbmcgaWYgbXVsdGlwbGUgKyAgLmJiCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>e</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAjIFRPRE86IFNPUlQgT04gVEhFIEJJR0VORVBSRUQgTk9XCg==</text>
       </register>
       <register name="9" type="4">
-        <text>list_dominant_percentag</text>
+        <text>-</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
