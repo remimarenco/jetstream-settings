@@ -3,23 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/start_script.py" timestamp="1470564536195">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/hub_assembly/Gtf.py" timestamp="1470934611046">
-        <mark key="[" line="52" column="45" />
-        <mark key="]" line="52" column="50" />
-        <mark key="." line="52" column="50" />
-        <mark key="^" line="52" column="50" />
+      <file name="$USER_HOME$/Google_Drive/Dev/hub_assembly/Gtf.py" timestamp="1470935320311">
+        <mark key="[" line="43" column="40" />
+        <mark key="]" line="43" column="76" />
+        <mark key="." line="43" column="76" />
+        <mark key="^" line="43" column="76" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubaDataType/datatypes_conf.xml" timestamp="1463190999499">
         <mark key="[" line="0" column="25" />
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="26" />
         <mark key="^" line="0" column="24" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/translating_rna_into_proteins/rosalind_prot.txt" timestamp="1470025922480">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/glimmer_hmm/glimmerHMM/glimmerhmm_predict.xml" timestamp="1468621396991">
         <mark key="[" line="6" column="29" />
@@ -89,9 +83,6 @@
         <mark key="^" line="3" column="8" />
         <mark key="." line="3" column="8" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_kickstart/utils/delete.py" timestamp="1470575576178">
-        <mark key="[" line="20" column="14" />
-      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/datatypes/hubAssembly.py" timestamp="1463236422489">
         <mark key="[" line="25" column="16" />
         <mark key="]" line="25" column="23" />
@@ -132,6 +123,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="^" line="8" column="0" />
         <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/hub_assembly/Bed.py" timestamp="1470936095088">
+        <mark key="[" line="35" column="58" />
+        <mark key="]" line="37" column="32" />
+        <mark key="^" line="37" column="32" />
+        <mark key="." line="37" column="32" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/trfbig/.shed.yml" timestamp="1470541446267">
         <mark key="[" line="4" column="8" />
@@ -176,9 +173,6 @@
         <mark key="." line="2" column="50" />
         <mark key="^" line="2" column="40" />
       </file>
-      <file name="/Python Console" timestamp="1469930356390">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxyKickstart/upload_datasets_to_galaxy.py" timestamp="1470559408641">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -215,13 +209,16 @@
         <mark key="^" line="7" column="20" />
         <mark key="." line="7" column="20" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/translating_rna_into_proteins/rosalind_prot_3.txt" timestamp="1470026965086">
-        <mark key="[" line="0" column="9523" />
-      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/locating_restriction_sites/rosalind_revp.txt" timestamp="1470686352018">
         <mark key="[" line="0" column="60" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/hub_assembly/BedSimpleRepeats.py" timestamp="1470936132429">
+        <mark key="[" line="30" column="26" />
+        <mark key="]" line="30" column="81" />
+        <mark key="^" line="30" column="81" />
+        <mark key="." line="30" column="81" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/locating_restriction_sites/locating_restriction_sites.py" timestamp="1470686732575">
         <mark key="[" line="107" column="20" />
@@ -348,12 +345,18 @@
         <mark key="." line="0" column="25" />
         <mark key="^" line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/hub_assembly/Gff3.py" timestamp="1470934618500">
+      <file name="$USER_HOME$/Google_Drive/Dev/hub_assembly/BigWig.py" timestamp="1470936219324">
+        <mark key="[" line="31" column="54" />
+        <mark key="]" line="32" column="24" />
+        <mark key="^" line="32" column="24" />
+        <mark key="." line="32" column="24" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/hub_assembly/Gff3.py" timestamp="1470935535384">
         <mark key="'" line="41" column="43" />
-        <mark key="[" line="50" column="45" />
-        <mark key="]" line="50" column="50" />
-        <mark key="^" line="50" column="50" />
-        <mark key="." line="50" column="50" />
+        <mark key="[" line="41" column="26" />
+        <mark key="]" line="41" column="25" />
+        <mark key="^" line="41" column="25" />
+        <mark key="." line="41" column="25" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/translating_rna_into_proteins/translating_rna_into_protein.py" timestamp="1470067938751">
         <mark key="[" line="7" column="7" />
@@ -445,11 +448,11 @@
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/hub_assembly/util/subtools.py" timestamp="1470934693017">
-        <mark key="[" line="198" column="26" />
-        <mark key="]" line="197" column="8" />
-        <mark key="^" line="197" column="8" />
-        <mark key="." line="197" column="8" />
+      <file name="$USER_HOME$/Google_Drive/Dev/hub_assembly/util/subtools.py" timestamp="1470936075044">
+        <mark key="[" line="197" column="40" />
+        <mark key="]" line="197" column="49" />
+        <mark key="^" line="197" column="49" />
+        <mark key="." line="197" column="49" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/identifying_unknown_dna_quickly/translating_rna_into_proteins/translating_rna_into_protein.py" timestamp="1470022823724">
         <mark key="[" line="4" column="0" />
@@ -705,11 +708,11 @@
       <jump line="45" column="43" filename="$USER_HOME$/Google_Drive/Dev/hub_assembly/Gff3.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>&quot;%</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>&quot;%</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwwXD4=</text>
@@ -717,35 +720,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhdXRvX3NxbF9vcHRpb24gPSAiJXMlcyIgJSAoJy1hcz0nLCBvcy5wYXRoLmpvaW4oc2VsZi50b29sX2RpcmVjdG9yeSwgJ2JpZ0dlbmVQcmVkLmFzJykpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>&quot;%</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIHN1YnRvb2xzLmdlbmVQcmVkVG9CZWQoZ2VuZVByZWRGaWxlLm5hbWUsIHVuc29ydGVkQmVkRmlsZS5uYW1lKQo=</text>
+      <register name="2" type="4">
+        <text>autoSql</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjICBnZW5lUHJlZFRvQmVkIHByb2Nlc3NpbmcK</text>
+      <register name="3" type="4">
+        <text>autoSql])</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IENoYW5nZSB0aGUgbmFtZSBvZiB0aGUgYmIsIHRvIHRvb2wgKyBnZW5vbWUgKyBwb3NzaWJsZSBhZGRpbmcgaWYgbXVsdGlwbGUgKyAgLmJiCg==</text>
+      <register name="4" type="4">
+        <text>'-</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IFJlZmFjdG9yIGludG8gYW5vdGhlciBDbGFzcyB0byBtYW5hZ2UgdGhlIHR3b0JpdEluZm8gYW5kIENocm9tU2l6ZXMgKHNhbWUgcHJvY2VzcyBhcyBpbiBHdGYucHkpCg==</text>
+      <register name="6" type="4">
+        <text>e</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IENoYW5nZSB0aGUgbmFtZSBvZiB0aGUgYmIsIHRvIHRvb2wgKyBnZW5vbWUgKyBwb3NzaWJsZSBhZGRpbmcgaWYgbXVsdGlwbGUgKyAgLmJiCg==</text>
+      <register name="7" type="4">
+        <text>p</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IFNPUlQgT04gVEhFIEJJR0VORVBSRUQgTk9XCg==</text>
+      <register name="8" type="4">
+        <text>y</text>
       </register>
       <register name="9" type="4">
-        <text>-</text>
+        <text>t</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
