@@ -139,6 +139,9 @@
         <mark key="^" line="21" column="20" />
         <mark key="." line="21" column="20" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/calculating_expected_offspring/calculating_expected_offspring.py" timestamp="1470886232912">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/trfbig/tool_dependencies.xml" timestamp="1470539023859">
         <mark key="[" line="40" column="33" />
         <mark key="]" line="40" column="44" />
@@ -310,10 +313,11 @@
         <mark key="^" line="5" column="79" />
         <mark key="." line="5" column="79" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/subtools.py" timestamp="1470763829840">
-        <mark key="[" line="126" column="0" />
-        <mark key="]" line="149" column="0" />
-        <mark key="." line="149" column="0" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/subtools.py" timestamp="1470766067550">
+        <mark key="[" line="195" column="0" />
+        <mark key="]" line="195" column="0" />
+        <mark key="^" line="201" column="30" />
+        <mark key="." line="195" column="0" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/cloudlaunch-ui/app/main.ts" timestamp="1467184377204">
         <mark key="[" line="7" column="29" />
@@ -477,11 +481,11 @@
         <mark key="." line="3" column="103" />
         <mark key="^" line="3" column="103" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Gff3.py" timestamp="1470764795600">
-        <mark key="[" line="33" column="93" />
-        <mark key="]" line="37" column="80" />
-        <mark key="^" line="37" column="80" />
-        <mark key="." line="37" column="80" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Gff3.py" timestamp="1470766087406">
+        <mark key="[" line="54" column="59" />
+        <mark key="]" line="55" column="40" />
+        <mark key="^" line="55" column="40" />
+        <mark key="." line="55" column="40" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/hubaDataType/trackhub.xml" timestamp="1463192344261">
         <mark key="[" line="3" column="0" />
@@ -529,13 +533,6 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="23" />
         <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy-kickstart/upload_datasets_to_galaxy.py" timestamp="1470562638205">
-        <mark key="[" line="4" column="0" />
-        <mark key="m" line="27" column="4" />
-        <mark key="]" line="5" column="22" />
-        <mark key="^" line="5" column="22" />
-        <mark key="." line="5" column="22" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/consensus_and_profile/test_consensus" timestamp="1470755595813">
         <mark key="'" line="13" column="8" />
@@ -678,11 +675,11 @@
       <jump line="72" column="0" filename="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/consensus_and_profile/consensus_and_profile.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>genepredtobed</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>genepredtobed</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxub3RcPg==</text>
@@ -690,35 +687,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8cmVxdWlyZW1lbnQgdHlwZT0icGFja2FnZSIgdmVyc2lvbj0iMzI0Ij51Y3NjLWdlbmVwcmVkdG9iZWQ8L3JlcXVpcmVtZW50Pgo=</text>
       </register>
-      <register name="1" type="4">
-        <text>genepredtobed</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="3" type="4">
-        <text>sorted_genePred_file</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjc3VidG9vbHMuZ2VuZVByZWRUb0JlZChnZW5lUHJlZEZpbGUubmFtZSwgdW5zb3J0ZWRCZWRGaWxlLm5hbWUpCg==</text>
+      <register name="3" type="4">
+        <text>d</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIGdlbmVQcmVkVG9CZWQgcHJvY2Vzc2luZwo=</text>
+      <register name="4" type="4">
+        <text>e</text>
+      </register>
+      <register name="5" type="4">
+        <text>B</text>
+      </register>
+      <register name="6" type="4">
+        <text>g</text>
       </register>
       <register name="7" type="4">
-        <text>unsorted_genePred_file</text>
+        <text>i</text>
       </register>
       <register name="8" type="4">
-        <text>unsorted_genePred_file</text>
+        <text>B</text>
       </register>
       <register name="9" type="4">
-        <text>sorted_genePred_file</text>
+        <text>genepredtobed</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
