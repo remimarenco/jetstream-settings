@@ -139,11 +139,11 @@
         <mark key="^" line="21" column="20" />
         <mark key="." line="21" column="20" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/calculating_expected_offspring/calculating_expected_offspring.py" timestamp="1470891777742">
-        <mark key="[" line="7" column="44" />
-        <mark key="]" line="7" column="43" />
-        <mark key="." line="7" column="43" />
-        <mark key="^" line="7" column="43" />
+      <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/calculating_expected_offspring/calculating_expected_offspring.py" timestamp="1470893594995">
+        <mark key="[" line="40" column="9" />
+        <mark key="]" line="41" column="6" />
+        <mark key="^" line="41" column="6" />
+        <mark key="." line="41" column="6" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/trfbig/tool_dependencies.xml" timestamp="1470539023859">
         <mark key="[" line="40" column="33" />
@@ -281,11 +281,11 @@
         <mark key="]" line="49" column="4" />
         <mark key="." line="49" column="4" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/main.py" timestamp="1470755613427">
+      <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/main.py" timestamp="1470892825007">
         <mark key="[" line="6" column="3" />
-        <mark key="]" line="6" column="23" />
-        <mark key="^" line="6" column="23" />
-        <mark key="." line="6" column="23" />
+        <mark key="]" line="6" column="32" />
+        <mark key="^" line="6" column="32" />
+        <mark key="." line="6" column="32" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Gtf.py" timestamp="1470357858799">
         <mark key="[" line="45" column="33" />
@@ -678,11 +678,11 @@
       <jump line="72" column="0" filename="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/consensus_and_profile/consensus_and_profile.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1 dominant-1 recessive 25%, 2 dominant 50%</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHNhbml0aXplZF9saXN0X3BvcHVsYXRpb24K</text>
       </register>
       <register name="-" type="4">
-        <text>1 dominant-1 recessive 25%, 2 dominant 50%</text>
+        <text>consensus_and_profile</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxub3RcPg==</text>
@@ -690,32 +690,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8cmVxdWlyZW1lbnQgdHlwZT0icGFja2FnZSIgdmVyc2lvbj0iMzI0Ij51Y3NjLWdlbmVwcmVkdG9iZWQ8L3JlcXVpcmVtZW50Pgo=</text>
       </register>
-      <register name="1" type="4">
-        <text>1 dominant-1 recessive 25%, 2 dominant 50%</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHNhbml0aXplZF9saXN0X3BvcHVsYXRpb24K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>consensus_and_profile</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBjb25zZW5zdXNfYW5kX3Byb2ZpbGUgaW1wb3J0IGNvbnNlbnN1c19hbmRfcHJvZmlsZQo=</text>
       </register>
       <register name="4" type="4">
-        <text>d</text>
+        <text>1 dominant-1 recessive 25%, 2 dominant 50%</text>
       </register>
-      <register name="5" type="4">
-        <text>e</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>B</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>g</text>
+        <text>d</text>
       </register>
       <register name="8" type="4">
-        <text>i</text>
+        <text>e</text>
       </register>
       <register name="9" type="4">
         <text>B</text>
