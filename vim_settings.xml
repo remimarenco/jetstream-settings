@@ -139,8 +139,11 @@
         <mark key="^" line="21" column="20" />
         <mark key="." line="21" column="20" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/calculating_expected_offspring/calculating_expected_offspring.py" timestamp="1470886232912">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/calculating_expected_offspring/calculating_expected_offspring.py" timestamp="1470891777742">
+        <mark key="[" line="7" column="44" />
+        <mark key="]" line="7" column="43" />
+        <mark key="." line="7" column="43" />
+        <mark key="^" line="7" column="43" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/trfbig/tool_dependencies.xml" timestamp="1470539023859">
         <mark key="[" line="40" column="33" />
@@ -675,11 +678,11 @@
       <jump line="72" column="0" filename="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/consensus_and_profile/consensus_and_profile.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>1 dominant-1 recessive 25%, 2 dominant 50%</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>1 dominant-1 recessive 25%, 2 dominant 50%</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxub3RcPg==</text>
@@ -687,8 +690,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8cmVxdWlyZW1lbnQgdHlwZT0icGFja2FnZSIgdmVyc2lvbj0iMzI0Ij51Y3NjLWdlbmVwcmVkdG9iZWQ8L3JlcXVpcmVtZW50Pgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>1 dominant-1 recessive 25%, 2 dominant 50%</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -696,26 +699,26 @@
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>d</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="4">
-        <text>e</text>
+        <text>d</text>
       </register>
       <register name="5" type="4">
-        <text>B</text>
+        <text>e</text>
       </register>
       <register name="6" type="4">
-        <text>g</text>
-      </register>
-      <register name="7" type="4">
-        <text>i</text>
-      </register>
-      <register name="8" type="4">
         <text>B</text>
       </register>
+      <register name="7" type="4">
+        <text>g</text>
+      </register>
+      <register name="8" type="4">
+        <text>i</text>
+      </register>
       <register name="9" type="4">
-        <text>genepredtobed</text>
+        <text>B</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
