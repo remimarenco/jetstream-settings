@@ -5,6 +5,7 @@
       <mapping pattern="install_linux_binaries" type="Bash" />
       <mapping pattern="sample" type="PLAIN_TEXT" />
       <mapping pattern="test_dna" type="PLAIN_TEXT" />
+      <mapping pattern="test_protein_mass" type="PLAIN_TEXT" />
       <mapping pattern="test_consensus" type="PLAIN_TEXT" />
       <mapping pattern="test_population" type="PLAIN_TEXT" />
       <mapping pattern="test_input" type="PLAIN_TEXT" />

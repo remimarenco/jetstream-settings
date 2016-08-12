@@ -81,11 +81,6 @@
         <mark key="^" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_kickstart/utils/upload.py" timestamp="1470577201086">
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="93" column="0" />
-        <mark key="." line="93" column="0" />
-      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy-kickstart/__init__.py" timestamp="1470560404082">
         <mark key="[" line="1" column="5" />
         <mark key="]" line="1" column="4" />
@@ -159,11 +154,6 @@
         <mark key="." line="2" column="50" />
         <mark key="^" line="2" column="40" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxyKickstart/upload_datasets_to_galaxy.py" timestamp="1470559408641">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/finding_a_motif_in_dna/test_input" timestamp="1470623135510">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="3" />
@@ -193,11 +183,6 @@
         <mark key="]" line="98" column="74" />
         <mark key="^" line="98" column="74" />
         <mark key="." line="98" column="74" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/locating_restriction_sites/rosalind_revp.txt" timestamp="1470686352018">
-        <mark key="[" line="0" column="60" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/hub_assembly/BedSimpleRepeats.py" timestamp="1470953470349">
         <mark key="[" line="30" column="26" />
@@ -271,27 +256,17 @@
         <mark key="^" line="17" column="48" />
         <mark key="." line="17" column="48" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_kickstart/main.py" timestamp="1470572982472">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="4" />
-        <mark key="." line="49" column="4" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/main.py" timestamp="1470892825007">
+      <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/main.py" timestamp="1470971272791">
         <mark key="[" line="6" column="3" />
-        <mark key="]" line="6" column="32" />
-        <mark key="^" line="6" column="32" />
-        <mark key="." line="6" column="32" />
+        <mark key="]" line="6" column="26" />
+        <mark key="^" line="6" column="26" />
+        <mark key="." line="6" column="26" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Gtf.py" timestamp="1470357858799">
         <mark key="[" line="45" column="33" />
         <mark key="]" line="45" column="52" />
         <mark key="." line="45" column="52" />
         <mark key="^" line="45" column="52" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/bedclip/bedclip.xml" timestamp="1469251254641">
-        <mark key="[" line="12" column="33" />
-        <mark key="]" line="12" column="34" />
-        <mark key="." line="12" column="34" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/admin.py" timestamp="1467176787170">
         <mark key="[" line="76" column="53" />
@@ -542,26 +517,18 @@
         <mark key="^" line="71" column="20" />
         <mark key="." line="71" column="20" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/trfbig/trfBig.xml" timestamp="1470540398788">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_kickstart/__init__.py" timestamp="1470565274292">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/mendel_s_first_law/mendel_s_first_law.py" timestamp="1470500910721">
         <mark key="[" line="52" column="87" />
         <mark key="]" line="52" column="43" />
         <mark key="^" line="52" column="43" />
         <mark key="." line="52" column="43" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/utils/rna_codon_table.py" timestamp="1470069666232">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="23" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/calculating_protein_mass/calculating_protein_mass.py" timestamp="1470972354600">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="37" column="40" />
+        <mark key="]" line="44" column="24" />
+        <mark key="." line="44" column="24" />
+        <mark key="^" line="44" column="24" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/consensus_and_profile/test_consensus" timestamp="1470755595813">
         <mark key="'" line="13" column="8" />
@@ -595,7 +562,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="14" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" />
       <jump line="10" column="32" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" />
       <jump line="312" column="33" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" />
       <jump line="207" column="27" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" />
@@ -695,13 +661,14 @@
       <jump line="72" column="0" filename="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/consensus_and_profile/consensus_and_profile.py" />
       <jump line="43" column="12" filename="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/calculating_expected_offspring/calculating_expected_offspring.py" />
       <jump line="45" column="43" filename="$USER_HOME$/Google_Drive/Dev/hub_assembly/Gff3.py" />
+      <jump line="43" column="0" filename="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/calculating_protein_mass/calculating_protein_mass.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>genePredToBed</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICMgQnVpbGQgdGhlIG1vbm9pc290b3BpYyBtYXNzIHRhYmxkZGUK</text>
       </register>
       <register name="-" type="4">
-        <text>genePredToBed</text>
+        <text>calculating_expected_offspring</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwwXD4=</text>
@@ -709,23 +676,23 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8cmVxdWlyZW1lbnQgdHlwZT0icGFja2FnZSIgdmVyc2lvbj0iMC4wLjEiPmdlbmVQcmVkVG9CZWQ8L3JlcXVpcmVtZW50Pgo=</text>
       </register>
-      <register name="1" type="4">
-        <text>genePredToBed</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICMgQnVpbGQgdGhlIG1vbm9pc290b3BpYyBtYXNzIHRhYmxkZGUK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>genePredToBed</text>
+        <text>calculating_expected_offspring</text>
       </register>
       <register name="3" type="4">
-        <text>genePredToBed</text>
+        <text>calculating_expected_offspring</text>
       </register>
       <register name="4" type="4">
-        <text>Bed</text>
+        <text>m calculating_protein_mass import c</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="5" type="4">
+        <text>m c</text>
       </register>
       <register name="6" type="4">
         <text>genePredToBed</text>
@@ -733,11 +700,11 @@
       <register name="7" type="4">
         <text>genePredToBed</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>genePredToBed</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIDwhLS0gUGFja2FnZSBndGZUb0dlbmVQcmVkIC0tPgogICAgPHBhY2thZ2UgbmFtZT0iZ3RmVG9HZW5lUHJlZCIgdmVyc2lvbj0iMC4wLjEiPgogICAgICAgIDxpbnN0YWxsIHZlcnNpb249IjEuMCI+CiAgICAgICAgICAgIDxhY3Rpb25zPgogICAgICAgICAgICAgICAgPGFjdGlvbiB0eXBlPSJkb3dubG9hZF9iaW5hcnkiIHRhcmdldF9kaXJlY3Rvcnk9ImJpbiI+CiAgICAgICAgICAgICAgICAgICAgPHVybF90ZW1wbGF0ZSBvcz0iZGFyd2luIj4KICAgICAgICAgICAgICAgICAgICAgICAgaHR0cDovL2hnZG93bmxvYWQuY3NlLnVjc2MuZWR1L2FkbWluL2V4ZS9tYWNPU1guJHthcmNoaXRlY3R1cmV9L2d0ZlRvR2VuZVByZWQKICAgICAgICAgICAgICAgICAgICA8L3VybF90ZW1wbGF0ZT4KICAgICAgICAgICAgICAgICAgICA8dXJsX3RlbXBsYXRlIG9zPSJsaW51eCI+CiAgICAgICAgICAgICAgICAgICAgICAgIGh0dHA6Ly9oZ2Rvd25sb2FkLmNzZS51Y3NjLmVkdS9hZG1pbi9leGUvbGludXguJHthcmNoaXRlY3R1cmV9L2d0ZlRvR2VuZVByZWQKICAgICAgICAgICAgICAgICAgICA8L3VybF90ZW1wbGF0ZT4KICAgICAgICAgICAgICAgIDwvYWN0aW9uPgogICAgICAgICAgICAgICAgPGFjdGlvbiB0eXBlPSJjaG1vZCI+CiAgICAgICAgICAgICAgICAgICAgPGZpbGUgbW9kZT0iNzUwIj4kSU5TVEFMTF9ESVIvYmluL2d0ZlRvR2VuZVByZWQ8L2ZpbGU+CiAgICAgICAgICAgICAgICA8L2FjdGlvbj4KICAgICAgICAgICAgICAgIDxhY3Rpb24gdHlwZT0ic2V0X2Vudmlyb25tZW50Ij4KICAgICAgICAgICAgICAgICAgICA8ZW52aXJvbm1lbnRfdmFyaWFibGUgbmFtZT0iUEFUSCIgYWN0aW9uPSJwcmVwZW5kX3RvIj4kSU5TVEFMTF9ESVIvYmluPC9lbnZpcm9ubWVudF92YXJpYWJsZT4KICAgICAgICAgICAgICAgIDwvYWN0aW9uPgogICAgICAgICAgICA8L2FjdGlvbnM+CiAgICAgICAgPC9pbnN0YWxsPgogICAgICAgIDxyZWFkbWU+VGhlIHRvb2xzIGRvd25sb2FkZWQgYnkgdGhpcyBkZXBlbmRlbmN5IGRlZmluaXRpb24gYXJlIGZyZWUgZm9yIGFjYWRlbWljIHVzZS48L3JlYWRtZT4KICAgIDwvcGFja2FnZT4K</text>
+      <register name="9" type="4">
+        <text>Bed</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
