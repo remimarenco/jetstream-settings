@@ -33,13 +33,6 @@
         <mark key="." line="16" column="23" />
         <mark key="^" line="16" column="23" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy-kickstart/utils/delete_all_libraries.py" timestamp="1470562323363">
-        <mark key="'" line="18" column="7" />
-        <mark key="[" line="11" column="9" />
-        <mark key="]" line="11" column="20" />
-        <mark key="." line="11" column="20" />
-        <mark key="^" line="11" column="20" />
-      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy-kickstart/bioblend_lib/galaxy/libraries/__init__.py" timestamp="1470545799889">
         <mark key="[" line="53" column="49" />
         <mark key="]" line="53" column="62" />
@@ -69,13 +62,6 @@
         <mark key="]" line="27" column="41" />
         <mark key="^" line="27" column="41" />
         <mark key="." line="27" column="41" />
-      </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy-kickstart/galaxy-kickstart.py" timestamp="1470562285383">
-        <mark key="'" line="10" column="56" />
-        <mark key="[" line="27" column="56" />
-        <mark key="]" line="27" column="56" />
-        <mark key="^" line="27" column="57" />
-        <mark key="." line="27" column="56" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/.shed.yml" timestamp="1469095043053">
         <mark key="[" line="3" column="8" />
@@ -178,13 +164,6 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/finding_a_motif_in_dna/finding_a_motif_in_dna.py" timestamp="1470623980130">
-        <mark key="'" line="14" column="21" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="^" line="50" column="63" />
-        <mark key="." line="34" column="0" />
-      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/finding_a_motif_in_dna/test_input" timestamp="1470623135510">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="3" />
@@ -208,6 +187,12 @@
         <mark key="]" line="7" column="20" />
         <mark key="^" line="7" column="20" />
         <mark key="." line="7" column="20" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/hub_assembly/tool_dependencies.xml" timestamp="1470968331465">
+        <mark key="[" line="98" column="54" />
+        <mark key="]" line="98" column="74" />
+        <mark key="^" line="98" column="74" />
+        <mark key="." line="98" column="74" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/locating_restriction_sites/rosalind_revp.txt" timestamp="1470686352018">
         <mark key="[" line="0" column="60" />
@@ -250,7 +235,12 @@
         <mark key="." line="6" column="41" />
         <mark key="^" line="6" column="41" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/hub_assembly/hubArchiveCreator.xml" timestamp="1470966910507" />
+      <file name="$USER_HOME$/Google_Drive/Dev/hub_assembly/hubArchiveCreator.xml" timestamp="1470968309325">
+        <mark key="[" line="11" column="62" />
+        <mark key="]" line="11" column="72" />
+        <mark key="." line="11" column="72" />
+        <mark key="^" line="11" column="72" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/mortal_fibonacci_rabbits/mortal_fibonacci_rabbits.py" timestamp="1470326747759">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="39" column="63" />
@@ -603,13 +593,6 @@
         <mark key="^" line="9" column="1" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/finding_a_motif_in_dna/rosalind_subs.txt" timestamp="1470623796864">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="1" column="9" />
-        <mark key="]" line="1" column="8" />
-        <mark key="^" line="1" column="8" />
-        <mark key="." line="1" column="8" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="9" column="14" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" />
@@ -715,46 +698,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;%</text>
+        <text>genePredToBed</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;%</text>
+        <text>genePredToBed</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwwXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRvX3NxbF9vcHRpb24gPSAiJXMlcyIgJSAoJy1hcz0nLCBvcy5wYXRoLmpvaW4oc2VsZi50b29sX2RpcmVjdG9yeSwgJ2JpZ0dlbmVQcmVkLmFzJykpCg==</text>
+        <text encoding="base64">ICAgICAgICA8cmVxdWlyZW1lbnQgdHlwZT0icGFja2FnZSIgdmVyc2lvbj0iMC4wLjEiPmdlbmVQcmVkVG9CZWQ8L3JlcXVpcmVtZW50Pgo=</text>
       </register>
       <register name="1" type="4">
-        <text>&quot;%</text>
+        <text>genePredToBed</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>autoSql</text>
+        <text>genePredToBed</text>
       </register>
       <register name="3" type="4">
-        <text>autoSql])</text>
+        <text>genePredToBed</text>
       </register>
       <register name="4" type="4">
-        <text>'-</text>
+        <text>Bed</text>
       </register>
-      <register name="5" type="4">
-        <text>=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="4">
-        <text>e</text>
+        <text>genePredToBed</text>
       </register>
       <register name="7" type="4">
-        <text>p</text>
+        <text>genePredToBed</text>
       </register>
-      <register name="8" type="4">
-        <text>y</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>t</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIDwhLS0gUGFja2FnZSBndGZUb0dlbmVQcmVkIC0tPgogICAgPHBhY2thZ2UgbmFtZT0iZ3RmVG9HZW5lUHJlZCIgdmVyc2lvbj0iMC4wLjEiPgogICAgICAgIDxpbnN0YWxsIHZlcnNpb249IjEuMCI+CiAgICAgICAgICAgIDxhY3Rpb25zPgogICAgICAgICAgICAgICAgPGFjdGlvbiB0eXBlPSJkb3dubG9hZF9iaW5hcnkiIHRhcmdldF9kaXJlY3Rvcnk9ImJpbiI+CiAgICAgICAgICAgICAgICAgICAgPHVybF90ZW1wbGF0ZSBvcz0iZGFyd2luIj4KICAgICAgICAgICAgICAgICAgICAgICAgaHR0cDovL2hnZG93bmxvYWQuY3NlLnVjc2MuZWR1L2FkbWluL2V4ZS9tYWNPU1guJHthcmNoaXRlY3R1cmV9L2d0ZlRvR2VuZVByZWQKICAgICAgICAgICAgICAgICAgICA8L3VybF90ZW1wbGF0ZT4KICAgICAgICAgICAgICAgICAgICA8dXJsX3RlbXBsYXRlIG9zPSJsaW51eCI+CiAgICAgICAgICAgICAgICAgICAgICAgIGh0dHA6Ly9oZ2Rvd25sb2FkLmNzZS51Y3NjLmVkdS9hZG1pbi9leGUvbGludXguJHthcmNoaXRlY3R1cmV9L2d0ZlRvR2VuZVByZWQKICAgICAgICAgICAgICAgICAgICA8L3VybF90ZW1wbGF0ZT4KICAgICAgICAgICAgICAgIDwvYWN0aW9uPgogICAgICAgICAgICAgICAgPGFjdGlvbiB0eXBlPSJjaG1vZCI+CiAgICAgICAgICAgICAgICAgICAgPGZpbGUgbW9kZT0iNzUwIj4kSU5TVEFMTF9ESVIvYmluL2d0ZlRvR2VuZVByZWQ8L2ZpbGU+CiAgICAgICAgICAgICAgICA8L2FjdGlvbj4KICAgICAgICAgICAgICAgIDxhY3Rpb24gdHlwZT0ic2V0X2Vudmlyb25tZW50Ij4KICAgICAgICAgICAgICAgICAgICA8ZW52aXJvbm1lbnRfdmFyaWFibGUgbmFtZT0iUEFUSCIgYWN0aW9uPSJwcmVwZW5kX3RvIj4kSU5TVEFMTF9ESVIvYmluPC9lbnZpcm9ubWVudF92YXJpYWJsZT4KICAgICAgICAgICAgICAgIDwvYWN0aW9uPgogICAgICAgICAgICA8L2FjdGlvbnM+CiAgICAgICAgPC9pbnN0YWxsPgogICAgICAgIDxyZWFkbWU+VGhlIHRvb2xzIGRvd25sb2FkZWQgYnkgdGhpcyBkZXBlbmRlbmN5IGRlZmluaXRpb24gYXJlIGZyZWUgZm9yIGFjYWRlbWljIHVzZS48L3JlYWRtZT4KICAgIDwvcGFja2FnZT4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
