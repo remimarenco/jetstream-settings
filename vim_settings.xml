@@ -190,6 +190,12 @@
         <mark key="^" line="30" column="81" />
         <mark key="." line="30" column="81" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_kickstart/search-tool/get_SLX_libraries.py" timestamp="1470976312851">
+        <mark key="[" line="12" column="29" />
+        <mark key="]" line="12" column="28" />
+        <mark key="^" line="12" column="28" />
+        <mark key="." line="12" column="28" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/locating_restriction_sites/locating_restriction_sites.py" timestamp="1470686732575">
         <mark key="[" line="107" column="20" />
         <mark key="]" line="107" column="20" />
@@ -530,12 +536,6 @@
         <mark key="." line="44" column="24" />
         <mark key="^" line="44" column="24" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/consensus_and_profile/test_consensus" timestamp="1470755595813">
-        <mark key="'" line="13" column="8" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/regtools_junctions_extract/regtools_junctions_extract.xml" timestamp="1469216917978">
         <mark key="[" line="1" column="17" />
         <mark key="]" line="1" column="17" />
@@ -559,6 +559,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="^" line="9" column="1" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_kickstart/search-tool/hello_world.xml" timestamp="1470976625022">
+        <mark key="[" line="12" column="94" />
+        <mark key="]" line="12" column="76" />
+        <mark key="." line="12" column="76" />
+        <mark key="^" line="12" column="76" />
       </file>
     </filemarks>
     <jumps>
@@ -664,11 +670,11 @@
       <jump line="43" column="0" filename="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/calculating_protein_mass/calculating_protein_mass.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICMgQnVpbGQgdGhlIG1vbm9pc290b3BpYyBtYXNzIHRhYmxkZGUK</text>
+      <register name="&quot;" type="4">
+        <text>find_packages</text>
       </register>
       <register name="-" type="4">
-        <text>calculating_expected_offspring</text>
+        <text>find_packages</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwwXD4=</text>
@@ -676,35 +682,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8cmVxdWlyZW1lbnQgdHlwZT0icGFja2FnZSIgdmVyc2lvbj0iMC4wLjEiPmdlbmVQcmVkVG9CZWQ8L3JlcXVpcmVtZW50Pgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICMgQnVpbGQgdGhlIG1vbm9pc290b3BpYyBtYXNzIHRhYmxkZGUK</text>
+      <register name="1" type="4">
+        <text>find_packages</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>calculating_expected_offspring</text>
+        <text encoding="base64">PC8=</text>
       </register>
-      <register name="3" type="4">
-        <text>calculating_expected_offspring</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgPHBhcmFtIG5hbWU9ImlucHV0IiB0eXBlPSJkYXRhIiBmb3JtYXQ9InR4dCIgLz4K</text>
       </register>
       <register name="4" type="4">
-        <text>m calculating_protein_mass import c</text>
+        <text>&quot;</text>
       </register>
       <register name="5" type="4">
-        <text>m c</text>
+        <text>getlocalrpackages</text>
       </register>
-      <register name="6" type="4">
-        <text>genePredToBed</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICMgQnVpbGQgdGhlIG1vbm9pc290b3BpYyBtYXNzIHRhYmxkZGUK</text>
       </register>
       <register name="7" type="4">
-        <text>genePredToBed</text>
+        <text>calculating_expected_offspring</text>
       </register>
       <register name="8" type="4">
-        <text>genePredToBed</text>
+        <text>calculating_expected_offspring</text>
       </register>
       <register name="9" type="4">
-        <text>Bed</text>
+        <text>m calculating_protein_mass import c</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -759,8 +765,8 @@
         <entry>d</entry>
         <entry>wq</entry>
         <entry>s</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>q</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
