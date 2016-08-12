@@ -21,11 +21,6 @@
         <mark key="^" line="8" column="30" />
         <mark key="." line="8" column="30" />
       </file>
-      <file name="/a.dummy" timestamp="1470994704903">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="1" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/admin.py" timestamp="1467176787170">
         <mark key="[" line="76" column="53" />
         <mark key="]" line="76" column="68" />
@@ -562,12 +557,12 @@
         <mark key="^" line="9" column="1" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_kickstart/search-tool/import.py" timestamp="1470999940397">
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_kickstart/search-tool/import.py" timestamp="1471025790509">
         <mark key="'" line="28" column="42" />
-        <mark key="[" line="34" column="53" />
-        <mark key="]" line="34" column="52" />
-        <mark key="." line="34" column="52" />
-        <mark key="^" line="34" column="52" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="33" />
+        <mark key="." line="30" column="32" />
+        <mark key="^" line="30" column="32" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_kickstart/search-tool/hello_world.xml" timestamp="1470995704128">
         <mark key="[" line="8" column="44" />
@@ -680,7 +675,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgc3lzLnN0ZGVyci53cml0ZShmYXN0cV9maWxlX3BhdGgpCg==</text>
+        <text encoding="base64">ICAgZ2kudG9vbFNoZWQuZ2V0X3JlcG9zaXRvcmllcygpCg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -1106,7 +1101,7 @@
         <text encoding="base64">XDwwXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgcHJpbnQoIkZhc3RxIGZpbGVzIGJlZm9yZSByZWNvbnN0cnVjdGlvbjogezB9Ii5mb3JtYXQoZmFzdHFfZmlsZXNfbGlzdCkpCg==</text>
+        <text encoding="base64">ICAgZ2kudG9vbFNoZWQuZ2V0X3JlcG9zaXRvcmllcygpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgc3lzLnN0ZGVyci53cml0ZShmYXN0cV9maWxlX3BhdGgpCg==</text>
