@@ -190,11 +190,11 @@
         <mark key="^" line="30" column="81" />
         <mark key="." line="30" column="81" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_kickstart/search-tool/get_SLX_libraries.py" timestamp="1470976312851">
-        <mark key="[" line="12" column="29" />
-        <mark key="]" line="12" column="28" />
-        <mark key="^" line="12" column="28" />
-        <mark key="." line="12" column="28" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_kickstart/search-tool/get_SLX_libraries.py" timestamp="1470977700184">
+        <mark key="[" line="6" column="23" />
+        <mark key="]" line="6" column="39" />
+        <mark key="^" line="6" column="39" />
+        <mark key="." line="6" column="39" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/locating_restriction_sites/locating_restriction_sites.py" timestamp="1470686732575">
         <mark key="[" line="107" column="20" />
@@ -560,11 +560,11 @@
         <mark key="^" line="9" column="1" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_kickstart/search-tool/hello_world.xml" timestamp="1470976625022">
-        <mark key="[" line="12" column="94" />
-        <mark key="]" line="12" column="76" />
-        <mark key="." line="12" column="76" />
-        <mark key="^" line="12" column="76" />
+      <file name="$USER_HOME$/Google_Drive/Dev/galaxy_kickstart/search-tool/hello_world.xml" timestamp="1470977712964">
+        <mark key="[" line="13" column="67" />
+        <mark key="]" line="13" column="85" />
+        <mark key="." line="13" column="85" />
+        <mark key="^" line="13" column="85" />
       </file>
     </filemarks>
     <jumps>
@@ -671,10 +671,11 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>find_packages</text>
+        <text>s_path = &quot;test-data/staging&quot;
+    list_SLX_libraries = os.listdir(S</text>
       </register>
       <register name="-" type="4">
-        <text>find_packages</text>
+        <text>test</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwwXD4=</text>
@@ -683,34 +684,35 @@
         <text encoding="base64">ICAgICAgICA8cmVxdWlyZW1lbnQgdHlwZT0icGFja2FnZSIgdmVyc2lvbj0iMC4wLjEiPmdlbmVQcmVkVG9CZWQ8L3JlcXVpcmVtZW50Pgo=</text>
       </register>
       <register name="1" type="4">
-        <text>find_packages</text>
+        <text>s_path = &quot;test-data/staging&quot;
+    list_SLX_libraries = os.listdir(S</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">PC8=</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPHBhcmFtIG5hbWU9ImlucHV0IiB0eXBlPSJkYXRhIiBmb3JtYXQ9InR4dCIgLz4K</text>
+      <register name="3" type="4">
+        <text>test</text>
       </register>
       <register name="4" type="4">
-        <text>&quot;</text>
+        <text>find_packages</text>
       </register>
       <register name="5" type="4">
-        <text>getlocalrpackages</text>
+        <text encoding="base64">PC8=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgQnVpbGQgdGhlIG1vbm9pc290b3BpYyBtYXNzIHRhYmxkZGUK</text>
+        <text encoding="base64">ICAgICAgPHBhcmFtIG5hbWU9ImlucHV0IiB0eXBlPSJkYXRhIiBmb3JtYXQ9InR4dCIgLz4K</text>
       </register>
       <register name="7" type="4">
-        <text>calculating_expected_offspring</text>
+        <text>&quot;</text>
       </register>
       <register name="8" type="4">
-        <text>calculating_expected_offspring</text>
+        <text>getlocalrpackages</text>
       </register>
-      <register name="9" type="4">
-        <text>m calculating_protein_mass import c</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICMgQnVpbGQgdGhlIG1vbm9pc290b3BpYyBtYXNzIHRhYmxkZGUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
