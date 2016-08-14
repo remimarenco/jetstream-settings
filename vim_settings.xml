@@ -225,6 +225,9 @@
         <mark key="." line="35" column="17" />
         <mark key="^" line="35" column="17" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/rna_splicing/rna_splicing.py" timestamp="1471151517748">
+        <mark key="[" line="21" column="34" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/glimmer_hmm/glimmer_hmm.loc.sample" timestamp="1468529628200">
         <mark key="[" line="8" column="1" />
         <mark key="]" line="8" column="0" />
@@ -533,11 +536,11 @@
         <mark key="^" line="5" column="50" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/main.py" timestamp="1470971272791">
+      <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/main.py" timestamp="1471150924786">
         <mark key="[" line="6" column="3" />
-        <mark key="]" line="6" column="26" />
-        <mark key="^" line="6" column="26" />
-        <mark key="." line="6" column="26" />
+        <mark key="]" line="6" column="14" />
+        <mark key="^" line="6" column="14" />
+        <mark key="." line="6" column="14" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Gtf.py" timestamp="1470357858799">
         <mark key="[" line="45" column="33" />
@@ -674,8 +677,8 @@
       <jump line="28" column="42" filename="$USER_HOME$/Google_Drive/Dev/galaxy_kickstart/search-tool/import.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgZ2kudG9vbFNoZWQuZ2V0X3JlcG9zaXRvcmllcygpCg==</text>
+      <register name="&quot;" type="4">
+        <text>multi_fast</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -1095,7 +1098,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>multi_fast</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwwXD4=</text>
@@ -1103,35 +1106,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgZ2kudG9vbFNoZWQuZ2V0X3JlcG9zaXRvcmllcygpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgc3lzLnN0ZGVyci53cml0ZShmYXN0cV9maWxlX3BhdGgpCg==</text>
+      <register name="1" type="4">
+        <text>multi_fast</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRyYW5zbGF0aW5nX3JuYV9pbnRvX3Byb3RlaW4ubWFpbigpCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIiIiCg==</text>
+      <register name="3" type="4">
+        <text>calculating_protein_mass</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgQVBJX0tFWTogNWU4Y2M1NzQ4OTIyYzU5OGMxYWE2ZWM5ZTYwNTc4MGYK</text>
+      <register name="4" type="4">
+        <text>calculating_protein_mass</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgVVJMOiBodHRwOi8vMTI3LjAuMC4xOjgwODAvCg==</text>
+      <register name="5" type="4">
+        <text>calculating_protein_mass</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIiIiCg==</text>
+        <text encoding="base64">ICAgICAgc3lzLnN0ZGVyci53cml0ZShmYXN0cV9maWxlX3BhdGgpCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgcHJpbnQoIkZhc3RxIGZpbGVzIGFmdGVyIHJlY29uc3RydWN0aW9uOiB7MH0iLmZvcm1hdChmYXN0cV9maWxlc19saXN0KSkK</text>
+        <text encoding="base64">ICAgIiIiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgQVBJX0tFWTogNWU4Y2M1NzQ4OTIyYzU5OGMxYWE2ZWM5ZTYwNTc4MGYK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
