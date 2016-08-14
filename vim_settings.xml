@@ -118,11 +118,11 @@
         <mark key="^" line="41" column="25" />
         <mark key="." line="41" column="25" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/translating_rna_into_proteins/translating_rna_into_protein.py" timestamp="1470067938751">
-        <mark key="[" line="7" column="7" />
-        <mark key="]" line="7" column="4" />
-        <mark key="^" line="7" column="4" />
-        <mark key="." line="7" column="4" />
+      <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/translating_rna_into_proteins/translating_rna_into_protein.py" timestamp="1471155061943">
+        <mark key="[" line="40" column="31" />
+        <mark key="]" line="40" column="26" />
+        <mark key="^" line="40" column="26" />
+        <mark key="." line="40" column="26" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/util/Filters.py" timestamp="1470102709165">
         <mark key="[" line="7" column="30" />
@@ -153,6 +153,12 @@
         <mark key="]" line="2" column="15" />
         <mark key="." line="2" column="15" />
         <mark key="^" line="2" column="15" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/rna_splicing/test" timestamp="1471152901583">
+        <mark key="[" line="1" column="80" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/lib/galaxy/datatypes/hubAssembly.py" timestamp="1463236422489">
         <mark key="[" line="25" column="16" />
@@ -225,8 +231,12 @@
         <mark key="." line="35" column="17" />
         <mark key="^" line="35" column="17" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/rna_splicing/rna_splicing.py" timestamp="1471151517748">
-        <mark key="[" line="21" column="34" />
+      <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/rna_splicing/rna_splicing.py" timestamp="1471155995233">
+        <mark key="'" line="2" column="14" />
+        <mark key="[" line="66" column="27" />
+        <mark key="]" line="67" column="20" />
+        <mark key="^" line="67" column="20" />
+        <mark key="." line="67" column="20" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/glimmer_hmm/glimmer_hmm.loc.sample" timestamp="1468529628200">
         <mark key="[" line="8" column="1" />
@@ -575,8 +585,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="207" column="27" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" />
-      <jump line="381" column="8" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" />
       <jump line="338" column="4" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" />
       <jump line="318" column="26" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" />
       <jump line="362" column="21" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" />
@@ -675,10 +683,12 @@
       <jump line="43" column="0" filename="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/calculating_protein_mass/calculating_protein_mass.py" />
       <jump line="26" column="78" filename="$USER_HOME$/Google_Drive/Dev/galaxy_kickstart/search-tool/get_SLX_libraries.py" />
       <jump line="28" column="42" filename="$USER_HOME$/Google_Drive/Dev/galaxy_kickstart/search-tool/import.py" />
+      <jump line="44" column="39" filename="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/rna_splicing/rna_splicing.py" />
+      <jump line="2" column="14" filename="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/rna_splicing/rna_splicing.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>multi_fast</text>
+        <text>mr</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -1098,7 +1108,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>multi_fast</text>
+        <text>mr</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwwXD4=</text>
@@ -1107,34 +1117,34 @@
         <text encoding="base64">ICAgZ2kudG9vbFNoZWQuZ2V0X3JlcG9zaXRvcmllcygpCg==</text>
       </register>
       <register name="1" type="4">
-        <text>multi_fast</text>
+        <text>mr</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRyYW5zbGF0aW5nX3JuYV9pbnRvX3Byb3RlaW4ubWFpbigpCg==</text>
-      </register>
-      <register name="3" type="4">
-        <text>calculating_protein_mass</text>
-      </register>
-      <register name="4" type="4">
-        <text>calculating_protein_mass</text>
-      </register>
-      <register name="5" type="4">
-        <text>calculating_protein_mass</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgc3lzLnN0ZGVyci53cml0ZShmYXN0cV9maWxlX3BhdGgpCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIiIiCg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIF9ybmFfZmlsZSA9IHRlbXBmaWxlLlRlbXBvcmFyeUZpbGUoKQo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgQVBJX0tFWTogNWU4Y2M1NzQ4OTIyYzU5OGMxYWE2ZWM5ZTYwNTc4MGYK</text>
+      <register name="4" type="4">
+        <text>m</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHdpdGggb3BlbihtX3JuYV9maWxlLCAncisnKSBhcyBtcjoK</text>
+      </register>
+      <register name="6" type="4">
+        <text>m_rna_file</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChsaW5lKQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
+        <text>rna_file_path</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

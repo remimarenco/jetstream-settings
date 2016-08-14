@@ -9,6 +9,7 @@
       <mapping pattern="test_consensus" type="PLAIN_TEXT" />
       <mapping pattern="test_population" type="PLAIN_TEXT" />
       <mapping pattern="test_input" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping ext="bb" type="PLAIN_TEXT" />
       <mapping ext="fastqsanger" type="PLAIN_TEXT" />
       <mapping ext="sample" type="XML" />
