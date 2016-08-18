@@ -225,11 +225,12 @@
         <mark key="^" line="9" column="14" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/finding_a_shared_motif/finding_a_shared_motif.py" timestamp="1471537093202">
-        <mark key="[" line="59" column="75" />
-        <mark key="]" line="59" column="94" />
-        <mark key="^" line="59" column="94" />
-        <mark key="." line="59" column="94" />
+      <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/finding_a_shared_motif/finding_a_shared_motif.py" timestamp="1471538696078">
+        <mark key="'" line="51" column="46" />
+        <mark key="[" line="44" column="4" />
+        <mark key="]" line="45" column="4" />
+        <mark key="^" line="45" column="4" />
+        <mark key="." line="45" column="4" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/test-data/add_datatype/datatypes_conf.xml" timestamp="1462563060424">
         <mark key="[" line="444" column="0" />
@@ -603,7 +604,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="338" column="4" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" />
       <jump line="318" column="26" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" />
       <jump line="362" column="21" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" />
@@ -703,10 +703,11 @@
       <jump line="28" column="42" filename="$USER_HOME$/Google_Drive/Dev/galaxy_kickstart/search-tool/import.py" />
       <jump line="44" column="39" filename="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/rna_splicing/rna_splicing.py" />
       <jump line="2" column="14" filename="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/rna_splicing/rna_splicing.py" />
+      <jump line="47" column="46" filename="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/finding_a_shared_motif/finding_a_shared_motif.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>index_nucl_base+nb_nucl</text>
+        <text>index_nucl_base</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -1126,7 +1127,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>index_nucl_base+nb_nucl</text>
+        <text>index_nucl_base</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwwXD4=</text>
@@ -1135,34 +1136,34 @@
         <text encoding="base64">ICAgZ2kudG9vbFNoZWQuZ2V0X3JlcG9zaXRvcmllcygpCg==</text>
       </register>
       <register name="1" type="4">
-        <text>index_nucl_base+nb_nucl</text>
+        <text>index_nucl_base</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="4" type="4">
-        <text>1</text>
-      </register>
-      <register name="5" type="4">
+      <register name="2" type="4">
         <text>+</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>len_dnas</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbmJfbnVjbCArPSAxCg==</text>
+      <register name="4" type="4">
+        <text>other_dna</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbG9uZ2VzdF9udWNsX2Jhc2Vfc3Vic3RyaW5nICs9IGZpcnN0X2RuYV9jb21wYXJlW2luZGV4X251Y2xfYmFzZV0K</text>
+      <register name="5" type="4">
+        <text>dnas</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>1</text>
+      </register>
+      <register name="7" type="4">
+        <text>-</text>
+      </register>
+      <register name="8" type="4">
+        <text>+1</text>
+      </register>
+      <register name="9" type="4">
+        <text>[</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
