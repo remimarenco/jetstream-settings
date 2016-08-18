@@ -225,11 +225,11 @@
         <mark key="^" line="9" column="14" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/finding_a_shared_motif/finding_a_shared_motif.py" timestamp="1471532632178">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="21" column="22" />
-        <mark key="^" line="21" column="22" />
-        <mark key="." line="21" column="22" />
+      <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/finding_a_shared_motif/finding_a_shared_motif.py" timestamp="1471537093202">
+        <mark key="[" line="59" column="75" />
+        <mark key="]" line="59" column="94" />
+        <mark key="^" line="59" column="94" />
+        <mark key="." line="59" column="94" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/test-data/add_datatype/datatypes_conf.xml" timestamp="1462563060424">
         <mark key="[" line="444" column="0" />
@@ -706,7 +706,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text>index_nucl_base+nb_nucl</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -1126,7 +1126,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>index_nucl_base+nb_nucl</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwwXD4=</text>
@@ -1135,34 +1135,31 @@
         <text encoding="base64">ICAgZ2kudG9vbFNoZWQuZ2V0X3JlcG9zaXRvcmllcygpCg==</text>
       </register>
       <register name="1" type="4">
-        <text>n</text>
+        <text>index_nucl_base+nb_nucl</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>i</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="3" type="4">
-        <text>f</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGZpbmRpbmdfYV9zaGFyZWRfbW90aWYK</text>
+      <register name="4" type="4">
+        <text>1</text>
       </register>
       <register name="5" type="4">
-        <text>rna_splicing</text>
+        <text>+</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBmaW5kaW5nX2Ffc2hhcmVkX21vdGlmIGltcG9ydCBtYWluCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBybmFfc3BsaWNpbmcgaW1wb3J0IHJuYV9zcGxpY2luZwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbmJfbnVjbCArPSAxCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>port rna_splicing
-
-if __name__ == &quot;__main__&quot;:
-   rna_splicing.main()</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbG9uZ2VzdF9udWNsX2Jhc2Vfc3Vic3RyaW5nICs9IGZpcnN0X2RuYV9jb21wYXJlW2luZGV4X251Y2xfYmFzZV0K</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
