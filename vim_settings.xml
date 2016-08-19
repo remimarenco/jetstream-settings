@@ -479,12 +479,12 @@
         <mark key="." line="6" column="8" />
         <mark key="^" line="6" column="8" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/enumerating_gene_orders/enumerating_gene_orders.py" timestamp="1471628408148">
-        <mark key="'" line="45" column="20" />
-        <mark key="[" line="8" column="7" />
-        <mark key="]" line="10" column="18" />
+      <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/enumerating_gene_orders/enumerating_gene_orders.py" timestamp="1471629138605">
+        <mark key="'" line="44" column="20" />
+        <mark key="[" line="48" column="39" />
+        <mark key="]" line="48" column="39" />
         <mark key="^" line="10" column="18" />
-        <mark key="." line="10" column="18" />
+        <mark key="." line="48" column="39" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/identifying_unknown_dna_quickly.py" timestamp="1469929878657">
         <mark key="[" line="5" column="10" />
@@ -719,7 +719,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -1139,7 +1139,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>do_permutation(3)</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwwXD4=</text>
@@ -1148,34 +1148,34 @@
         <text encoding="base64">ICAgZ2kudG9vbFNoZWQuZ2V0X3JlcG9zaXRvcmllcygpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>do_permutation(3)</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="4">
-        <text>do_permutation</text>
+        <text />
       </register>
-      <register name="4" type="4">
-        <text>finding_a_shared_motif</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHByaW50KCkK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBmaW5kaW5nX2Ffc2hhcmVkX21vdGlmIGltcG9ydCBmaW5kaW5nX2Ffc2hhcmVkX21vdGlmCg==</text>
+      <register name="5" type="4">
+        <text>do_permutation(3)</text>
       </register>
       <register name="6" type="4">
-        <text>list_numbers</text>
+        <text>do_permutation</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGxpc3Rfbj1bXQo=</text>
+      <register name="7" type="4">
+        <text>finding_a_shared_motif</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGJsYSA9IGRvX3Blcm11dGF0aW9uKGxpc3RfbikK</text>
+        <text encoding="base64">ZnJvbSBmaW5kaW5nX2Ffc2hhcmVkX21vdGlmIGltcG9ydCBmaW5kaW5nX2Ffc2hhcmVkX21vdGlmCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGJsYS4K</text>
+      <register name="9" type="4">
+        <text>list_numbers</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
