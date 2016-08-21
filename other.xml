@@ -7,7 +7,25 @@
             <id />
           </State>
           <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Code style issuesCSS</id>
+          </State>
+          <State>
+            <id>HTML</id>
+          </State>
+          <State>
+            <id>Invalid elementsCSS</id>
+          </State>
+          <State>
+            <id>Probable bugsCSS</id>
+          </State>
+          <State>
             <id>Python</id>
+          </State>
+          <State>
+            <id>Sass/SCSS</id>
           </State>
         </expanded-state>
         <selected-state>

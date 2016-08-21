@@ -192,17 +192,26 @@
         <mark key="^" line="16" column="75" />
         <mark key="." line="16" column="75" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/jalpc_jekyll_theme/_config.yml" timestamp="1471761335453">
-        <mark key="[" line="19" column="32" />
-        <mark key="]" line="19" column="43" />
-        <mark key="." line="19" column="43" />
-        <mark key="^" line="19" column="43" />
+      <file name="$USER_HOME$/Google_Drive/Dev/jalpc_jekyll_theme/_data/carousel.yml" timestamp="1471762882293">
+        <mark key="]" line="3" column="3" />
+        <mark key="^" line="3" column="3" />
+        <mark key="." line="3" column="3" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/jalpc_jekyll_theme/_config.yml" timestamp="1471766142203">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy-kickstart/config.py" timestamp="1470416995650">
         <mark key="[" line="1" column="3" />
         <mark key="]" line="2" column="9" />
         <mark key="^" line="2" column="9" />
         <mark key="." line="2" column="9" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/jalpc_jekyll_theme/_carousel_images/carousel_images.yml" timestamp="1471765668332">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/cloudlaunch-ui/app/components/public-appliances-maps.component.ts" timestamp="1467187068763">
         <mark key="[" line="7" column="17" />
@@ -300,6 +309,12 @@
         <mark key="." line="231" column="48" />
         <mark key="^" line="231" column="48" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/jalpc_jekyll_theme/static/css/style_bak.css" timestamp="1471769351827">
+        <mark key="[" line="6710" column="31" />
+        <mark key="]" line="6711" column="27" />
+        <mark key="^" line="6711" column="27" />
+        <mark key="." line="6711" column="27" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/regtools_junctions_extract/tool_dependencies.xml" timestamp="1469247796899">
         <mark key="[" line="17" column="45" />
         <mark key="]" line="17" column="48" />
@@ -331,6 +346,7 @@
         <mark key="." line="49" column="23" />
         <mark key="^" line="49" column="23" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/jalpc_jekyll_theme/_site/static/css/style_bak.css" timestamp="1471762628871" />
       <file name="$USER_HOME$/Google_Drive/Dev/jalpc_jekyll_theme/static/locales/en.json" timestamp="1471761136687">
         <mark key="[" line="48" column="3" />
         <mark key="]" line="48" column="7" />
@@ -379,11 +395,23 @@
         <mark key="." line="0" column="25" />
         <mark key="^" line="0" column="25" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/jalpc_jekyll_theme/_includes/head.html" timestamp="1471770266526">
+        <mark key="[" line="32" column="33" />
+        <mark key="]" line="32" column="36" />
+        <mark key="^" line="32" column="36" />
+        <mark key="." line="32" column="36" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/hub_assembly/BigWig.py" timestamp="1470936219324">
         <mark key="[" line="31" column="54" />
         <mark key="]" line="32" column="24" />
         <mark key="^" line="32" column="24" />
         <mark key="." line="32" column="24" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/jalpc_jekyll_theme/static/css/style.css" timestamp="1471770499389">
+        <mark key="[" line="0" column="112228" />
+        <mark key="]" line="0" column="112275" />
+        <mark key="^" line="0" column="112275" />
+        <mark key="." line="0" column="112275" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/hub_assembly/Gff3.py" timestamp="1470935535384">
         <mark key="'" line="41" column="43" />
@@ -598,11 +626,11 @@
         <mark key="^" line="71" column="20" />
         <mark key="." line="71" column="20" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/jalpc_jekyll_theme/index.html" timestamp="1471761910972">
-        <mark key="[" line="377" column="35" />
-        <mark key="]" line="377" column="39" />
-        <mark key="^" line="377" column="39" />
-        <mark key="." line="377" column="39" />
+      <file name="$USER_HOME$/Google_Drive/Dev/jalpc_jekyll_theme/index.html" timestamp="1471772454777">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="16" />
+        <mark key="." line="49" column="16" />
+        <mark key="^" line="49" column="30" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/mendel_s_first_law/mendel_s_first_law.py" timestamp="1470500910721">
         <mark key="[" line="52" column="87" />
@@ -656,7 +684,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="384" column="88" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" />
       <jump line="13" column="0" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" />
       <jump line="38" column="66" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/urls.py" />
       <jump line="35" column="5" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/multi_fasta_glimmerhmm/multi_glimmer.sh" />
@@ -756,10 +783,11 @@
       <jump line="45" column="20" filename="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/enumerating_gene_orders/enumerating_gene_orders.py" />
       <jump line="11" column="24" filename="$USER_HOME$/Google_Drive/Dev/jalpc_jekyll_theme/static/locales/fr.json" />
       <jump line="14" column="26" filename="$USER_HOME$/Google_Drive/Dev/jalpc_jekyll_theme/static/locales/fr.json" />
+      <jump line="6715" column="8" filename="$USER_HOME$/Google_Drive/Dev/jalpc_jekyll_theme/static/css/style_bak.css" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Link</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB7JSBpbmNyZW1lbnQgbXlfY291bnRlciAlfQo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -1179,43 +1207,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Link</text>
+        <text>forloop</text>
       </register>
       <register name="/" type="4">
         <text>contact</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aW1nIHNyYz0ie3sgc2l0ZS5hdXRob3IuaGVhZF9pbWcgfCBwcmVwZW5kOiBzaXRlLmJhc2V1cmwgfX0iIGhlaWdodD0iMTEwIiB3aWR0aD0iMTEwIiBjbGFzcz0iaW1nLXJlc3BvbnNpdmUgaW1nLWNpcmNsZSIgYWx0PSIiPgo=</text>
+        <text encoding="base64">ICAgICAgICB7JSBpbmNyZW1lbnQgbXlfY291bnRlciAlfQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>Link</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHslIGluY3JlbWVudCBteV9jb3VudGVyICV9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>My</text>
+        <text>forloop</text>
       </register>
-      <register name="3" type="4">
-        <text>About</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8bGkgZGF0YS10YXJnZXQ9IiNpblNsaWRlciIgZGF0YS1zbGlkZS10bz0iMSI+PC9saT4K</text>
       </register>
       <register name="4" type="4">
-        <text>My</text>
+        <text>false</text>
       </register>
       <register name="5" type="4">
-        <text>y Projects</text>
+        <text>first_ok</text>
       </register>
-      <register name="6" type="4">
-        <text>M</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>contact</text>
+        <text>}</text>
       </register>
       <register name="8" type="4">
-        <text>contact</text>
+        <text>.landing</text>
       </register>
       <register name="9" type="4">
-        <text>author</text>
+        <text>e</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
