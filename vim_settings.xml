@@ -183,6 +183,12 @@
         <mark key="^" line="16" column="75" />
         <mark key="." line="16" column="75" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/jalpc_jekyll_theme/_config.yml" timestamp="1471754584821">
+        <mark key="[" line="19" column="32" />
+        <mark key="]" line="19" column="35" />
+        <mark key="^" line="19" column="35" />
+        <mark key="." line="19" column="35" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy-kickstart/config.py" timestamp="1470416995650">
         <mark key="[" line="1" column="3" />
         <mark key="]" line="2" column="9" />
@@ -302,6 +308,18 @@
         <mark key="]" line="45" column="52" />
         <mark key="." line="45" column="52" />
         <mark key="^" line="45" column="52" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/jalpc_jekyll_theme/static/locales/fr.json" timestamp="1471754414573">
+        <mark key="[" line="15" column="202" />
+        <mark key="]" line="15" column="202" />
+        <mark key="." line="15" column="202" />
+        <mark key="^" line="15" column="202" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/jalpc_jekyll_theme/static/locales/en.json" timestamp="1471754430827">
+        <mark key="[" line="15" column="12" />
+        <mark key="]" line="15" column="12" />
+        <mark key="." line="15" column="12" />
+        <mark key="^" line="15" column="12" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/admin.py" timestamp="1467176787170">
         <mark key="[" line="76" column="53" />
@@ -479,12 +497,12 @@
         <mark key="." line="6" column="8" />
         <mark key="^" line="6" column="8" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/enumerating_gene_orders/enumerating_gene_orders.py" timestamp="1471649783853">
-        <mark key="'" line="47" column="20" />
-        <mark key="[" line="16" column="46" />
-        <mark key="]" line="16" column="55" />
-        <mark key="^" line="16" column="55" />
-        <mark key="." line="16" column="55" />
+      <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/enumerating_gene_orders/enumerating_gene_orders.py" timestamp="1471651558990">
+        <mark key="'" line="59" column="20" />
+        <mark key="[" line="52" column="33" />
+        <mark key="]" line="52" column="32" />
+        <mark key="^" line="52" column="32" />
+        <mark key="." line="52" column="32" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/identifying_unknown_dna_quickly.py" timestamp="1469929878657">
         <mark key="[" line="5" column="10" />
@@ -563,6 +581,12 @@
         <mark key="]" line="71" column="49" />
         <mark key="^" line="71" column="20" />
         <mark key="." line="71" column="20" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/jalpc_jekyll_theme/index.html" timestamp="1471754139272">
+        <mark key="[" line="30" column="87" />
+        <mark key="]" line="30" column="92" />
+        <mark key="." line="30" column="92" />
+        <mark key="^" line="30" column="92" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/mendel_s_first_law/mendel_s_first_law.py" timestamp="1470500910721">
         <mark key="[" line="52" column="87" />
@@ -719,7 +743,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>#</text>
+        <text>Jack</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -1139,7 +1163,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>Jack</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwwXD4=</text>
@@ -1148,34 +1172,34 @@
         <text encoding="base64">ICAgZ2kudG9vbFNoZWQuZ2V0X3JlcG9zaXRvcmllcygpCg==</text>
       </register>
       <register name="1" type="4">
-        <text>#</text>
+        <text>Jack</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>#</text>
+        <text>Passionné par les nouvelles technologies dont particulièrement l'informatique, la biotechnologie et la robotique, je suis un développeur qui aime travailler avec les langages objet et le web!</text>
       </register>
       <register name="3" type="4">
-        <text>o</text>
+        <text>.</text>
       </register>
       <register name="4" type="4">
-        <text>[</text>
+        <text>I am a Python engineer with website development, automation Ops and writing scripts experience. Life is a continuous learning process, so work makes me more rigorous, travel makes my life more colorful. I can make lots of friends when I coding and travel.</text>
       </register>
       <register name="5" type="4">
-        <text>]</text>
+        <text>I am a Python engineer with website development, automation Ops and writing scripts experience. Life is a continuous learning process, so work makes me more rigorous, travel makes my life more colorful. I can make lots of friends when I coding and travel.</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>Jack</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>Link</text>
       </register>
       <register name="8" type="4">
-        <text />
+        <text>Link</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KCkK</text>
+      <register name="9" type="4">
+        <text>Career</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1230,9 +1254,9 @@
         <entry>d</entry>
         <entry>s</entry>
         <entry>q</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>W</entry>
         <entry>wq</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
