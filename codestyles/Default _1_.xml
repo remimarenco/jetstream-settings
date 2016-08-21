@@ -1,4 +1,7 @@
 <code_scheme name="Default (1)">
+  <JSON>
+    <option name="PROPERTY_ALIGNMENT" value="1" />
+  </JSON>
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
@@ -9,4 +12,7 @@
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
+  <codeStyleSettings language="JSON">
+    <option name="WRAP_LONG_LINES" value="true" />
+  </codeStyleSettings>
 </code_scheme>
