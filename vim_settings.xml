@@ -174,6 +174,11 @@
         <mark key="." line="2" column="50" />
         <mark key="^" line="2" column="40" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/pslToBed/.shed.yml" timestamp="1471876413389">
+        <mark key="[" line="1" column="13" />
+        <mark key="]" line="1" column="14" />
+        <mark key="." line="1" column="14" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/jalpc_jekyll_theme/static/locales/cn.json" timestamp="1471758604585">
         <mark key="[" line="10" column="5" />
         <mark key="]" line="10" column="11" />
@@ -548,6 +553,11 @@
         <mark key="^" line="52" column="32" />
         <mark key="." line="52" column="32" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/pslToBed/.gitignore" timestamp="1471876374113">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/identifying_unknown_dna_quickly.py" timestamp="1469929878657">
         <mark key="[" line="5" column="10" />
         <mark key="]" line="5" column="10" />
@@ -784,7 +794,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>facebook</text>
+        <text>e</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -1204,7 +1214,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>facebook</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>contact</text>
@@ -1213,34 +1223,34 @@
         <text encoding="base64">ICAgICAgICB7JSBpbmNyZW1lbnQgbXlfY291bnRlciAlfQo=</text>
       </register>
       <register name="1" type="4">
-        <text>facebook</text>
+        <text>e</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGkgY2xhc3M9ImZhIGZhLWh0bWw1Ij48L2k+Cg==</text>
+      <register name="2" type="4">
+        <text>m</text>
       </register>
       <register name="3" type="4">
-        <text>&quot;</text>
+        <text>i</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGkgY2xhc3M9Imljb24tamF2YXNjcmlwdCIiPjwvaT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>shell</text>
+      <register name="5" type="2">
+        <text encoding="base64">LmdpdGlnbm9yZQo=</text>
       </register>
-      <register name="6" type="4">
-        <text>icon</text>
+      <register name="6" type="2">
+        <text encoding="base64">IyBDcmVhdGVkIGJ5IC5pZ25vcmUK</text>
       </register>
       <register name="7" type="4">
-        <text>angular</text>
+        <text>support plugin (hsz.mobi)</text>
       </register>
       <register name="8" type="4">
-        <text>shell</text>
+        <text>facebook</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHslIGVsc2UgJQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGkgY2xhc3M9ImZhIGZhLWh0bWw1Ij48L2k+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
