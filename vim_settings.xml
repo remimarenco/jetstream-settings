@@ -197,10 +197,11 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="3" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/jalpc_jekyll_theme/_config.yml" timestamp="1471766142203">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/Google_Drive/Dev/jalpc_jekyll_theme/_config.yml" timestamp="1471835238934">
+        <mark key="[" line="17" column="35" />
+        <mark key="]" line="18" column="33" />
+        <mark key="." line="18" column="33" />
+        <mark key="^" line="18" column="33" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy-kickstart/config.py" timestamp="1470416995650">
         <mark key="[" line="1" column="3" />
@@ -346,9 +347,8 @@
         <mark key="." line="49" column="23" />
         <mark key="^" line="49" column="23" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/jalpc_jekyll_theme/_site/static/css/style_bak.css" timestamp="1471762628871" />
-      <file name="$USER_HOME$/Google_Drive/Dev/jalpc_jekyll_theme/static/locales/en.json" timestamp="1471761136687">
-        <mark key="[" line="48" column="3" />
+      <file name="$USER_HOME$/Google_Drive/Dev/jalpc_jekyll_theme/static/locales/en.json" timestamp="1471835415143">
+        <mark key="[" line="15" column="267" />
         <mark key="]" line="48" column="7" />
         <mark key="." line="48" column="7" />
         <mark key="^" line="48" column="7" />
@@ -626,11 +626,8 @@
         <mark key="^" line="71" column="20" />
         <mark key="." line="71" column="20" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/jalpc_jekyll_theme/index.html" timestamp="1471787109099">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="16" />
-        <mark key="." line="49" column="16" />
-        <mark key="^" line="49" column="30" />
+      <file name="$USER_HOME$/Google_Drive/Dev/jalpc_jekyll_theme/index.html" timestamp="1471835362763">
+        <mark key="[" line="130" column="130" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/mendel_s_first_law/mendel_s_first_law.py" timestamp="1470500910721">
         <mark key="[" line="52" column="87" />
@@ -786,8 +783,8 @@
       <jump line="6715" column="8" filename="$USER_HOME$/Google_Drive/Dev/jalpc_jekyll_theme/static/css/style_bak.css" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB7JSBpbmNyZW1lbnQgbXlfY291bnRlciAlfQo=</text>
+      <register name="&quot;" type="4">
+        <text>facebook</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -1207,7 +1204,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>forloop</text>
+        <text>facebook</text>
       </register>
       <register name="/" type="4">
         <text>contact</text>
@@ -1215,35 +1212,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB7JSBpbmNyZW1lbnQgbXlfY291bnRlciAlfQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHslIGluY3JlbWVudCBteV9jb3VudGVyICV9Cg==</text>
+      <register name="1" type="4">
+        <text>facebook</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>forloop</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGkgY2xhc3M9ImZhIGZhLWh0bWw1Ij48L2k+Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8bGkgZGF0YS10YXJnZXQ9IiNpblNsaWRlciIgZGF0YS1zbGlkZS10bz0iMSI+PC9saT4K</text>
+      <register name="3" type="4">
+        <text>&quot;</text>
       </register>
-      <register name="4" type="4">
-        <text>false</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGkgY2xhc3M9Imljb24tamF2YXNjcmlwdCIiPjwvaT4K</text>
       </register>
       <register name="5" type="4">
-        <text>first_ok</text>
+        <text>shell</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>icon</text>
       </register>
       <register name="7" type="4">
-        <text>}</text>
+        <text>angular</text>
       </register>
       <register name="8" type="4">
-        <text>.landing</text>
+        <text>shell</text>
       </register>
-      <register name="9" type="4">
-        <text>e</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHslIGVsc2UgJQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
