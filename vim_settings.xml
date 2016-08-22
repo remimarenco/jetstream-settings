@@ -441,7 +441,7 @@
         <mark key="^" line="41" column="25" />
         <mark key="." line="41" column="25" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/gonramp/blastXmlToPsl/README.md" timestamp="1471894402124">
+      <file name="$USER_HOME$/Google_Drive/Dev/gonramp/blastXmlToPsl/README.md" timestamp="1471897131050">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
@@ -1250,28 +1250,28 @@
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">KENvbnRhaW5zIGJsYXN0WG1sVG9Qc2wgYmluYXJ5IGZvciBbbGludXgueDg2XzY0XShodHRwOi8vaGdkb3dubG9hZC5zb2UudWNzYy5lZHUvYWRtaW4vZXhlL2xpbnV4Lng4Nl82NC8pKQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">UGxlYXNlIHVzZSBhbm90aGVyIHRvb2wgb3IgY29udGFjdCBtZQo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text encoding="base64">Ymxhc3RYbWxUb1BzbCAtIGNvbnZlcnQgYmxhc3QgWE1MIG91dHB1dCB0byBQU0xzCnVzYWdlOgogICBibGFzdFhtbFRvUHNsIFtvcHRpb25zXSBibGFzdFhtbCBwc2wKCm9wdGlvbnM6CiAgLXNjb3Jlcz1maWxlIC0gV3JpdGUgc2NvcmUgaW5mb3JtYXRpb24gdG8gdGhpcyBmaWxlLiAgRm9ybWF0IGlzOgogICAgICAgc3RyYW5kcyBxTmFtZSBxU3RhcnQgcUVuZCB0TmFtZSB0U3RhcnQgdEVuZCBiaXRzY29yZSBlVmFsIHFEZWYgdERlZgogIC12ZXJib3NlPW4gLSBuID49IDMgcHJpbnRzIGVhY2ggbGluZSBvZiBmaWxlIGFmdGVyIHBhcnNpbmcuCiAgICAgICAgICAgICAgIG4gPj0gNCBkdW1wcyB0aGUgcmVzdWx0IG9mIGVhY2ggcXVlcnkKICAtZVZhbD1uIG4gaXMgZS12YWx1ZSB0aHJlc2hvbGQgdG8gZmlsdGVyIHJlc3VsdHMuIEZvcm1hdCBjYW4gYmUgZWl0aGVyCiAgICAgICAgICBhbiBpbnRlZ2VyLCBkb3VibGUgb3IgMWUtMTAuIERlZmF1bHQgaXMgbm8gZmlsdGVyLgogIC1wc2x4IC0gY3JlYXRlIFBTTFggb3V0cHV0IChpbmNsdWRlcyBzZXF1ZW5jZXMgZm9yIGJsb2NrcykKICAtY29udmVydFRvTnVjQ29vcmRzIC0gY29udmVydCBwcm90ZWluIHRvIG51Y2xlaWMgYWxpZ25tZW50cyB0byBudWNsZWljCiAgIHRvIG51Y2xlaWMgY29vcmRpbmF0ZXMKICAtcU5hbWU9c3JjIC0gZGVmaW5lIGVsZW1lbnQgdXNlZCB0byBvYnRhaW4gdGhlIHFOYW1lLiAgVGhlIGZvbGxvd2luZwogICB2YWx1ZXMgYXJlIHN1cHBvcnQ6CiAgICAgbyBxdWVyeS1JRCAtIHVzZSBjb250ZW50cyBvZiB0aGUgPEl0ZXJhdGlvbl9xdWVyeS1JRD4gZWxlbWVudCBpZiBpdAogICAgICAgZXhpc3RzLCBvdGhlcndpc2UgdXNlIDxCbGFzdE91dHB1dF9xdWVyeS1JRD4KICAgICBvIHF1ZXJ5LWRlZjAgLSB1c2UgdGhlIGZpcnN0IHdoaXRlLXNwYWNlIHNlcGFyYXRlZCB3b3JkIG9mIHRoZQogICAgICAgPEl0ZXJhdGlvbl9xdWVyeS1kZWY+IGVsZW1lbnQgaWYgaXQgZXhpc3RzLCBvdGhlcndpc2UgdGhlIGZpcnN0IHdvcmQKICAgICAgIG9mIDxCbGFzdE91dHB1dF9xdWVyeS1kZWY+LgogICBEZWZhdWx0IGlzIHF1ZXJ5LWRlZjAuCiAgLXROYW1lPXNyYyAtIGRlZmluZSBlbGVtZW50IHVzZWQgdG8gb2J0YWluIHRoZSB0TmFtZS4gIFRoZSBmb2xsb3dpbmcKICAgdmFsdWVzIGFyZSBzdXBwb3J0OgogICAgIG8gSGl0X2lkIC0gdXNlIGNvbnRlbnRzIG9mIHRoZSA8SGl0LWlkPiBlbGVtZW50LgogICAgIG8gSGl0X2RlZjAgLSB1c2UgdGhlIGZpcnN0IHdoaXRlLXNwYWNlIHNlcGFyYXRlZCB3b3JkIG9mIHRoZQogICAgICAgPEhpdF9kZWY+IGVsZW1lbnQuCiAgICAgbyBIaXRfYWNjZXNzaW9uIC0gY29udGVudHMgb2YgdGhlIDxIaXRfYWNjZXNzaW9uPiBlbGVtZW50LgogICBEZWZhdWx0IGlzIEhpdC1kZWYwLgogIC1mb3JjZVBzaUJsYXN0IC0gdHJlYXQgYXMgb3V0cHV0IG9mIFBTSS1CTEFTVC4gYmxhc3QtMi4yLjE2IGFuZCBtYXliZQogICBvdGhlcnMgaW5kZW50aWZ5IHBzaWJsYXN0IGFzIGJsYXN0cC4KT3V0cHV0IG9ubHkgcmVzdWx0cyBvZiBsYXN0IHJvdW5kIGZyb20gUFNJIEJMQVNU</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>label</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>input</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>pslToBed</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">KENvbnRhaW5wc2xUb0JlZCBiaW5hcnkgZm9yIFtsaW51eC54ODZfNjRdKGh0dHA6Ly9oZ2Rvd25sb2FkLnNvZS51Y3NjLmVkdS9hZG1pbi9leGUvbGludXgueDg2XzY0LykpCg==</text>
-      </register>
-      <register name="8" type="4">
-        <text />
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">cyA=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
