@@ -125,6 +125,12 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/pslToBed/pslToBed.xml" timestamp="1471878676976">
+        <mark key="[" line="20" column="23" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/hub_assembly/Bed.py" timestamp="1470936095088">
         <mark key="[" line="35" column="58" />
         <mark key="]" line="37" column="32" />
@@ -136,6 +142,11 @@
         <mark key="]" line="4" column="10" />
         <mark key="." line="4" column="10" />
         <mark key="^" line="4" column="10" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/pslToBed/README.md" timestamp="1471877659218">
+        <mark key="]" line="3" column="58" />
+        <mark key="." line="3" column="58" />
+        <mark key="^" line="3" column="58" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/cloudlaunch-ui/app/components/public-appliances.component.css" timestamp="1467221492836">
         <mark key="[" line="18" column="1" />
@@ -794,7 +805,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>label</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -1214,43 +1225,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>label</text>
       </register>
       <register name="/" type="4">
         <text>contact</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB7JSBpbmNyZW1lbnQgbXlfY291bnRlciAlfQo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGF0YSBuYW1lPSJvdXRwdXQiIGZvcm1hdD0iYmVkIiAvPgo=</text>
       </register>
       <register name="1" type="4">
-        <text>e</text>
+        <text>label</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>m</text>
+        <text>input</text>
       </register>
       <register name="3" type="4">
-        <text>i</text>
+        <text>pslToBed</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KENvbnRhaW5wc2xUb0JlZCBiaW5hcnkgZm9yIFtsaW51eC54ODZfNjRdKGh0dHA6Ly9oZ2Rvd25sb2FkLnNvZS51Y3NjLmVkdS9hZG1pbi9leGUvbGludXgueDg2XzY0LykpCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">LmdpdGlnbm9yZQo=</text>
+      <register name="5" type="4">
+        <text />
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">IyBDcmVhdGVkIGJ5IC5pZ25vcmUK</text>
+      <register name="6" type="4">
+        <text encoding="base64">cyA=</text>
       </register>
       <register name="7" type="4">
-        <text>support plugin (hsz.mobi)</text>
+        <text>e</text>
       </register>
       <register name="8" type="4">
-        <text>facebook</text>
+        <text>m</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGkgY2xhc3M9ImZhIGZhLWh0bWw1Ij48L2k+Cg==</text>
+      <register name="9" type="4">
+        <text>i</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
