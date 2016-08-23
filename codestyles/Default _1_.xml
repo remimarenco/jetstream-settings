@@ -12,7 +12,4 @@
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
-  <codeStyleSettings language="JSON">
-    <option name="WRAP_LONG_LINES" value="true" />
-  </codeStyleSettings>
 </code_scheme>
