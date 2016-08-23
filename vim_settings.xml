@@ -657,12 +657,7 @@
         <mark key="^" line="71" column="20" />
         <mark key="." line="71" column="20" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/jalpc_jekyll_theme/index.html" timestamp="1471923226761">
-        <mark key="[" line="43" column="28" />
-        <mark key="]" line="43" column="28" />
-        <mark key="." line="43" column="28" />
-        <mark key="^" line="43" column="28" />
-      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/jalpc_jekyll_theme/index.html" timestamp="1471925707290" />
       <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/mendel_s_first_law/mendel_s_first_law.py" timestamp="1470500910721">
         <mark key="[" line="52" column="87" />
         <mark key="]" line="52" column="43" />
@@ -817,8 +812,8 @@
       <jump line="6715" column="8" filename="$USER_HOME$/Google_Drive/Dev/jalpc_jekyll_theme/static/css/style_bak.css" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>in collaboration with Washington University - St Louis and George Washington University.&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -1238,7 +1233,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>in collaboration with Washington University - St Louis and George Washington University.&quot;</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>contact</text>
@@ -1246,35 +1241,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICJqc2NvdmVyYWdlcWMiOiAiSnNDb3ZlcmFnZVFDIGlzIGEgcG9ydCwgZnJvbSBKYXZhIHRvIFJlYWN0SlMsIG9mIGEgbmV4dCBnZW5lcmF0aW9uIHNlcXVlbmNpbmcgKE5HUykgcXVhbGl0eSBjb250cm9sIChRQykgcmVwb3J0IGdlbmVyYXRvci4gQnVpbHQgYXMgRnJlZWxhbmNlciBmb3IgR2FsYXh5IFByb2plY3QuIiwKICAgICJwb3Vzc2VfZGVfYmFtYmluIjogIlBvdXNzZSBEZSBCYW1iaW4gaXMgYSB3ZWJzaXRlIGZvciBwYXJlbnRzIHRvIGNyZWF0ZSBhbmQgc2hhcmUgdGhlIGJpcnRobGlzdCBvZiB0aGVpciBjb21pbmcgbmV3Ym9ybi4gQnVpbHQgYXMgQ0VPL0NUTywgaW4gdGhlIHN0YXJ0dXAgaW5jdWJhdG9yIEVNIEx5b24uIgo=</text>
       </register>
-      <register name="1" type="4">
-        <text>in collaboration with Washington University - St Louis and George Washington University.&quot;</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJwb3Vzc2VfZGVfYmFtYmluIjogIkl0IGlzIGEgd2ViIGZvbnQgYXBwbGljYXRpb24gd3JpdHRlbiBieSBBbmd1bGFyanMgYW5kIGRlcGxveWVkIGJ5IEpla3lsbCBvbiBnaXRodWIgKGdoLXBhZ2VzKSwgdGhlIGJhY2tlbmQgcGxhdGZvcm0gaXMgTGVhbmNsb3VkLCB5b3UgY2FuIHVzZSBQYXJzZSBhcyB3ZWxsLiIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGRvIHNvbWV0aGluZ+KApgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJqc2NvdmVyYWdlcWMiOiAiSmFscGMgaVBzIGEgc2ltcGxlLCBiZWF1dGlmdWwgYW5kIHN3aWZ0IHRoZW1lIGZvciBKZWt5bGwuIEl0J3MgcHJldHR5IG1pbmltYWwsIGJ1dCBsZXZlcmFnZXMgbGFyZ2UgdHlwZSBhbmQgZHJhc3RpYyBjb250cmFzdCB0byBtYWtlIGEgc3RhdGVtZW50LCBvbiBhbGwgZGV2aWNlcy4iLAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="4" type="4">
-        <text>buildin</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIDwvc2NyaXB0Pgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJhbmd1bGFyanMiOiAiSXQgaXMgYSB3ZWIgZm9udCBhcHBsaWNhdGlvbiB3cml0dGVuIGJ5IEFuZ3VsYXJqcyBhbmQgZGVwbG95ZWQgYnkgSmVreWxsIG9uIGdpdGh1YiAoZ2gtcGFnZXMpLCB0aGUgYmFja2VuZCBwbGF0Zm9ybSBpcyBMZWFuY2xvdWQsIHlvdSBjYW4gdXNlIFBhcnNlIGFzIHdlbGwuIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJqYWxwYyI6ICJKYWxwYyBpcyBhIHNpbXBsZSwgYmVhdXRpZnVsIGFuZCBzd2lmdCB0aGVtZSBmb3IgSmVreWxsLiBJdCdzIHByZXR0eSBtaW5pbWFsLCBidXQgbGV2ZXJhZ2VzIGxhcmdlIHR5cGUgYW5kIGRyYXN0aWMgY29udHJhc3QgdG8gbWFrZSBhIHN0YXRlbWVudCwgb24gYWxsIGRldmljZXMuIiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJzYXBsYXRmb3JtIjogIlNhcGxhdGZvcm0gaXMgYSBhdXRvbWF0ZWQgc2VydmljZSBmb3Igb3BlcmF0aW9ucywgaXQgaGFzIGFzc2V0IG1hbmFnZW1lbnQsIHByb2plY3QgcmVsZWFzZSwgZGF0YWJhc2UgYWNjZXNzIGZ1bmN0aW9uLCBpdCBjYW4gY29udHJvbCBtYXNzIHNlcnZlcnMuIiwK</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQ+CiAgICAgICAgLy8gQWxlcnQgbWVzc2FnZSB0byBwcmV2ZW50IHRoZSB1c2VyIHRoZSB3ZWJzaXRlIGlzIHVuZGVyIGNvbnN0cnVjdGlvbgogICAgICAgICQoZG9jdW1lbnQpLnJlYWR5KGZ1bmN0aW9uICgpIHsKICAgICAgICAgICAgJAogICAgICAgICAgICAkKCcjdW5kZXJfY29uc3RydWN0aW9uJykub24oJ2Nsb3NlZC5icy5hbGVydCcsIGZ1bmN0aW9uICgpIHsKICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCJDbG9zZWQhIikKICAgICAgICAgICAgfSk7CiAgICAgICAgfSk7CiAgICA8L3NjcmlwdD4K</text>
       </register>
-      <register name="8" type="4">
-        <text>Saplatform is a automated service for operations, it has asset management, project release, database access function, it can control mass servers.</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>angularjs</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1329,9 +1324,9 @@
         <entry>s</entry>
         <entry>q</entry>
         <entry>W</entry>
-        <entry>wq</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>e</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
