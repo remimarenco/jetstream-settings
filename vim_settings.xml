@@ -474,6 +474,11 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/jalpc_jekyll_theme/_includes/index_head.html" timestamp="1472441695607">
+        <mark key="[" line="29" column="44" />
+        <mark key="]" line="29" column="44" />
+        <mark key="." line="29" column="44" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/cloudlaunch-ui/app/components/public-appliances-maps.component.css" timestamp="1467175474795">
         <mark key="[" line="1" column="15" />
         <mark key="]" line="1" column="16" />
@@ -781,8 +786,8 @@
       <jump line="6715" column="8" filename="$USER_HOME$/Google_Drive/Dev/jalpc_jekyll_theme/static/css/style_bak.css" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IHwgcHJlcGVuZDogZmF2aWNvbl9mb2xkZXIgfX0=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -1202,7 +1207,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>: url('../img/landing/header_one.jpg')</text>
+        <text encoding="base64">IHwgcHJlcGVuZDogZmF2aWNvbl9mb2xkZXIgfX0=</text>
       </register>
       <register name="/" type="4">
         <text>contact</text>
@@ -1210,40 +1215,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICJqc2NvdmVyYWdlcWMiOiAiSnNDb3ZlcmFnZVFDIGlzIGEgcG9ydCwgZnJvbSBKYXZhIHRvIFJlYWN0SlMsIG9mIGEgbmV4dCBnZW5lcmF0aW9uIHNlcXVlbmNpbmcgKE5HUykgcXVhbGl0eSBjb250cm9sIChRQykgcmVwb3J0IGdlbmVyYXRvci4gQnVpbHQgYXMgRnJlZWxhbmNlciBmb3IgR2FsYXh5IFByb2plY3QuIiwKICAgICJwb3Vzc2VfZGVfYmFtYmluIjogIlBvdXNzZSBEZSBCYW1iaW4gaXMgYSB3ZWJzaXRlIGZvciBwYXJlbnRzIHRvIGNyZWF0ZSBhbmQgc2hhcmUgdGhlIGJpcnRobGlzdCBvZiB0aGVpciBjb21pbmcgbmV3Ym9ybi4gQnVpbHQgYXMgQ0VPL0NUTywgaW4gdGhlIHN0YXJ0dXAgaW5jdWJhdG9yIEVNIEx5b24uIgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">IHwgcHJlcGVuZDogZmF2aWNvbl9mb2xkZXIgfX0=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBiYWNrZ3JvdW5kLXBvc2l0aW9uOiA1MCUgMDsK</text>
+      <register name="2" type="4">
+        <text>favicon</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">LmxhbmRpbmctcGFnZSAuaGVhZGVyLWJhY2sub25lIHsKICBiYWNrZ3JvdW5kOiB1cmwoJy4uL2ltZy9sYW5kaW5nL2hlYWRlcl9vbmUuanBnJykgNTAlIDAgbm8tcmVwZWF0Owp9Ci5sYW5kaW5nLXBhZ2UgLmhlYWRlci1iYWNrLnR3byB7CiAgYmFja2dyb3VuZDogdXJsKCcuLi9pbWcvbGFuZGluZy9oZWFkZXJfdHdvLmpwZycpIDUwJSAwIG5vLXJlcGVhdDsKfQo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBiYWNrZ3JvdW5kLXJlcGVhdDogbm8tcmVwZWF0Owo=</text>
+      <register name="4" type="4">
+        <text>{</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBiYWNrZ3JvdW5kLXBvc2l0aW9uOiAgNTAlIDA7Cg==</text>
+      <register name="5" type="4">
+        <text>{</text>
       </register>
       <register name="6" type="4">
-        <text>: url('../img/landing/header_one.jpg')</text>
+        <text>&quot;</text>
       </register>
       <register name="7" type="4">
-        <text>.landing-page .header-back.one {
-  background: url('../img/landing/header_one.jpg') 50% 0 no-repeat;
-}
-.landing-page .header-back.two {
-  background: url('../img/landing/header_two.jpg') 50% 0 no-repeat;
-}</text>
+        <text>I am being captured.</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBvdmVyZmxvdzogdmlzaWJsZTsK</text>
+        <text encoding="base64">ICB7JSBhc3NpZ24gZmF2aWNvbl9mb2xkZXIgPSBzaXRlLmJhc2V1cmxzdGF0aWMvaW1nL2Zhdmljb24uaWNvIiAlCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ZC5sYW5kaW5nLXBhZ2UgLmhlYWRlci1iYWNrLm9uZSB7CiAgYmFja2dyb3VuZDogdXJsKCcuLi9pbWcvbGFuZGluZy9oZWFkZXJfb25lLmpwZycpIDUwJSAwIG5vLXJlcGVhdDsKfQoubGFuZGluZy1wYWdlIC5oZWFkZXItYmFjay50d28gewogIGJhY2tncm91bmQ6IHVybCgnLi4vaW1nL2xhbmRpbmcvaGVhZGVyX3R3by5qcGcnKSA1MCUgMCBuby1yZXBlYXQ7Cn0K</text>
+      <register name="9" type="4">
+        <text>}</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
