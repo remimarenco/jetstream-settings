@@ -474,10 +474,10 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/jalpc_jekyll_theme/_includes/index_head.html" timestamp="1472441695607">
-        <mark key="[" line="29" column="44" />
-        <mark key="]" line="29" column="44" />
-        <mark key="." line="29" column="44" />
+      <file name="$USER_HOME$/Google_Drive/Dev/jalpc_jekyll_theme/_includes/index_head.html" timestamp="1472443296076">
+        <mark key="[" line="11" column="96" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/cloudlaunch-ui/app/components/public-appliances-maps.component.css" timestamp="1467175474795">
         <mark key="[" line="1" column="15" />
@@ -652,6 +652,12 @@
         <mark key="^" line="52" column="43" />
         <mark key="." line="52" column="43" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/gonramp/hub-archive-creator/hubArchiveCreator.xml" timestamp="1472843729709">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="16" column="37" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/regtools_junctions_extract/regtools_junctions_extract.xml" timestamp="1469216917978">
         <mark key="[" line="1" column="17" />
         <mark key="]" line="1" column="17" />
@@ -786,8 +792,8 @@
       <jump line="6715" column="8" filename="$USER_HOME$/Google_Drive/Dev/jalpc_jekyll_theme/static/css/style_bak.css" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IHwgcHJlcGVuZDogZmF2aWNvbl9mb2xkZXIgfX0=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8cmVxdWlyZW1lbnQgdHlwZT0icGFja2FnZSIgdmVyc2lvbj0iMzEyIj51Y3NjX3Rvb2xzPC9yZXF1aXJlbWVudD4KICAgICAgICA8cmVxdWlyZW1lbnQgdHlwZT0icGFja2FnZSIgdmVyc2lvbj0iMC4wLjEiPmdmZjNUb0dlbmVQcmVkPC9yZXF1aXJlbWVudD4KICAgICAgICA8cmVxdWlyZW1lbnQgdHlwZT0icGFja2FnZSIgdmVyc2lvbj0iMC4wLjEiPmd0ZlRvR2VuZVByZWQ8L3JlcXVpcmVtZW50PgogICAgICAgIDxyZXF1aXJlbWVudCB0eXBlPSJwYWNrYWdlIiB2ZXJzaW9uPSIwLjAuMSI+Z2VuZVByZWRUb0JlZDwvcmVxdWlyZW1lbnQ+CiAgICAgICAgPHJlcXVpcmVtZW50IHR5cGU9InBhY2thZ2UiIHZlcnNpb249IjAuMC4xIj5nZW5lUHJlZFRvQmlnR2VuZVByZWQ8L3JlcXVpcmVtZW50PgogICAgICAgIDxyZXF1aXJlbWVudCB0eXBlPSJwYWNrYWdlIiB2ZXJzaW9uPSIxLjIiPnNhbXRvb2xzPC9yZXF1aXJlbWVudD4K</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -1207,7 +1213,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHwgcHJlcGVuZDogZmF2aWNvbl9mb2xkZXIgfX0=</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>contact</text>
@@ -1215,35 +1221,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICJqc2NvdmVyYWdlcWMiOiAiSnNDb3ZlcmFnZVFDIGlzIGEgcG9ydCwgZnJvbSBKYXZhIHRvIFJlYWN0SlMsIG9mIGEgbmV4dCBnZW5lcmF0aW9uIHNlcXVlbmNpbmcgKE5HUykgcXVhbGl0eSBjb250cm9sIChRQykgcmVwb3J0IGdlbmVyYXRvci4gQnVpbHQgYXMgRnJlZWxhbmNlciBmb3IgR2FsYXh5IFByb2plY3QuIiwKICAgICJwb3Vzc2VfZGVfYmFtYmluIjogIlBvdXNzZSBEZSBCYW1iaW4gaXMgYSB3ZWJzaXRlIGZvciBwYXJlbnRzIHRvIGNyZWF0ZSBhbmQgc2hhcmUgdGhlIGJpcnRobGlzdCBvZiB0aGVpciBjb21pbmcgbmV3Ym9ybi4gQnVpbHQgYXMgQ0VPL0NUTywgaW4gdGhlIHN0YXJ0dXAgaW5jdWJhdG9yIEVNIEx5b24uIgo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IHwgcHJlcGVuZDogZmF2aWNvbl9mb2xkZXIgfX0=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICA8cmVxdWlyZW1lbnQgdHlwZT0icGFja2FnZSIgdmVyc2lvbj0iMzEyIj51Y3NjX3Rvb2xzPC9yZXF1aXJlbWVudD4KICAgICAgICA8cmVxdWlyZW1lbnQgdHlwZT0icGFja2FnZSIgdmVyc2lvbj0iMC4wLjEiPmdmZjNUb0dlbmVQcmVkPC9yZXF1aXJlbWVudD4KICAgICAgICA8cmVxdWlyZW1lbnQgdHlwZT0icGFja2FnZSIgdmVyc2lvbj0iMC4wLjEiPmd0ZlRvR2VuZVByZWQ8L3JlcXVpcmVtZW50PgogICAgICAgIDxyZXF1aXJlbWVudCB0eXBlPSJwYWNrYWdlIiB2ZXJzaW9uPSIwLjAuMSI+Z2VuZVByZWRUb0JlZDwvcmVxdWlyZW1lbnQ+CiAgICAgICAgPHJlcXVpcmVtZW50IHR5cGU9InBhY2thZ2UiIHZlcnNpb249IjAuMC4xIj5nZW5lUHJlZFRvQmlnR2VuZVByZWQ8L3JlcXVpcmVtZW50PgogICAgICAgIDxyZXF1aXJlbWVudCB0eXBlPSJwYWNrYWdlIiB2ZXJzaW9uPSIxLjIiPnNhbXRvb2xzPC9yZXF1aXJlbWVudD4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>favicon</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICA8cmVxdWlyZW1lbnQgdHlwZT0icGFja2FnZSIgdmVyc2lvbj0iMzEyIj51Y3NjX3Rvb2xzPC9yZXF1aXJlbWVudD4KICAgICAgICA8cmVxdWlyZW1lbnQgdHlwZT0icGFja2FnZSIgdmVyc2lvbj0iMC4wLjEiPmdmZjNUb0dlbmVQcmVkPC9yZXF1aXJlbWVudD4KICAgICAgICA8cmVxdWlyZW1lbnQgdHlwZT0icGFja2FnZSIgdmVyc2lvbj0iMC4wLjEiPmd0ZlRvR2VuZVByZWQ8L3JlcXVpcmVtZW50PgogICAgICAgIDxyZXF1aXJlbWVudCB0eXBlPSJwYWNrYWdlIiB2ZXJzaW9uPSIwLjAuMSI+Z2VuZVByZWRUb0JlZDwvcmVxdWlyZW1lbnQ+CiAgICAgICAgPHJlcXVpcmVtZW50IHR5cGU9InBhY2thZ2UiIHZlcnNpb249IjAuMC4xIj5nZW5lUHJlZFRvQmlnR2VuZVByZWQ8L3JlcXVpcmVtZW50PgogICAgICAgIDxyZXF1aXJlbWVudCB0eXBlPSJwYWNrYWdlIiB2ZXJzaW9uPSIxLjIiPnNhbXRvb2xzPC9yZXF1aXJlbWVudD4K</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICA8cmVxdWlyZW1lbnQgdHlwZT0icGFja2FnZSIgdmVyc2lvbj0iMzEyIj51Y3NjX3Rvb2xzPC9yZXF1aXJlbWVudD4K</text>
       </register>
       <register name="4" type="4">
-        <text>{</text>
+        <text />
       </register>
       <register name="5" type="4">
-        <text>{</text>
+        <text>.</text>
       </register>
       <register name="6" type="4">
-        <text>&quot;</text>
+        <text>1</text>
       </register>
       <register name="7" type="4">
-        <text>I am being captured.</text>
+        <text>3</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICB7JSBhc3NpZ24gZmF2aWNvbl9mb2xkZXIgPSBzaXRlLmJhc2V1cmxzdGF0aWMvaW1nL2Zhdmljb24uaWNvIiAlCg==</text>
+      <register name="8" type="4">
+        <text>324</text>
       </register>
       <register name="9" type="4">
-        <text>}</text>
+        <text>324</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1298,9 +1304,9 @@
         <entry>s</entry>
         <entry>q</entry>
         <entry>W</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>e</entry>
         <entry>wq</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
