@@ -279,6 +279,12 @@
         <mark key="^" line="9" column="14" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/gonramp/hub-archive-creator/trackHub/tracks_partial.py" timestamp="1472845843806">
+        <mark key="[" line="41" column="11" />
+        <mark key="]" line="34" column="25" />
+        <mark key="^" line="34" column="25" />
+        <mark key="." line="34" column="25" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/test-data/add_datatype/datatypes_conf.xml" timestamp="1462563060424">
         <mark key="[" line="444" column="0" />
         <mark key="]" line="444" column="1" />
@@ -652,7 +658,7 @@
         <mark key="^" line="52" column="43" />
         <mark key="." line="52" column="43" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/gonramp/hub-archive-creator/hubArchiveCreator.xml" timestamp="1472843729709">
+      <file name="$USER_HOME$/Google_Drive/Dev/gonramp/hub-archive-creator/hubArchiveCreator.xml" timestamp="1472845240360">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="^" line="16" column="37" />
