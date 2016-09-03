@@ -6,6 +6,12 @@
       <file name="/start_script.py" timestamp="1471759934918">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/Independant_alleles/independent_alleles.py" timestamp="1472913110511">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="22" />
+        <mark key="^" line="1" column="22" />
+        <mark key="." line="1" column="22" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/hub_assembly/Gtf.py" timestamp="1470935320311">
         <mark key="[" line="43" column="40" />
         <mark key="]" line="43" column="76" />
@@ -163,11 +169,6 @@
         <mark key="." line="4" column="10" />
         <mark key="^" line="4" column="10" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/pslToBed/README.md" timestamp="1471877659218">
-        <mark key="]" line="3" column="58" />
-        <mark key="." line="3" column="58" />
-        <mark key="^" line="3" column="58" />
-      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/cloudlaunch-ui/app/components/public-appliances.component.css" timestamp="1467221492836">
         <mark key="[" line="18" column="1" />
         <mark key="]" line="21" column="20" />
@@ -198,6 +199,9 @@
         <mark key="." line="2" column="50" />
         <mark key="^" line="2" column="40" />
       </file>
+      <file name="/Python Console" timestamp="1472913024071">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/pslToBed/.shed.yml" timestamp="1471881493032">
         <mark key="[" line="1" column="13" />
         <mark key="]" line="1" column="14" />
@@ -221,10 +225,11 @@
         <mark key="^" line="16" column="75" />
         <mark key="." line="16" column="75" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/jalpc_jekyll_theme/_data/carousel.yml" timestamp="1471762882293">
-        <mark key="]" line="3" column="3" />
-        <mark key="^" line="3" column="3" />
-        <mark key="." line="3" column="3" />
+      <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/independant_alleles/independant_alleles.py" timestamp="1472913497997">
+        <mark key="[" line="4" column="10" />
+        <mark key="]" line="4" column="9" />
+        <mark key="^" line="4" column="9" />
+        <mark key="." line="4" column="9" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/jalpc_jekyll_theme/_config.yml" timestamp="1471932785035">
         <mark key="[" line="56" column="4" />
@@ -350,11 +355,11 @@
         <mark key="^" line="17" column="48" />
         <mark key="." line="17" column="48" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/main.py" timestamp="1471627835618">
+      <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/main.py" timestamp="1472913468326">
         <mark key="[" line="6" column="3" />
-        <mark key="]" line="6" column="25" />
-        <mark key="^" line="6" column="25" />
-        <mark key="." line="6" column="25" />
+        <mark key="]" line="6" column="3" />
+        <mark key="^" line="3" column="50" />
+        <mark key="." line="6" column="3" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Gtf.py" timestamp="1470357858799">
         <mark key="[" line="45" column="33" />
@@ -799,7 +804,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>enumerating_gene_orders</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -1219,7 +1224,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>enumerating_gene_orders</text>
       </register>
       <register name="/" type="4">
         <text>contact</text>
@@ -1228,34 +1233,34 @@
         <text encoding="base64">ICAgICJqc2NvdmVyYWdlcWMiOiAiSnNDb3ZlcmFnZVFDIGlzIGEgcG9ydCwgZnJvbSBKYXZhIHRvIFJlYWN0SlMsIG9mIGEgbmV4dCBnZW5lcmF0aW9uIHNlcXVlbmNpbmcgKE5HUykgcXVhbGl0eSBjb250cm9sIChRQykgcmVwb3J0IGdlbmVyYXRvci4gQnVpbHQgYXMgRnJlZWxhbmNlciBmb3IgR2FsYXh5IFByb2plY3QuIiwKICAgICJwb3Vzc2VfZGVfYmFtYmluIjogIlBvdXNzZSBEZSBCYW1iaW4gaXMgYSB3ZWJzaXRlIGZvciBwYXJlbnRzIHRvIGNyZWF0ZSBhbmQgc2hhcmUgdGhlIGJpcnRobGlzdCBvZiB0aGVpciBjb21pbmcgbmV3Ym9ybi4gQnVpbHQgYXMgQ0VPL0NUTywgaW4gdGhlIHN0YXJ0dXAgaW5jdWJhdG9yIEVNIEx5b24uIgo=</text>
       </register>
       <register name="1" type="4">
-        <text />
+        <text>enumerating_gene_orders</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ZnJvbSBlbnVtZXJhdGluZ19nZW5lX29yZGVycyBpbXBvcnQgZW51bWVyYXRpbmdfZ2VuZV9vcmRlcnMK</text>
+      </register>
+      <register name="3" type="4">
+        <text />
+      </register>
+      <register name="4" type="4">
         <text>explore</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlbHNlOgo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcGF0aHMgPSBjb21wb3NpdGVfbmFtZS5zcGxpdCgnLycpCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHBhdGggaW4gd2Fsa2FibGVfdHJlZVtwYXRoXToK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIHBhdGggaW4gcGF0aHM6Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9wdF90ZXh0ID0gJyAob3B0aW9uYWwpJwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgY29tcG9zZGRpdGVfZmlsZS5vcHRpb25hbDoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIHBhdGggaW4gcGF0aHM6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
