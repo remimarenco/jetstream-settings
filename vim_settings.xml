@@ -225,11 +225,11 @@
         <mark key="^" line="16" column="75" />
         <mark key="." line="16" column="75" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/independant_alleles/independant_alleles.py" timestamp="1472923192093">
-        <mark key="[" line="3" column="11" />
-        <mark key="]" line="4" column="9" />
-        <mark key="^" line="4" column="9" />
-        <mark key="." line="4" column="9" />
+      <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/independant_alleles/independant_alleles.py" timestamp="1472924347882">
+        <mark key="[" line="34" column="33" />
+        <mark key="]" line="34" column="33" />
+        <mark key="^" line="34" column="10" />
+        <mark key="." line="34" column="33" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/jalpc_jekyll_theme/_config.yml" timestamp="1471932785035">
         <mark key="[" line="56" column="4" />
@@ -804,7 +804,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>enumerating_gene_orders</text>
+        <text>items</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -1224,43 +1224,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>enumerating_gene_orders</text>
+        <text>items</text>
       </register>
       <register name="/" type="4">
         <text>contact</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICJqc2NvdmVyYWdlcWMiOiAiSnNDb3ZlcmFnZVFDIGlzIGEgcG9ydCwgZnJvbSBKYXZhIHRvIFJlYWN0SlMsIG9mIGEgbmV4dCBnZW5lcmF0aW9uIHNlcXVlbmNpbmcgKE5HUykgcXVhbGl0eSBjb250cm9sIChRQykgcmVwb3J0IGdlbmVyYXRvci4gQnVpbHQgYXMgRnJlZWxhbmNlciBmb3IgR2FsYXh5IFByb2plY3QuIiwKICAgICJwb3Vzc2VfZGVfYmFtYmluIjogIlBvdXNzZSBEZSBCYW1iaW4gaXMgYSB3ZWJzaXRlIGZvciBwYXJlbnRzIHRvIGNyZWF0ZSBhbmQgc2hhcmUgdGhlIGJpcnRobGlzdCBvZiB0aGVpciBjb21pbmcgbmV3Ym9ybi4gQnVpbHQgYXMgQ0VPL0NUTywgaW4gdGhlIHN0YXJ0dXAgaW5jdWJhdG9yIEVNIEx5b24uIgo=</text>
+      <register name="0" type="4">
+        <text>r key, value in proba_group_child.i</text>
       </register>
       <register name="1" type="4">
-        <text>enumerating_gene_orders</text>
+        <text>items</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBlbnVtZXJhdGluZ19nZW5lX29yZGVycyBpbXBvcnQgZW51bWVyYXRpbmdfZ2VuZV9vcmRlcnMK</text>
+      <register name="2" type="4">
+        <text>value</text>
       </register>
       <register name="3" type="4">
-        <text />
+        <text encoding="base64">IAogICAgcHJvYmFfZ3JvdXBCX2NoaWxkID0gewogICAgICAgICdCQic6IDAsCiAgICAgICAgJ0JiJzogMCwKICAgICAgICAnYmInOiAwCiAgICB9</text>
       </register>
-      <register name="4" type="4">
-        <text>explore</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHByb2JhX2dyb3VwX0JiX2NoaWxkCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgIHByb2JhX2dyb3VwX0FhX2NoaWxkID0gW10K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGF0aHMgPSBjb21wb3NpdGVfbmFtZS5zcGxpdCgnLycpCg==</text>
+        <text encoding="base64">ICAgIGdyb3VwQl9tYXRlID0gWydCJywgJ2InXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGdyb3VwQV9tYXRlID0gWydBJywgJ2EnXQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHBhdGggaW4gd2Fsa2FibGVfdHJlZVtwYXRoXToK</text>
+      <register name="8" type="4">
+        <text>enumerating_gene_orders</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIHBhdGggaW4gcGF0aHM6Cg==</text>
+        <text encoding="base64">ZnJvbSBlbnVtZXJhdGluZ19nZW5lX29yZGVycyBpbXBvcnQgZW51bWVyYXRpbmdfZ2VuZV9vcmRlcnMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
