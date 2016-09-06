@@ -281,11 +281,11 @@
         <mark key="^" line="9" column="14" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/gonramp/hub-archive-creator/trackHub/tracks_partial.py" timestamp="1473178513835">
-        <mark key="[" line="54" column="40" />
-        <mark key="]" line="54" column="52" />
-        <mark key="." line="54" column="52" />
-        <mark key="^" line="54" column="52" />
+      <file name="$USER_HOME$/Google_Drive/Dev/gonramp/hub-archive-creator/trackHub/tracks_partial.py" timestamp="1473186054612">
+        <mark key="[" line="54" column="32" />
+        <mark key="]" line="54" column="43" />
+        <mark key="." line="54" column="43" />
+        <mark key="^" line="54" column="43" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/test-data/add_datatype/datatypes_conf.xml" timestamp="1462563060424">
         <mark key="[" line="444" column="0" />
@@ -813,7 +813,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>space + composite_name</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -1233,7 +1233,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>space + composite_name</text>
       </register>
       <register name="/" type="4">
         <text>contact</text>
@@ -1242,38 +1242,38 @@
         <text encoding="base64">ICA8bGluayBocmVmPSJ7eyJzdGF0aWMvY3NzL3N0eWxlLmNzcyJ8IHByZXBlbmQ6IHNpdGUuYmFzZXVybCB9fSIgcmVsPSJzdHlsZXNoZWV0Ij4K</text>
       </register>
       <register name="1" type="4">
-        <text />
+        <text>space + composite_name</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>Depth</text>
+        <text />
       </register>
       <register name="3" type="4">
+        <text>Depth</text>
+      </register>
+      <register name="4" type="4">
         <text>@media (min-width: 768px) and (max-width: 1024px) {
     .collapse {
         display: none !important;
     }
 }</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">Ci5sYW5kaW5nLXBhZ2UgLm5hdmJhci1kZWZhdWx0IC5uYXZiYXItYnJhbmR7CiAgICBiYWNrZ3JvdW5kOiByZWQ7Cn0=</text>
-      </register>
       <register name="5" type="4">
-        <text>style</text>
+        <text encoding="base64">Ci5sYW5kaW5nLXBhZ2UgLm5hdmJhci1kZWZhdWx0IC5uYXZiYXItYnJhbmR7CiAgICBiYWNrZ3JvdW5kOiByZWQ7Cn0=</text>
       </register>
       <register name="6" type="4">
         <text>style</text>
       </register>
       <register name="7" type="4">
-        <text>Resume</text>
+        <text>style</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">cmVzdW1lLnJlbWlvbnJhbXAuY29tIiA=</text>
+        <text>Resume</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICAgPGEgY2xhc3M9InBhZ2Utc2Nyb2xsIiBocmVmPSIje3sgYW5jLmlkIH19Ij4=</text>
+        <text encoding="base64">cmVzdW1lLnJlbWlvbnJhbXAuY29tIiA=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
