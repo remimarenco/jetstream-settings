@@ -204,6 +204,13 @@
         <mark key="]" line="1" column="14" />
         <mark key="." line="1" column="14" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/gonramp/hub-archive-creator/templates/display.txt" timestamp="1473202946422">
+        <mark key="'" line="7" column="22" />
+        <mark key="[" line="19" column="17" />
+        <mark key="]" line="19" column="12" />
+        <mark key="." line="19" column="12" />
+        <mark key="^" line="19" column="20" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/jalpc_jekyll_theme/static/locales/cn.json" timestamp="1471758604585">
         <mark key="[" line="10" column="5" />
         <mark key="]" line="10" column="11" />
@@ -281,11 +288,11 @@
         <mark key="^" line="9" column="14" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/gonramp/hub-archive-creator/trackHub/tracks_partial.py" timestamp="1473198890541">
-        <mark key="[" line="54" column="32" />
-        <mark key="]" line="54" column="43" />
-        <mark key="." line="54" column="43" />
-        <mark key="^" line="54" column="43" />
+      <file name="$USER_HOME$/Google_Drive/Dev/gonramp/hub-archive-creator/trackHub/tracks_partial.py" timestamp="1473200691170">
+        <mark key="[" line="54" column="44" />
+        <mark key="]" line="49" column="0" />
+        <mark key="^" line="51" column="43" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/test-data/add_datatype/datatypes_conf.xml" timestamp="1462563060424">
         <mark key="[" line="444" column="0" />
@@ -322,6 +329,7 @@
         <mark key="^" line="39" column="63" />
         <mark key="." line="39" column="63" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/gonramp/hub-archive-creator/hubArchiveCreator.py" timestamp="1473200885581" />
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/__init__.py" timestamp="1470090333445">
         <mark key="[" line="13" column="17" />
         <mark key="]" line="14" column="16" />
@@ -525,6 +533,11 @@
         <mark key="." line="23" column="13" />
         <mark key="^" line="23" column="13" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/gonramp/hub-archive-creator/TrackHub.py" timestamp="1473201513653">
+        <mark key="[" line="91" column="32" />
+        <mark key="]" line="91" column="32" />
+        <mark key="." line="91" column="32" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/cloudlaunch-ui/app/components/public-appliances-maps.component.html" timestamp="1467187057521">
         <mark key="[" line="23" column="88" />
         <mark key="]" line="23" column="88" />
@@ -710,7 +723,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="0" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/models.py" />
       <jump line="38" column="66" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/urls.py" />
       <jump line="35" column="5" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/multi_fasta_glimmerhmm/multi_glimmer.sh" />
       <jump line="159" column="41" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/TrackHub.py" />
@@ -810,10 +822,11 @@
       <jump line="11" column="24" filename="$USER_HOME$/Google_Drive/Dev/jalpc_jekyll_theme/static/locales/fr.json" />
       <jump line="14" column="26" filename="$USER_HOME$/Google_Drive/Dev/jalpc_jekyll_theme/static/locales/fr.json" />
       <jump line="6715" column="8" filename="$USER_HOME$/Google_Drive/Dev/jalpc_jekyll_theme/static/css/style_bak.css" />
+      <jump line="7" column="22" filename="$USER_HOME$/Google_Drive/Dev/gonramp/hub-archive-creator/templates/display.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>space + composite_name</text>
+        <text>len(</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -1233,7 +1246,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>space + composite_name</text>
+        <text>len(</text>
       </register>
       <register name="/" type="4">
         <text>contact</text>
@@ -1242,38 +1255,34 @@
         <text encoding="base64">ICA8bGluayBocmVmPSJ7eyJzdGF0aWMvY3NzL3N0eWxlLmNzcyJ8IHByZXBlbmQ6IHNpdGUuYmFzZXVybCB9fSIgcmVsPSJzdHlsZXNoZWV0Ij4K</text>
       </register>
       <register name="1" type="4">
-        <text>space + composite_name</text>
+        <text>len(</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text />
+        <text>﻿</text>
       </register>
       <register name="3" type="4">
-        <text>Depth</text>
+        <text>s</text>
       </register>
       <register name="4" type="4">
-        <text>@media (min-width: 768px) and (max-width: 1024px) {
-    .collapse {
-        display: none !important;
-    }
-}</text>
+        <text>:</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">Ci5sYW5kaW5nLXBhZ2UgLm5hdmJhci1kZWZhdWx0IC5uYXZiYXItYnJhbmR7CiAgICBiYWNrZ3JvdW5kOiByZWQ7Cn0=</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>style</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzcGFjZSA9ICdcdCcgKiBsZXZlbAo=</text>
       </register>
-      <register name="7" type="4">
-        <text>style</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjIEluZGVudCBhcyBtdWNoIGFzIGxldmVsCg==</text>
       </register>
       <register name="8" type="4">
-        <text>Resume</text>
+        <text>space + composite_name</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">cmVzdW1lLnJlbWlvbnJhbXAuY29tIiA=</text>
+        <text />
       </register>
       <register name=":" type="4">
         <text>w</text>
