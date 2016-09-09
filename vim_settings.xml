@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/start_script.py" timestamp="1471759934918">
+      <file name="/start_script.py" timestamp="1473449857882">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/BioInfo Learning/Rosalind/Independant_alleles/independent_alleles.py" timestamp="1472913110511">
@@ -136,6 +136,11 @@
         <mark key="^" line="12" column="7" />
         <mark key="." line="12" column="7" />
       </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/aws-watchdog/.gitignore" timestamp="1473449780747">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/glimmer_hmm/readme.txt" timestamp="1468397441214">
         <mark key="[" line="47" column="18" />
         <mark key="]" line="47" column="44" />
@@ -204,12 +209,12 @@
         <mark key="]" line="1" column="14" />
         <mark key="." line="1" column="14" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/gonramp/hub-archive-creator/templates/display.txt" timestamp="1473202946422">
+      <file name="$USER_HOME$/Google_Drive/Dev/gonramp/hub-archive-creator/templates/display.txt" timestamp="1473214470944">
         <mark key="'" line="7" column="22" />
-        <mark key="[" line="19" column="17" />
-        <mark key="]" line="19" column="12" />
-        <mark key="." line="19" column="12" />
-        <mark key="^" line="19" column="20" />
+        <mark key="[" line="29" column="47" />
+        <mark key="]" line="29" column="46" />
+        <mark key="^" line="29" column="46" />
+        <mark key="." line="29" column="46" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/jalpc_jekyll_theme/static/locales/cn.json" timestamp="1471758604585">
         <mark key="[" line="10" column="5" />
@@ -288,7 +293,7 @@
         <mark key="^" line="9" column="14" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/gonramp/hub-archive-creator/trackHub/tracks_partial.py" timestamp="1473200691170">
+      <file name="$USER_HOME$/Google_Drive/Dev/gonramp/hub-archive-creator/trackHub/tracks_partial.py" timestamp="1473205300809">
         <mark key="[" line="54" column="44" />
         <mark key="]" line="49" column="0" />
         <mark key="^" line="51" column="43" />
@@ -329,7 +334,6 @@
         <mark key="^" line="39" column="63" />
         <mark key="." line="39" column="63" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/gonramp/hub-archive-creator/hubArchiveCreator.py" timestamp="1473200885581" />
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/__init__.py" timestamp="1470090333445">
         <mark key="[" line="13" column="17" />
         <mark key="]" line="14" column="16" />
@@ -378,17 +382,18 @@
         <mark key="^" line="288" column="33" />
         <mark key="." line="287" column="0" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/jalpc_jekyll_theme/static/locales/fr.json" timestamp="1473119731769">
+      <file name="$USER_HOME$/Google_Drive/Dev/jalpc_jekyll_theme/static/locales/fr.json" timestamp="1473273308810">
         <mark key="'" line="16" column="26" />
-        <mark key="[" line="13" column="15" />
-        <mark key="]" line="13" column="15" />
-        <mark key="." line="13" column="15" />
+        <mark key="[" line="32" column="155" />
+        <mark key="]" line="32" column="155" />
+        <mark key="." line="32" column="155" />
         <mark key="^" line="11" column="9" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/jalpc_jekyll_theme/static/locales/en.json" timestamp="1473119544855">
-        <mark key="[" line="11" column="24" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/Google_Drive/Dev/jalpc_jekyll_theme/static/locales/en.json" timestamp="1473273188759">
+        <mark key="[" line="43" column="41" />
+        <mark key="]" line="73" column="89" />
+        <mark key="." line="73" column="89" />
+        <mark key="^" line="73" column="89" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/admin.py" timestamp="1467176787170">
         <mark key="[" line="76" column="53" />
@@ -533,10 +538,12 @@
         <mark key="." line="23" column="13" />
         <mark key="^" line="23" column="13" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/gonramp/hub-archive-creator/TrackHub.py" timestamp="1473201513653">
-        <mark key="[" line="91" column="32" />
-        <mark key="]" line="91" column="32" />
-        <mark key="." line="91" column="32" />
+      <file name="$USER_HOME$/Google_Drive/Dev/gonramp/hub-archive-creator/TrackHub.py" timestamp="1473214762154">
+        <mark key="'" line="107" column="64" />
+        <mark key="[" line="117" column="62" />
+        <mark key="]" line="117" column="69" />
+        <mark key="^" line="117" column="69" />
+        <mark key="." line="117" column="69" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/cloudlaunch-ui/app/components/public-appliances-maps.component.html" timestamp="1467187057521">
         <mark key="[" line="23" column="88" />
@@ -680,17 +687,19 @@
         <mark key="^" line="52" column="43" />
         <mark key="." line="52" column="43" />
       </file>
-      <file name="$USER_HOME$/Google_Drive/Dev/gonramp/hub-archive-creator/hubArchiveCreator.xml" timestamp="1472845240360">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="16" column="37" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/Google_Drive/Dev/gonramp/hub-archive-creator/hubArchiveCreator.xml" timestamp="1473215142595">
+        <mark key="[" line="15" column="72" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/regtools_junctions_extract/regtools_junctions_extract.xml" timestamp="1469216917978">
         <mark key="[" line="1" column="17" />
         <mark key="]" line="1" column="17" />
         <mark key="^" line="16" column="7" />
         <mark key="." line="16" column="7" />
+      </file>
+      <file name="$USER_HOME$/Google_Drive/Dev/gonramp/hub-archive-creator/todo.md" timestamp="1473214814405">
+        <mark key="[" line="57" column="93" />
       </file>
       <file name="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/Track.py" timestamp="1464291588140">
         <mark key="[" line="9" column="0" />
@@ -723,7 +732,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="66" filename="$USER_HOME$/Google_Drive/Dev/launcher/cloudlaunch/django-cloudlaunch/baselaunch/urls.py" />
       <jump line="35" column="5" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/multi_fasta_glimmerhmm/multi_glimmer.sh" />
       <jump line="159" column="41" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/TrackHub.py" />
       <jump line="4" column="7" filename="$USER_HOME$/Google_Drive/Dev/galaxy_remi/tools/hub_assembly/TrackHub.py" />
@@ -823,10 +831,11 @@
       <jump line="14" column="26" filename="$USER_HOME$/Google_Drive/Dev/jalpc_jekyll_theme/static/locales/fr.json" />
       <jump line="6715" column="8" filename="$USER_HOME$/Google_Drive/Dev/jalpc_jekyll_theme/static/css/style_bak.css" />
       <jump line="7" column="22" filename="$USER_HOME$/Google_Drive/Dev/gonramp/hub-archive-creator/templates/display.txt" />
+      <jump line="111" column="64" filename="$USER_HOME$/Google_Drive/Dev/gonramp/hub-archive-creator/TrackHub.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>len(</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyBDcmVhdGVkIGJ5IC5pZ25vcmUgc3VwcG9ydCBwbHVnaW4gKGhzei5tb2JpKQo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -1246,43 +1255,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>len(</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text>contact</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICA8bGluayBocmVmPSJ7eyJzdGF0aWMvY3NzL3N0eWxlLmNzcyJ8IHByZXBlbmQ6IHNpdGUuYmFzZXVybCB9fSIgcmVsPSJzdHlsZXNoZWV0Ij4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YSBocmVmPSIke3ZlcnRleH0iPiR7dmVydGV4fTwvYT4K</text>
       </register>
-      <register name="1" type="4">
-        <text>len(</text>
+      <register name="1" type="2">
+        <text encoding="base64">IyBDcmVhdGVkIGJ5IC5pZ25vcmUgc3VwcG9ydCBwbHVnaW4gKGhzei5tb2JpKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>﻿</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="3" type="4">
-        <text>s</text>
+        <text>r</text>
       </register>
       <register name="4" type="4">
-        <text>:</text>
+        <text>b</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">PA==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzcGFjZSA9ICdcdCcgKiBsZXZlbAo=</text>
+      <register name="6" type="4">
+        <text />
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjIEluZGVudCBhcyBtdWNoIGFzIGxldmVsCg==</text>
+      <register name="7" type="4">
+        <text>a</text>
       </register>
       <register name="8" type="4">
-        <text>space + composite_name</text>
+        <text>v&quot;</text>
       </register>
       <register name="9" type="4">
-        <text />
+        <text>ertex[1]}</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

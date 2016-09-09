@@ -95,6 +95,7 @@
         <entry key="/Library/Frameworks/Python.framework/Versions/3.5/bin/python3.5" value="false" />
         <entry key="$USER_HOME$/Google_Drive/Dev/galaxy_env/bin/python" value="false" />
         <entry key="$USER_HOME$/Google_Drive/Dev/launcher/venv/bin/python3.5" value="false" />
+        <entry key="$USER_HOME$/Google_Drive/Dev/miniconda2/envs/aws-watchdog/bin/python" value="false" />
         <entry key="$USER_HOME$/Google_Drive/Dev/planemo_remi_env/bin/python" value="false" />
         <entry key="$USER_HOME$/Google_Drive/Dev/todotica_env/bin/python" value="false" />
         <entry key="sftp://svc_galaxy@161.253.199.24:22/home/svc_galaxy/remi/galaxy_env/bin/python" value="false" />
@@ -105,6 +106,7 @@
         <entry key="/Library/Frameworks/Python.framework/Versions/3.5/bin/python3.5" value="false" />
         <entry key="$USER_HOME$/Google_Drive/Dev/galaxy_env/bin/python" value="true" />
         <entry key="$USER_HOME$/Google_Drive/Dev/launcher/venv/bin/python3.5" value="false" />
+        <entry key="$USER_HOME$/Google_Drive/Dev/miniconda2/envs/aws-watchdog/bin/python" value="false" />
         <entry key="$USER_HOME$/Google_Drive/Dev/planemo_remi_env/bin/python" value="false" />
         <entry key="$USER_HOME$/Google_Drive/Dev/todotica_env/bin/python" value="false" />
         <entry key="sftp://svc_galaxy@161.253.199.24:22/home/svc_galaxy/remi/galaxy_env/bin/python" value="false" />
@@ -115,6 +117,7 @@
         <entry key="/Library/Frameworks/Python.framework/Versions/3.5/bin/python3.5" value="false" />
         <entry key="$USER_HOME$/Google_Drive/Dev/galaxy_env/bin/python" value="false" />
         <entry key="$USER_HOME$/Google_Drive/Dev/launcher/venv/bin/python3.5" value="false" />
+        <entry key="$USER_HOME$/Google_Drive/Dev/miniconda2/envs/aws-watchdog/bin/python" value="false" />
         <entry key="$USER_HOME$/Google_Drive/Dev/planemo_remi_env/bin/python" value="false" />
         <entry key="$USER_HOME$/Google_Drive/Dev/todotica_env/bin/python" value="false" />
         <entry key="sftp://svc_galaxy@161.253.199.24:22/home/svc_galaxy/remi/galaxy_env/bin/python" value="false" />
